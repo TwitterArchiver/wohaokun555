@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2020503451063775725",
+    "created_at": "2026-02-08T14:26:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-08T15:26:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020504505234981210"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1856665413226307584",
+          "start": 0,
+          "username": "xianzun001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020504505234981210",
+    "in_reply_to_user_id": "1856665413226307584",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020504376411116022",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xianzun001 我哭了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 717,
+        "media_key": "3_2020504368769093632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HApGBK-bUAA0wMO.jpg",
+        "width": 1199
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2020504369129816065",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HApGBMUbgAEeEWi.jpg",
+        "width": 920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2020503451063775725",
+        "created_at": "2026-02-08T14:26:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T15:26:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020504505234981210"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1856665413226307584",
+              "start": 0,
+              "username": "xianzun001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020504505234981210",
+        "in_reply_to_user_id": "1856665413226307584",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020504376411116022",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xianzun001 我哭了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020504368769093632",
+            "3_2020504369129816065"
+          ]
+        },
+        "author_id": "1856665413226307584",
+        "conversation_id": "2020503451063775725",
+        "created_at": "2026-02-08T14:25:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T15:25:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020504376411116022"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JCGybyIksB",
+              "end": 49,
+              "expanded_url": "https://x.com/xianzun001/status/2020504376411116022/photo/1",
+              "media_key": "3_2020504368769093632",
+              "start": 26,
+              "url": "https://t.co/JCGybyIksB"
+            },
+            {
+              "display_url": "pic.x.com/JCGybyIksB",
+              "end": 49,
+              "expanded_url": "https://x.com/xianzun001/status/2020504376411116022/photo/1",
+              "media_key": "3_2020504369129816065",
+              "start": 26,
+              "url": "https://t.co/JCGybyIksB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020504376411116022",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020503451063775725",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 主包还是没看懂互联网吗🤓 https://t.co/JCGybyIksB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2JlN5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2JlN5"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "🚪188（绿（别的私信不回",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2019333252520321256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014313058978406400/yLC08oHO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 628,
+          "following_count": 73,
+          "like_count": 6244,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 1204
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-13T11:48:57.000Z",
+        "description": "我要验牌(法式口音)\n\n给我擦皮鞋",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "4399.com",
+                "end": 23,
+                "expanded_url": "http://www.4399.com",
+                "start": 0,
+                "url": "https://t.co/L77rcE0Wnn"
+              }
+            ]
+          }
+        },
+        "id": "1856665413226307584",
+        "location": "Taito-ku, Tokyo",
+        "name": "无聊",
+        "pinned_tweet_id": "1947684624529764490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015448982907166720/o0fRon1Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 40,
+          "like_count": 4212,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 133
+        },
+        "url": "https://t.co/L77rcE0Wnn",
+        "username": "xianzun001",
+        "verified": false
+      }
+    ]
+  }
+}
