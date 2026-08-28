@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2038961015048798475",
+    "created_at": "2026-04-01T05:08:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T06:08:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039208174218269092"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1966774562437427203",
+          "start": 0,
+          "username": "Marymmm12138"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039208174218269092",
+    "in_reply_to_user_id": "1966774562437427203",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039207796382810543",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Marymmm12138 我英语用百词斩和不背单词 日语的话我朋友是看课程"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2038961015048798475",
+        "created_at": "2026-04-01T05:08:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T06:08:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039208174218269092"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1966774562437427203",
+              "start": 0,
+              "username": "Marymmm12138"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039208174218269092",
+        "in_reply_to_user_id": "1966774562437427203",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039207796382810543",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Marymmm12138 我英语用百词斩和不背单词 日语的话我朋友是看课程"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1966774562437427203",
+        "conversation_id": "2038961015048798475",
+        "created_at": "2026-04-01T05:06:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T06:06:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039207796382810543"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039207796382810543",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038961015048798475",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 有没有可以帮助学外语的软件呀，日语英语这种"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "",
+        "id": "2004619896630788096",
+        "location": "🚪520",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2007765884035813533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1478,
+          "following_count": 98,
+          "like_count": 13735,
+          "listed_count": 1,
+          "media_count": 144,
+          "tweet_count": 2521
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-13T08:03:07.000Z",
+        "description": "我要发财发财发财\n先发点牢骚再说",
+        "id": "1966774562437427203",
+        "name": "汤圆走开啊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987411069086961664/R79y_UjD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 37,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 29
+        },
+        "username": "Marymmm12138",
+        "verified": false
+      }
+    ]
+  }
+}

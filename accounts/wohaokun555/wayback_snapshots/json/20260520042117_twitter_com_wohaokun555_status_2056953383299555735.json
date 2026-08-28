@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056953376370565121"
+      ]
+    },
+    "author_id": "2004619896630788096",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2056953383299555735",
+    "created_at": "2026-05-20T04:21:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T05:21:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056953383299555735"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ipxN7pPdLo",
+          "end": 27,
+          "expanded_url": "https://x.com/wohaokun555/status/2056953383299555735/photo/1",
+          "media_key": "3_2056953376370565121",
+          "start": 4,
+          "url": "https://t.co/ipxN7pPdLo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056953383299555735",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "香晕了 https://t.co/ipxN7pPdLo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2056953376370565121",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIvEMpYboAEprW_.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056953376370565121"
+          ]
+        },
+        "author_id": "2004619896630788096",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2056953383299555735",
+        "created_at": "2026-05-20T04:21:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T05:21:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056953383299555735"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ipxN7pPdLo",
+              "end": 27,
+              "expanded_url": "https://x.com/wohaokun555/status/2056953383299555735/photo/1",
+              "media_key": "3_2056953376370565121",
+              "start": 4,
+              "url": "https://t.co/ipxN7pPdLo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056953383299555735",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "香晕了 https://t.co/ipxN7pPdLo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "🚪（纯绿 不入勿扰",
+        "id": "2004619896630788096",
+        "location": "没义务陪聊 别问我乱七八糟的",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2036315164098830372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2059,
+          "following_count": 101,
+          "like_count": 19518,
+          "listed_count": 1,
+          "media_count": 235,
+          "tweet_count": 3232
+        },
+        "username": "wohaokun555",
+        "verified": false
+      }
+    ]
+  }
+}

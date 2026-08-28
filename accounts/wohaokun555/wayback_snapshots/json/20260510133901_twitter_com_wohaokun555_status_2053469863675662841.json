@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053469856562053124"
+      ]
+    },
+    "author_id": "2004619896630788096",
+    "conversation_id": "2053469863675662841",
+    "created_at": "2026-05-10T13:39:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T14:39:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053469863675662841"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/FoHwgTCZiv",
+          "end": 30,
+          "expanded_url": "https://x.com/wohaokun555/status/2053469863675662841/photo/1",
+          "media_key": "3_2053469856562053124",
+          "start": 7,
+          "url": "https://t.co/FoHwgTCZiv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053469863675662841",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好亮的一颗星 https://t.co/FoHwgTCZiv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2053469856562053124",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH9j9G1agAQvVFJ.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053469856562053124"
+          ]
+        },
+        "author_id": "2004619896630788096",
+        "conversation_id": "2053469863675662841",
+        "created_at": "2026-05-10T13:39:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T14:39:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053469863675662841"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FoHwgTCZiv",
+              "end": 30,
+              "expanded_url": "https://x.com/wohaokun555/status/2053469863675662841/photo/1",
+              "media_key": "3_2053469856562053124",
+              "start": 7,
+              "url": "https://t.co/FoHwgTCZiv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053469863675662841",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好亮的一颗星 https://t.co/FoHwgTCZiv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "没义务陪聊 都是礼貌回复",
+        "id": "2004619896630788096",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2052293259586924701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2066,
+          "following_count": 98,
+          "like_count": 18787,
+          "listed_count": 1,
+          "media_count": 219,
+          "tweet_count": 3146
+        },
+        "username": "wohaokun555",
+        "verified": false
+      }
+    ]
+  }
+}

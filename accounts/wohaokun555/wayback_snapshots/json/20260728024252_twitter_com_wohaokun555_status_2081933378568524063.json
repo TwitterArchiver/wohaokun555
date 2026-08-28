@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2081782637489009032",
+    "created_at": "2026-07-28T02:42:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T03:42:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081933378568524063"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2000060779056492544",
+          "start": 0,
+          "username": "kakou0026"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081933378568524063",
+    "in_reply_to_user_id": "2000060779056492544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081782637489009032",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kakou0026 我现在穿条内裤在阳台晒衣服。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2041,
+        "media_key": "3_2081782626642518016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOP6ROibYAAfkJ3.jpg",
+        "width": 1032
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2081782637489009032",
+        "created_at": "2026-07-28T02:42:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T03:42:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081933378568524063"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2000060779056492544",
+              "start": 0,
+              "username": "kakou0026"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081933378568524063",
+        "in_reply_to_user_id": "2000060779056492544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081782637489009032",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kakou0026 我现在穿条内裤在阳台晒衣服。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081782626642518016"
+          ]
+        },
+        "author_id": "2000060779056492544",
+        "conversation_id": "2081782637489009032",
+        "created_at": "2026-07-27T16:43:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T17:43:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081782637489009032"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8nCB9DdNB3",
+              "end": 30,
+              "expanded_url": "https://x.com/kakou0026/status/2081782637489009032/photo/1",
+              "media_key": "3_2081782626642518016",
+              "start": 7,
+              "url": "https://t.co/8nCB9DdNB3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081782637489009032",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 741,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "笑得老子想吐 https://t.co/8nCB9DdNB3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "＞𐋣＜\n私信只回口令 闲聊勿扰",
+        "id": "2004619896630788096",
+        "location": "🚪（绿",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2073747405099659747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2874,
+          "following_count": 82,
+          "like_count": 25537,
+          "listed_count": 3,
+          "media_count": 154,
+          "tweet_count": 4070
+        },
+        "url": "",
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-14T04:30:32.000Z",
+        "description": "匿名💬 https://t.co/5EKyiiCQQf\n小可可豆在这里@Cocoa_0v0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 35,
+                "username": "Cocoa_0v0"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "tellonym.me/Kakou0026",
+                "end": 27,
+                "expanded_url": "https://tellonym.me/Kakou0026",
+                "start": 4,
+                "url": "https://t.co/5EKyiiCQQf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kakou36409",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kakou36409",
+                "start": 0,
+                "url": "https://t.co/HmMHXfIDkT"
+              }
+            ]
+          }
+        },
+        "id": "2000060779056492544",
+        "location": "这里是Kakou 喜欢你来＞_＜",
+        "name": "Kakou",
+        "pinned_tweet_id": "2070203795892801839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066913704390930432/ZSCvVdr5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5342,
+          "following_count": 194,
+          "like_count": 6018,
+          "listed_count": 11,
+          "media_count": 326,
+          "tweet_count": 4952
+        },
+        "url": "https://t.co/HmMHXfIDkT",
+        "username": "kakou0026",
+        "verified": false
+      }
+    ]
+  }
+}

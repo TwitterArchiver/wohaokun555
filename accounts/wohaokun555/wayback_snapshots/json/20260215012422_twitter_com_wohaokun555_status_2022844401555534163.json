@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2022844393485750272"
+      ]
+    },
+    "author_id": "2004619896630788096",
+    "conversation_id": "2022844401555534163",
+    "created_at": "2026-02-15T01:24:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T02:24:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2022844401555534163"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/I7tPI9mYQH",
+          "end": 30,
+          "expanded_url": "https://x.com/wohaokun555/status/2022844401555534163/photo/1",
+          "media_key": "3_2022844393485750272",
+          "start": 7,
+          "url": "https://t.co/I7tPI9mYQH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022844401555534163",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "带着狗狗去玩 https://t.co/I7tPI9mYQH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2022844393485750272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBKWQiWb0AAetM4.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022844393485750272"
+          ]
+        },
+        "author_id": "2004619896630788096",
+        "conversation_id": "2022844401555534163",
+        "created_at": "2026-02-15T01:24:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T02:24:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022844401555534163"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/I7tPI9mYQH",
+              "end": 30,
+              "expanded_url": "https://x.com/wohaokun555/status/2022844401555534163/photo/1",
+              "media_key": "3_2022844393485750272",
+              "start": 7,
+              "url": "https://t.co/I7tPI9mYQH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022844401555534163",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "带着狗狗去玩 https://t.co/I7tPI9mYQH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2JlN5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2JlN5"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "🚪188（纯绿纯绿（除了口令和门槛别的私信不回",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2022490598272627167",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 734,
+          "following_count": 78,
+          "like_count": 7717,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 1473
+        },
+        "username": "wohaokun555",
+        "verified": false
+      }
+    ]
+  }
+}

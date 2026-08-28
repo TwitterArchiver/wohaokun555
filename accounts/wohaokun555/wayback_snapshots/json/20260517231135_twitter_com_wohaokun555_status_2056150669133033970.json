@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2056032170158993919",
+    "created_at": "2026-05-17T23:11:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T00:11:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056150669133033970"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1759180904088649728",
+          "start": 0,
+          "username": "mihu233333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056150669133033970",
+    "in_reply_to_user_id": "1759180904088649728",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056112612278997469",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mihu233333 嗯嗯"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2056032170158993919",
+        "created_at": "2026-05-17T23:11:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T00:11:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056150669133033970"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1759180904088649728",
+              "start": 0,
+              "username": "mihu233333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056150669133033970",
+        "in_reply_to_user_id": "1759180904088649728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056112612278997469",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mihu233333 嗯嗯"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1759180904088649728",
+        "conversation_id": "2056032170158993919",
+        "created_at": "2026-05-17T20:40:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T21:40:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056112612278997469"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056112612278997469",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056032170158993919",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 只是偶然的脑子一热的话，还是不要了吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "🚪（纯绿 不入勿扰",
+        "id": "2004619896630788096",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2036315164098830372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2064,
+          "following_count": 100,
+          "like_count": 19308,
+          "listed_count": 1,
+          "media_count": 230,
+          "tweet_count": 3200
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-18T11:40:06.000Z",
+        "description": "似此星辰非昨夜，为谁风露立中宵",
+        "id": "1759180904088649728",
+        "location": "犄角旮旯处",
+        "name": "米糊の大头",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024174199426691072/pyB4Osad_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 867,
+          "like_count": 5762,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 122
+        },
+        "username": "mihu233333",
+        "verified": false
+      }
+    ]
+  }
+}

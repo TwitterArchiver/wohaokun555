@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2080108897462112556",
+    "created_at": "2026-07-24T12:52:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T13:52:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080637132193079417"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2079113522303393792",
+          "start": 0,
+          "username": "gauss3134"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080637132193079417",
+    "in_reply_to_user_id": "2079113522303393792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080108897462112556",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gauss3134 多喝点小米粥养一养 我胃最近刚养过来😖"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2080108897462112556",
+        "created_at": "2026-07-24T12:52:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T13:52:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080637132193079417"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2079113522303393792",
+              "start": 0,
+              "username": "gauss3134"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080637132193079417",
+        "in_reply_to_user_id": "2079113522303393792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080108897462112556",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gauss3134 多喝点小米粥养一养 我胃最近刚养过来😖"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2079113522303393792",
+        "conversation_id": "2080108897462112556",
+        "created_at": "2026-07-23T01:53:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T02:53:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080108897462112556"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080108897462112556",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 169,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "7点过胃痛醒了，痛了半个多小时。胃管返流和食道炎一直不好。等那股劲儿过去了，又做梦梦到在一辆公交车上，一个老奶奶站不稳，我去扶她，然后一直手牵着她一直手拉着把手。梦里面我觉得她很像我姥姥，然后哭醒了。姥姥去世好几年了，经常做梦梦到和她相关的事。想回一趟四川了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "＞𐋣＜",
+        "id": "2004619896630788096",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2073747405099659747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2861,
+          "following_count": 83,
+          "like_count": 24958,
+          "listed_count": 2,
+          "media_count": 150,
+          "tweet_count": 3991
+        },
+        "url": "",
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-20T07:59:03.000Z",
+        "description": "@Gauss3133暂时登不上了，双重验证恶心，2.0随手记录了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "Gauss3133"
+              }
+            ]
+          }
+        },
+        "id": "2079113522303393792",
+        "location": "Los Angeles, CA",
+        "name": "绝情书·人生如寄",
+        "pinned_tweet_id": "2079532717793034713",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079532547038756864/ESjHqOOb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 15,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 18
+        },
+        "url": "",
+        "username": "gauss3134",
+        "verified": false
+      }
+    ]
+  }
+}

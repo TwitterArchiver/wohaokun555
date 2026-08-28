@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2076269809696985509",
+    "created_at": "2026-07-13T02:19:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T03:19:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076491613640290483"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1493495448208035847",
+          "start": 0,
+          "username": "RikuRiku1021"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076491613640290483",
+    "in_reply_to_user_id": "1493495448208035847",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076478863887204477",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RikuRiku1021 我看有人推荐这个 我去看了看 好符合我审美和要求"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1366,
+        "media_key": "3_2076478851128197120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNEig3EbgAAvvbe.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2076269809696985509",
+        "created_at": "2026-07-13T02:19:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T03:19:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076491613640290483"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1493495448208035847",
+              "start": 0,
+              "username": "RikuRiku1021"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076491613640290483",
+        "in_reply_to_user_id": "1493495448208035847",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076478863887204477",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RikuRiku1021 我看有人推荐这个 我去看了看 好符合我审美和要求"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076478851128197120"
+          ]
+        },
+        "author_id": "1493495448208035847",
+        "conversation_id": "2076269809696985509",
+        "created_at": "2026-07-13T01:28:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T02:28:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076478863887204477"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8oGp9mBgSh",
+              "end": 36,
+              "expanded_url": "https://x.com/RikuRiku1021/status/2076478863887204477/photo/1",
+              "media_key": "3_2076478851128197120",
+              "start": 13,
+              "url": "https://t.co/8oGp9mBgSh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076478863887204477",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 69,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076269809696985509",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 https://t.co/8oGp9mBgSh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "让我成为我，让一座山并存着嶙峋和肥沃",
+        "id": "2004619896630788096",
+        "location": "置顶推广自辨",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2075862358107587032",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2849,
+          "following_count": 82,
+          "like_count": 24346,
+          "listed_count": 2,
+          "media_count": 154,
+          "tweet_count": 3920
+        },
+        "url": "",
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-15T08:00:49.000Z",
+        "description": "社畜发泄分享欲版",
+        "id": "1493495448208035847",
+        "name": "麦麦麦当当",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051511660918272000/tyH5gTpb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1543,
+          "following_count": 548,
+          "like_count": 2054,
+          "listed_count": 6,
+          "media_count": 529,
+          "tweet_count": 2705
+        },
+        "url": "",
+        "username": "RikuRiku1021",
+        "verified": true
+      }
+    ]
+  }
+}

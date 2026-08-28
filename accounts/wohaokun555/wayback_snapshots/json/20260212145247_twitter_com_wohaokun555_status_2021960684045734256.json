@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2021928026330821109",
+    "created_at": "2026-02-12T14:52:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T15:52:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021960684045734256"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1957104304034394112",
+          "start": 0,
+          "username": "cunyuanyu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021960684045734256",
+    "in_reply_to_user_id": "1957104304034394112",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021928026330821109",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cunyuanyu 我也是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2021928026330821109",
+        "created_at": "2026-02-12T14:52:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T15:52:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021960684045734256"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1957104304034394112",
+              "start": 0,
+              "username": "cunyuanyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021960684045734256",
+        "in_reply_to_user_id": "1957104304034394112",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021928026330821109",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cunyuanyu 我也是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1957104304034394112",
+        "conversation_id": "2021928026330821109",
+        "created_at": "2026-02-12T12:43:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T13:43:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021928026330821109"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2021928026330821109",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1310,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "呃救命。我再也不乱发文了 我现在私信里全是男的骚叫 有些叫的还很难听。呃。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2JlN5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2JlN5"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "🚪188（纯绿纯绿纯绿纯绿（别的私信不回",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2019333252520321256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 698,
+          "following_count": 79,
+          "like_count": 7127,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 1360
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-17T15:37:11.000Z",
+        "description": "",
+        "id": "1957104304034394112",
+        "location": "🚪88/188纯绿没区别",
+        "name": "我不可爱还很坏",
+        "pinned_tweet_id": "1988238113731436642",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008227971606409216/ZzX24tOx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1301,
+          "following_count": 64,
+          "like_count": 2834,
+          "listed_count": 2,
+          "media_count": 21,
+          "tweet_count": 3061
+        },
+        "username": "cunyuanyu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2071556761237278857",
+    "created_at": "2026-07-01T04:20:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T05:20:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072173554398011722"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1852390818390450176",
+          "start": 0,
+          "username": "Lrmc4e"
+        },
+        {
+          "end": 16,
+          "id": "1460662166470545408",
+          "start": 8,
+          "username": "yuiodlm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072173554398011722",
+    "in_reply_to_user_id": "1852390818390450176",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071927166112280741",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lrmc4e @yuiodlm 我笑死了呀。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2071556761237278857",
+        "created_at": "2026-07-01T04:20:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T05:20:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072173554398011722"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1852390818390450176",
+              "start": 0,
+              "username": "Lrmc4e"
+            },
+            {
+              "end": 16,
+              "id": "1460662166470545408",
+              "start": 8,
+              "username": "yuiodlm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072173554398011722",
+        "in_reply_to_user_id": "1852390818390450176",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071927166112280741",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lrmc4e @yuiodlm 我笑死了呀。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852390818390450176",
+        "conversation_id": "2071556761237278857",
+        "created_at": "2026-06-30T12:01:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T13:01:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071927166112280741"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1460662166470545408",
+              "start": 0,
+              "username": "yuiodlm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071927166112280741",
+        "in_reply_to_user_id": "1460662166470545408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 296,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071556761237278857",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuiodlm 我看有人说丸崽这只大鸡的奶都漂的不均匀，，笑死"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "让我成为我，让一座山并存着嶙峋和肥沃",
+        "id": "2004619896630788096",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2070530833434476867",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2658,
+          "following_count": 81,
+          "like_count": 23552,
+          "listed_count": 2,
+          "media_count": 144,
+          "tweet_count": 3766
+        },
+        "url": "",
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-01T16:42:50.000Z",
+        "description": "这个账号只是为了满足自己的分享欲 防走丢 @ditchn2c （匿名提问也这个号回",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 21,
+                "username": "ditchn2c"
+              }
+            ]
+          }
+        },
+        "id": "1852390818390450176",
+        "name": "Looe",
+        "pinned_tweet_id": "2029190752761463130",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852391001618612224/yosj9UJd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13966,
+          "following_count": 100,
+          "like_count": 21940,
+          "listed_count": 32,
+          "media_count": 254,
+          "tweet_count": 5737
+        },
+        "url": "",
+        "username": "Lrmc4e",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-16T17:33:03.000Z",
+        "description": "🚪520 /1314 高强度更新 私信只回🚪 偷图盗图死全家！！",
+        "id": "1460662166470545408",
+        "name": "少一点咪咪",
+        "pinned_tweet_id": "1959959667087659482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966460050568073216/0YNRoySQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58893,
+          "following_count": 31,
+          "like_count": 275,
+          "listed_count": 229,
+          "media_count": 51,
+          "tweet_count": 860
+        },
+        "url": "",
+        "username": "yuiodlm",
+        "verified": false
+      }
+    ]
+  }
+}

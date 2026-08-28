@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2007635600586027008"
+      ]
+    },
+    "author_id": "2004619896630788096",
+    "conversation_id": "2007635609993785485",
+    "created_at": "2026-01-04T02:10:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-04T03:10:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2007635609993785485"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/RpuQlkq9XG",
+          "end": 40,
+          "expanded_url": "https://x.com/wohaokun555/status/2007635609993785485/photo/1",
+          "media_key": "3_2007635600586027008",
+          "start": 17,
+          "url": "https://t.co/RpuQlkq9XG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007635609993785485",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这种看啥都是🐔的男人啥时候能去死 https://t.co/RpuQlkq9XG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1060,
+        "media_key": "3_2007635600586027008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9yN8RtbsAAl30m.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007635600586027008"
+          ]
+        },
+        "author_id": "2004619896630788096",
+        "conversation_id": "2007635609993785485",
+        "created_at": "2026-01-04T02:10:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T03:10:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007635609993785485"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RpuQlkq9XG",
+              "end": 40,
+              "expanded_url": "https://x.com/wohaokun555/status/2007635609993785485/photo/1",
+              "media_key": "3_2007635600586027008",
+              "start": 17,
+              "url": "https://t.co/RpuQlkq9XG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007635609993785485",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这种看啥都是🐔的男人啥时候能去死 https://t.co/RpuQlkq9XG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "天天开心o^^o",
+        "id": "2004619896630788096",
+        "location": "三体星球",
+        "name": "鱼虾一整碗",
+        "pinned_tweet_id": "2005582001685012508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004620653153189888/VWgYLNYv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 35,
+          "like_count": 904,
+          "listed_count": 1,
+          "media_count": 29,
+          "tweet_count": 380
+        },
+        "username": "wohaokun555",
+        "verified": false
+      }
+    ]
+  }
+}

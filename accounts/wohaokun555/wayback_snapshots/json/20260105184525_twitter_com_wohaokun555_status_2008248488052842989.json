@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2008195415125168434",
+    "created_at": "2026-01-05T18:45:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-05T19:45:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008248488052842989"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1510494895550898178",
+          "start": 0,
+          "username": "DogeBro128"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008248488052842989",
+    "in_reply_to_user_id": "1510494895550898178",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008195415125168434",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DogeBro128 有一瞬间就够了 人是由瞬间组成的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 530,
+        "media_key": "3_2008194772385865728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G96KgW_bIAAs3It.png",
+        "width": 779
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2008195415125168434",
+        "created_at": "2026-01-05T18:45:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T19:45:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008248488052842989"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510494895550898178",
+              "start": 0,
+              "username": "DogeBro128"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008248488052842989",
+        "in_reply_to_user_id": "1510494895550898178",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008195415125168434",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DogeBro128 有一瞬间就够了 人是由瞬间组成的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2008194772385865728"
+          ]
+        },
+        "author_id": "1510494895550898178",
+        "conversation_id": "2008195415125168434",
+        "created_at": "2026-01-05T15:14:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T16:14:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008195415125168434"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FOygGdMk7h",
+              "end": 160,
+              "expanded_url": "https://x.com/DogeBro128/status/2008195415125168434/photo/1",
+              "media_key": "3_2008194772385865728",
+              "start": 137,
+              "url": "https://t.co/FOygGdMk7h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008195415125168434",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1556,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "门哥情感总是复杂的\n其实狗哥从来不想推崇入门\n因为这玩意从期望值来看是负数的\n\n但是来了推特的门哥\n都基本上想入门的 劝不动\n\n那还不如筛选一些骗子走先 至少确定是真人\n才推介给大家\n\n这位门哥也是带了4杯奶茶给大家\n也是挑最喜欢的留言发奖\n谢谢\n\n请关注狗哥才能参加活动 https://t.co/FOygGdMk7h"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "天天开心o^^o",
+        "id": "2004619896630788096",
+        "location": "三体星球",
+        "name": "鱼虾一整碗",
+        "pinned_tweet_id": "2008218066103238856",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004620653153189888/VWgYLNYv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 39,
+          "like_count": 1171,
+          "listed_count": 1,
+          "media_count": 29,
+          "tweet_count": 426
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-03T05:50:31.000Z",
+        "description": "有🚪=对老妈好点就进门了",
+        "id": "1510494895550898178",
+        "name": "Dr.J 🚪哥學",
+        "pinned_tweet_id": "2006346434598285521",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998574155114156032/YNcH_NzQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 910,
+          "following_count": 366,
+          "like_count": 138,
+          "listed_count": 1,
+          "media_count": 140,
+          "tweet_count": 917
+        },
+        "username": "DogeBro128",
+        "verified": true
+      }
+    ]
+  }
+}

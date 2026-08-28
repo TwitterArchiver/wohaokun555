@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2078837906459021325",
+    "created_at": "2026-07-20T12:50:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T13:50:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079187259291840886"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1624129743380697089",
+          "start": 0,
+          "username": "diego71142761"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079187259291840886",
+    "in_reply_to_user_id": "1624129743380697089",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078837906459021325",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@diego71142761 奥利奥时期要多喝旺仔牛奶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2078837906459021325",
+        "created_at": "2026-07-20T12:50:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T13:50:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079187259291840886"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1624129743380697089",
+              "start": 0,
+              "username": "diego71142761"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079187259291840886",
+        "in_reply_to_user_id": "1624129743380697089",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078837906459021325",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@diego71142761 奥利奥时期要多喝旺仔牛奶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1624129743380697089",
+        "conversation_id": "2078837906459021325",
+        "created_at": "2026-07-19T13:42:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T14:42:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078837906459021325"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078837906459021325",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 53772,
+          "like_count": 713,
+          "quote_count": 7,
+          "reply_count": 71,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "“说个暴论”“喜金水”“奥德赛时期”这种司马糖b词都他妈谁发明出来的，完全是蠢b学聪明人说话、穷逼意淫富人生活的产物，刷到这种文案就恶心"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "＞𐋣＜！🚪1314（闲聊勿扰🐈‍⬛",
+        "id": "2004619896630788096",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2078469858631749749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2858,
+          "following_count": 82,
+          "like_count": 24705,
+          "listed_count": 2,
+          "media_count": 149,
+          "tweet_count": 3959
+        },
+        "url": "",
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-10T19:34:52.000Z",
+        "description": "忧郁的入\nhttps://t.co/mVZOH1HKTt",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/myt233201",
+                "end": 28,
+                "expanded_url": "https://ngl.link/myt233201",
+                "start": 5,
+                "url": "https://t.co/mVZOH1HKTt"
+              }
+            ]
+          }
+        },
+        "id": "1624129743380697089",
+        "location": "距离你9178千米",
+        "name": "ARTIZON",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1793985020169687040/-BV97UZo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 661,
+          "like_count": 11709,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 1108
+        },
+        "url": "",
+        "username": "diego71142761",
+        "verified": false
+      }
+    ]
+  }
+}

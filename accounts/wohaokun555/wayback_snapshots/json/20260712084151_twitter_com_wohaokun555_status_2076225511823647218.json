@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2076210675500892304",
+    "created_at": "2026-07-12T08:41:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T09:41:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076225511823647218"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1994960821429186560",
+          "start": 0,
+          "username": "lyF1830721"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076225511823647218",
+    "in_reply_to_user_id": "1994960821429186560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076215560225075631",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lyF1830721 我主页不是写有推广自辨吗😂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2076210675500892304",
+        "created_at": "2026-07-12T08:41:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T09:41:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076225511823647218"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1994960821429186560",
+              "start": 0,
+              "username": "lyF1830721"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076225511823647218",
+        "in_reply_to_user_id": "1994960821429186560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076215560225075631",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lyF1830721 我主页不是写有推广自辨吗😂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1994960821429186560",
+        "conversation_id": "2076210675500892304",
+        "created_at": "2026-07-12T08:02:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T09:02:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076215560225075631"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076215560225075631",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076210675500892304",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 你的电报咋回事"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "让我成为我，让一座山并存着嶙峋和肥沃",
+        "id": "2004619896630788096",
+        "location": "置顶推广自辨",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2075862358107587032",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2839,
+          "following_count": 82,
+          "like_count": 24289,
+          "listed_count": 2,
+          "media_count": 154,
+          "tweet_count": 3912
+        },
+        "url": "",
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-30T02:45:12.000Z",
+        "description": "只吃美团拼好饭",
+        "id": "1994960821429186560",
+        "location": "天津",
+        "name": "Khalil",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043713891474239488/XJPZpw82_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 56,
+          "like_count": 511,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 69
+        },
+        "url": "",
+        "username": "lyF1830721",
+        "verified": false
+      }
+    ]
+  }
+}

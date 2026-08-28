@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2005966591167758756",
+    "created_at": "2025-12-30T17:03:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-30T18:03:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006048551827275909"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1225559787414401025",
+          "start": 0,
+          "username": "Gun1nx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006048551827275909",
+    "in_reply_to_user_id": "1225559787414401025",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006047939471479208",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Gun1nx 我下次不会了！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2005966591167758756",
+        "created_at": "2025-12-30T17:03:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T18:03:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006048551827275909"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1225559787414401025",
+              "start": 0,
+              "username": "Gun1nx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006048551827275909",
+        "in_reply_to_user_id": "1225559787414401025",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006047939471479208",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gun1nx 我下次不会了！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1225559787414401025",
+        "conversation_id": "2005966591167758756",
+        "created_at": "2025-12-30T17:01:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T18:01:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006047939471479208"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006047939471479208",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005966591167758756",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 不准在屋子里荡秋千！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "天天开心o^^o🚪66（纯绿！",
+        "id": "2004619896630788096",
+        "location": "Hong Kong",
+        "name": "鱼虾一整碗",
+        "pinned_tweet_id": "2005582001685012508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004620653153189888/VWgYLNYv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 28,
+          "like_count": 426,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 227
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-06T23:20:04.000Z",
+        "description": "男，社恐，喜欢玩galgame😋",
+        "id": "1225559787414401025",
+        "name": "Sangu1s",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989750317949620224/HM_-p3tH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 141,
+          "like_count": 14,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 80
+        },
+        "username": "Gun1nx",
+        "verified": false
+      }
+    ]
+  }
+}

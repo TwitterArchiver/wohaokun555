@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2008931012865151200",
+    "created_at": "2026-01-08T00:24:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-08T01:24:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009058478594408633"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1686259751225851905",
+          "start": 0,
+          "username": "liutong520453"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009058478594408633",
+    "in_reply_to_user_id": "1686259751225851905",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008931012865151200",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liutong520453 活动还在吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2008931012865151200",
+        "created_at": "2026-01-08T00:24:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T01:24:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009058478594408633"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1686259751225851905",
+              "start": 0,
+              "username": "liutong520453"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009058478594408633",
+        "in_reply_to_user_id": "1686259751225851905",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008931012865151200",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liutong520453 活动还在吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1686259751225851905",
+        "conversation_id": "2008931012865151200",
+        "created_at": "2026-01-07T15:57:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T16:57:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008931012865151200"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2008931012865151200",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2475,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 29,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "抽五杯奶茶 18.8 🚪姐直接私我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "天天开心o^^o",
+        "id": "2004619896630788096",
+        "location": "三体星球",
+        "name": "鱼虾一整碗",
+        "pinned_tweet_id": "2008798162614640930",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004620653153189888/VWgYLNYv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 51,
+          "like_count": 1478,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 490
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-01T06:17:18.000Z",
+        "description": "永远热恋18岁",
+        "id": "1686259751225851905",
+        "name": "毛野",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975846003841597441/1R2i87k-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 383,
+          "like_count": 100,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 20
+        },
+        "username": "liutong520453",
+        "verified": false
+      }
+    ]
+  }
+}

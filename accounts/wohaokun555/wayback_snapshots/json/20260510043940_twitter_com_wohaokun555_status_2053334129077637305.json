@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053333998588542976"
+      ]
+    },
+    "author_id": "2004619896630788096",
+    "conversation_id": "2053334129077637305",
+    "created_at": "2026-05-10T04:39:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T05:39:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053334129077637305"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/cBqKHgGTxt",
+          "end": 25,
+          "expanded_url": "https://x.com/wohaokun555/status/2053334129077637305/photo/1",
+          "media_key": "3_2053333998588542976",
+          "start": 2,
+          "url": "https://t.co/cBqKHgGTxt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053334129077637305",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "🍃 https://t.co/cBqKHgGTxt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2053333998588542976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH7oZIcaQAAJK8s.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053333998588542976"
+          ]
+        },
+        "author_id": "2004619896630788096",
+        "conversation_id": "2053334129077637305",
+        "created_at": "2026-05-10T04:39:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T05:39:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053334129077637305"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cBqKHgGTxt",
+              "end": 25,
+              "expanded_url": "https://x.com/wohaokun555/status/2053334129077637305/photo/1",
+              "media_key": "3_2053333998588542976",
+              "start": 2,
+              "url": "https://t.co/cBqKHgGTxt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053334129077637305",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🍃 https://t.co/cBqKHgGTxt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "没义务陪聊 都是礼貌回复",
+        "id": "2004619896630788096",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2052293259586924701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2066,
+          "following_count": 98,
+          "like_count": 18695,
+          "listed_count": 1,
+          "media_count": 218,
+          "tweet_count": 3138
+        },
+        "username": "wohaokun555",
+        "verified": false
+      }
+    ]
+  }
+}

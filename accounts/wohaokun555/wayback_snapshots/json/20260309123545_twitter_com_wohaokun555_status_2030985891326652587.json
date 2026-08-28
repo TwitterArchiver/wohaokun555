@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2030985877187674112"
+      ]
+    },
+    "author_id": "2004619896630788096",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2030985891326652587",
+    "created_at": "2026-03-09T12:35:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T13:35:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2030985891326652587"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/f1vtgqNLbn",
+          "end": 45,
+          "expanded_url": "https://x.com/wohaokun555/status/2030985891326652587/photo/1",
+          "media_key": "3_2030985877187674112",
+          "start": 22,
+          "url": "https://t.co/f1vtgqNLbn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030985891326652587",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "宝宝们你们想练听力可以用这个网站！超级好用 https://t.co/f1vtgqNLbn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2030985877187674112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC-C5QmbQAA4rNZ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030985877187674112"
+          ]
+        },
+        "author_id": "2004619896630788096",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2030985891326652587",
+        "created_at": "2026-03-09T12:35:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T13:35:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030985891326652587"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/f1vtgqNLbn",
+              "end": 45,
+              "expanded_url": "https://x.com/wohaokun555/status/2030985891326652587/photo/1",
+              "media_key": "3_2030985877187674112",
+              "start": 22,
+              "url": "https://t.co/f1vtgqNLbn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030985891326652587",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "宝宝们你们想练听力可以用这个网站！超级好用 https://t.co/f1vtgqNLbn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2JlN5\n🚪520 （勿扰",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2JlN5"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "除了口令别的不回！没有陪聊的义务",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2007765884035813533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1092,
+          "following_count": 96,
+          "like_count": 10519,
+          "listed_count": 1,
+          "media_count": 82,
+          "tweet_count": 1924
+        },
+        "username": "wohaokun555",
+        "verified": false
+      }
+    ]
+  }
+}

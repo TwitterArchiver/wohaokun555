@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2023460998594908669",
+    "created_at": "2026-02-17T04:00:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T05:00:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023608356901187611"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1482213825201901568",
+          "start": 0,
+          "username": "eroxiansheng2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023608356901187611",
+    "in_reply_to_user_id": "1482213825201901568",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023460998594908669",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@eroxiansheng2 俺不中了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2023460989249953792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBTHDIkaoAAN3BO.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2023460998594908669",
+        "created_at": "2026-02-17T04:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T05:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023608356901187611"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1482213825201901568",
+              "start": 0,
+              "username": "eroxiansheng2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023608356901187611",
+        "in_reply_to_user_id": "1482213825201901568",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023460998594908669",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@eroxiansheng2 俺不中了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023460989249953792"
+          ]
+        },
+        "author_id": "1482213825201901568",
+        "conversation_id": "2023460998594908669",
+        "created_at": "2026-02-16T18:14:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T19:14:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023460998594908669"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/n8W2IyxBza",
+              "end": 31,
+              "expanded_url": "https://x.com/eroxiansheng2/status/2023460998594908669/photo/1",
+              "media_key": "3_2023460989249953792",
+              "start": 8,
+              "url": "https://t.co/n8W2IyxBza"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023460998594908669",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "本命年套装限定 https://t.co/n8W2IyxBza"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2JlN5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2JlN5"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "🚪188（纯绿纯绿（除了口令和门槛别的私信不回",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2016792238060421479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 847,
+          "following_count": 84,
+          "like_count": 8313,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 1575
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-15T04:51:47.000Z",
+        "description": "這裏是一隻小鹿…祝你天天開心",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/intsecofficer",
+                "end": 23,
+                "expanded_url": "http://ngl.link/intsecofficer",
+                "start": 0,
+                "url": "https://t.co/7aJgQ5wHfS"
+              }
+            ]
+          }
+        },
+        "id": "1482213825201901568",
+        "location": "致远星",
+        "name": "九霄芸鹿",
+        "pinned_tweet_id": "2023358227161940018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010745635398696960/ytoKOQ6Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 473,
+          "like_count": 14769,
+          "listed_count": 6,
+          "media_count": 114,
+          "tweet_count": 2955
+        },
+        "url": "https://t.co/7aJgQ5wHfS",
+        "username": "eroxiansheng2",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2030322902546202867",
+    "created_at": "2026-03-08T02:04:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T03:04:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030464643911888929"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1977376387460935680",
+          "start": 0,
+          "username": "Martini33303"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030464643911888929",
+    "in_reply_to_user_id": "1977376387460935680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030322902546202867",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Martini33303 生日快乐～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2030322902546202867",
+        "created_at": "2026-03-08T02:04:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T03:04:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030464643911888929"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1977376387460935680",
+              "start": 0,
+              "username": "Martini33303"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030464643911888929",
+        "in_reply_to_user_id": "1977376387460935680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030322902546202867",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Martini33303 生日快乐～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1977376387460935680",
+        "conversation_id": "2030322902546202867",
+        "created_at": "2026-03-07T16:41:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T17:41:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030322902546202867"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2030322902546202867",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 530,
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 44,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "祝我生日快乐！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2JlN5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2JlN5"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "除了口令和正常问题别的私信不回",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2007765884035813533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1089,
+          "following_count": 96,
+          "like_count": 10407,
+          "listed_count": 1,
+          "media_count": 76,
+          "tweet_count": 1889
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-12T14:10:50.000Z",
+        "description": "05 数学专业 enfj  1i 直男 swtich偏s/dom... 养成系擦边男 还会更新一些碎碎念 调酒照片 学习日常 健身日常 私信只会回关注我的  不礼貌回关，喜欢的会回关\n我不发牛！别问我要这个！喜欢萌妹 放个qq：3431763318 只过互关@Andyxu112\n🚪52/88/188",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 129,
+                "username": "Andyxu112"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tz86.vip/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.tz86.vip/#/register?code=I4acCup6",
+                "start": 0,
+                "url": "https://t.co/K1RZhMhQex"
+              }
+            ]
+          }
+        },
+        "id": "1977376387460935680",
+        "location": "29元包年千G流量VPN👉🏻",
+        "name": "Martini",
+        "pinned_tweet_id": "2017612756325962113",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004743951178518528/YatYuuZ0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1258,
+          "following_count": 518,
+          "like_count": 13017,
+          "listed_count": 0,
+          "media_count": 186,
+          "tweet_count": 5212
+        },
+        "url": "https://t.co/K1RZhMhQex",
+        "username": "Martini33303",
+        "verified": false
+      }
+    ]
+  }
+}

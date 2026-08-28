@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2009212468891877694",
+    "created_at": "2026-01-08T10:38:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-08T11:38:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009213043335737685"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1174571362620514306",
+          "start": 0,
+          "username": "HolsonChuang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009213043335737685",
+    "in_reply_to_user_id": "1174571362620514306",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009212865899823195",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HolsonChuang 我已经买过了！依旧单人餐(o_o)。汉堡薯条加可乐。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2009212468891877694",
+        "created_at": "2026-01-08T10:38:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T11:38:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009213043335737685"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1174571362620514306",
+              "start": 0,
+              "username": "HolsonChuang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009213043335737685",
+        "in_reply_to_user_id": "1174571362620514306",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009212865899823195",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HolsonChuang 我已经买过了！依旧单人餐(o_o)。汉堡薯条加可乐。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1174571362620514306",
+        "conversation_id": "2009212468891877694",
+        "created_at": "2026-01-08T10:37:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T11:37:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009212865899823195"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009212865899823195",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009212468891877694",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 想吃什么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "天天开心o^^o",
+        "id": "2004619896630788096",
+        "location": "三体星球",
+        "name": "鱼虾一整碗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004620653153189888/VWgYLNYv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 244,
+          "following_count": 53,
+          "like_count": 1573,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 525
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2019-09-19T06:30:22.000Z",
+        "description": "oh",
+        "id": "1174571362620514306",
+        "name": "KeithJarrett",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643591750538387457/SSmS_1y9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 202,
+          "like_count": 268,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 167
+        },
+        "username": "HolsonChuang",
+        "verified": false
+      }
+    ]
+  }
+}

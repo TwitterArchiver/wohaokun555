@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2005703264084582457",
+    "created_at": "2025-12-29T18:16:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-29T19:16:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005704436438688196"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1482213825201901568",
+          "start": 0,
+          "username": "eroxiansheng2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005704436438688196",
+    "in_reply_to_user_id": "1482213825201901568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005704120620200276",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@eroxiansheng2 那我再发是不是就有新的了！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2005703264084582457",
+        "created_at": "2025-12-29T18:16:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-29T19:16:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005704436438688196"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1482213825201901568",
+              "start": 0,
+              "username": "eroxiansheng2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005704436438688196",
+        "in_reply_to_user_id": "1482213825201901568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005704120620200276",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@eroxiansheng2 那我再发是不是就有新的了！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1482213825201901568",
+        "conversation_id": "2005703264084582457",
+        "created_at": "2025-12-29T18:15:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-29T19:15:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005704120620200276"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005704120620200276",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005703264084582457",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 可能有人是因为自拍关注你的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "🚪66",
+        "id": "2004619896630788096",
+        "location": "Hong Kong",
+        "name": "鱼虾一整碗",
+        "pinned_tweet_id": "2005582001685012508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004620653153189888/VWgYLNYv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 28,
+          "like_count": 291,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 177
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-15T04:51:47.000Z",
+        "description": "这里没有简介…祝你天天开心",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/intsecofficer",
+                "end": 23,
+                "expanded_url": "http://ngl.link/intsecofficer",
+                "start": 0,
+                "url": "https://t.co/KoVcarfZDD"
+              }
+            ]
+          }
+        },
+        "id": "1482213825201901568",
+        "location": "深圳，找我聊天👉🏻",
+        "name": "好好先生",
+        "pinned_tweet_id": "1998080419674394913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004252511721738240/rKOHuGt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 471,
+          "like_count": 6729,
+          "listed_count": 7,
+          "media_count": 59,
+          "tweet_count": 1650
+        },
+        "url": "https://t.co/KoVcarfZDD",
+        "username": "eroxiansheng2",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2050151206623056090",
+    "created_at": "2026-05-01T09:51:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T10:51:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050151206623056090"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2050151206623056090",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我能不能举办一个每日奶茶大赛 然后在评论区找到最好喝的奶茶😋然后举办一个手机壳大赛 再在评论区挑选出性价比最高的手机壳 然后举办每日穿搭大赛 出去玩不知道怎么穿的时候就从评论区盗取创意…😋😋好聪明的想法。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2050151206623056090",
+        "created_at": "2026-05-01T09:51:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T10:51:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050151206623056090"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2050151206623056090",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我能不能举办一个每日奶茶大赛 然后在评论区找到最好喝的奶茶😋然后举办一个手机壳大赛 再在评论区挑选出性价比最高的手机壳 然后举办每日穿搭大赛 出去玩不知道怎么穿的时候就从评论区盗取创意…😋😋好聪明的想法。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "",
+        "id": "2004619896630788096",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2007765884035813533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1929,
+          "following_count": 99,
+          "like_count": 17664,
+          "listed_count": 1,
+          "media_count": 209,
+          "tweet_count": 3021
+        },
+        "username": "wohaokun555",
+        "verified": false
+      }
+    ]
+  }
+}

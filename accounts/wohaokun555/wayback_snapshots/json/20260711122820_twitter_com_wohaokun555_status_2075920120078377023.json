@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2075797970122137866",
+    "created_at": "2026-07-11T12:28:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T13:28:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075920120078377023"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1586402394338099201",
+          "start": 0,
+          "username": "miysia1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075920120078377023",
+    "in_reply_to_user_id": "1586402394338099201",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075919560008749529",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miysia1 好的 谢谢你呜呜"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2075919544778911745",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM8l08jWcAE40yR.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2075797970122137866",
+        "created_at": "2026-07-11T12:28:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T13:28:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075920120078377023"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1586402394338099201",
+              "start": 0,
+              "username": "miysia1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075920120078377023",
+        "in_reply_to_user_id": "1586402394338099201",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075919560008749529",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miysia1 好的 谢谢你呜呜"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075919544778911745"
+          ]
+        },
+        "author_id": "1586402394338099201",
+        "conversation_id": "2075797970122137866",
+        "created_at": "2026-07-11T12:26:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T13:26:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075919560008749529"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bNUg1oFCfL",
+              "end": 77,
+              "expanded_url": "https://x.com/miysia1/status/2075919560008749529/photo/1",
+              "media_key": "3_2075919544778911745",
+              "start": 54,
+              "url": "https://t.co/bNUg1oFCfL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075919560008749529",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075797970122137866",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 宝宝这是我拔牙术后医生让吃的 你可以吃头孢甲硝唑消肿 疼的话我吃的乐松 挺好使的 https://t.co/bNUg1oFCfL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "让我成为我，让一座山并存着嶙峋和肥沃",
+        "id": "2004619896630788096",
+        "location": "置顶推广自辨",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2075862358107587032",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2828,
+          "following_count": 82,
+          "like_count": 24296,
+          "listed_count": 2,
+          "media_count": 152,
+          "tweet_count": 3905
+        },
+        "url": "",
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-29T16:59:48.000Z",
+        "description": "没🚪 不约不聊h | 絮絮叨叨的日记本而已",
+        "id": "1586402394338099201",
+        "name": "miysia",
+        "pinned_tweet_id": "2067684456794915050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939079155527655424/FvccsWYY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 290,
+          "following_count": 48,
+          "like_count": 85,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 215
+        },
+        "url": "",
+        "username": "miysia1",
+        "verified": false
+      }
+    ]
+  }
+}

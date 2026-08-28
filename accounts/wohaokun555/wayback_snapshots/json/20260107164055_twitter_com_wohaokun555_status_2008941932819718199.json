@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2008941920010293249"
+      ]
+    },
+    "author_id": "2004619896630788096",
+    "conversation_id": "2008941932819718199",
+    "created_at": "2026-01-07T16:40:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-07T17:40:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2008941932819718199"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/OL7Be72UQi",
+          "end": 36,
+          "expanded_url": "https://x.com/wohaokun555/status/2008941932819718199/photo/1",
+          "media_key": "3_2008941920010293249",
+          "start": 13,
+          "url": "https://t.co/OL7Be72UQi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008941932819718199",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这是我第二次抽中奖！～～ https://t.co/OL7Be72UQi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 730,
+        "media_key": "3_2008941920010293249",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-EyCEya0AEXDOr.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2008941920010293249"
+          ]
+        },
+        "author_id": "2004619896630788096",
+        "conversation_id": "2008941932819718199",
+        "created_at": "2026-01-07T16:40:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T17:40:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008941932819718199"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OL7Be72UQi",
+              "end": 36,
+              "expanded_url": "https://x.com/wohaokun555/status/2008941932819718199/photo/1",
+              "media_key": "3_2008941920010293249",
+              "start": 13,
+              "url": "https://t.co/OL7Be72UQi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008941932819718199",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是我第二次抽中奖！～～ https://t.co/OL7Be72UQi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "天天开心o^^o",
+        "id": "2004619896630788096",
+        "location": "三体星球",
+        "name": "鱼虾一整碗",
+        "pinned_tweet_id": "2008798162614640930",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004620653153189888/VWgYLNYv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 51,
+          "like_count": 1465,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 487
+        },
+        "username": "wohaokun555",
+        "verified": false
+      }
+    ]
+  }
+}

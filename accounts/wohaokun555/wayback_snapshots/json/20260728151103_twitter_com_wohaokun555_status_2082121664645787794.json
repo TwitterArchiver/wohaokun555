@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2081982916603556174",
+    "created_at": "2026-07-28T15:11:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T16:11:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082121664645787794"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2033549131797733376",
+          "start": 0,
+          "username": "nini_incrypto_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082121664645787794",
+    "in_reply_to_user_id": "2033549131797733376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081982916603556174",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nini_incrypto_ 这个文案在抖音刷到过一模一样的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2081982916603556174",
+        "created_at": "2026-07-28T15:11:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T16:11:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082121664645787794"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2033549131797733376",
+              "start": 0,
+              "username": "nini_incrypto_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082121664645787794",
+        "in_reply_to_user_id": "2033549131797733376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081982916603556174",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nini_incrypto_ 这个文案在抖音刷到过一模一样的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033549131797733376",
+        "conversation_id": "2081982916603556174",
+        "created_at": "2026-07-28T05:59:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T06:59:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081982916603556174"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081982916603556174",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 5699,
+          "like_count": 88,
+          "quote_count": 2,
+          "reply_count": 11,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "完全受不了看各种营销号写的王虹。\n\n突然感觉我们这个时代的愤怒、悲伤、感动，乃至一切形式的感慨，都是如此的空泛且流于表面，完全是一种虚浮的、浮躁的、表演性质很重的非黑即白。\n\n短短十年，这世界竟变得如此吵嚷且无聊。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "＞𐋣＜\n私信只回口令 闲聊勿扰",
+        "id": "2004619896630788096",
+        "location": "🚪（绿",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2073747405099659747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2872,
+          "following_count": 82,
+          "like_count": 25693,
+          "listed_count": 3,
+          "media_count": 155,
+          "tweet_count": 4081
+        },
+        "url": "",
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-16T14:26:02.000Z",
+        "description": "07大二在读\n长期关注美股、crypto、AI\n交流群https://t.co/9A9lWfawIP\n全类AI产品代充https://t.co/KP6assFb8W",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+Sw4BvUnJWcFjN…",
+                "end": 50,
+                "expanded_url": "https://t.me/+Sw4BvUnJWcFjNjRl",
+                "start": 27,
+                "url": "https://t.co/9A9lWfawIP"
+              },
+              {
+                "display_url": "nini.kbshub.store",
+                "end": 82,
+                "expanded_url": "https://nini.kbshub.store",
+                "start": 59,
+                "url": "https://t.co/KP6assFb8W"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/nini.onchain",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/nini.onchain",
+                "start": 0,
+                "url": "https://t.co/8nWRHsG78y"
+              }
+            ]
+          }
+        },
+        "id": "2033549131797733376",
+        "name": "nini",
+        "pinned_tweet_id": "2077761324109472119",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035875407359262720/qVUpg1XW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18315,
+          "following_count": 1185,
+          "like_count": 25391,
+          "listed_count": 82,
+          "media_count": 343,
+          "tweet_count": 7332
+        },
+        "url": "https://t.co/8nWRHsG78y",
+        "username": "nini_incrypto_",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2038332189243547920",
+    "created_at": "2026-03-30T00:55:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T01:55:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038419876797423698"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1881689849893384192",
+          "start": 0,
+          "username": "DDDSk_4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038419876797423698",
+    "in_reply_to_user_id": "1881689849893384192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038332189243547920",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@DDDSk_4 卧槽这么长"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13723,
+        "height": 544,
+        "media_key": "13_2038332119777439745",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2038332119777439745/img/l5x9pwnO5LGGop1b.jpg",
+        "public_metrics": {
+          "view_count": 58
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2038332119777439745/vid/avc1/476x270/7WRGcXK_W02p5vAD.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2038332119777439745/vid/avc1/634x360/DAmgiCGscTpzAOse.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2038332119777439745/vid/avc1/960x544/spFqzW6qLe5XXjWF.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2038332119777439745/pl/105CAYuJ3_Qo0Uc7.m3u8"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2038332189243547920",
+        "created_at": "2026-03-30T00:55:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T01:55:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038419876797423698"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1881689849893384192",
+              "start": 0,
+              "username": "DDDSk_4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038419876797423698",
+        "in_reply_to_user_id": "1881689849893384192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038332189243547920",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@DDDSk_4 卧槽这么长"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2038332119777439745"
+          ]
+        },
+        "author_id": "1881689849893384192",
+        "conversation_id": "2038332189243547920",
+        "created_at": "2026-03-29T19:07:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T20:07:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038332189243547920"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8CMxHf2X6B",
+              "end": 38,
+              "expanded_url": "https://x.com/DDDSk_4/status/2038332189243547920/video/1",
+              "media_key": "13_2038332119777439745",
+              "start": 15,
+              "url": "https://t.co/8CMxHf2X6B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038332189243547920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 201,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "following",
+        "text": "惩罚没睡着的看一下我的牛子。 https://t.co/8CMxHf2X6B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "🫶🏻🫰🏻🩶",
+        "id": "2004619896630788096",
+        "location": "三体",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2035966922010087790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1469,
+          "following_count": 100,
+          "like_count": 13447,
+          "listed_count": 1,
+          "media_count": 139,
+          "tweet_count": 2480
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-21T13:06:43.000Z",
+        "description": "06.intj·174·79.8",
+        "id": "1881689849893384192",
+        "name": "河狸大王",
+        "pinned_tweet_id": "2023304270536470644",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891601198110896128/wRZJPU0F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1801,
+          "following_count": 777,
+          "like_count": 9208,
+          "listed_count": 3,
+          "media_count": 15,
+          "tweet_count": 365
+        },
+        "username": "DDDSk_4",
+        "verified": false
+      }
+    ]
+  }
+}

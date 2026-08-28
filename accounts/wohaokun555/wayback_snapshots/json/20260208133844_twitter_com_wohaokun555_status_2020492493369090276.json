@@ -1,0 +1,395 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "2020492015830778166",
+    "created_at": "2026-02-08T13:38:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-08T14:38:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020492493369090276"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1687988648627834880",
+          "start": 0,
+          "username": "kawcpx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020492493369090276",
+    "in_reply_to_user_id": "1687988648627834880",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020492015830778166",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kawcpx grok我命令你抽我！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1190,
+        "media_key": "3_2020492009107238912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAo6xvpaMAA8ieP.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2020492015830778166",
+        "created_at": "2026-02-08T13:38:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T14:38:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020492493369090276"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1687988648627834880",
+              "start": 0,
+              "username": "kawcpx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020492493369090276",
+        "in_reply_to_user_id": "1687988648627834880",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020492015830778166",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kawcpx grok我命令你抽我！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020492009107238912"
+          ]
+        },
+        "author_id": "1687988648627834880",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596161376261",
+              "name": "Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597017083904",
+              "name": "QSR - Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026414829",
+              "name": "KFC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026414829",
+              "name": "KFC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "description": "Fast food",
+              "id": "847865239886417922",
+              "name": "Fast food Restaurants"
+            }
+          }
+        ],
+        "conversation_id": "2020492015830778166",
+        "created_at": "2026-02-08T13:36:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T14:36:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020492015830778166"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/G3RXYBOPeC",
+              "end": 189,
+              "expanded_url": "https://x.com/kawcpx/status/2020492015830778166/photo/1",
+              "media_key": "3_2020492009107238912",
+              "start": 166,
+              "url": "https://t.co/G3RXYBOPeC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020492015830778166",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "年初抽奖贴3.0🧧 kaw要放大招啦~\n\n一等奖：1314压岁钱 * 3 名（甜甜的爱你一辈子金额来啦！）  \n二等奖：188红包 * 5 名（发发发发发！）  \n三等奖：88.88红包 * 10 名（小幸运get√）\n\n幸运奖：依旧每天/隔天私信或评论区随机掉落奶茶/KFC/小额口令（只挑眼熟+活跃+不讨的小宝，懂的都懂嘿嘿）\n\n开奖日期：待定（粉丝破 10000 或我心情好就提前开，2月底前肯定发完）\n\n参与方式：  \n关注 + 转发本条 + 评论任意内容（想说啥说啥，越皮越好运？）\n\n兑奖方式：中奖私信我，zfb口令秒发（实物我再私聊）\n\n未关注直接跳过哦～ Grok公平抽奖（或我自己抽，随机看心情）  \n来吧宝贝们，冲！🧧🧧🧧"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "年初抽奖贴3.0🧧 kaw要放大招啦~\n\n一等奖：1314压岁钱 * 3 名（甜甜的爱你一辈子金额来啦！）  \n二等奖：188红包 * 5 名（发发发发发！）  \n三等奖：88.88红包 * 10 名（小幸运get√）\n\n幸运奖：依旧每天/隔天私信或评论区随机掉落奶茶/KFC/小额口令（只挑眼熟+活跃+不讨的小宝，懂的都懂嘿嘿） https://t.co/G3RXYBOPeC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2JlN5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2JlN5"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "🚪188（绿（别的私信不回",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2019333252520321256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014313058978406400/yLC08oHO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 623,
+          "following_count": 72,
+          "like_count": 6221,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 1190
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-06T00:47:19.000Z",
+        "description": "随便",
+        "id": "1687988648627834880",
+        "name": "kaw",
+        "pinned_tweet_id": "2020492015830778166",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1730203704920596480/5fxr_IIu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2300,
+          "following_count": 19,
+          "like_count": 498,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 188
+        },
+        "username": "kawcpx",
+        "verified": true
+      }
+    ]
+  }
+}

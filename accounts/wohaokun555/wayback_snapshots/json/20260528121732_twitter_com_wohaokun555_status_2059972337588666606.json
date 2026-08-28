@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2059911225413452080",
+    "created_at": "2026-05-28T12:17:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T13:17:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059972337588666606"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1994960821429186560",
+          "start": 0,
+          "username": "lyF1830721"
+        },
+        {
+          "end": 27,
+          "id": "1918326879179948033",
+          "start": 12,
+          "username": "shuangshenglai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059972337588666606",
+    "in_reply_to_user_id": "1994960821429186560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059952738646262206",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lyF1830721 @shuangshenglai 没错你妈啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2059911225413452080",
+        "created_at": "2026-05-28T12:17:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T13:17:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059972337588666606"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1994960821429186560",
+              "start": 0,
+              "username": "lyF1830721"
+            },
+            {
+              "end": 27,
+              "id": "1918326879179948033",
+              "start": 12,
+              "username": "shuangshenglai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059972337588666606",
+        "in_reply_to_user_id": "1994960821429186560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059952738646262206",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lyF1830721 @shuangshenglai 没错你妈啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1994960821429186560",
+        "conversation_id": "2059911225413452080",
+        "created_at": "2026-05-28T10:59:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T11:59:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059952738646262206"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918326879179948033",
+              "start": 0,
+              "username": "shuangshenglai"
+            },
+            {
+              "end": 28,
+              "id": "2004619896630788096",
+              "start": 16,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059952738646262206",
+        "in_reply_to_user_id": "1918326879179948033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059951090339332316",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shuangshenglai @wohaokun555 没错"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "🚪不入勿扰",
+        "id": "2004619896630788096",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2036315164098830372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2131,
+          "following_count": 78,
+          "like_count": 20457,
+          "listed_count": 2,
+          "media_count": 237,
+          "tweet_count": 3335
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-30T02:45:12.000Z",
+        "description": "只吃美团拼好饭",
+        "id": "1994960821429186560",
+        "location": "天津",
+        "name": "Khalil",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043713891474239488/XJPZpw82_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 52,
+          "like_count": 254,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 51
+        },
+        "username": "lyF1830721",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-02T15:29:25.000Z",
+        "description": "",
+        "id": "1918326879179948033",
+        "name": "双生",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918327784428191744/IB_DbiwQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 2,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 36
+        },
+        "username": "shuangshenglai",
+        "verified": false
+      }
+    ]
+  }
+}

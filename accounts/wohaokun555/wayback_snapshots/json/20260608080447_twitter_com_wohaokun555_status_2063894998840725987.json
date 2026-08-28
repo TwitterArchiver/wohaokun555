@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2063839191428206632",
+    "created_at": "2026-06-08T08:04:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T09:04:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063894998840725987"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1938108852752502784",
+          "start": 0,
+          "username": "520Seulgi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063894998840725987",
+    "in_reply_to_user_id": "1938108852752502784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063839191428206632",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@520Seulgi 被美晕了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4833,
+        "height": 1640,
+        "media_key": "13_2063839128475865088",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2063839128475865088/img/Vgzvrjrq2ZkPZrRz.jpg",
+        "public_metrics": {
+          "view_count": 87
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2063839128475865088/pl/4IGU7w3ilDEZJMKe.m3u8"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063839128475865088/vid/avc1/388x270/i6HhKAFnHAAVIWc3.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063839128475865088/vid/avc1/518x360/jb8cDpr97yno1ry9.mp4"
+          },
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063839128475865088/vid/avc1/2360x1640/_0uVLGl-bOJu8umX.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063839128475865088/vid/avc1/1554x1080/D2qtjDi5q_FWZ1z-.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063839128475865088/vid/avc1/1036x720/mfmCoGfzuoqD5gve.mp4"
+          }
+        ],
+        "width": 2360
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2063839191428206632",
+        "created_at": "2026-06-08T08:04:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T09:04:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063894998840725987"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1938108852752502784",
+              "start": 0,
+              "username": "520Seulgi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063894998840725987",
+        "in_reply_to_user_id": "1938108852752502784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063839191428206632",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@520Seulgi 被美晕了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2063839128475865088"
+          ]
+        },
+        "author_id": "1938108852752502784",
+        "conversation_id": "2063839191428206632",
+        "created_at": "2026-06-08T04:23:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T05:23:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063839191428206632"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YWNFbT8TpH",
+              "end": 33,
+              "expanded_url": "https://x.com/520Seulgi/status/2063839191428206632/video/1",
+              "media_key": "13_2063839128475865088",
+              "start": 10,
+              "url": "https://t.co/YWNFbT8TpH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063839191428206632",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 314,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "所有人感受.... https://t.co/YWNFbT8TpH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "",
+        "id": "2004619896630788096",
+        "location": "私信只回口令过门 其他勿扰…",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2062769965330227585",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2253,
+          "following_count": 77,
+          "like_count": 21530,
+          "listed_count": 2,
+          "media_count": 144,
+          "tweet_count": 3432
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-26T05:35:41.000Z",
+        "description": "我的生活需要 音乐 美食 和小猫",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/520seulgi1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/520seulgi1",
+                "start": 0,
+                "url": "https://t.co/Pqm5wqXK3j"
+              }
+            ]
+          }
+        },
+        "id": "1938108852752502784",
+        "location": "≦10m",
+        "name": "鸡腿加点辣",
+        "pinned_tweet_id": "2029468162404868433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016692815770890240/wMgnuoLj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4412,
+          "following_count": 431,
+          "like_count": 13156,
+          "listed_count": 1,
+          "media_count": 2487,
+          "tweet_count": 8188
+        },
+        "url": "https://t.co/Pqm5wqXK3j",
+        "username": "520Seulgi",
+        "verified": true
+      }
+    ]
+  }
+}

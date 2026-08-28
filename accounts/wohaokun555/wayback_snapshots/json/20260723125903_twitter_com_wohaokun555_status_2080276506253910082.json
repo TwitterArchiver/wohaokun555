@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2080247608887718123",
+    "created_at": "2026-07-23T12:59:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T13:59:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080276506253910082"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2050887139865300992",
+          "start": 0,
+          "username": "kkkkkirito12138"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080276506253910082",
+    "in_reply_to_user_id": "2050887139865300992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080247608887718123",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kkkkkirito12138 就让他是块冰。"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15277,
+        "height": 1280,
+        "media_key": "13_2080247521675444224",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2080247521675444224/img/bL6Mu_0B6L-oR58K.jpg",
+        "public_metrics": {
+          "view_count": 154
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080247521675444224/vid/avc1/320x568/ZnAEfLEl4QFkCztk.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080247521675444224/vid/avc1/480x852/Ujvgik6BunTq_njy.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080247521675444224/vid/avc1/720x1280/Uq-atlrIdfIo5tKY.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2080247521675444224/pl/x4xR28lyEbzlI1gl.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2080247608887718123",
+        "created_at": "2026-07-23T12:59:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T13:59:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080276506253910082"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2050887139865300992",
+              "start": 0,
+              "username": "kkkkkirito12138"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080276506253910082",
+        "in_reply_to_user_id": "2050887139865300992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080247608887718123",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kkkkkirito12138 就让他是块冰。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2080247521675444224"
+          ]
+        },
+        "author_id": "2050887139865300992",
+        "conversation_id": "2080247608887718123",
+        "created_at": "2026-07-23T11:04:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T12:04:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080247608887718123"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eA7Fc5D81O",
+              "end": 30,
+              "expanded_url": "https://x.com/kkkkkirito12138/status/2080247608887718123/video/1",
+              "media_key": "13_2080247521675444224",
+              "start": 7,
+              "url": "https://t.co/eA7Fc5D81O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080247608887718123",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 948,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这世界是块冰 https://t.co/eA7Fc5D81O"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "＞𐋣＜",
+        "id": "2004619896630788096",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2073747405099659747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2858,
+          "following_count": 82,
+          "like_count": 24924,
+          "listed_count": 2,
+          "media_count": 150,
+          "tweet_count": 3976
+        },
+        "url": "",
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-03T10:40:35.000Z",
+        "description": "08白羊 直男不4i 勿骚扰礼貌私信会回 \n🚪🫧88纯微信",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/k407510",
+                "end": 23,
+                "expanded_url": "https://ngl.link/k407510",
+                "start": 0,
+                "url": "https://t.co/17y3x4clkb"
+              }
+            ]
+          }
+        },
+        "id": "2050887139865300992",
+        "location": "21km",
+        "name": "薄荷味的雪",
+        "pinned_tweet_id": "2052628256864538760",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057457738737999872/auHCR0Cy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1529,
+          "following_count": 54,
+          "like_count": 2026,
+          "listed_count": 2,
+          "media_count": 92,
+          "tweet_count": 675
+        },
+        "url": "https://t.co/17y3x4clkb",
+        "username": "kkkkkirito12138",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2029128230293389524",
+    "created_at": "2026-03-04T10:28:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T11:28:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029141926788866060"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1927912422385537024",
+          "start": 0,
+          "username": "giveson30"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029141926788866060",
+    "in_reply_to_user_id": "1927912422385537024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029128230293389524",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@giveson30 我头像也是黑白的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2029128230293389524",
+        "created_at": "2026-03-04T10:28:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T11:28:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029141926788866060"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1927912422385537024",
+              "start": 0,
+              "username": "giveson30"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029141926788866060",
+        "in_reply_to_user_id": "1927912422385537024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029128230293389524",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@giveson30 我头像也是黑白的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1927912422385537024",
+        "conversation_id": "2029128230293389524",
+        "created_at": "2026-03-04T09:34:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T10:34:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029128230293389524"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2029128230293389524",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 254,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我对那种黑白动漫头像有滤镜，我总感觉头像后面那个人长的很权威"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2JlN5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2JlN5"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "除了口令和正常问题别的私信不回",
+        "name": "中推忧郁神",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1072,
+          "following_count": 94,
+          "like_count": 10105,
+          "listed_count": 1,
+          "media_count": 66,
+          "tweet_count": 1833
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-29T02:18:50.000Z",
+        "description": "活着就是为了爽/此账号是鸭子日常 有啥好奇的事可以来我提问箱https://t.co/bapTaOHuOn",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sadnessduck1",
+                "end": 53,
+                "expanded_url": "https://ngl.link/sadnessduck1",
+                "start": 30,
+                "url": "https://t.co/bapTaOHuOn"
+              }
+            ]
+          }
+        },
+        "id": "1927912422385537024",
+        "name": "忧郁鸭子🦆",
+        "pinned_tweet_id": "1972329830030139885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004422367746093056/x07hWnLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 845,
+          "following_count": 290,
+          "like_count": 22390,
+          "listed_count": 1,
+          "media_count": 832,
+          "tweet_count": 12457
+        },
+        "username": "giveson30",
+        "verified": false
+      }
+    ]
+  }
+}

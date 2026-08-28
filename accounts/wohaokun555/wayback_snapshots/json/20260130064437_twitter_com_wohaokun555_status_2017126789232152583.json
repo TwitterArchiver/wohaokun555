@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2016908677492724019",
+    "created_at": "2026-01-30T06:44:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T07:44:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017126789232152583"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1982886151380971524",
+          "start": 0,
+          "username": "xihuanzhuangb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017126789232152583",
+    "in_reply_to_user_id": "1982886151380971524",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016908677492724019",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xihuanzhuangb 他他妈好帅"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2016908668391063552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_1_v3PbAAAP_Bm.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2016908677492724019",
+        "created_at": "2026-01-30T06:44:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T07:44:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017126789232152583"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1982886151380971524",
+              "start": 0,
+              "username": "xihuanzhuangb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017126789232152583",
+        "in_reply_to_user_id": "1982886151380971524",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016908677492724019",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xihuanzhuangb 他他妈好帅"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016908668391063552"
+          ]
+        },
+        "author_id": "1982886151380971524",
+        "conversation_id": "2016908677492724019",
+        "created_at": "2026-01-29T16:17:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T17:17:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016908677492724019"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OiP0gxtj0X",
+              "end": 40,
+              "expanded_url": "https://x.com/xihuanzhuangb/status/2016908677492724019/photo/1",
+              "media_key": "3_2016908668391063552",
+              "start": 17,
+              "url": "https://t.co/OiP0gxtj0X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016908677492724019",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 77466,
+          "like_count": 95,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我晕这个richard周怎么火了 https://t.co/OiP0gxtj0X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2JlN5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2JlN5"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "发生殖器死妈！",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2016072861732212867",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014313058978406400/yLC08oHO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 494,
+          "following_count": 71,
+          "like_count": 4016,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 919
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-27T19:04:45.000Z",
+        "description": "你咋了/喜欢的人@zoeyyyisthebest",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 8,
+                "username": "zoeyyyisthebest"
+              }
+            ]
+          }
+        },
+        "id": "1982886151380971524",
+        "name": "zzoeyyy",
+        "pinned_tweet_id": "2006080469708988589",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982886384789585920/CiiDuLk7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3198,
+          "following_count": 5,
+          "like_count": 132,
+          "listed_count": 2,
+          "media_count": 39,
+          "tweet_count": 175
+        },
+        "username": "xihuanzhuangb",
+        "verified": false
+      }
+    ]
+  }
+}

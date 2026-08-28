@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2065571381715030222",
+    "created_at": "2026-06-13T06:31:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T07:31:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065683441350496532"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1855066705636315136",
+          "start": 0,
+          "username": "wobuyaoshuohua"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065683441350496532",
+    "in_reply_to_user_id": "1855066705636315136",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065571381715030222",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wobuyaoshuohua 懂你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2065571381715030222",
+        "created_at": "2026-06-13T06:31:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T07:31:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065683441350496532"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1855066705636315136",
+              "start": 0,
+              "username": "wobuyaoshuohua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065683441350496532",
+        "in_reply_to_user_id": "1855066705636315136",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065571381715030222",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wobuyaoshuohua 懂你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1855066705636315136",
+        "conversation_id": "2065571381715030222",
+        "created_at": "2026-06-12T23:06:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T00:06:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065571381715030222"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065571381715030222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 14230,
+          "like_count": 239,
+          "quote_count": 1,
+          "reply_count": 44,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "抖音评论区天天一堆神人在那里“谁懂pupu”“谁懂狗爹和小桃”“谁懂里维”我懂你妈懂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "@lei_meng123（随缘过\n这是一个女孩的内心世界🌍",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 0,
+                "username": "lei_meng123"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "私信只回口令过门 其他勿扰…",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2062769965330227585",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2292,
+          "following_count": 79,
+          "like_count": 21893,
+          "listed_count": 2,
+          "media_count": 143,
+          "tweet_count": 3506
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-09T01:57:13.000Z",
+        "description": "截图死全家 | 我骂的没妈 骂我的死全家 | 讨厌所有人",
+        "id": "1855066705636315136",
+        "location": "🚪1888  你全家的丧葬费",
+        "name": "乳糖不耐受害者",
+        "pinned_tweet_id": "2065596599150186669",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046193166508797952/JiehycCa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1122,
+          "following_count": 51,
+          "like_count": 1539,
+          "listed_count": 3,
+          "media_count": 55,
+          "tweet_count": 1752
+        },
+        "username": "wobuyaoshuohua",
+        "verified": false
+      }
+    ]
+  }
+}

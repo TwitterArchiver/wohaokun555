@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2065571381715030222",
+    "created_at": "2026-06-13T13:05:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T14:05:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065782527932104986"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2000060779056492544",
+          "start": 0,
+          "username": "kakou0026"
+        },
+        {
+          "end": 26,
+          "id": "1855066705636315136",
+          "start": 11,
+          "username": "wobuyaoshuohua"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065782527932104986",
+    "in_reply_to_user_id": "2000060779056492544",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065782236801040800",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kakou0026 @wobuyaoshuohua 谁懂kakou"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2065571381715030222",
+        "created_at": "2026-06-13T13:05:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T14:05:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065782527932104986"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2000060779056492544",
+              "start": 0,
+              "username": "kakou0026"
+            },
+            {
+              "end": 26,
+              "id": "1855066705636315136",
+              "start": 11,
+              "username": "wobuyaoshuohua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065782527932104986",
+        "in_reply_to_user_id": "2000060779056492544",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065782236801040800",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kakou0026 @wobuyaoshuohua 谁懂kakou"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000060779056492544",
+        "conversation_id": "2065571381715030222",
+        "created_at": "2026-06-13T13:04:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T14:04:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065782236801040800"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            },
+            {
+              "end": 28,
+              "id": "1855066705636315136",
+              "start": 13,
+              "username": "wobuyaoshuohua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065782236801040800",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065683441350496532",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 @wobuyaoshuohua 谁懂中推忧郁神"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "@lei_meng123（随缘过\n这是一个女孩的内心世界🌍",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 0,
+                "username": "lei_meng123"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "私信只回口令过门 其他勿扰…",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2062769965330227585",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2295,
+          "following_count": 79,
+          "like_count": 21904,
+          "listed_count": 2,
+          "media_count": 143,
+          "tweet_count": 3511
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-14T04:30:32.000Z",
+        "description": "匿名💬 https://t.co/5EKyiiCQQf\n@Cocoa_0v0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 28,
+                "username": "Cocoa_0v0"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "tellonym.me/Kakou0026",
+                "end": 27,
+                "expanded_url": "https://tellonym.me/Kakou0026",
+                "start": 4,
+                "url": "https://t.co/5EKyiiCQQf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kakou36409",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kakou36409",
+                "start": 0,
+                "url": "https://t.co/HmMHXfIDkT"
+              }
+            ]
+          }
+        },
+        "id": "2000060779056492544",
+        "location": "这里是Kakou 喜欢你来＞_＜",
+        "name": "Kakou",
+        "pinned_tweet_id": "2063090616226168997",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010569778847764480/DepEpZBq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5391,
+          "following_count": 188,
+          "like_count": 5562,
+          "listed_count": 11,
+          "media_count": 270,
+          "tweet_count": 4354
+        },
+        "url": "https://t.co/HmMHXfIDkT",
+        "username": "kakou0026",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-09T01:57:13.000Z",
+        "description": "截图死全家 | 我骂的没妈 骂我的死全家 | 讨厌所有人",
+        "id": "1855066705636315136",
+        "location": "🚪1888  你全家的丧葬费",
+        "name": "乳糖不耐受害者",
+        "pinned_tweet_id": "2065596599150186669",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046193166508797952/JiehycCa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1130,
+          "following_count": 53,
+          "like_count": 1543,
+          "listed_count": 3,
+          "media_count": 55,
+          "tweet_count": 1763
+        },
+        "username": "wobuyaoshuohua",
+        "verified": false
+      }
+    ]
+  }
+}

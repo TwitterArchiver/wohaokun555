@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2004962119050301775",
+    "created_at": "2025-12-28T06:38:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-28T07:38:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005166444456321388"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1223407990713114624",
+          "start": 0,
+          "username": "wmtbxsh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005166444456321388",
+    "in_reply_to_user_id": "1223407990713114624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004962119050301775",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wmtbxsh 我不想复习我想做爱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2004962119050301775",
+        "created_at": "2025-12-28T06:38:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T07:38:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005166444456321388"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1223407990713114624",
+              "start": 0,
+              "username": "wmtbxsh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005166444456321388",
+        "in_reply_to_user_id": "1223407990713114624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004962119050301775",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wmtbxsh 我不想复习我想做爱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223407990713114624",
+        "conversation_id": "2004962119050301775",
+        "created_at": "2025-12-27T17:06:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T18:06:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004962119050301775"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2004962119050301775",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22621,
+          "like_count": 135,
+          "quote_count": 0,
+          "reply_count": 61,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不想复习 我想做爱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "🚪66",
+        "id": "2004619896630788096",
+        "location": "Hong Kong",
+        "name": "鱼虾一整碗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004620653153189888/VWgYLNYv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 13,
+          "like_count": 101,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 74
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-01T00:49:51.000Z",
+        "description": "我只想安静发疯💢｜碎碎念@wjtbxsh｜⚠️推广自辨❗️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 12,
+                "username": "wjtbxsh"
+              }
+            ]
+          }
+        },
+        "id": "1223407990713114624",
+        "name": "我明天不想说话（读研发疯版）",
+        "pinned_tweet_id": "2004828638186000887",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964015447591849985/pqPXfgeb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39397,
+          "following_count": 240,
+          "like_count": 4856,
+          "listed_count": 91,
+          "media_count": 270,
+          "tweet_count": 1256
+        },
+        "username": "wmtbxsh",
+        "verified": false
+      }
+    ]
+  }
+}

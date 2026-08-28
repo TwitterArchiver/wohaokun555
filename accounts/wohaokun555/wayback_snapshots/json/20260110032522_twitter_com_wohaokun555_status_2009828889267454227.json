@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2009518022596407439",
+    "created_at": "2026-01-10T03:25:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-10T04:25:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009828889267454227"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1507704777999740929",
+          "start": 0,
+          "username": "Blueink85009372"
+        },
+        {
+          "end": 31,
+          "id": "1790448736629301248",
+          "start": 17,
+          "username": "xijinping_bot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009828889267454227",
+    "in_reply_to_user_id": "1507704777999740929",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009828527093493769",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Blueink85009372 @xijinping_bot 是😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2009518022596407439",
+        "created_at": "2026-01-10T03:25:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T04:25:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009828889267454227"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1507704777999740929",
+              "start": 0,
+              "username": "Blueink85009372"
+            },
+            {
+              "end": 31,
+              "id": "1790448736629301248",
+              "start": 17,
+              "username": "xijinping_bot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009828889267454227",
+        "in_reply_to_user_id": "1507704777999740929",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009828527093493769",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Blueink85009372 @xijinping_bot 是😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1507704777999740929",
+        "conversation_id": "2009518022596407439",
+        "created_at": "2026-01-10T03:23:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T04:23:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009828527093493769"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1790448736629301248",
+              "start": 0,
+              "username": "xijinping_bot"
+            },
+            {
+              "end": 27,
+              "id": "2004619896630788096",
+              "start": 15,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009828527093493769",
+        "in_reply_to_user_id": "1790448736629301248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009726063195165128",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xijinping_bot @wohaokun555 这是朋友开玩笑发的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "@lei_meng123 满足个人分享欲",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 0,
+                "username": "lei_meng123"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "有🚪 别来私信骚扰我 发生殖器官司马",
+        "name": "鱼虾一整碗",
+        "pinned_tweet_id": "2007765884035813533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004620653153189888/VWgYLNYv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 318,
+          "following_count": 63,
+          "like_count": 2100,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 702
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-26T13:03:42.000Z",
+        "description": "",
+        "id": "1507704777999740929",
+        "name": "Blueink",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939373925517131776/NPumfrPv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 1472,
+          "like_count": 5803,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 318
+        },
+        "username": "Blueink85009372",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-14T18:27:07.000Z",
+        "description": "朝闻道，夕死可矣/@mizuki_bot/利伯塔利亚复国主义/墨家道家出圣人，法家儒家出小人/预制论/阴谋论/历史虚无主义/汉武之后无文化，魏晋之后无汉人。崖山之后无中国，明亡之后无华夏/顶峰论/血海论/反马反苏，毛主席带领我们走向社会主义新时代：办法总比困难多",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 9,
+                "username": "mizuki_bot"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pengliyuangaoqingwuma.com",
+                "end": 23,
+                "expanded_url": "http://pengliyuangaoqingwuma.com",
+                "start": 0,
+                "url": "https://t.co/JM2dKYPIfC"
+              }
+            ]
+          }
+        },
+        "id": "1790448736629301248",
+        "location": "毛主席纪念堂",
+        "name": "羽泽东吃腊肉（小回忆重度依赖）",
+        "pinned_tweet_id": "2009735877497409714",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009733512769769472/mT9adNnS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 724,
+          "following_count": 853,
+          "like_count": 6939,
+          "listed_count": 1,
+          "media_count": 347,
+          "tweet_count": 6504
+        },
+        "url": "https://t.co/JM2dKYPIfC",
+        "username": "xijinping_bot",
+        "verified": false
+      }
+    ]
+  }
+}

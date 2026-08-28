@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2062872089707868620",
+    "created_at": "2026-06-05T13:16:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T14:16:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062886171458552119"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1687683090133778432",
+          "start": 0,
+          "username": "nonsense_778"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062886171458552119",
+    "in_reply_to_user_id": "1687683090133778432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062872089707868620",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nonsense_778 哎呀我就是这样😖"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2062872089707868620",
+        "created_at": "2026-06-05T13:16:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T14:16:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062886171458552119"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1687683090133778432",
+              "start": 0,
+              "username": "nonsense_778"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062886171458552119",
+        "in_reply_to_user_id": "1687683090133778432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062872089707868620",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nonsense_778 哎呀我就是这样😖"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687683090133778432",
+        "conversation_id": "2062872089707868620",
+        "created_at": "2026-06-05T12:20:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T13:20:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062872089707868620"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062872089707868620",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "一直觉得和别人打招呼的时候再加一句小小的夸赞会显得更亲切一点，一般我的话术就是“今天穿得好漂亮” “这个发型好适合你！” “这个小挂件/小配饰好萌”……这样顺嘴夸一下 既不会觉得生硬小女孩们也会很开心。\n最近我事情特别多，整个人忙忙的也没怎么休息好，连续三天遇到一个小女孩都夸她“衣服颜色和你好搭”，终于在今天被她察觉到了，她问我是不是每次遇到人都这么说，我：嘿嘿"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 179,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一直觉得和别人打招呼的时候再加一句小小的夸赞会显得更亲切一点，一般我的话术就是“今天穿得好漂亮” “这个发型好适合你！” “这个小挂件/小配饰好萌”……这样顺嘴夸一下 既不会觉得生硬小女孩们也会很开心。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "",
+        "id": "2004619896630788096",
+        "location": "私信只回口令过门 其他勿扰…",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2062769965330227585",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2230,
+          "following_count": 76,
+          "like_count": 21405,
+          "listed_count": 2,
+          "media_count": 139,
+          "tweet_count": 3383
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-05T04:33:43.000Z",
+        "description": "翻开一本名叫小浮的书\n 🫧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "a4.达蒙.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://a4.xn--hv1a41u.com/#/register?code=tEHEouWf",
+                "start": 0,
+                "url": "https://t.co/X4NTG2Xs5g"
+              }
+            ]
+          }
+        },
+        "id": "1687683090133778432",
+        "location": "自用🪜👉🏻",
+        "name": "floating ice🐾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910967605361336320/A4fpw_S-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29678,
+          "following_count": 94,
+          "like_count": 22664,
+          "listed_count": 72,
+          "media_count": 242,
+          "tweet_count": 4825
+        },
+        "url": "https://t.co/X4NTG2Xs5g",
+        "username": "nonsense_778",
+        "verified": true
+      }
+    ]
+  }
+}

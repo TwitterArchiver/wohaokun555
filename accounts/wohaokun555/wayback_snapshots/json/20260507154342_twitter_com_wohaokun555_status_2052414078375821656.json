@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2052391197390565497",
+    "created_at": "2026-05-07T15:43:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T16:43:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052414078375821656"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1767844864887070720",
+          "start": 0,
+          "username": "ne_pas6501"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052414078375821656",
+    "in_reply_to_user_id": "1767844864887070720",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052413249375859146",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ne_pas6501 嗯"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2052391197390565497",
+        "created_at": "2026-05-07T15:43:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T16:43:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052414078375821656"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1767844864887070720",
+              "start": 0,
+              "username": "ne_pas6501"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052414078375821656",
+        "in_reply_to_user_id": "1767844864887070720",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052413249375859146",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ne_pas6501 嗯"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767844864887070720",
+        "conversation_id": "2052391197390565497",
+        "created_at": "2026-05-07T15:40:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T16:40:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052413249375859146"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052413249375859146",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052391197390565497",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 是不是给人家补课"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "",
+        "id": "2004619896630788096",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2052293259586924701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2022,
+          "following_count": 101,
+          "like_count": 18524,
+          "listed_count": 2,
+          "media_count": 218,
+          "tweet_count": 3105
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-13T09:27:27.000Z",
+        "description": "我是个\nINFJ-T\n好想出国留学\n@zhgnhnionioywi1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 18,
+                "username": "zhgnhnionioywi1"
+              }
+            ]
+          }
+        },
+        "id": "1767844864887070720",
+        "location": "爱斯基摩",
+        "name": "秋雨似情长",
+        "pinned_tweet_id": "2029773651932061947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023287363112407043/JYJ3sMmb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 683,
+          "like_count": 6888,
+          "listed_count": 0,
+          "media_count": 200,
+          "tweet_count": 2775
+        },
+        "username": "ne_pas6501",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2057699660886880704",
+    "created_at": "2026-05-22T05:46:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T06:46:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057699660886880704"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1703120704214855680",
+          "start": 3,
+          "username": "xiaozhou966"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057699660886880704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 55
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057392038333849740",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xiaozhou966: 谁想维持关系谁就付出 这句话很难懂吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2057699660886880704",
+        "created_at": "2026-05-22T05:46:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T06:46:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057699660886880704"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1703120704214855680",
+              "start": 3,
+              "username": "xiaozhou966"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057699660886880704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 55
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057392038333849740",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xiaozhou966: 谁想维持关系谁就付出 这句话很难懂吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1703120704214855680",
+        "conversation_id": "2057392038333849740",
+        "created_at": "2026-05-21T09:24:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T10:24:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057392038333849740"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057392038333849740",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 31,
+          "impression_count": 40059,
+          "like_count": 563,
+          "quote_count": 7,
+          "reply_count": 91,
+          "retweet_count": 55
+        },
+        "reply_settings": "everyone",
+        "text": "谁想维持关系谁就付出 这句话很难懂吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "🚪（纯绿 不入勿扰",
+        "id": "2004619896630788096",
+        "location": "没义务陪聊 别问我乱七八糟的",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2036315164098830372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2054,
+          "following_count": 100,
+          "like_count": 19657,
+          "listed_count": 1,
+          "media_count": 238,
+          "tweet_count": 3248
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-16T18:56:50.000Z",
+        "description": "brat/已婚/碎碎念/不加v",
+        "id": "1703120704214855680",
+        "location": "0.18km",
+        "name": "周周",
+        "pinned_tweet_id": "2048359258698428669",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727540741763993600/fwONyw4p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1261,
+          "following_count": 100,
+          "like_count": 113,
+          "listed_count": 4,
+          "media_count": 306,
+          "tweet_count": 1241
+        },
+        "username": "xiaozhou966",
+        "verified": false
+      }
+    ]
+  }
+}

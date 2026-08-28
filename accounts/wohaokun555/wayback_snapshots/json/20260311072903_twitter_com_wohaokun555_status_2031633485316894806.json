@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2031595758563242269",
+    "created_at": "2026-03-11T07:29:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-11T08:29:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031633485316894806"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1555601532938485760",
+          "start": 0,
+          "username": "kessy_withusagi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031633485316894806",
+    "in_reply_to_user_id": "1555601532938485760",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031627510816059450",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kessy_withusagi 呜呜呜呜呜宝宝…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2031595758563242269",
+        "created_at": "2026-03-11T07:29:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T08:29:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031633485316894806"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1555601532938485760",
+              "start": 0,
+              "username": "kessy_withusagi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031633485316894806",
+        "in_reply_to_user_id": "1555601532938485760",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031627510816059450",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kessy_withusagi 呜呜呜呜呜宝宝…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1555601532938485760",
+        "conversation_id": "2031595758563242269",
+        "created_at": "2026-03-11T07:05:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T08:05:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031627510816059450"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031627510816059450",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031595758563242269",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 卧槽尼玛我推优流程都走完了 傻逼学院告诉我因为转专业不让我用他们学院的推优名额 关键是之前我民主评议都在原学院整的当时也没人说这样不行"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2JlN5\n🚪（勿扰",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2JlN5"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "除了口令别的不回！没有陪聊的义务",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2008543541979738501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1206,
+          "following_count": 96,
+          "like_count": 10777,
+          "listed_count": 1,
+          "media_count": 88,
+          "tweet_count": 1997
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-05T17:08:25.000Z",
+        "description": "理想型是大奶肌肉男",
+        "id": "1555601532938485760",
+        "location": "Hong Kong",
+        "name": "游夜",
+        "pinned_tweet_id": "1967847397142507667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1664984947080454145/uKMnvZUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1188,
+          "following_count": 123,
+          "like_count": 1354,
+          "listed_count": 1,
+          "media_count": 144,
+          "tweet_count": 1128
+        },
+        "username": "kessy_withusagi",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2084522757845655712",
+    "created_at": "2026-08-04T07:35:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T08:35:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084543744179896422"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1877992679453454336",
+          "start": 0,
+          "username": "BladeStarr0714"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084543744179896422",
+    "in_reply_to_user_id": "1877992679453454336",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084530670127526352",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BladeStarr0714 嘿嘿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2084522757845655712",
+        "created_at": "2026-08-04T07:35:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T08:35:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084543744179896422"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1877992679453454336",
+              "start": 0,
+              "username": "BladeStarr0714"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084543744179896422",
+        "in_reply_to_user_id": "1877992679453454336",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084530670127526352",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BladeStarr0714 嘿嘿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877992679453454336",
+        "conversation_id": "2084522757845655712",
+        "created_at": "2026-08-04T06:43:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T07:43:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084530670127526352"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084530670127526352",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084522757845655712",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 萌萌萌萌"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "＞𐋣＜\n私信只回口令 闲聊勿扰",
+        "id": "2004619896630788096",
+        "location": "🚪（绿",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2036315164098830372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2861,
+          "following_count": 78,
+          "like_count": 25839,
+          "listed_count": 3,
+          "media_count": 159,
+          "tweet_count": 4117
+        },
+        "url": "",
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-11T08:15:31.000Z",
+        "description": "这里是小蛙墙外的发疯撒泼标记点，宣泄压抑负能量的垃圾桶，但是也会因为喜欢大家而努力用自己最美好的一面来感染喜欢的大家。\n 有时候会因为太过可爱所以让大家搞混性别其实蛙是男生哦~这么可爱真是抱歉！@Frogly2887无敌负能量小号只过互关！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "Frogly2887"
+              }
+            ]
+          }
+        },
+        "id": "1877992679453454336",
+        "name": "ff",
+        "pinned_tweet_id": "2031031420953735469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924760681330704384/xQ-xUWFW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1736,
+          "following_count": 1096,
+          "like_count": 49330,
+          "listed_count": 10,
+          "media_count": 782,
+          "tweet_count": 41257
+        },
+        "url": "",
+        "username": "BladeStarr0714",
+        "verified": false
+      }
+    ]
+  }
+}

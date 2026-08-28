@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2009277232556966242",
+    "created_at": "2026-01-08T15:34:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-08T16:34:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009287530445787344"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1975085812489601024",
+          "start": 0,
+          "username": "rarirari88888"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009287530445787344",
+    "in_reply_to_user_id": "1975085812489601024",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009286732563521671",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rarirari88888 哈哈哈哈哈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2009277232556966242",
+        "created_at": "2026-01-08T15:34:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T16:34:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009287530445787344"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1975085812489601024",
+              "start": 0,
+              "username": "rarirari88888"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009287530445787344",
+        "in_reply_to_user_id": "1975085812489601024",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009286732563521671",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rarirari88888 哈哈哈哈哈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1975085812489601024",
+        "conversation_id": "2009277232556966242",
+        "created_at": "2026-01-08T15:31:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T16:31:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009286732563521671"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009286732563521671",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009277232556966242",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 中间的我好独特，其实我是神秘头子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "天天开心o^^o",
+        "id": "2004619896630788096",
+        "location": "三体星球",
+        "name": "鱼虾一整碗",
+        "pinned_tweet_id": "2007765884035813533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004620653153189888/VWgYLNYv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 55,
+          "like_count": 1670,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 562
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-06T06:29:02.000Z",
+        "description": "知足常乐，常开心，长健康",
+        "id": "1975085812489601024",
+        "name": "rarirari",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009266988481433602/5k2UrrTb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 26,
+          "like_count": 22,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 104
+        },
+        "username": "rarirari88888",
+        "verified": false
+      }
+    ]
+  }
+}

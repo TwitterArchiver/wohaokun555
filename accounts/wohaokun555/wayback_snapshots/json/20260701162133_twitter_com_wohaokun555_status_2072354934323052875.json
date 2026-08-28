@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2072352634808205818",
+    "created_at": "2026-07-01T16:21:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T17:21:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072354934323052875"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1734890898310504448",
+          "start": 0,
+          "username": "k0taka_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072354934323052875",
+    "in_reply_to_user_id": "1734890898310504448",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072354592466010271",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@k0taka_ 肺腑之言"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2072352634808205818",
+        "created_at": "2026-07-01T16:21:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T17:21:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072354934323052875"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1734890898310504448",
+              "start": 0,
+              "username": "k0taka_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072354934323052875",
+        "in_reply_to_user_id": "1734890898310504448",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072354592466010271",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@k0taka_ 肺腑之言"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1734890898310504448",
+        "conversation_id": "2072352634808205818",
+        "created_at": "2026-07-01T16:20:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T17:20:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072354592466010271"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072354592466010271",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072354317324156989",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@wohaokun555 我的互关每次都这么捧场🫰🏻"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "让我成为我，让一座山并存着嶙峋和肥沃",
+        "id": "2004619896630788096",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2070530833434476867",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2659,
+          "following_count": 82,
+          "like_count": 23646,
+          "listed_count": 2,
+          "media_count": 141,
+          "tweet_count": 3781
+        },
+        "url": "",
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-13T11:00:04.000Z",
+        "description": "我只是一个按快门的",
+        "id": "1734890898310504448",
+        "name": "𝙺𝚘𝚝𝚊𝚔𝚊",
+        "pinned_tweet_id": "1987359999816049076",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988753402545745920/Xi9CPddJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1902,
+          "following_count": 403,
+          "like_count": 32023,
+          "listed_count": 5,
+          "media_count": 698,
+          "tweet_count": 3751
+        },
+        "url": "",
+        "username": "k0taka_",
+        "verified": false
+      }
+    ]
+  }
+}

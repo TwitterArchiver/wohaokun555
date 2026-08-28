@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2040692568053215741",
+    "created_at": "2026-04-05T13:30:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T14:30:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040784232679895131"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1753116887528177664",
+          "start": 0,
+          "username": "eudorach5an"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040784232679895131",
+    "in_reply_to_user_id": "1753116887528177664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040692568053215741",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@eudorach5an 好牛逼"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1655,
+        "media_key": "3_2040692556107821056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFH_EVaXMAAkD5O.jpg",
+        "width": 1242
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2040692568053215741",
+        "created_at": "2026-04-05T13:30:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T14:30:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040784232679895131"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1753116887528177664",
+              "start": 0,
+              "username": "eudorach5an"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040784232679895131",
+        "in_reply_to_user_id": "1753116887528177664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040692568053215741",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@eudorach5an 好牛逼"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040692556107821056"
+          ]
+        },
+        "author_id": "1753116887528177664",
+        "conversation_id": "2040692568053215741",
+        "created_at": "2026-04-05T07:26:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T08:26:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040692568053215741"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/L7RGkairid",
+              "end": 34,
+              "expanded_url": "https://x.com/eudorach5an/status/2040692568053215741/photo/1",
+              "media_key": "3_2040692556107821056",
+              "start": 11,
+              "url": "https://t.co/L7RGkairid"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040692568053215741",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 400,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "snap这个特效无敌 https://t.co/L7RGkairid"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "",
+        "id": "2004619896630788096",
+        "location": "🚪520",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2007765884035813533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1546,
+          "following_count": 98,
+          "like_count": 14272,
+          "listed_count": 1,
+          "media_count": 161,
+          "tweet_count": 2637
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-01T18:03:55.000Z",
+        "description": "https://t.co/kSuJUvaiEI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/eudora37069",
+                "end": 0,
+                "expanded_url": "https://ngl.link/eudora37069",
+                "start": 0,
+                "url": "https://t.co/kSuJUvaiEI"
+              }
+            ]
+          }
+        },
+        "id": "1753116887528177664",
+        "name": "eudorach55an",
+        "pinned_tweet_id": "2002069150232092960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004794526830133250/3CRhXFOj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1794,
+          "following_count": 106,
+          "like_count": 7872,
+          "listed_count": 2,
+          "media_count": 249,
+          "tweet_count": 2682
+        },
+        "url": "",
+        "username": "eudorach5an",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-01T18:03:55.000Z",
+        "description": "https://t.co/kSuJUvaiEI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/eudora37069",
+                "end": 23,
+                "expanded_url": "https://ngl.link/eudora37069",
+                "start": 0,
+                "url": "https://t.co/kSuJUvaiEI"
+              }
+            ]
+          }
+        },
+        "id": "1753116887528177664",
+        "name": "eudorach55an",
+        "pinned_tweet_id": "2002069150232092960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004794526830133250/3CRhXFOj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1794,
+          "following_count": 106,
+          "like_count": 7872,
+          "listed_count": 2,
+          "media_count": 249,
+          "tweet_count": 2682
+        },
+        "username": "eudorach5an",
+        "verified": false
+      }
+    ]
+  }
+}

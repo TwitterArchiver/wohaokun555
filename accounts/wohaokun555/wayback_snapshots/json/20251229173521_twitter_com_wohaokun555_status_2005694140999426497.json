@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2005653459111153769",
+    "created_at": "2025-12-29T17:35:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-29T18:35:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005694140999426497"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1959599329980895232",
+          "start": 0,
+          "username": "paopao7015"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005694140999426497",
+    "in_reply_to_user_id": "1959599329980895232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005653459111153769",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@paopao7015 我最高是不亏本"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2005653459111153769",
+        "created_at": "2025-12-29T17:35:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-29T18:35:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005694140999426497"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1959599329980895232",
+              "start": 0,
+              "username": "paopao7015"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005694140999426497",
+        "in_reply_to_user_id": "1959599329980895232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005653459111153769",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@paopao7015 我最高是不亏本"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959599329980895232",
+        "conversation_id": "2005653459111153769",
+        "created_at": "2025-12-29T14:53:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-29T15:53:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005653459111153769"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2005653459111153769",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1666,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我室友突然说了一句她朋友的朋友买彩票中了 100w 我不行了。我以为天天买彩票行不。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "🚪66",
+        "id": "2004619896630788096",
+        "location": "Hong Kong",
+        "name": "鱼虾一整碗",
+        "pinned_tweet_id": "2005582001685012508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004620653153189888/VWgYLNYv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 28,
+          "like_count": 279,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 163
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-24T12:51:13.000Z",
+        "description": "欢迎聊天｜女｜ENFP ˶╹ꇴ╹˶  （👇是匿名消息",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/paopao93498",
+                "end": 23,
+                "expanded_url": "https://ngl.link/paopao93498",
+                "start": 0,
+                "url": "https://t.co/ad8LophPjG"
+              }
+            ]
+          }
+        },
+        "id": "1959599329980895232",
+        "location": "૮´͈ᗜ`͈ა",
+        "name": "假人",
+        "pinned_tweet_id": "1986475493332603069",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959600043532644352/eDmZLFx__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1149,
+          "following_count": 31,
+          "like_count": 816,
+          "listed_count": 2,
+          "media_count": 57,
+          "tweet_count": 392
+        },
+        "url": "https://t.co/ad8LophPjG",
+        "username": "paopao7015",
+        "verified": false
+      }
+    ]
+  }
+}

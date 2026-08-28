@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2008877941653164299",
+    "created_at": "2026-01-07T16:44:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-07T17:44:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008942847681286430"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1956622401866964993",
+          "start": 0,
+          "username": "everycamolla"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008942847681286430",
+    "in_reply_to_user_id": "1956622401866964993",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008877941653164299",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@everycamolla 我都给我妈说让她买嘻嘻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2008877941653164299",
+        "created_at": "2026-01-07T16:44:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T17:44:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008942847681286430"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1956622401866964993",
+              "start": 0,
+              "username": "everycamolla"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008942847681286430",
+        "in_reply_to_user_id": "1956622401866964993",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008877941653164299",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@everycamolla 我都给我妈说让她买嘻嘻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1956622401866964993",
+        "conversation_id": "2008877941653164299",
+        "created_at": "2026-01-07T12:26:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T13:26:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008877941653164299"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2008877941653164299",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2915,
+          "like_count": 52,
+          "quote_count": 0,
+          "reply_count": 25,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我迟迟没有买内衣是因为好贵。一件一两百了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "天天开心o^^o",
+        "id": "2004619896630788096",
+        "location": "三体星球",
+        "name": "鱼虾一整碗",
+        "pinned_tweet_id": "2008798162614640930",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004620653153189888/VWgYLNYv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 51,
+          "like_count": 1465,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 488
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-16T07:41:54.000Z",
+        "description": "简言慎行的小c2.0 我话巨多请谨慎关注 取关随意 @eggkilller",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 26,
+                "username": "eggkilller"
+              }
+            ]
+          }
+        },
+        "id": "1956622401866964993",
+        "name": "everyc",
+        "pinned_tweet_id": "1961702750900965876",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956684226058964992/vgRZv20c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1381,
+          "following_count": 292,
+          "like_count": 24314,
+          "listed_count": 1,
+          "media_count": 282,
+          "tweet_count": 17929
+        },
+        "username": "everycamolla",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2016072861732212867",
+    "created_at": "2026-01-27T10:01:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T11:01:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016089218976751742"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1659121034535276548",
+          "start": 0,
+          "username": "yucow404"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016089218976751742",
+    "in_reply_to_user_id": "1659121034535276548",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016085863596491106",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yucow404 宝宝(o^^o)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2016072861732212867",
+        "created_at": "2026-01-27T10:01:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T11:01:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016089218976751742"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1659121034535276548",
+              "start": 0,
+              "username": "yucow404"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016089218976751742",
+        "in_reply_to_user_id": "1659121034535276548",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016085863596491106",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yucow404 宝宝(o^^o)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659121034535276548",
+        "conversation_id": "2016072861732212867",
+        "created_at": "2026-01-27T09:48:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T10:48:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016085863596491106"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016085863596491106",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016072861732212867",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 这么萌，把我萌死了怎么办"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2JlN5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2JlN5"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "恶臭男别私信我",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2007765884035813533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014313058978406400/yLC08oHO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 459,
+          "following_count": 70,
+          "like_count": 3314,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 841
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-18T08:57:49.000Z",
+        "description": "158/40   欢迎口令红包投喂 看到喜欢的私信会聊天 脑子转的慢 说的话听不懂请谅解",
+        "id": "1659121034535276548",
+        "location": "Tokyo-to, Japan",
+        "name": "fish🐟",
+        "pinned_tweet_id": "2013155389450190921",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013422784458772480/rTccjYWL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4773,
+          "following_count": 228,
+          "like_count": 3472,
+          "listed_count": 20,
+          "media_count": 16,
+          "tweet_count": 836
+        },
+        "username": "yucow404",
+        "verified": false
+      }
+    ]
+  }
+}

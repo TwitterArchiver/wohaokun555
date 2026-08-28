@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2037160868946075653"
+      ]
+    },
+    "author_id": "2004619896630788096",
+    "conversation_id": "2037160963762512355",
+    "created_at": "2026-03-26T13:33:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T14:33:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037160963762512355"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/xtsagLwL5i",
+          "end": 29,
+          "expanded_url": "https://x.com/wohaokun555/status/2037160963762512355/video/1",
+          "media_key": "13_2037160868946075653",
+          "start": 6,
+          "url": "https://t.co/xtsagLwL5i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037160963762512355",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我来媚粉了 https://t.co/xtsagLwL5i"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20766,
+        "height": 1280,
+        "media_key": "13_2037160868946075653",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2037160868946075653/img/AEpmPICG_qGNOinB.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2037160868946075653/vid/avc1/320x568/B0UrA6jwyUdB7Lk_.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2037160868946075653/vid/avc1/480x852/QS1rF9mWgHLgCKEB.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2037160868946075653/vid/avc1/720x1280/OvZIdcOt0cDX4YRp.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2037160868946075653/pl/p6V-vh7beF38IuU6.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2037160868946075653"
+          ]
+        },
+        "author_id": "2004619896630788096",
+        "conversation_id": "2037160963762512355",
+        "created_at": "2026-03-26T13:33:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T14:33:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037160963762512355"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xtsagLwL5i",
+              "end": 29,
+              "expanded_url": "https://x.com/wohaokun555/status/2037160963762512355/video/1",
+              "media_key": "13_2037160868946075653",
+              "start": 6,
+              "url": "https://t.co/xtsagLwL5i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037160963762512355",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我来媚粉了 https://t.co/xtsagLwL5i"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "🚪🫶🏻🫰🏻🩶",
+        "id": "2004619896630788096",
+        "location": "三体（私信只回复口令和🚪",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2035966922010087790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1430,
+          "following_count": 99,
+          "like_count": 13102,
+          "listed_count": 1,
+          "media_count": 130,
+          "tweet_count": 2421
+        },
+        "username": "wohaokun555",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2075862358107587032",
+    "created_at": "2026-07-11T08:38:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T09:38:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075862358107587032"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "接收了太多消息导致账号双向~请按照欢迎语提示填写信息 没有及时回复请不要着急 本人正在赶来的路上~",
+          "display_url": "t.me/kongkongbb12_b…",
+          "end": 87,
+          "expanded_url": "https://t.me/kongkongbb12_bot",
+          "images": [
+            {
+              "height": 256,
+              "url": "https://pbs.twimg.com/news_img/2075862361894961152/a0R9BLbK?format=png&name=orig",
+              "width": 256
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2075862361894961152/a0R9BLbK?format=png&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 64,
+          "status": 200,
+          "title": "空空双向入口",
+          "unwound_url": "https://t.me/kongkongbb12_bot",
+          "url": "https://t.co/nlEdvO1pvY"
+        },
+        {
+          "description": "You can contact @kongkongbb11 right away.",
+          "display_url": "t.me/kongkongbb11",
+          "end": 112,
+          "expanded_url": "https://t.me/kongkongbb11",
+          "start": 89,
+          "status": 200,
+          "title": "空空",
+          "unwound_url": "https://t.me/kongkongbb11",
+          "url": "https://t.co/abSpholmUf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075862358107587032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "mentionedUsers",
+    "text": "欲望大 玩的尺度大  要求健康 能接受尺度大 私聊推特一律不回统一电报纸飞机私聊\n有想法+电报 本人电报\n暗号 空空\n双向入口 https://t.co/nlEdvO1pvY\n\nhttps://t.co/abSpholmUf"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2075862358107587032",
+        "created_at": "2026-07-11T08:38:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T09:38:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075862358107587032"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "接收了太多消息导致账号双向~请按照欢迎语提示填写信息 没有及时回复请不要着急 本人正在赶来的路上~",
+              "display_url": "t.me/kongkongbb12_b…",
+              "end": 87,
+              "expanded_url": "https://t.me/kongkongbb12_bot",
+              "images": [
+                {
+                  "height": 256,
+                  "url": "https://pbs.twimg.com/news_img/2075862361894961152/a0R9BLbK?format=png&name=orig",
+                  "width": 256
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2075862361894961152/a0R9BLbK?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 64,
+              "status": 200,
+              "title": "空空双向入口",
+              "unwound_url": "https://t.me/kongkongbb12_bot",
+              "url": "https://t.co/nlEdvO1pvY"
+            },
+            {
+              "description": "You can contact @kongkongbb11 right away.",
+              "display_url": "t.me/kongkongbb11",
+              "end": 112,
+              "expanded_url": "https://t.me/kongkongbb11",
+              "start": 89,
+              "status": 200,
+              "title": "空空",
+              "unwound_url": "https://t.me/kongkongbb11",
+              "url": "https://t.co/abSpholmUf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075862358107587032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "欲望大 玩的尺度大  要求健康 能接受尺度大 私聊推特一律不回统一电报纸飞机私聊\n有想法+电报 本人电报\n暗号 空空\n双向入口 https://t.co/nlEdvO1pvY\n\nhttps://t.co/abSpholmUf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "让我成为我，让一座山并存着嶙峋和肥沃",
+        "id": "2004619896630788096",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2073747405099659747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2825,
+          "following_count": 82,
+          "like_count": 24293,
+          "listed_count": 2,
+          "media_count": 152,
+          "tweet_count": 3902
+        },
+        "url": "",
+        "username": "wohaokun555",
+        "verified": false
+      }
+    ]
+  }
+}

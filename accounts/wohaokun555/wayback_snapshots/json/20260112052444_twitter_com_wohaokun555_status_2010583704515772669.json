@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2010580188820803981",
+    "created_at": "2026-01-12T05:24:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-12T06:24:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010583704515772669"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1811351392180944896",
+          "start": 0,
+          "username": "1297074057bzk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010583704515772669",
+    "in_reply_to_user_id": "1811351392180944896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010580188820803981",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1297074057bzk 这不是人之常情？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 861,
+        "media_key": "3_2010580180344205314",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-cEBYHbcAILKwK.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2010580188820803981",
+        "created_at": "2026-01-12T05:24:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T06:24:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010583704515772669"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1811351392180944896",
+              "start": 0,
+              "username": "1297074057bzk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010583704515772669",
+        "in_reply_to_user_id": "1811351392180944896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010580188820803981",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1297074057bzk 这不是人之常情？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010580180344205314"
+          ]
+        },
+        "author_id": "1811351392180944896",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2010580188820803981",
+        "created_at": "2026-01-12T05:10:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T06:10:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010580188820803981"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 28,
+              "id": "2004619896630788096",
+              "start": 16,
+              "username": "wohaokun555"
+            }
+          ],
+          "urls": [
+            {
+              "description": "We don't disclose this feature's algorithm. We can only hope that, whether in a good or bad way, your Secret Crush will impress you.",
+              "display_url": "infinitetweet.me/secret-crush?l…",
+              "end": 56,
+              "expanded_url": "https://infinitetweet.me/secret-crush?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/2010301998047084544/BRxUSwTu?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2010301998047084544/BRxUSwTu?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 33,
+              "status": 200,
+              "title": "Secret Crush • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/secret-crush?lang=zh",
+              "url": "https://t.co/9rQ7LTsRwR"
+            },
+            {
+              "display_url": "pic.x.com/sXnczNhSrR",
+              "end": 80,
+              "expanded_url": "https://x.com/1297074057bzk/status/2010580188820803981/photo/1",
+              "media_key": "3_2010580180344205314",
+              "start": 57,
+              "url": "https://t.co/sXnczNhSrR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010580188820803981",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我在Twitter上的暗恋是  @wohaokun555\n\n➡️ https://t.co/9rQ7LTsRwR https://t.co/sXnczNhSrR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "",
+        "id": "2004619896630788096",
+        "location": "？！",
+        "name": "鱼虾一整碗",
+        "pinned_tweet_id": "2009185555268112534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004620653153189888/VWgYLNYv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 435,
+          "following_count": 66,
+          "like_count": 2275,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 709
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-11T10:46:55.000Z",
+        "description": "",
+        "id": "1811351392180944896",
+        "name": "空条承太郎",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847702664605552641/oOi5HIyd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 74,
+          "like_count": 218,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 342
+        },
+        "username": "1297074057bzk",
+        "verified": false
+      }
+    ]
+  }
+}

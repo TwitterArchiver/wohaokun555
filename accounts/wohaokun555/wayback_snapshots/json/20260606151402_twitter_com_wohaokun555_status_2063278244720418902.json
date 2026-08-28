@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2063275633883652423",
+    "created_at": "2026-06-06T15:14:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T16:14:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063278244720418902"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1856689219764203520",
+          "start": 0,
+          "username": "cmrn_v"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063278244720418902",
+    "in_reply_to_user_id": "1856689219764203520",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063275633883652423",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cmrn_v 盗用我名字"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2063275633883652423",
+        "created_at": "2026-06-06T15:14:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T16:14:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063278244720418902"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1856689219764203520",
+              "start": 0,
+              "username": "cmrn_v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063278244720418902",
+        "in_reply_to_user_id": "1856689219764203520",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063275633883652423",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cmrn_v 盗用我名字"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1856689219764203520",
+        "conversation_id": "2063275633883652423",
+        "created_at": "2026-06-06T15:03:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T16:03:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063275633883652423"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063275633883652423",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么一到周六晚上\n\n健身房就没人了都去月抛了？\n\n就剩我一个自律忧郁神"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "",
+        "id": "2004619896630788096",
+        "location": "私信只回口令过门 其他勿扰…",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2062769965330227585",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2244,
+          "following_count": 76,
+          "like_count": 21411,
+          "listed_count": 2,
+          "media_count": 141,
+          "tweet_count": 3397
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-13T13:23:08.000Z",
+        "description": "06 大二                        \n认知｜搞钱｜增长                       \n合作｜进社群➕v：engengeng_123",
+        "id": "1856689219764203520",
+        "name": "Cameron 卡卡",
+        "pinned_tweet_id": "2052676305410490529",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1856964711750774784/J_TxoPNu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1089,
+          "following_count": 277,
+          "like_count": 4804,
+          "listed_count": 9,
+          "media_count": 298,
+          "tweet_count": 3918
+        },
+        "username": "cmrn_v",
+        "verified": true
+      }
+    ]
+  }
+}

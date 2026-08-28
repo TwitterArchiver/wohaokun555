@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2016721099908927750",
+    "created_at": "2026-01-29T04:00:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T05:00:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1687988648627834880",
+          "start": 0,
+          "username": "kawcpx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016723143940080006",
+    "in_reply_to_user_id": "1687988648627834880",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016721099908927750",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kawcpx 我蹲蹲蹲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687988648627834880",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596161376261",
+              "name": "Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597017083904",
+              "name": "QSR - Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026414829",
+              "name": "KFC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026414829",
+              "name": "KFC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "description": "Fast food",
+              "id": "847865239886417922",
+              "name": "Fast food Restaurants"
+            }
+          }
+        ],
+        "conversation_id": "2016721099908927750",
+        "created_at": "2026-01-29T03:52:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T04:52:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kawcpx/status/…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/kawcpx/status/2014544912696631718",
+              "start": 22,
+              "url": "https://t.co/CVP5lxCemC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016721099908927750",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 56,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014544912696631718",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还有几天就开奖噜 没抽的小宝宝可以参与一手 https://t.co/CVP5lxCemC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2JlN5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2JlN5"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "🚪188（绿 发生殖器死妈！",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2016072861732212867",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014313058978406400/yLC08oHO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 479,
+          "following_count": 70,
+          "like_count": 3764,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 886
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-06T00:47:19.000Z",
+        "description": "随便",
+        "id": "1687988648627834880",
+        "name": "kaw",
+        "pinned_tweet_id": "2014544912696631718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1730203704920596480/5fxr_IIu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2110,
+          "following_count": 15,
+          "like_count": 392,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 140
+        },
+        "username": "kawcpx",
+        "verified": true
+      }
+    ]
+  }
+}

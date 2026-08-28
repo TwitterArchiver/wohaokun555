@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2022572547238432938",
+    "created_at": "2026-02-15T12:47:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T13:47:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023016434197291019"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1228350726981574656",
+          "start": 0,
+          "username": "baibaishuishui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023016434197291019",
+    "in_reply_to_user_id": "1228350726981574656",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022572547238432938",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@baibaishuishui 接…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2022572547238432938",
+        "created_at": "2026-02-15T12:47:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T13:47:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023016434197291019"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1228350726981574656",
+              "start": 0,
+              "username": "baibaishuishui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023016434197291019",
+        "in_reply_to_user_id": "1228350726981574656",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022572547238432938",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@baibaishuishui 接…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1228350726981574656",
+        "conversation_id": "2022572547238432938",
+        "created_at": "2026-02-14T07:24:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T08:24:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022572547238432938"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2022572547238432938",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 22363,
+          "like_count": 136,
+          "quote_count": 1,
+          "reply_count": 18,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一个比较熟的朋友真收到异性朋友转账13145.21并备注自愿赠与了🌚，很难想象感觉消费跟我不是一个阶级的人会是我朋友圈里的人。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2JlN5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2JlN5"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "🚪188（纯绿纯绿（除了口令和门槛别的私信不回",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2016792238060421479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 753,
+          "following_count": 80,
+          "like_count": 7901,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 1505
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-14T16:10:28.000Z",
+        "description": "每个今天，都是我能爱你的最后一天。小号@iamlinquan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 19,
+                "username": "iamlinquan"
+              }
+            ]
+          }
+        },
+        "id": "1228350726981574656",
+        "name": "泉、",
+        "pinned_tweet_id": "2009160961228460341",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999347434498170880/utw-FjM__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1174,
+          "following_count": 1035,
+          "like_count": 26444,
+          "listed_count": 5,
+          "media_count": 656,
+          "tweet_count": 9846
+        },
+        "username": "baibaishuishui",
+        "verified": false
+      }
+    ]
+  }
+}

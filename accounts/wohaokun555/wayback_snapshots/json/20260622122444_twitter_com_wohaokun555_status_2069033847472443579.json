@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2068955646683418799",
+    "created_at": "2026-06-22T12:24:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T13:24:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069033847472443579"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1395010837505396739",
+          "start": 0,
+          "username": "web3jiucai111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069033847472443579",
+    "in_reply_to_user_id": "1395010837505396739",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068955646683418799",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@web3jiucai111 3:1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 276,
+        "media_key": "3_2068699036706869249",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLV-0D4bEAEVBBn.png",
+        "width": 638
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2068955646683418799",
+        "created_at": "2026-06-22T12:24:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T13:24:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069033847472443579"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1395010837505396739",
+              "start": 0,
+              "username": "web3jiucai111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069033847472443579",
+        "in_reply_to_user_id": "1395010837505396739",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068955646683418799",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@web3jiucai111 3:1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068699036706869249"
+          ]
+        },
+        "author_id": "1395010837505396739",
+        "conversation_id": "2068955646683418799",
+        "created_at": "2026-06-22T07:14:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T08:14:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068955646683418799"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/j3of8xKpTq",
+              "end": 67,
+              "expanded_url": "https://x.com/web3jiucai111/status/2068955646683418799/photo/1",
+              "media_key": "3_2068699036706869249",
+              "start": 44,
+              "url": "https://t.co/j3of8xKpTq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068955646683418799",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 15081,
+          "like_count": 133,
+          "quote_count": 0,
+          "reply_count": 319,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "挪威 vs 塞内加尔\n\n666USDT给100位正确预测比分的人。\n\n开赛前截止！！！ https://t.co/j3of8xKpTq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "好好睡一觉呀",
+        "id": "2004619896630788096",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2067618656885125585",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2464,
+          "following_count": 80,
+          "like_count": 22751,
+          "listed_count": 2,
+          "media_count": 136,
+          "tweet_count": 3631
+        },
+        "url": "",
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-19T13:38:04.000Z",
+        "description": "",
+        "id": "1395010837505396739",
+        "name": "web3韭菜",
+        "pinned_tweet_id": "2068194830220677209",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046215081340575744/i8tv0FOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94112,
+          "following_count": 629,
+          "like_count": 3818,
+          "listed_count": 31,
+          "media_count": 386,
+          "tweet_count": 2659
+        },
+        "url": "",
+        "username": "web3jiucai111",
+        "verified": true
+      }
+    ]
+  }
+}

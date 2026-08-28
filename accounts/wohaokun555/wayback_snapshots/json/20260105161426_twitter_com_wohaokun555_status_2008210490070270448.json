@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2008205139329638733",
+    "created_at": "2026-01-05T16:14:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-05T17:14:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008210490070270448"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1811351392180944896",
+          "start": 0,
+          "username": "1297074057bzk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008210490070270448",
+    "in_reply_to_user_id": "1811351392180944896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008209600743686180",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1297074057bzk 笑死我了你复制粘贴"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2008205139329638733",
+        "created_at": "2026-01-05T16:14:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T17:14:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008210490070270448"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1811351392180944896",
+              "start": 0,
+              "username": "1297074057bzk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008210490070270448",
+        "in_reply_to_user_id": "1811351392180944896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008209600743686180",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1297074057bzk 笑死我了你复制粘贴"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811351392180944896",
+        "conversation_id": "2008205139329638733",
+        "created_at": "2026-01-05T16:10:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T17:10:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008209600743686180"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008209600743686180",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008205139329638733",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 炒炒：\n尴尬是一种可贵的能力。因为，反躬自问是一切爱愿和思想的初萌。要是你忽然发现你处在尴尬的地位，这不值得惊慌也最好不要逃避、莫如由着它日日夜夜惊扰你的良知，质问你的信仰，激活你的思想，进退难容之日正可能是别有洞天之时，这差不多能算规律"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "天天开心o^^o",
+        "id": "2004619896630788096",
+        "location": "三体星球",
+        "name": "鱼虾一整碗",
+        "pinned_tweet_id": "2005582001685012508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004620653153189888/VWgYLNYv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 38,
+          "like_count": 1151,
+          "listed_count": 1,
+          "media_count": 30,
+          "tweet_count": 418
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-11T10:46:55.000Z",
+        "description": "",
+        "id": "1811351392180944896",
+        "name": "空条承太郎",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847702664605552641/oOi5HIyd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 58,
+          "like_count": 134,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 256
+        },
+        "username": "1297074057bzk",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2022126487357489424",
+    "created_at": "2026-02-13T04:23:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T05:23:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022164750420111772"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1980682684985921536",
+          "start": 0,
+          "username": "linovo33"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022164750420111772",
+    "in_reply_to_user_id": "1980682684985921536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022126487357489424",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@linovo33 他也骂过我"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2022126472350371840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBAJUBtbkAATqRN.jpg",
+        "width": 947
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2022126487357489424",
+        "created_at": "2026-02-13T04:23:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T05:23:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022164750420111772"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1980682684985921536",
+              "start": 0,
+              "username": "linovo33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022164750420111772",
+        "in_reply_to_user_id": "1980682684985921536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022126487357489424",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@linovo33 他也骂过我"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022126472350371840"
+          ]
+        },
+        "author_id": "1980682684985921536",
+        "conversation_id": "2022126487357489424",
+        "created_at": "2026-02-13T01:51:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T02:51:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022126487357489424"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/g1V94mvCex",
+              "end": 38,
+              "expanded_url": "https://x.com/linovo33/status/2022126487357489424/photo/1",
+              "media_key": "3_2022126472350371840",
+              "start": 15,
+              "url": "https://t.co/g1V94mvCex"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022126487357489424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 476,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "评论了又拉黑我了这是啥意思🤣 https://t.co/g1V94mvCex"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2JlN5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2JlN5"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "🚪188（纯绿纯绿（除了口令和门槛别的私信不回",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2019333252520321256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 716,
+          "following_count": 79,
+          "like_count": 7240,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 1383
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-21T17:09:11.000Z",
+        "description": "不收门不加任何联系方式不下海不线下｜防走丢小号@linovo332 ｜我很敏感请不要对我有恶意不喜欢我拉黑就好",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 23,
+                "username": "linovo332"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/linovo3olin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/linovo3olin",
+                "start": 0,
+                "url": "https://t.co/cK5zwGQuEn"
+              }
+            ]
+          }
+        },
+        "id": "1980682684985921536",
+        "location": "Amoy",
+        "name": "檩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017326189984288768/1tDTaJhM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1222,
+          "following_count": 82,
+          "like_count": 5676,
+          "listed_count": 1,
+          "media_count": 109,
+          "tweet_count": 3957
+        },
+        "url": "https://t.co/cK5zwGQuEn",
+        "username": "linovo33",
+        "verified": false
+      }
+    ]
+  }
+}

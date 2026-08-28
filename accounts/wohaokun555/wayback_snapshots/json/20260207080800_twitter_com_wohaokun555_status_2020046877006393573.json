@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2019964199389282760",
+    "created_at": "2026-02-07T08:08:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-07T09:08:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020046877006393573"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2000126709375623168",
+          "start": 0,
+          "username": "Miharuka_47"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020046877006393573",
+    "in_reply_to_user_id": "2000126709375623168",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019964199389282760",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Miharuka_47 接之"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 844,
+        "media_key": "3_2019964192116416512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAhauwIboAA_tZM.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2019964199389282760",
+        "created_at": "2026-02-07T08:08:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T09:08:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020046877006393573"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2000126709375623168",
+              "start": 0,
+              "username": "Miharuka_47"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020046877006393573",
+        "in_reply_to_user_id": "2000126709375623168",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019964199389282760",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miharuka_47 接之"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019964192116416512"
+          ]
+        },
+        "author_id": "2000126709375623168",
+        "conversation_id": "2019964199389282760",
+        "created_at": "2026-02-07T02:39:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T03:39:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019964199389282760"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/46a0gqKeZG",
+              "end": 43,
+              "expanded_url": "https://x.com/Miharuka_47/status/2019964199389282760/photo/1",
+              "media_key": "3_2019964192116416512",
+              "start": 20,
+              "url": "https://t.co/46a0gqKeZG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019964199389282760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 632,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感谢神明眷顾……😭🤲💖心情好多了呜呜呜 https://t.co/46a0gqKeZG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2JlN5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2JlN5"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "🚪188（绿（别的私信不回",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2019333252520321256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014313058978406400/yLC08oHO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 610,
+          "following_count": 73,
+          "like_count": 5951,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 1121
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-14T08:52:36.000Z",
+        "description": "就一破发抽象文案碎碎念的。别性骚扰我。 | 心的距離是遙不可及。 ❤︎•┈ ❤︎ ⋅⋯ together ⋯⋅ ❤︎ ┈•❤︎",
+        "id": "2000126709375623168",
+        "name": "夢遙",
+        "pinned_tweet_id": "2018398587890409558",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015483655137918976/sU1eoINa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2529,
+          "following_count": 163,
+          "like_count": 4624,
+          "listed_count": 6,
+          "media_count": 119,
+          "tweet_count": 1279
+        },
+        "username": "Miharuka_47",
+        "verified": false
+      }
+    ]
+  }
+}

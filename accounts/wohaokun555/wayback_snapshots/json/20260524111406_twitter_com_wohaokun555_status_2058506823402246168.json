@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2058506074819629065",
+    "created_at": "2026-05-24T11:14:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T12:14:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058506823402246168"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1618878387820576768",
+          "start": 0,
+          "username": "ARC_Cherry0305"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058506823402246168",
+    "in_reply_to_user_id": "1618878387820576768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058506074819629065",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ARC_Cherry0305 我真不行了好萌好白"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1365,
+        "media_key": "3_2058506072412016640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJFIXc4aUAAEabQ.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2058506074819629065",
+        "created_at": "2026-05-24T11:14:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T12:14:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058506823402246168"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1618878387820576768",
+              "start": 0,
+              "username": "ARC_Cherry0305"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058506823402246168",
+        "in_reply_to_user_id": "1618878387820576768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058506074819629065",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ARC_Cherry0305 我真不行了好萌好白"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058506072412016640"
+          ]
+        },
+        "author_id": "1618878387820576768",
+        "conversation_id": "2058506074819629065",
+        "created_at": "2026-05-24T11:11:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T12:11:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058506074819629065"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WJCVm4vvdZ",
+              "end": 42,
+              "expanded_url": "https://x.com/ARC_Cherry0305/status/2058506074819629065/photo/1",
+              "media_key": "3_2058506072412016640",
+              "start": 19,
+              "url": "https://t.co/WJCVm4vvdZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058506074819629065",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在接受自己的同时\n想完成对自己的期待 https://t.co/WJCVm4vvdZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "🚪（纯绿 不入勿扰\n@lei_meng123 随缘过",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 10,
+                "username": "lei_meng123"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2036315164098830372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2057,
+          "following_count": 79,
+          "like_count": 19780,
+          "listed_count": 1,
+          "media_count": 242,
+          "tweet_count": 3271
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-27T07:47:47.000Z",
+        "description": "Don't want to be part of the world.\n\n男同和锁推请不要关注我。",
+        "id": "1618878387820576768",
+        "name": "双层吉士汉堡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891359283658588160/Ckt9ChId_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 551,
+          "following_count": 371,
+          "like_count": 5255,
+          "listed_count": 4,
+          "media_count": 74,
+          "tweet_count": 2469
+        },
+        "username": "ARC_Cherry0305",
+        "verified": false
+      }
+    ]
+  }
+}

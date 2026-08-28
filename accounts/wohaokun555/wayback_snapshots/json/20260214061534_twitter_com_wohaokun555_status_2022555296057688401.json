@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2022496293755457548",
+    "created_at": "2026-02-14T06:15:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T07:15:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022555296057688401"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "981054563099684864",
+          "start": 0,
+          "username": "carbsbrother"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022555296057688401",
+    "in_reply_to_user_id": "981054563099684864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022496293755457548",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@carbsbrother 这张脸不美都难"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2022496253737865219",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBFZoIuakAMUT7b.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2022496253595025409",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBFZoIMXAAEDHbQ.jpg",
+        "width": 1535
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2022496293755457548",
+        "created_at": "2026-02-14T06:15:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T07:15:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022555296057688401"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "981054563099684864",
+              "start": 0,
+              "username": "carbsbrother"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022555296057688401",
+        "in_reply_to_user_id": "981054563099684864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022496293755457548",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@carbsbrother 这张脸不美都难"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022496253737865219",
+            "3_2022496253595025409"
+          ]
+        },
+        "author_id": "981054563099684864",
+        "conversation_id": "2022496293755457548",
+        "created_at": "2026-02-14T02:21:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T03:21:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022496293755457548"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4d4gRliASR",
+              "end": 37,
+              "expanded_url": "https://x.com/carbsbrother/status/2022496293755457548/photo/1",
+              "media_key": "3_2022496253737865219",
+              "start": 14,
+              "url": "https://t.co/4d4gRliASR"
+            },
+            {
+              "display_url": "pic.x.com/4d4gRliASR",
+              "end": 37,
+              "expanded_url": "https://x.com/carbsbrother/status/2022496293755457548/photo/1",
+              "media_key": "3_2022496253595025409",
+              "start": 14,
+              "url": "https://t.co/4d4gRliASR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022496293755457548",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 5743,
+          "like_count": 133,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真是一个随便拍拍都美的地方 https://t.co/4d4gRliASR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2JlN5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2JlN5"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "🚪188（纯绿纯绿（除了口令和门槛别的私信不回",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2022490598272627167",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 719,
+          "following_count": 77,
+          "like_count": 7591,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 1453
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2018-04-03T06:23:29.000Z",
+        "description": "",
+        "id": "981054563099684864",
+        "location": "Toronto, Ontario",
+        "name": "癞疙宝（秽土重生版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009717707227160577/nHV8VyEJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7398,
+          "following_count": 404,
+          "like_count": 5127,
+          "listed_count": 44,
+          "media_count": 3383,
+          "tweet_count": 6306
+        },
+        "username": "carbsbrother",
+        "verified": false
+      }
+    ]
+  }
+}

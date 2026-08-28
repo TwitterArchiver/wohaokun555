@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2041063756323840175",
+    "created_at": "2026-04-06T08:01:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T09:01:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041063756323840175"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2041063756323840175",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你们能不能把可爱的颜文字放在评论区 我要一个一个复制拿走"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2041063756323840175",
+        "created_at": "2026-04-06T08:01:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T09:01:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041063756323840175"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041063756323840175",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们能不能把可爱的颜文字放在评论区 我要一个一个复制拿走"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "",
+        "id": "2004619896630788096",
+        "location": "🚪520",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2040741237666533734",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1551,
+          "following_count": 98,
+          "like_count": 14370,
+          "listed_count": 1,
+          "media_count": 164,
+          "tweet_count": 2658
+        },
+        "username": "wohaokun555",
+        "verified": false
+      }
+    ]
+  }
+}

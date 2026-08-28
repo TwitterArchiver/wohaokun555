@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2043700075222958167",
+    "created_at": "2026-04-15T23:45:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T00:45:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044562669550899406"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1994960821429186560",
+          "start": 0,
+          "username": "lyF1830721"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044562669550899406",
+    "in_reply_to_user_id": "1994960821429186560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044556013920252168",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lyF1830721 必须是！！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2043700075222958167",
+        "created_at": "2026-04-15T23:45:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T00:45:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044562669550899406"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1994960821429186560",
+              "start": 0,
+              "username": "lyF1830721"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044562669550899406",
+        "in_reply_to_user_id": "1994960821429186560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044556013920252168",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lyF1830721 必须是！！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1994960821429186560",
+        "conversation_id": "2043700075222958167",
+        "created_at": "2026-04-15T23:18:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T00:18:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044556013920252168"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044556013920252168",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043700075222958167",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 希望我周日试课的时候家长是个好人，接接接"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "每天发些乱七八糟的碎碎念 和一些自认为很好看的自拍照 分享号主的忧郁极品生活",
+        "id": "2004619896630788096",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2036315164098830372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1622,
+          "following_count": 98,
+          "like_count": 15644,
+          "listed_count": 1,
+          "media_count": 186,
+          "tweet_count": 2865
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-30T02:45:12.000Z",
+        "description": "只吃美团拼好饭",
+        "id": "1994960821429186560",
+        "location": "天津",
+        "name": "Khalil",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043713891474239488/XJPZpw82_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 42,
+          "like_count": 79,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 7
+        },
+        "username": "lyF1830721",
+        "verified": false
+      }
+    ]
+  }
+}

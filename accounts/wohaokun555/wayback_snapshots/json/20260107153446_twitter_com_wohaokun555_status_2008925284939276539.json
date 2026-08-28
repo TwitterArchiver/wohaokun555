@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2008785210499063822",
+    "created_at": "2026-01-07T15:34:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-07T16:34:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008925284939276539"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1824339593312997377",
+          "start": 0,
+          "username": "nao_aovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008925284939276539",
+    "in_reply_to_user_id": "1824339593312997377",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008924935499243801",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nao_aovo 我刷的不是她 但是风格跟她几乎一样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2008785210499063822",
+        "created_at": "2026-01-07T15:34:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T16:34:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008925284939276539"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1824339593312997377",
+              "start": 0,
+              "username": "nao_aovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008925284939276539",
+        "in_reply_to_user_id": "1824339593312997377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008924935499243801",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nao_aovo 我刷的不是她 但是风格跟她几乎一样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1824339593312997377",
+        "conversation_id": "2008785210499063822",
+        "created_at": "2026-01-07T15:33:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T16:33:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008924935499243801"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008924935499243801",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008785210499063822",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 是不是那個三點水呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "天天开心o^^o",
+        "id": "2004619896630788096",
+        "location": "三体星球",
+        "name": "鱼虾一整碗",
+        "pinned_tweet_id": "2008798162614640930",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004620653153189888/VWgYLNYv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214,
+          "following_count": 50,
+          "like_count": 1433,
+          "listed_count": 1,
+          "media_count": 32,
+          "tweet_count": 472
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-16T06:57:19.000Z",
+        "description": "插画师//sub圈地自萌型人格//没上线就是在画设计纹身图//梦想是赚钱环游世界",
+        "id": "1824339593312997377",
+        "name": "闹闹",
+        "pinned_tweet_id": "1920172850129887350",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008203258746052608/GrJrZQDO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1683,
+          "following_count": 34,
+          "like_count": 98,
+          "listed_count": 3,
+          "media_count": 6,
+          "tweet_count": 67
+        },
+        "username": "nao_aovo",
+        "verified": false
+      }
+    ]
+  }
+}

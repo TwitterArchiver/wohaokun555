@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2072594808628236419",
+    "created_at": "2026-07-02T10:30:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T11:30:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072629048996659435"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1949401818909548544",
+          "start": 0,
+          "username": "birlv477"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072629048996659435",
+    "in_reply_to_user_id": "1949401818909548544",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072594808628236419",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@birlv477 心急则味散"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2072594798150840320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMNV_OMacAAei5l.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2072594808628236419",
+        "created_at": "2026-07-02T10:30:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T11:30:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072629048996659435"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1949401818909548544",
+              "start": 0,
+              "username": "birlv477"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072629048996659435",
+        "in_reply_to_user_id": "1949401818909548544",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072594808628236419",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@birlv477 心急则味散"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072594798150840320"
+          ]
+        },
+        "author_id": "1949401818909548544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2072594808628236419",
+        "created_at": "2026-07-02T08:14:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T09:14:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072594808628236419"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aR2aNTAgNj",
+              "end": 26,
+              "expanded_url": "https://x.com/birlv477/status/2072594808628236419/photo/1",
+              "media_key": "3_2072594798150840320",
+              "start": 3,
+              "url": "https://t.co/aR2aNTAgNj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072594808628236419",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 198,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "手冲 https://t.co/aR2aNTAgNj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "让我成为我，让一座山并存着嶙峋和肥沃",
+        "id": "2004619896630788096",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2070530833434476867",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2679,
+          "following_count": 82,
+          "like_count": 23681,
+          "listed_count": 2,
+          "media_count": 142,
+          "tweet_count": 3787
+        },
+        "url": "",
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-27T09:29:57.000Z",
+        "description": "🏐/不想认识你/说要看牛的你给我打钱不/straight/🫐梦男",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%A9%9F%E5%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%A9%9F%E5%AF%861",
+                "start": 0,
+                "url": "https://t.co/fTaMKwfkpf"
+              }
+            ]
+          }
+        },
+        "id": "1949401818909548544",
+        "location": "Chengdu",
+        "name": "翘臀排在奈子前面",
+        "pinned_tweet_id": "2031011736531407044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038268713779224576/O2kJzlZ4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1488,
+          "following_count": 70,
+          "like_count": 8201,
+          "listed_count": 6,
+          "media_count": 196,
+          "tweet_count": 1460
+        },
+        "url": "https://t.co/fTaMKwfkpf",
+        "username": "birlv477",
+        "verified": false
+      }
+    ]
+  }
+}

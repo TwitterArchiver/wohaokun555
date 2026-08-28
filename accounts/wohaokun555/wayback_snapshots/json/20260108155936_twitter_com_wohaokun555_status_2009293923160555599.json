@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2008205340597465316",
+    "created_at": "2026-01-08T15:59:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-08T16:59:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009293923160555599"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1455449382304686081",
+          "start": 0,
+          "username": "Maveric75459224"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009293923160555599",
+    "in_reply_to_user_id": "1455449382304686081",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008209552572043441",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Maveric75459224 我一直这样觉得"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2008205340597465316",
+        "created_at": "2026-01-08T15:59:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T16:59:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009293923160555599"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1455449382304686081",
+              "start": 0,
+              "username": "Maveric75459224"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009293923160555599",
+        "in_reply_to_user_id": "1455449382304686081",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008209552572043441",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Maveric75459224 我一直这样觉得"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1455449382304686081",
+        "conversation_id": "2008205340597465316",
+        "created_at": "2026-01-05T16:10:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T17:10:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008209552572043441"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2008209552572043441",
+        "in_reply_to_user_id": "1455449382304686081",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 6720,
+          "like_count": 66,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008205340597465316",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "经济实力 社会地位 个人成就 都很优秀 才配做一个dom 才能让别人心甘情愿被我掌控 而不是靠pua 这是我自己对自己的要求"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "天天开心o^^o",
+        "id": "2004619896630788096",
+        "location": "三体星球",
+        "name": "鱼虾一整碗",
+        "pinned_tweet_id": "2007765884035813533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004620653153189888/VWgYLNYv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 55,
+          "like_count": 1681,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 562
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-02T08:19:17.000Z",
+        "description": "是一个活在现实世界的人 频繁的记录一下生活 希望我们彼此尊重就好",
+        "id": "1455449382304686081",
+        "location": "郑州",
+        "name": "炭烤海盐肥牛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1596948982173159426/lqKqzLu9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1836,
+          "following_count": 65,
+          "like_count": 228,
+          "listed_count": 3,
+          "media_count": 47,
+          "tweet_count": 157
+        },
+        "username": "Maveric75459224",
+        "verified": false
+      }
+    ]
+  }
+}

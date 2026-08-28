@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2011411601124143575",
+    "created_at": "2026-01-14T13:14:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-14T14:14:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011426605382664421"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1996833900816224262",
+          "start": 0,
+          "username": "AnneJenkin92858"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011426605382664421",
+    "in_reply_to_user_id": "1996833900816224262",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011415701773537591",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AnneJenkin92858 谢谢你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2011411601124143575",
+        "created_at": "2026-01-14T13:14:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-14T14:14:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011426605382664421"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1996833900816224262",
+              "start": 0,
+              "username": "AnneJenkin92858"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011426605382664421",
+        "in_reply_to_user_id": "1996833900816224262",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011415701773537591",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AnneJenkin92858 谢谢你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1996833900816224262",
+        "conversation_id": "2011411601124143575",
+        "created_at": "2026-01-14T12:30:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-14T13:30:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011415701773537591"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011415701773537591",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011411601124143575",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 宝宝你要坚强，加油～"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "",
+        "id": "2004619896630788096",
+        "location": "？！",
+        "name": "鱼虾一整碗",
+        "pinned_tweet_id": "2009185555268112534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004620653153189888/VWgYLNYv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 452,
+          "following_count": 67,
+          "like_count": 2429,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 751
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-05T06:48:07.000Z",
+        "description": "06/183/羽毛球/0757+0755\n防封号https://t.co/DLwyQU02Cn",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/AOX7878",
+                "end": 47,
+                "expanded_url": "https://t.me/AOX7878",
+                "start": 24,
+                "url": "https://t.co/DLwyQU02Cn"
+              }
+            ]
+          }
+        },
+        "id": "1996833900816224262",
+        "location": "重生之在开罗围城开步战车",
+        "name": "Aox114514",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002631283604873216/4U4_xfgh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 59,
+          "like_count": 241,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 129
+        },
+        "username": "AnneJenkin92858",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2031324026178773089",
+    "created_at": "2026-03-10T11:05:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T12:05:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031325602838622461"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1577359525606211605",
+          "start": 0,
+          "username": "R0astducker"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031325602838622461",
+    "in_reply_to_user_id": "1577359525606211605",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031324932748218686",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@R0astducker 我好崩溃呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2031324026178773089",
+        "created_at": "2026-03-10T11:05:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T12:05:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031325602838622461"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1577359525606211605",
+              "start": 0,
+              "username": "R0astducker"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031325602838622461",
+        "in_reply_to_user_id": "1577359525606211605",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031324932748218686",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@R0astducker 我好崩溃呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577359525606211605",
+        "conversation_id": "2031324026178773089",
+        "created_at": "2026-03-10T11:02:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T12:02:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031324932748218686"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031324932748218686",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031324026178773089",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 这是抢钱吧…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2JlN5\n🚪（勿扰",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2JlN5"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "除了口令别的不回！没有陪聊的义务",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2007765884035813533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1165,
+          "following_count": 97,
+          "like_count": 10582,
+          "listed_count": 1,
+          "media_count": 84,
+          "tweet_count": 1948
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-04T18:06:45.000Z",
+        "description": "是阿呆/喜欢跟朋友打游戏/摇滚/欢迎互fo/看黄的跟incel男全家死了🙏🏻",
+        "id": "1577359525606211605",
+        "name": "阿呆",
+        "pinned_tweet_id": "2030307196999975247",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020972887356940288/bIPQ5-2v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 812,
+          "following_count": 520,
+          "like_count": 27493,
+          "listed_count": 2,
+          "media_count": 1148,
+          "tweet_count": 10331
+        },
+        "username": "R0astducker",
+        "verified": false
+      }
+    ]
+  }
+}

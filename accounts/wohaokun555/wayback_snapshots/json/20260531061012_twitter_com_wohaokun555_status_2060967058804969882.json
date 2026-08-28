@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2060967058804969882",
+    "created_at": "2026-05-31T06:10:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T07:10:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060967058804969882"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2060967058804969882",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "春乏秋困 我夏天更是睡了一觉又一觉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2060967058804969882",
+        "created_at": "2026-05-31T06:10:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T07:10:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060967058804969882"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060967058804969882",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "春乏秋困 我夏天更是睡了一觉又一觉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "🚪（520",
+        "id": "2004619896630788096",
+        "location": "口令➕姓",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2036315164098830372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2176,
+          "following_count": 77,
+          "like_count": 20652,
+          "listed_count": 2,
+          "media_count": 241,
+          "tweet_count": 3379
+        },
+        "username": "wohaokun555",
+        "verified": false
+      }
+    ]
+  }
+}

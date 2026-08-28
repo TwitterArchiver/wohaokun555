@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2005700598919028964",
+    "created_at": "2025-12-30T02:13:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-30T03:13:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005824446343627114"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1909303174848258048",
+          "start": 0,
+          "username": "AGUL017"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005824446343627114",
+    "in_reply_to_user_id": "1909303174848258048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005700598919028964",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AGUL017 我每次都这样 买了好多喜欢的本 结果没有一个用完的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2005700598919028964",
+        "created_at": "2025-12-30T02:13:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T03:13:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005824446343627114"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1909303174848258048",
+              "start": 0,
+              "username": "AGUL017"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005824446343627114",
+        "in_reply_to_user_id": "1909303174848258048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005700598919028964",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AGUL017 我每次都这样 买了好多喜欢的本 结果没有一个用完的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1909303174848258048",
+        "conversation_id": "2005700598919028964",
+        "created_at": "2025-12-29T18:01:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-29T19:01:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005700598919028964"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2005700598919028964",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 326,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "女友为了让自己多喝水，买了可爱的水杯。之前说要健身，买了运动套装。这次要去学习，又买了好看的笔记本😑"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "我会尽量给大家传播积极情绪的！泥萌都要天天开心哦！(o^^o)   🚪66",
+        "id": "2004619896630788096",
+        "location": "Hong Kong",
+        "name": "鱼虾一整碗",
+        "pinned_tweet_id": "2005582001685012508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004620653153189888/VWgYLNYv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 23,
+          "like_count": 317,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 176
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-07T17:52:17.000Z",
+        "description": "小心安命，埋头任事。",
+        "id": "1909303174848258048",
+        "location": "I've got everything I need.",
+        "name": "陌野",
+        "pinned_tweet_id": "1988412853641244881",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985179926966775808/hKZPdtYQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 339,
+          "following_count": 31,
+          "like_count": 1285,
+          "listed_count": 1,
+          "media_count": 336,
+          "tweet_count": 3725
+        },
+        "username": "AGUL017",
+        "verified": false
+      }
+    ]
+  }
+}

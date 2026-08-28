@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2056911626876703054",
+    "created_at": "2026-05-20T01:35:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T02:35:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056911626876703054"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1664120419711074304",
+          "start": 3,
+          "username": "SeYU1eScwt52054"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056911626876703054",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056676802685542641",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SeYU1eScwt52054: 为啥要造谣悟空是福利姬，她真的很可爱啊，我去了，我一个不喜欢二次元不喜欢cos的人我都愿意看她，换一个角度说不是也做了很好的圈层宣传吗，明明那么可爱那么敬业的小宝宝……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2056911626876703054",
+        "created_at": "2026-05-20T01:35:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T02:35:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056911626876703054"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1664120419711074304",
+              "start": 3,
+              "username": "SeYU1eScwt52054"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056911626876703054",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056676802685542641",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SeYU1eScwt52054: 为啥要造谣悟空是福利姬，她真的很可爱啊，我去了，我一个不喜欢二次元不喜欢cos的人我都愿意看她，换一个角度说不是也做了很好的圈层宣传吗，明明那么可爱那么敬业的小宝宝……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1664120419711074304",
+        "conversation_id": "2056676802685542641",
+        "created_at": "2026-05-19T10:02:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T11:02:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056676802685542641"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056676802685542641",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 40145,
+          "like_count": 303,
+          "quote_count": 0,
+          "reply_count": 24,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "为啥要造谣悟空是福利姬，她真的很可爱啊，我去了，我一个不喜欢二次元不喜欢cos的人我都愿意看她，换一个角度说不是也做了很好的圈层宣传吗，明明那么可爱那么敬业的小宝宝……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "🚪（纯绿 不入勿扰",
+        "id": "2004619896630788096",
+        "location": "没义务陪聊 别问我乱七八糟的",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2036315164098830372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2060,
+          "following_count": 101,
+          "like_count": 19497,
+          "listed_count": 1,
+          "media_count": 234,
+          "tweet_count": 3230
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-01T04:03:36.000Z",
+        "description": "我有病看不惯我就去死｜拜金女不交友｜\n🚪520｜发着玩",
+        "id": "1664120419711074304",
+        "location": "南京",
+        "name": "悲伤的前妻",
+        "pinned_tweet_id": "2044467595391406559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037754539626106880/IYGut5oZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6957,
+          "following_count": 98,
+          "like_count": 12174,
+          "listed_count": 8,
+          "media_count": 918,
+          "tweet_count": 9896
+        },
+        "username": "SeYU1eScwt52054",
+        "verified": false
+      }
+    ]
+  }
+}

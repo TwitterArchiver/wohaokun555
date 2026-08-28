@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2067267190844530874",
+    "created_at": "2026-06-19T03:32:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T04:32:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067812667113496925"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "91211654",
+          "start": 0,
+          "username": "Cocoa_0v0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067812667113496925",
+    "in_reply_to_user_id": "91211654",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067812450309992639",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cocoa_0v0 卧槽呀！这些除了搬运x那个 都是我想做的！呜呜呜我爱你可可"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2067812450309992639].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2067812450309992639",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2067812450309992639"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2067267190844530874",
+        "created_at": "2026-06-19T03:32:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T04:32:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067812667113496925"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "91211654",
+              "start": 0,
+              "username": "Cocoa_0v0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067812667113496925",
+        "in_reply_to_user_id": "91211654",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067812450309992639",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cocoa_0v0 卧槽呀！这些除了搬运x那个 都是我想做的！呜呜呜我爱你可可"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "🌍",
+        "id": "2004619896630788096",
+        "location": "置顶是广告 非本人 请自辨",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2067618656885125585",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2440,
+          "following_count": 79,
+          "like_count": 22565,
+          "listed_count": 2,
+          "media_count": 134,
+          "tweet_count": 3591
+        },
+        "url": "",
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2009-11-19T22:44:29.000Z",
+        "description": "Bear both love and hate in mind.",
+        "id": "91211654",
+        "name": "Cocoa_beans",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 69,
+          "like_count": 252,
+          "listed_count": 0,
+          "media_count": 127,
+          "tweet_count": 383
+        },
+        "url": "",
+        "username": "Cocoa_0v0",
+        "verified": false
+      }
+    ]
+  }
+}

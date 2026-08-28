@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2016709744749363659",
+    "created_at": "2026-01-29T08:24:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T09:24:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016789592398319889"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1977764590546284544",
+          "start": 0,
+          "username": "Jim345078214201"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016789592398319889",
+    "in_reply_to_user_id": "1977764590546284544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016709744749363659",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jim345078214201 奶茶我来了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 240,
+        "media_key": "3_2016709737329590272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_zK0jSaAAAcYn5.jpg",
+        "width": 240
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2016709744749363659",
+        "created_at": "2026-01-29T08:24:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T09:24:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016789592398319889"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1977764590546284544",
+              "start": 0,
+              "username": "Jim345078214201"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016789592398319889",
+        "in_reply_to_user_id": "1977764590546284544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016709744749363659",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jim345078214201 奶茶我来了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016709737329590272"
+          ]
+        },
+        "author_id": "1977764590546284544",
+        "conversation_id": "2016709744749363659",
+        "created_at": "2026-01-29T03:07:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T04:07:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016709744749363659"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ze3Qz75rrw",
+              "end": 137,
+              "expanded_url": "https://x.com/Jim345078214201/status/2016709744749363659/photo/1",
+              "media_key": "3_2016709737329590272",
+              "start": 114,
+              "url": "https://t.co/Ze3Qz75rrw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016709744749363659",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1843,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 29,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "准备退了，也是最后一次发帖了，有缘分的话找最后一个🚪姐入门，另外抽三杯奶茶，一份疯狂星期四！周五下午之前抽完，另外还是强调一下被抽到的还是可能需要简单验证一下，毕竟可能自己会考虑入门，介意的就不要私信了！祝大家一切顺利！再会！ https://t.co/Ze3Qz75rrw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2JlN5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2JlN5"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "🚪188（绿 发生殖器死妈！",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2016072861732212867",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014313058978406400/yLC08oHO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 484,
+          "following_count": 71,
+          "like_count": 3842,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 895
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-13T15:54:04.000Z",
+        "description": "",
+        "id": "1977764590546284544",
+        "name": "Jim",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008432561677365251/0P1beiFV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 36,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 42
+        },
+        "username": "Jim345078214201",
+        "verified": false
+      }
+    ]
+  }
+}

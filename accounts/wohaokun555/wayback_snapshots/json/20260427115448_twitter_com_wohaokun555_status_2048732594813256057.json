@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2048732594813256057",
+    "created_at": "2026-04-27T11:54:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T12:54:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048732594813256057"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2048732594813256057",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "每次都说我想要好多好多钱 但是每次我妈给我大额转账时我都不好意思收 就是莫名其妙的愧疚…🚬"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2048732594813256057",
+        "created_at": "2026-04-27T11:54:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T12:54:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048732594813256057"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048732594813256057",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "每次都说我想要好多好多钱 但是每次我妈给我大额转账时我都不好意思收 就是莫名其妙的愧疚…🚬"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "",
+        "id": "2004619896630788096",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2036315164098830372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1921,
+          "following_count": 99,
+          "like_count": 17126,
+          "listed_count": 1,
+          "media_count": 203,
+          "tweet_count": 2988
+        },
+        "username": "wohaokun555",
+        "verified": false
+      }
+    ]
+  }
+}

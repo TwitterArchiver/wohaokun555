@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2023436063650553950",
+    "created_at": "2026-02-17T07:43:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T08:43:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023664525132566807"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2003010814698205184",
+          "start": 0,
+          "username": "ShuBing16121816"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023664525132566807",
+    "in_reply_to_user_id": "2003010814698205184",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023436063650553950",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ShuBing16121816 我靠我接"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2023436053705875456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBSwXsbbYAASho1.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2023436053567471616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBSwXr6bgAAq1xa.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2023436063650553950",
+        "created_at": "2026-02-17T07:43:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T08:43:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023664525132566807"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2003010814698205184",
+              "start": 0,
+              "username": "ShuBing16121816"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023664525132566807",
+        "in_reply_to_user_id": "2003010814698205184",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023436063650553950",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ShuBing16121816 我靠我接"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023436053705875456",
+            "3_2023436053567471616"
+          ]
+        },
+        "author_id": "2003010814698205184",
+        "conversation_id": "2023436063650553950",
+        "created_at": "2026-02-16T16:35:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T17:35:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023436063650553950"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MSFyPau72n",
+              "end": 29,
+              "expanded_url": "https://x.com/ShuBing16121816/status/2023436063650553950/photo/1",
+              "media_key": "3_2023436053705875456",
+              "start": 6,
+              "url": "https://t.co/MSFyPau72n"
+            },
+            {
+              "display_url": "pic.x.com/MSFyPau72n",
+              "end": 29,
+              "expanded_url": "https://x.com/ShuBing16121816/status/2023436063650553950/photo/1",
+              "media_key": "3_2023436053567471616",
+              "start": 6,
+              "url": "https://t.co/MSFyPau72n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023436063650553950",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10245,
+          "like_count": 63,
+          "quote_count": 1,
+          "reply_count": 27,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我靠。谢谢 https://t.co/MSFyPau72n"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2JlN5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2JlN5"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "🚪188（纯绿纯绿（除了口令和门槛别的私信不回",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2016792238060421479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 851,
+          "following_count": 84,
+          "like_count": 8357,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 1577
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-22T07:53:02.000Z",
+        "description": "03｜172｜白羊｜废话｜美食｜爱看剧｜发吊阳痿｜不搞黄｜都是我@cuishu77006 @sunbaiwan888｜置顶推广自辨❗️❗️❗️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 32,
+                "username": "cuishu77006"
+              },
+              {
+                "end": 58,
+                "start": 45,
+                "username": "sunbaiwan888"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cuishu77006",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cuishu77006",
+                "start": 0,
+                "url": "https://t.co/U0OVO9uDvU"
+              }
+            ]
+          }
+        },
+        "id": "2003010814698205184",
+        "location": "🚪88/188/520/1314…",
+        "name": "脆薯饼",
+        "pinned_tweet_id": "2006997448682795027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003011553923375104/hjfbqP4G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 907,
+          "following_count": 92,
+          "like_count": 3252,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 1636
+        },
+        "url": "https://t.co/U0OVO9uDvU",
+        "username": "ShuBing16121816",
+        "verified": false
+      }
+    ]
+  }
+}

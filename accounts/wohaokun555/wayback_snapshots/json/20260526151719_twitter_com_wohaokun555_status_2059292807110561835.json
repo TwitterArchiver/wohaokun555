@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2059281929435025760",
+    "created_at": "2026-05-26T15:17:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T16:17:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059292807110561835"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1727874282930290689",
+          "start": 0,
+          "username": "zhangjinhu12138"
+        },
+        {
+          "end": 26,
+          "id": "1918664114186096640",
+          "start": 17,
+          "username": "be6b1143"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059292807110561835",
+    "in_reply_to_user_id": "1727874282930290689",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059292376955589056",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhangjinhu12138 @be6b1143 定妆首推纪梵希…纪梵希散粉定妆真的是我用过最合适的了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2059281929435025760",
+        "created_at": "2026-05-26T15:17:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T16:17:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059292807110561835"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1727874282930290689",
+              "start": 0,
+              "username": "zhangjinhu12138"
+            },
+            {
+              "end": 26,
+              "id": "1918664114186096640",
+              "start": 17,
+              "username": "be6b1143"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059292807110561835",
+        "in_reply_to_user_id": "1727874282930290689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059292376955589056",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhangjinhu12138 @be6b1143 定妆首推纪梵希…纪梵希散粉定妆真的是我用过最合适的了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1727874282930290689",
+        "conversation_id": "2059281929435025760",
+        "created_at": "2026-05-26T15:15:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T16:15:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059292376955589056"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1918664114186096640",
+              "start": 0,
+              "username": "be6b1143"
+            },
+            {
+              "end": 22,
+              "id": "2004619896630788096",
+              "start": 10,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059292376955589056",
+        "in_reply_to_user_id": "1918664114186096640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059289452649062880",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@be6b1143 @wohaokun555 请问有没有油皮粉底或者定妆类产品推荐呀🥺🥺🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "🚪（纯绿 不入勿扰\n@lei_meng123 随缘过",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 10,
+                "username": "lei_meng123"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2036315164098830372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2076,
+          "following_count": 78,
+          "like_count": 20037,
+          "listed_count": 1,
+          "media_count": 244,
+          "tweet_count": 3301
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-24T02:18:40.000Z",
+        "description": "主线任务：夺回秋雅",
+        "id": "1727874282930290689",
+        "location": "休想知道",
+        "name": "吧啦啦小腾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016491330810023936/ayUVmzWw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1484,
+          "following_count": 686,
+          "like_count": 4699,
+          "listed_count": 6,
+          "media_count": 437,
+          "tweet_count": 3593
+        },
+        "username": "zhangjinhu12138",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-03T13:49:19.000Z",
+        "description": "爱是世界上最伟大的魔法@aumileude",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 11,
+                "username": "aumileude"
+              }
+            ]
+          }
+        },
+        "id": "1918664114186096640",
+        "name": "马奎斯",
+        "pinned_tweet_id": "2005142406526874072",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918665181972082688/met7_bU9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6426,
+          "following_count": 136,
+          "like_count": 8590,
+          "listed_count": 26,
+          "media_count": 55,
+          "tweet_count": 3096
+        },
+        "username": "be6b1143",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2064589891498115192",
+    "created_at": "2026-06-10T10:10:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T11:10:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064651485850611965"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1811351392180944896",
+          "start": 0,
+          "username": "1297074057bzk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064651485850611965",
+    "in_reply_to_user_id": "1811351392180944896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064640154057466322",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1297074057bzk 我就这样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2064589891498115192",
+        "created_at": "2026-06-10T10:10:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T11:10:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064651485850611965"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1811351392180944896",
+              "start": 0,
+              "username": "1297074057bzk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064651485850611965",
+        "in_reply_to_user_id": "1811351392180944896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064640154057466322",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1297074057bzk 我就这样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811351392180944896",
+        "conversation_id": "2064589891498115192",
+        "created_at": "2026-06-10T09:25:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T10:25:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064640154057466322"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064640154057466322",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064589891498115192",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 早安 晚安 多喝热水"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "",
+        "id": "2004619896630788096",
+        "location": "私信只回口令过门 其他勿扰…",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2062769965330227585",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2254,
+          "following_count": 76,
+          "like_count": 21648,
+          "listed_count": 2,
+          "media_count": 144,
+          "tweet_count": 3456
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-11T10:46:55.000Z",
+        "description": "",
+        "id": "1811351392180944896",
+        "name": "空条承太郎",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847702664605552641/oOi5HIyd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 78,
+          "like_count": 342,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 492
+        },
+        "username": "1297074057bzk",
+        "verified": false
+      }
+    ]
+  }
+}

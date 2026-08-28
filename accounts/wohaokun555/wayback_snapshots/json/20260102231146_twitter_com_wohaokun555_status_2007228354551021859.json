@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2007079490678407237",
+    "created_at": "2026-01-02T23:11:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-03T00:11:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007228354551021859"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2003163305624633351",
+          "start": 0,
+          "username": "sr926499"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007228354551021859",
+    "in_reply_to_user_id": "2003163305624633351",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007124236729737356",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sr926499 这是好事啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2007079490678407237",
+        "created_at": "2026-01-02T23:11:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T00:11:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007228354551021859"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2003163305624633351",
+              "start": 0,
+              "username": "sr926499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007228354551021859",
+        "in_reply_to_user_id": "2003163305624633351",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007124236729737356",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sr926499 这是好事啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2003163305624633351",
+        "conversation_id": "2007079490678407237",
+        "created_at": "2026-01-02T16:18:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T17:18:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007124236729737356"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007124236729737356",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007079490678407237",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 下次能不能挂我的赞赏码"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "天天开心o^^o",
+        "id": "2004619896630788096",
+        "location": "三体星球",
+        "name": "鱼虾一整碗",
+        "pinned_tweet_id": "2005582001685012508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004620653153189888/VWgYLNYv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 32,
+          "like_count": 693,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 332
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-22T17:58:52.000Z",
+        "description": "ISTP-A 插电 拨动开关 嗡——滋滋滋~——嗡",
+        "id": "2003163305624633351",
+        "name": "林999264",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004654139217973248/mPfZW1dm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 26,
+          "like_count": 21,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 68
+        },
+        "username": "sr926499",
+        "verified": false
+      }
+    ]
+  }
+}

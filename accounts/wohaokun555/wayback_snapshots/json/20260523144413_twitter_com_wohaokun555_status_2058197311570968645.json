@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2058195223944302959",
+    "created_at": "2026-05-23T14:44:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T15:44:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058197311570968645"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1592820644919533569",
+          "start": 0,
+          "username": "huajimeirenr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058197311570968645",
+    "in_reply_to_user_id": "1592820644919533569",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058196912520806620",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huajimeirenr 哈哈哈波点重度依赖"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2058195223944302959",
+        "created_at": "2026-05-23T14:44:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T15:44:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058197311570968645"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1592820644919533569",
+              "start": 0,
+              "username": "huajimeirenr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058197311570968645",
+        "in_reply_to_user_id": "1592820644919533569",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058196912520806620",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huajimeirenr 哈哈哈波点重度依赖"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592820644919533569",
+        "conversation_id": "2058195223944302959",
+        "created_at": "2026-05-23T14:42:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T15:42:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058196912520806620"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058196912520806620",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058195223944302959",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 宝宝你太适合波点了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "🚪（纯绿 不入勿扰",
+        "id": "2004619896630788096",
+        "location": "没义务陪聊 别问我乱七八糟的",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2036315164098830372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2050,
+          "following_count": 78,
+          "like_count": 19737,
+          "listed_count": 1,
+          "media_count": 242,
+          "tweet_count": 3264
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-16T10:03:44.000Z",
+        "description": "选择性回关注私信..",
+        "id": "1592820644919533569",
+        "location": "🥚",
+        "name": "一颗蛋",
+        "pinned_tweet_id": "2023740096214630763",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974387290026946560/_5kxDxOl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1539,
+          "following_count": 52,
+          "like_count": 3716,
+          "listed_count": 0,
+          "media_count": 267,
+          "tweet_count": 968
+        },
+        "username": "huajimeirenr",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2014253905379774782",
+    "created_at": "2026-01-22T15:49:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-22T16:49:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014364799149420993"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1989935347317575681",
+          "start": 0,
+          "username": "realhkprincess"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014364799149420993",
+    "in_reply_to_user_id": "1989935347317575681",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014253905379774782",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@realhkprincess 好恐怖"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2014253905379774782",
+        "created_at": "2026-01-22T15:49:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T16:49:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014364799149420993"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1989935347317575681",
+              "start": 0,
+              "username": "realhkprincess"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014364799149420993",
+        "in_reply_to_user_id": "1989935347317575681",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014253905379774782",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@realhkprincess 好恐怖"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989935347317575681",
+        "conversation_id": "2014253905379774782",
+        "created_at": "2026-01-22T08:28:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T09:28:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014253905379774782"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2014253905379774782",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3183,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "放过我好吗，我不想看男人的皮燕子，比私信给我发鸡巴还吓人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "",
+        "id": "2004619896630788096",
+        "location": "？！",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2007765884035813533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014313058978406400/yLC08oHO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 438,
+          "following_count": 68,
+          "like_count": 2489,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 767
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-16T05:55:48.000Z",
+        "description": "estp 双/每天能不能涨两个粉/是废话很多的一个女大/会发擦边+日常碎碎念+讲瓜/文科在读/提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/realhkprincess",
+                "end": 23,
+                "expanded_url": "https://ngl.link/realhkprincess",
+                "start": 0,
+                "url": "https://t.co/7NCyR9gIKo"
+              }
+            ]
+          }
+        },
+        "id": "1989935347317575681",
+        "name": "kk小猫派",
+        "pinned_tweet_id": "1996929784274887153",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989937055665983490/yOqLlTmS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2066,
+          "following_count": 103,
+          "like_count": 2363,
+          "listed_count": 2,
+          "media_count": 91,
+          "tweet_count": 2078
+        },
+        "url": "https://t.co/7NCyR9gIKo",
+        "username": "realhkprincess",
+        "verified": false
+      }
+    ]
+  }
+}

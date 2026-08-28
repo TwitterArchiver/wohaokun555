@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2078827982949679123",
+    "created_at": "2026-07-19T13:54:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T14:54:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078840890467197007"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1522094329954652161",
+          "start": 0,
+          "username": "0xo_snow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078840890467197007",
+    "in_reply_to_user_id": "1522094329954652161",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078827982949679123",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0xo_snow 好可爱呀！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1366,
+        "media_key": "3_2078827971847315456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNl7Brsa4AAX8yQ.jpg",
+        "width": 1037
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2078827982949679123",
+        "created_at": "2026-07-19T13:54:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T14:54:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078840890467197007"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1522094329954652161",
+              "start": 0,
+              "username": "0xo_snow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078840890467197007",
+        "in_reply_to_user_id": "1522094329954652161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078827982949679123",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0xo_snow 好可爱呀！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078827971847315456"
+          ]
+        },
+        "author_id": "1522094329954652161",
+        "conversation_id": "2078827982949679123",
+        "created_at": "2026-07-19T13:03:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T14:03:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078827982949679123"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nigLJ9mrTx",
+              "end": 40,
+              "expanded_url": "https://x.com/0xo_snow/status/2078827982949679123/photo/1",
+              "media_key": "3_2078827971847315456",
+              "start": 17,
+              "url": "https://t.co/nigLJ9mrTx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078827982949679123",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 135,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "快点夸我可爱～！（直白ᗜ ‸ ᗜ https://t.co/nigLJ9mrTx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "＞𐋣＜！🚪1314（闲聊勿扰🐈‍⬛",
+        "id": "2004619896630788096",
+        "location": "置顶推广自辨",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2078469858631749749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2860,
+          "following_count": 82,
+          "like_count": 24738,
+          "listed_count": 2,
+          "media_count": 151,
+          "tweet_count": 3956
+        },
+        "url": "",
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-05T06:02:50.000Z",
+        "description": "=恋 🎀 ip北京 我在接线下\n可爱是唯一追求 ！爱好是唱歌与美少女\n为什么不喜欢我，难道就因为我们不认识吗;ㅅ;\n投喂or入门请私信感谢！⸝⸝⸝ ╸▵╺⸝⸝⸝",
+        "id": "1522094329954652161",
+        "location": "🚪私信口令88回讯息/解锁线下",
+        "name": "🐰れん⊹",
+        "pinned_tweet_id": "2078827982949679123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017787889955098624/u0R2iAGA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18135,
+          "following_count": 423,
+          "like_count": 17463,
+          "listed_count": 35,
+          "media_count": 1437,
+          "tweet_count": 14868
+        },
+        "url": "",
+        "username": "0xo_snow",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2065799847010340969",
+    "created_at": "2026-06-13T15:35:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T16:35:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065820376744054945"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1883889657320247296",
+          "start": 0,
+          "username": "i7uu12yy7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065820376744054945",
+    "in_reply_to_user_id": "1883889657320247296",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065804133672857877",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@i7uu12yy7 不会！！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2065799847010340969",
+        "created_at": "2026-06-13T15:35:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T16:35:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065820376744054945"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1883889657320247296",
+              "start": 0,
+              "username": "i7uu12yy7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065820376744054945",
+        "in_reply_to_user_id": "1883889657320247296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065804133672857877",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@i7uu12yy7 不会！！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883889657320247296",
+        "conversation_id": "2065799847010340969",
+        "created_at": "2026-06-13T14:31:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T15:31:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065804133672857877"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065804133672857877",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 99,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065799847010340969",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 好萌...不要忘记我💧💧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "@lei_meng123（随缘过\n这是一个女孩的内心世界🌍",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 0,
+                "username": "lei_meng123"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "私信只回口令过门 其他勿扰…",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2062769965330227585",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2301,
+          "following_count": 78,
+          "like_count": 21943,
+          "listed_count": 2,
+          "media_count": 144,
+          "tweet_count": 3517
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-27T14:48:00.000Z",
+        "description": "漂泊在那平庸之海   坏情绪@maxwell_an59209",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 14,
+                "username": "maxwell_an59209"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/qm84069",
+                "end": 23,
+                "expanded_url": "https://ngl.link/qm84069",
+                "start": 0,
+                "url": "https://t.co/AO8DeIdV8p"
+              }
+            ]
+          }
+        },
+        "id": "1883889657320247296",
+        "location": "我想你",
+        "name": "FF77",
+        "pinned_tweet_id": "2050381740930191627",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064209358574264320/L6_3DOcv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2543,
+          "following_count": 180,
+          "like_count": 19037,
+          "listed_count": 2,
+          "media_count": 258,
+          "tweet_count": 2895
+        },
+        "url": "https://t.co/AO8DeIdV8p",
+        "username": "i7uu12yy7",
+        "verified": false
+      }
+    ]
+  }
+}

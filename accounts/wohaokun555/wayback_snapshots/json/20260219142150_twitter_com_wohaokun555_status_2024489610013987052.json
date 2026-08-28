@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2024469776740020420",
+    "created_at": "2026-02-19T14:21:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T15:21:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024489610013987052"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1829962938838630401",
+          "start": 0,
+          "username": "llb072"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024489610013987052",
+    "in_reply_to_user_id": "1829962938838630401",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024469776740020420",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@llb072 重庆！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2024469776740020420",
+        "created_at": "2026-02-19T14:21:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T15:21:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024489610013987052"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1829962938838630401",
+              "start": 0,
+              "username": "llb072"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024489610013987052",
+        "in_reply_to_user_id": "1829962938838630401",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024469776740020420",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@llb072 重庆！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829962938838630401",
+        "conversation_id": "2024469776740020420",
+        "created_at": "2026-02-19T13:03:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T14:03:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024469776740020420"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024469776740020420",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1046,
+          "like_count": 12,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有适合一个人去的城市 想散散心"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2INXx",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2INXx"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "🚪（纯绿纯绿（除了口令和门槛别的私信不回",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2016792238060421479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 886,
+          "following_count": 89,
+          "like_count": 8773,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 1619
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-31T19:22:25.000Z",
+        "description": "人与人之间有一道沟壑 欲望利益构建起桥梁 而爱是直通车\n（自用蜂鸟VPN:https://t.co/j1kY5GPbvO）",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "vpn1.fnvpn1.top/#/register?cod…",
+                "end": 60,
+                "expanded_url": "https://vpn1.fnvpn1.top/#/register?code=6v6CrHR1",
+                "start": 37,
+                "url": "https://t.co/j1kY5GPbvO"
+              }
+            ]
+          }
+        },
+        "id": "1829962938838630401",
+        "location": "云端",
+        "name": "林博.",
+        "pinned_tweet_id": "1976997993296675032",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922071806908772352/fqZlXDiq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2302,
+          "following_count": 454,
+          "like_count": 28975,
+          "listed_count": 3,
+          "media_count": 105,
+          "tweet_count": 794
+        },
+        "username": "llb072",
+        "verified": false
+      }
+    ]
+  }
+}

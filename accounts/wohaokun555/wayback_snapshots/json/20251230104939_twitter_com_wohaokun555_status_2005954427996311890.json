@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2005925158838489414",
+    "created_at": "2025-12-30T10:49:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-30T11:49:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005954427996311890"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1482213825201901568",
+          "start": 0,
+          "username": "eroxiansheng2"
+        },
+        {
+          "end": 23,
+          "id": "1950172970422329344",
+          "start": 15,
+          "username": "jwkjyqk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005954427996311890",
+    "in_reply_to_user_id": "1482213825201901568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005948286155293124",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@eroxiansheng2 @jwkjyqk 鱼虾会成为大主播吗！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2005925158838489414",
+        "created_at": "2025-12-30T10:49:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T11:49:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005954427996311890"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1482213825201901568",
+              "start": 0,
+              "username": "eroxiansheng2"
+            },
+            {
+              "end": 23,
+              "id": "1950172970422329344",
+              "start": 15,
+              "username": "jwkjyqk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005954427996311890",
+        "in_reply_to_user_id": "1482213825201901568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005948286155293124",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@eroxiansheng2 @jwkjyqk 鱼虾会成为大主播吗！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1482213825201901568",
+        "conversation_id": "2005925158838489414",
+        "created_at": "2025-12-30T10:25:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T11:25:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005948286155293124"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            },
+            {
+              "end": 21,
+              "id": "1950172970422329344",
+              "start": 13,
+              "username": "jwkjyqk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005948286155293124",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005928260375609716",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 @jwkjyqk 鱼虾以后当大主包了会接这种吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "我会尽量给大家传播积极情绪的！泥萌都要天天开心哦！(o^^o)   🚪66",
+        "id": "2004619896630788096",
+        "location": "Hong Kong",
+        "name": "鱼虾一整碗",
+        "pinned_tweet_id": "2005582001685012508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004620653153189888/VWgYLNYv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 25,
+          "like_count": 355,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 187
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-15T04:51:47.000Z",
+        "description": "这里没有简介…祝你天天开心",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/intsecofficer",
+                "end": 23,
+                "expanded_url": "http://ngl.link/intsecofficer",
+                "start": 0,
+                "url": "https://t.co/KoVcarfZDD"
+              }
+            ]
+          }
+        },
+        "id": "1482213825201901568",
+        "location": "深圳，找我聊天👉🏻",
+        "name": "好好先生",
+        "pinned_tweet_id": "1998080419674394913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004252511721738240/rKOHuGt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 471,
+          "like_count": 6967,
+          "listed_count": 7,
+          "media_count": 60,
+          "tweet_count": 1687
+        },
+        "url": "https://t.co/KoVcarfZDD",
+        "username": "eroxiansheng2",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-29T12:34:24.000Z",
+        "description": "直男  纯爱\nistp    switch    ddlg         素质不详\n世界上另一个我\n碎碎念  想到啥说啥 废话居多\n性取向正常    我一定会养一只属于我的小猫",
+        "id": "1950172970422329344",
+        "location": "没钱过🚪不用私信我",
+        "name": "仅我可见",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998069194609586176/EIdKTvOA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 102,
+          "like_count": 187,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 453
+        },
+        "username": "jwkjyqk",
+        "verified": false
+      }
+    ]
+  }
+}

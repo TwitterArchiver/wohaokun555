@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2057167470562247100",
+    "created_at": "2026-05-21T05:24:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T06:24:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057331700586426611"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2013000409003315200",
+          "start": 0,
+          "username": "imyy1567"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057331700586426611",
+    "in_reply_to_user_id": "2013000409003315200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057167470562247100",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@imyy1567 我被美晕了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 671,
+        "media_key": "3_2057167463167725568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIyG6I2akAAQLPG.jpg",
+        "width": 895
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2057167470562247100",
+        "created_at": "2026-05-21T05:24:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T06:24:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057331700586426611"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2013000409003315200",
+              "start": 0,
+              "username": "imyy1567"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057331700586426611",
+        "in_reply_to_user_id": "2013000409003315200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057167470562247100",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@imyy1567 我被美晕了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057167463167725568"
+          ]
+        },
+        "author_id": "2013000409003315200",
+        "conversation_id": "2057167470562247100",
+        "created_at": "2026-05-20T18:31:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T19:31:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057167470562247100"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zz8WbICVpR",
+              "end": 49,
+              "expanded_url": "https://x.com/imyy1567/status/2057167470562247100/photo/1",
+              "media_key": "3_2057167463167725568",
+              "start": 26,
+              "url": "https://t.co/zz8WbICVpR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057167470562247100",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 1618,
+          "like_count": 101,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喜欢水光肌的都是干皮对吗 根本不知道脸油是什么滋味 https://t.co/zz8WbICVpR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "🚪（纯绿 不入勿扰",
+        "id": "2004619896630788096",
+        "location": "没义务陪聊 别问我乱七八糟的",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2036315164098830372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2056,
+          "following_count": 100,
+          "like_count": 19566,
+          "listed_count": 1,
+          "media_count": 238,
+          "tweet_count": 3239
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-18T21:28:05.000Z",
+        "description": "非如此不可 🚪88",
+        "id": "2013000409003315200",
+        "name": "川",
+        "pinned_tweet_id": "2057040390226923969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013000918875201536/zcutPwqg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1792,
+          "following_count": 46,
+          "like_count": 301,
+          "listed_count": 6,
+          "media_count": 175,
+          "tweet_count": 1072
+        },
+        "username": "imyy1567",
+        "verified": false
+      }
+    ]
+  }
+}

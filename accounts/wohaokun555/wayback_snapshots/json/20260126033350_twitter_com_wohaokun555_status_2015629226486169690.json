@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2015468976663564293",
+    "created_at": "2026-01-26T03:33:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T04:33:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015629226486169690"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1980682684985921536",
+          "start": 0,
+          "username": "linovo33"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015629226486169690",
+    "in_reply_to_user_id": "1980682684985921536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015468976663564293",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@linovo33 对妈妈好点吧。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2015468976663564293",
+        "created_at": "2026-01-26T03:33:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T04:33:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015629226486169690"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1980682684985921536",
+              "start": 0,
+              "username": "linovo33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015629226486169690",
+        "in_reply_to_user_id": "1980682684985921536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015468976663564293",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@linovo33 对妈妈好点吧。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980682684985921536",
+        "conversation_id": "2015468976663564293",
+        "created_at": "2026-01-25T16:57:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T17:57:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015468976663564293"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2015468976663564293",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3515,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我和我妈妈因为我容貌焦虑吵过很多次架，我上学的钱还有我的生活费什么的都是我妈妈一个人承担的，就是很不容易吧，我妈妈从来不会买不太实用的东西，有天她说带我去吃糖醋排骨，我跟着她结果她带我走到了美容院门口，她说这已经是她想到的唯一能不让我再焦虑的办法了，她可以再省吃俭用一点。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "",
+        "id": "2004619896630788096",
+        "location": "🤔",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2007765884035813533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014313058978406400/yLC08oHO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 458,
+          "following_count": 69,
+          "like_count": 3032,
+          "listed_count": 1,
+          "media_count": 45,
+          "tweet_count": 819
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-21T17:09:11.000Z",
+        "description": "不收门不加任何联系方式不下海不线下别私信我｜防走丢小号@linovo332 ｜我很敏感请不要对我有恶意不喜欢我拉黑就好",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "linovo332"
+              }
+            ]
+          }
+        },
+        "id": "1980682684985921536",
+        "location": "Amoy",
+        "name": "檩",
+        "pinned_tweet_id": "2012461133769105826",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010005579511803909/rdE55MHV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 760,
+          "following_count": 57,
+          "like_count": 2218,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 1238
+        },
+        "username": "linovo33",
+        "verified": false
+      }
+    ]
+  }
+}

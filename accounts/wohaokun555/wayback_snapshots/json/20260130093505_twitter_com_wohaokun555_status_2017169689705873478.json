@@ -1,0 +1,337 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2017092916238516544",
+    "created_at": "2026-01-30T09:35:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T10:35:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017169689705873478"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1421648468716572672",
+          "start": 0,
+          "username": "pianzisima123"
+        },
+        {
+          "end": 20,
+          "id": "1720665183188922368",
+          "start": 15,
+          "username": "grok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017169689705873478",
+    "in_reply_to_user_id": "1421648468716572672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017092916238516544",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pianzisima123 @grok 我屁股放这里了！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2017092912295923714",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_4nURRbUAIzcJY.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2017092916238516544",
+        "created_at": "2026-01-30T09:35:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T10:35:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017169689705873478"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1421648468716572672",
+              "start": 0,
+              "username": "pianzisima123"
+            },
+            {
+              "end": 20,
+              "id": "1720665183188922368",
+              "start": 15,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017169689705873478",
+        "in_reply_to_user_id": "1421648468716572672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017092916238516544",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pianzisima123 @grok 我屁股放这里了！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017092912295923714"
+          ]
+        },
+        "author_id": "1421648468716572672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2017092916238516544",
+        "created_at": "2026-01-30T04:30:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T05:30:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017092916238516544"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 60,
+              "id": "1720665183188922368",
+              "start": 55,
+              "username": "grok"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xYJWAWFEmH",
+              "end": 174,
+              "expanded_url": "https://x.com/pianzisima123/status/2017092916238516544/photo/1",
+              "media_key": "3_2017092912295923714",
+              "start": 151,
+              "url": "https://t.co/xYJWAWFEmH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017092916238516544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 775,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 40,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "滴滴滴，第二期每周五抽奖！！！\n照旧十杯🧋，每个18.8，总共188元留言即可参加，明天中午开奖，本次抽奖使用@grok，我会将推文链接发给grok让他从留言里抽选出十位宝子\n顺便问问有没有江浙沪找长期的老板呀？\n话说大家有没有什么趣事想分享的可以私聊大橘\n周五找大橘，免费抽奶茶，开启幸福周末生活😘 https://t.co/xYJWAWFEmH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2JlN5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2JlN5"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "发生殖器死妈！",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2016072861732212867",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014313058978406400/yLC08oHO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 496,
+          "following_count": 71,
+          "like_count": 4089,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 936
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-01T01:46:52.000Z",
+        "description": "佛系连连看\n₍˄·͈༝·͈˄*₎◞ ̑̑\n年少无知闯推圈，被坑二十多个\n生活吐槽与粉丝互动，牵线搭桥分享经历。未满18岁请勿关注，不接任何推广",
+        "id": "1421648468716572672",
+        "location": "Beijing",
+        "name": "大橘连连看",
+        "pinned_tweet_id": "1992531292643328301",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727361782887673856/um9H-A7w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3836,
+          "following_count": 6,
+          "like_count": 2913,
+          "listed_count": 12,
+          "media_count": 623,
+          "tweet_count": 3866
+        },
+        "username": "pianzisima123",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "https://t.co/fqNKQSiLQB\n@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 24,
+                "username": "grok"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSiLQB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 23,
+                "expanded_url": "https://grok.com",
+                "start": 0,
+                "url": "https://t.co/BFoTHXcJ8D"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "location": "wherever you are",
+        "name": "Grok",
+        "pinned_tweet_id": "1955006865332638036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7718231,
+          "following_count": 3,
+          "like_count": 84,
+          "listed_count": 5931,
+          "media_count": 7969489,
+          "tweet_count": 96602975
+        },
+        "url": "https://t.co/BFoTHXcJ8D",
+        "username": "grok",
+        "verified": true
+      }
+    ]
+  }
+}

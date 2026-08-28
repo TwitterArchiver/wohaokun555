@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2017131110959108320",
+    "created_at": "2026-01-30T07:10:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T08:10:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017133359265399042"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1174571362620514306",
+          "start": 0,
+          "username": "HolsonChuang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017133359265399042",
+    "in_reply_to_user_id": "1174571362620514306",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017131754562462070",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HolsonChuang 辣死我了n"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2017131110959108320",
+        "created_at": "2026-01-30T07:10:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T08:10:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017133359265399042"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1174571362620514306",
+              "start": 0,
+              "username": "HolsonChuang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017133359265399042",
+        "in_reply_to_user_id": "1174571362620514306",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017131754562462070",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HolsonChuang 辣死我了n"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1174571362620514306",
+        "conversation_id": "2017131110959108320",
+        "created_at": "2026-01-30T07:04:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T08:04:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017131754562462070"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017131754562462070",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017131110959108320",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 火鸡面 你们的神回来了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2JlN5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2JlN5"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "发生殖器死妈！",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2016072861732212867",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014313058978406400/yLC08oHO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 494,
+          "following_count": 71,
+          "like_count": 4027,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 923
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2019-09-19T06:30:22.000Z",
+        "description": "Bonjour Tristesse",
+        "id": "1174571362620514306",
+        "location": "约克纳帕塔法",
+        "name": "Faulkner",
+        "pinned_tweet_id": "2015079789208727750",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009608221368221696/WQtxRtmS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 230,
+          "like_count": 334,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 244
+        },
+        "username": "HolsonChuang",
+        "verified": false
+      }
+    ]
+  }
+}

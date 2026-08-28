@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2017154717072375855",
+    "created_at": "2026-01-31T06:27:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T07:27:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017484830020407641"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1935705327380410369",
+          "start": 0,
+          "username": "chanhui1027"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017484830020407641",
+    "in_reply_to_user_id": "1935705327380410369",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017483042995175917",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chanhui1027 这是什么"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2017154717072375855",
+        "created_at": "2026-01-31T06:27:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T07:27:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017484830020407641"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1935705327380410369",
+              "start": 0,
+              "username": "chanhui1027"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017484830020407641",
+        "in_reply_to_user_id": "1935705327380410369",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017483042995175917",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chanhui1027 这是什么"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1935705327380410369",
+        "conversation_id": "2017154717072375855",
+        "created_at": "2026-01-31T06:20:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T07:20:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017483042995175917"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017483042995175917",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017154717072375855",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 27781391"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2JlN5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2JlN5"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "发生殖器死妈！",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2016072861732212867",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014313058978406400/yLC08oHO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 534,
+          "following_count": 74,
+          "like_count": 4328,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 961
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-19T14:24:54.000Z",
+        "description": "恨幸福来过",
+        "id": "1935705327380410369",
+        "location": "纯绿🚪52",
+        "name": "我在哭",
+        "pinned_tweet_id": "2010335922173399267",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016980372098338817/sIHQ4iJo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 22,
+          "like_count": 221,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 520
+        },
+        "username": "chanhui1027",
+        "verified": false
+      }
+    ]
+  }
+}

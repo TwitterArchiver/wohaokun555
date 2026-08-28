@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2044646691358527488"
+      ]
+    },
+    "author_id": "2004619896630788096",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2044646702490288585",
+    "created_at": "2026-04-16T05:18:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T06:18:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044646702490288585"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/wuFvkl2D8W",
+          "end": 35,
+          "expanded_url": "https://x.com/wohaokun555/status/2044646702490288585/photo/1",
+          "media_key": "3_2044646691358527488",
+          "start": 12,
+          "url": "https://t.co/wuFvkl2D8W"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044646702490288585",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "Calpol重度依赖🥹 https://t.co/wuFvkl2D8W"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 891,
+        "media_key": "3_2044646691358527488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGALVTGaUAAW8LH.jpg",
+        "width": 1010
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044646691358527488"
+          ]
+        },
+        "author_id": "2004619896630788096",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2044646702490288585",
+        "created_at": "2026-04-16T05:18:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T06:18:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044646702490288585"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wuFvkl2D8W",
+              "end": 35,
+              "expanded_url": "https://x.com/wohaokun555/status/2044646702490288585/photo/1",
+              "media_key": "3_2044646691358527488",
+              "start": 12,
+              "url": "https://t.co/wuFvkl2D8W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044646702490288585",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Calpol重度依赖🥹 https://t.co/wuFvkl2D8W"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "每天发些乱七八糟的碎碎念 和一些自认为很好看的自拍照 分享号主的忧郁极品生活",
+        "id": "2004619896630788096",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2036315164098830372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1694,
+          "following_count": 98,
+          "like_count": 15683,
+          "listed_count": 1,
+          "media_count": 188,
+          "tweet_count": 2872
+        },
+        "url": "",
+        "username": "wohaokun555",
+        "verified": false
+      }
+    ]
+  }
+}

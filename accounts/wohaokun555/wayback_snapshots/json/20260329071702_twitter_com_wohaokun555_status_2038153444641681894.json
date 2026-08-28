@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2038132196024979531",
+    "created_at": "2026-03-29T07:17:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T08:17:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038153444641681894"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1542453524763930625",
+          "start": 0,
+          "username": "Geliebt1115"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038153444641681894",
+    "in_reply_to_user_id": "1542453524763930625",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038152631651274959",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Geliebt1115 以前问过一个人他说都过去了大学大家也该开始新的生活了…🤦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2038132196024979531",
+        "created_at": "2026-03-29T07:17:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T08:17:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038153444641681894"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1542453524763930625",
+              "start": 0,
+              "username": "Geliebt1115"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038153444641681894",
+        "in_reply_to_user_id": "1542453524763930625",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038152631651274959",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Geliebt1115 以前问过一个人他说都过去了大学大家也该开始新的生活了…🤦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1542453524763930625",
+        "conversation_id": "2038132196024979531",
+        "created_at": "2026-03-29T07:13:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T08:13:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038152631651274959"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038152631651274959",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038132196024979531",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 不妨去问问"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "🚪🫶🏻🫰🏻🩶",
+        "id": "2004619896630788096",
+        "location": "三体（私信只回复口令和🚪",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2035966922010087790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1462,
+          "following_count": 99,
+          "like_count": 13377,
+          "listed_count": 1,
+          "media_count": 136,
+          "tweet_count": 2464
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-30T10:22:49.000Z",
+        "description": "有🚪，你说得都对\n匿名信箱https://t.co/RIsHjaSjHB",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/geliebt1115",
+                "end": 36,
+                "expanded_url": "https://ngl.link/geliebt1115",
+                "start": 13,
+                "url": "https://t.co/RIsHjaSjHB"
+              }
+            ]
+          }
+        },
+        "id": "1542453524763930625",
+        "name": "啊对对对",
+        "pinned_tweet_id": "1809141272399229249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1612890641939443712/zuLrL6rM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1184,
+          "following_count": 183,
+          "like_count": 1945,
+          "listed_count": 3,
+          "media_count": 198,
+          "tweet_count": 2690
+        },
+        "username": "Geliebt1115",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2063543247721640237",
+    "created_at": "2026-06-07T08:47:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T09:47:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063543247721640237"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2063543247721640237",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "下辈子吧 我们家不要离那么远了我恰好住你家隔壁 恰好我们的年龄 恰好我们是亲戚 又恰我们是好朋友"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2063543247721640237",
+        "created_at": "2026-06-07T08:47:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T09:47:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063543247721640237"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063543247721640237",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "下辈子吧 我们家不要离那么远了我恰好住你家隔壁 恰好我们的年龄 恰好我们是亲戚 又恰我们是好朋友"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "",
+        "id": "2004619896630788096",
+        "location": "私信只回口令过门 其他勿扰…",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2062769965330227585",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2248,
+          "following_count": 77,
+          "like_count": 21425,
+          "listed_count": 2,
+          "media_count": 142,
+          "tweet_count": 3406
+        },
+        "username": "wohaokun555",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2004787252644511857",
+    "created_at": "2025-12-27T12:54:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-27T13:54:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004898631376404622"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1950172970422329344",
+          "start": 0,
+          "username": "jwkjyqk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004898631376404622",
+    "in_reply_to_user_id": "1950172970422329344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004894856435696080",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jwkjyqk 是的呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2004787252644511857",
+        "created_at": "2025-12-27T12:54:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T13:54:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004898631376404622"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1950172970422329344",
+              "start": 0,
+              "username": "jwkjyqk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004898631376404622",
+        "in_reply_to_user_id": "1950172970422329344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004894856435696080",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jwkjyqk 是的呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1950172970422329344",
+        "conversation_id": "2004787252644511857",
+        "created_at": "2025-12-27T12:39:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T13:39:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004894856435696080"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004894856435696080",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004787252644511857",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 好可爱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "🚪66",
+        "id": "2004619896630788096",
+        "location": "Hong Kong",
+        "name": "鱼虾一整碗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004620653153189888/VWgYLNYv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 8,
+          "like_count": 61,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 50
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-29T12:34:24.000Z",
+        "description": "直男  纯爱\nistp    switch    ddlg         素质不详\n世界上另一个我\n碎碎念  想到啥说啥 废话居多\n性取向正常    我一定会养一只属于我的小猫",
+        "id": "1950172970422329344",
+        "location": "无人在意",
+        "name": "仅我可见",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998069194609586176/EIdKTvOA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 114,
+          "like_count": 93,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 306
+        },
+        "username": "jwkjyqk",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2069092420265128203",
+    "created_at": "2026-06-23T11:44:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T12:44:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069386092722471206"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2050887139865300992",
+          "start": 0,
+          "username": "kkkkkirito12138"
+        },
+        {
+          "end": 23,
+          "id": "1905756720124891136",
+          "start": 17,
+          "username": "tua0t"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069386092722471206",
+    "in_reply_to_user_id": "2050887139865300992",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069301744115614096",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kkkkkirito12138 @tua0t ？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2069092420265128203",
+        "created_at": "2026-06-23T11:44:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T12:44:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069386092722471206"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2050887139865300992",
+              "start": 0,
+              "username": "kkkkkirito12138"
+            },
+            {
+              "end": 23,
+              "id": "1905756720124891136",
+              "start": 17,
+              "username": "tua0t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069386092722471206",
+        "in_reply_to_user_id": "2050887139865300992",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069301744115614096",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kkkkkirito12138 @tua0t ？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050887139865300992",
+        "conversation_id": "2069092420265128203",
+        "created_at": "2026-06-23T06:09:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T07:09:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069301744115614096"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1905756720124891136",
+              "start": 0,
+              "username": "tua0t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069301744115614096",
+        "in_reply_to_user_id": "1905756720124891136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 98,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069092420265128203",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tua0t 谁交配一下"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "🐈‍⬛",
+        "id": "2004619896630788096",
+        "location": "私信只回口令入门 闲聊勿扰～",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2067618656885125585",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2488,
+          "following_count": 81,
+          "like_count": 22816,
+          "listed_count": 2,
+          "media_count": 136,
+          "tweet_count": 3642
+        },
+        "url": "",
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-03T10:40:35.000Z",
+        "description": "08白羊 直男不4i 勿骚扰礼貌私信会回 \n🚪🫧88 匿名提问在下面👇",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/k407510",
+                "end": 23,
+                "expanded_url": "https://ngl.link/k407510",
+                "start": 0,
+                "url": "https://t.co/17y3x4clkb"
+              }
+            ]
+          }
+        },
+        "id": "2050887139865300992",
+        "location": "21km",
+        "name": "薄荷味的雪",
+        "pinned_tweet_id": "2052628256864538760",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057457738737999872/auHCR0Cy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1334,
+          "following_count": 40,
+          "like_count": 2045,
+          "listed_count": 2,
+          "media_count": 82,
+          "tweet_count": 610
+        },
+        "url": "https://t.co/17y3x4clkb",
+        "username": "kkkkkirito12138",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-28T22:59:53.000Z",
+        "description": "已读不回＝拉黑",
+        "id": "1905756720124891136",
+        "location": "🚪88/188/福利多多",
+        "name": "兔牙",
+        "pinned_tweet_id": "1988101734192083149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068718222610993152/OchT4Ldr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3120,
+          "following_count": 114,
+          "like_count": 1681,
+          "listed_count": 8,
+          "media_count": 33,
+          "tweet_count": 219
+        },
+        "url": "",
+        "username": "tua0t",
+        "verified": false
+      }
+    ]
+  }
+}

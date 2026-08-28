@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2062709681047671148",
+    "created_at": "2026-06-05T08:30:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T09:30:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062814316106244154"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1750564848096731136",
+          "start": 0,
+          "username": "yydwzzz"
+        },
+        {
+          "end": 25,
+          "id": "1756517429621211136",
+          "start": 9,
+          "username": "lix728191433001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062814316106244154",
+    "in_reply_to_user_id": "1750564848096731136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062786097621700758",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yydwzzz @lix728191433001 我能拉屎"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2062709681047671148",
+        "created_at": "2026-06-05T08:30:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T09:30:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062814316106244154"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1750564848096731136",
+              "start": 0,
+              "username": "yydwzzz"
+            },
+            {
+              "end": 25,
+              "id": "1756517429621211136",
+              "start": 9,
+              "username": "lix728191433001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062814316106244154",
+        "in_reply_to_user_id": "1750564848096731136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062786097621700758",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yydwzzz @lix728191433001 我能拉屎"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1750564848096731136",
+        "conversation_id": "2062709681047671148",
+        "created_at": "2026-06-05T06:38:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T07:38:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062786097621700758"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1756517429621211136",
+              "start": 0,
+              "username": "lix728191433001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062786097621700758",
+        "in_reply_to_user_id": "1756517429621211136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 124,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062709681047671148",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lix728191433001 我能拉40个"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "🚪（520",
+        "id": "2004619896630788096",
+        "location": "口令➕姓",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2036315164098830372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2225,
+          "following_count": 76,
+          "like_count": 21344,
+          "listed_count": 2,
+          "media_count": 138,
+          "tweet_count": 3370
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-25T17:02:44.000Z",
+        "description": "我素直男",
+        "id": "1750564848096731136",
+        "location": "B612",
+        "name": "阿比",
+        "pinned_tweet_id": "2020996566312800412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040594545772310528/obFLBqd0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6750,
+          "following_count": 35,
+          "like_count": 417,
+          "listed_count": 11,
+          "media_count": 54,
+          "tweet_count": 1523
+        },
+        "username": "yydwzzz",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-11T03:16:19.000Z",
+        "description": "05。直女。",
+        "id": "1756517429621211136",
+        "location": "心里",
+        "name": "小圆子",
+        "pinned_tweet_id": "1938059880826605725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919159575607181312/RamoZMYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2290,
+          "following_count": 805,
+          "like_count": 1515,
+          "listed_count": 2,
+          "media_count": 71,
+          "tweet_count": 1693
+        },
+        "username": "lix728191433001",
+        "verified": false
+      }
+    ]
+  }
+}

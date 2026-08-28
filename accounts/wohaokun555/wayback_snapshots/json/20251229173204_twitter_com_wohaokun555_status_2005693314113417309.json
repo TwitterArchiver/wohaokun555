@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2005641588467532034",
+    "created_at": "2025-12-29T17:32:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-29T18:32:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005693314113417309"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1754957956008067072",
+          "start": 0,
+          "username": "su77990"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005693314113417309",
+    "in_reply_to_user_id": "1754957956008067072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005641588467532034",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@su77990 请讲普通话"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 223,
+        "media_key": "3_2005641581467193344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9V4ZFoa0AAjPGK.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2005641588467532034",
+        "created_at": "2025-12-29T17:32:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-29T18:32:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005693314113417309"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1754957956008067072",
+              "start": 0,
+              "username": "su77990"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005693314113417309",
+        "in_reply_to_user_id": "1754957956008067072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005641588467532034",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@su77990 请讲普通话"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2005641581467193344"
+          ]
+        },
+        "author_id": "1754957956008067072",
+        "conversation_id": "2005641588467532034",
+        "created_at": "2025-12-29T14:06:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-29T15:06:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005641588467532034"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZbYTV8drY4",
+              "end": 26,
+              "expanded_url": "https://x.com/su77990/status/2005641588467532034/photo/1",
+              "media_key": "3_2005641581467193344",
+              "start": 3,
+              "url": "https://t.co/ZbYTV8drY4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005641588467532034",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2887,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "？？ https://t.co/ZbYTV8drY4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "🚪66",
+        "id": "2004619896630788096",
+        "location": "Hong Kong",
+        "name": "鱼虾一整碗",
+        "pinned_tweet_id": "2005582001685012508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004620653153189888/VWgYLNYv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 28,
+          "like_count": 274,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 160
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-06T19:59:26.000Z",
+        "description": "",
+        "id": "1754957956008067072",
+        "location": "🚪68",
+        "name": "甜甜",
+        "pinned_tweet_id": "1823431036812058770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968531424967016448/zCu8sghW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30499,
+          "following_count": 7,
+          "like_count": 144,
+          "listed_count": 32,
+          "media_count": 41,
+          "tweet_count": 56
+        },
+        "username": "su77990",
+        "verified": false
+      }
+    ]
+  }
+}

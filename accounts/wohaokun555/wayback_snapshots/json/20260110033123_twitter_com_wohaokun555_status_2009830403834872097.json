@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2009497997684691185",
+    "created_at": "2026-01-10T03:31:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-10T04:31:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009830403834872097"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1881712618852999168",
+          "start": 0,
+          "username": "dd1820225995428"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009830403834872097",
+    "in_reply_to_user_id": "1881712618852999168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009830241670402188",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dd1820225995428 还是买新的吧 我感觉 但是我买完挺后悔的我想买个action6"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2009497997684691185",
+        "created_at": "2026-01-10T03:31:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T04:31:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009830403834872097"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1881712618852999168",
+              "start": 0,
+              "username": "dd1820225995428"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009830403834872097",
+        "in_reply_to_user_id": "1881712618852999168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009830241670402188",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dd1820225995428 还是买新的吧 我感觉 但是我买完挺后悔的我想买个action6"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1881712618852999168",
+        "conversation_id": "2009497997684691185",
+        "created_at": "2026-01-10T03:30:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T04:30:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009830241670402188"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009830241670402188",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009497997684691185",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 现在降价了有点想买但又想看看新品跟3有什么区别"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "@lei_meng123 满足个人分享欲",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 0,
+                "username": "lei_meng123"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "有🚪 别来私信骚扰我 发生殖器官司马",
+        "name": "鱼虾一整碗",
+        "pinned_tweet_id": "2007765884035813533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004620653153189888/VWgYLNYv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 318,
+          "following_count": 63,
+          "like_count": 2101,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 703
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-21T14:37:12.000Z",
+        "description": "181 56（增肌版）直的直的！！！欢迎大家找我玩  很感谢大家对我的喜欢 互关➕v",
+        "id": "1881712618852999168",
+        "location": "巴黎",
+        "name": "dd",
+        "pinned_tweet_id": "1944360665201742071",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910966207412318208/3yWgJI_5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 365,
+          "following_count": 697,
+          "like_count": 2580,
+          "listed_count": 2,
+          "media_count": 61,
+          "tweet_count": 2999
+        },
+        "username": "dd1820225995428",
+        "verified": false
+      }
+    ]
+  }
+}

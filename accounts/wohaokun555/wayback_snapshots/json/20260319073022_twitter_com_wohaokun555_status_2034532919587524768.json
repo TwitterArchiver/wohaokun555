@@ -1,0 +1,107 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2034532919587524768",
+    "created_at": "2026-03-19T07:30:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T08:30:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2034532919587524768"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2034532919587524768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我被公司开除了，不想上班，业绩很差劲，同事们都不喜欢我，我的朋友也不管我。现在我在天桥底下，外面很冷，我一张被子也没有，我今天饭也没吃药也没吃，我整个人都晕乎乎的，连口热水都没得喝，电脑也快没电了，还不小心点开了肯德基，今天是疯狂星期四，请我吃肯德基。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2034532919587524768",
+        "created_at": "2026-03-19T07:30:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T08:30:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034532919587524768"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2034532919587524768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我被公司开除了，不想上班，业绩很差劲，同事们都不喜欢我，我的朋友也不管我。现在我在天桥底下，外面很冷，我一张被子也没有，我今天饭也没吃药也没吃，我整个人都晕乎乎的，连口热水都没得喝，电脑也快没电了，还不小心点开了肯德基，今天是疯狂星期四，请我吃肯德基。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2JlN5\n🚪",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2JlN5"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "三体",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2008543541979738501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1307,
+          "following_count": 99,
+          "like_count": 12005,
+          "listed_count": 1,
+          "media_count": 112,
+          "tweet_count": 2217
+        },
+        "username": "wohaokun555",
+        "verified": false
+      }
+    ]
+  }
+}

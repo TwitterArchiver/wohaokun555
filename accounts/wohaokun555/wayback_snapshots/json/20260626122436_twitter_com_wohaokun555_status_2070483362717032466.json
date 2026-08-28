@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2070420015749468625",
+    "created_at": "2026-06-26T12:24:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T13:24:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070483362717032466"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2042533983758508032",
+          "start": 0,
+          "username": "str7788man"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070483362717032466",
+    "in_reply_to_user_id": "2042533983758508032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070466809653014759",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@str7788man 一直在放孙燕姿的歌"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2070420015749468625",
+        "created_at": "2026-06-26T12:24:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T13:24:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070483362717032466"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2042533983758508032",
+              "start": 0,
+              "username": "str7788man"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070483362717032466",
+        "in_reply_to_user_id": "2042533983758508032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070466809653014759",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@str7788man 一直在放孙燕姿的歌"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042533983758508032",
+        "conversation_id": "2070420015749468625",
+        "created_at": "2026-06-26T11:18:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T12:18:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070466809653014759"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070466809653014759",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070420015749468625",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 其实耳机没电莫得歌听还不算最难受的，大不了自己无声练。最难绷的是健身房再给你放点小情歌🖕🏻"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "让我成为我，让一座山并存着嶙峋和肥沃",
+        "id": "2004619896630788096",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2067618656885125585",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2516,
+          "following_count": 81,
+          "like_count": 22955,
+          "listed_count": 2,
+          "media_count": 139,
+          "tweet_count": 3672
+        },
+        "url": "",
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-10T09:23:55.000Z",
+        "description": "兴趣爱好极广，退堂鼓代言人，指不定下个月就有新爱好的家伙。\n绘画，动漫，健身，小说",
+        "id": "2042533983758508032",
+        "name": "请把窗帘拉一下",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042534122158239744/cj2vDQzE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 114,
+          "like_count": 657,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 175
+        },
+        "url": "",
+        "username": "str7788man",
+        "verified": false
+      }
+    ]
+  }
+}

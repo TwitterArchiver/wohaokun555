@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2023021290072981803",
+    "created_at": "2026-02-16T06:46:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T07:46:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023287749428879364"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1836707859666792448",
+          "start": 0,
+          "username": "Avery_4201"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023287749428879364",
+    "in_reply_to_user_id": "1836707859666792448",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023287363808756184",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Avery_4201 yep"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2023021290072981803",
+        "created_at": "2026-02-16T06:46:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T07:46:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023287749428879364"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1836707859666792448",
+              "start": 0,
+              "username": "Avery_4201"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023287749428879364",
+        "in_reply_to_user_id": "1836707859666792448",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023287363808756184",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Avery_4201 yep"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836707859666792448",
+        "conversation_id": "2023021290072981803",
+        "created_at": "2026-02-16T06:44:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T07:44:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023287363808756184"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023287363808756184",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023021290072981803",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 而且是疲惫的周末"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2JlN5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2JlN5"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "🚪188（纯绿纯绿（除了口令和门槛别的私信不回",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2016792238060421479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 795,
+          "following_count": 83,
+          "like_count": 8108,
+          "listed_count": 0,
+          "media_count": 92,
+          "tweet_count": 1539
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-19T10:04:40.000Z",
+        "description": "加密学习者｜美股定投｜自媒体长期主义",
+        "id": "1836707859666792448",
+        "name": "Avery",
+        "pinned_tweet_id": "2020721170048315491",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011411436585779200/B4zWX6QH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 844,
+          "following_count": 819,
+          "like_count": 10040,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 523
+        },
+        "username": "Avery_4201",
+        "verified": true
+      }
+    ]
+  }
+}

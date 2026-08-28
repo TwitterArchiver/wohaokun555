@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2066161499710878084",
+    "created_at": "2026-06-14T14:11:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T15:11:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066161499710878084"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2066161499710878084",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "一觉醒来是高二的某一节课在走廊喊着我的名字说 拜拜 明天见"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2066161499710878084",
+        "created_at": "2026-06-14T14:11:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T15:11:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066161499710878084"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066161499710878084",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一觉醒来是高二的某一节课在走廊喊着我的名字说 拜拜 明天见"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "@lei_meng123（随缘过\n这是一个女孩的内心世界🌍",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 0,
+                "username": "lei_meng123"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "私信只回口令过门 其他勿扰…",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2062769965330227585",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2321,
+          "following_count": 77,
+          "like_count": 22076,
+          "listed_count": 2,
+          "media_count": 145,
+          "tweet_count": 3532
+        },
+        "username": "wohaokun555",
+        "verified": false
+      }
+    ]
+  }
+}

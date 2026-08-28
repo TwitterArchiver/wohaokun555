@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2058900294864703554",
+    "created_at": "2026-05-25T13:19:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T14:19:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058900866602827971"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1852390818390450176",
+          "start": 0,
+          "username": "Lrmc4e"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058900866602827971",
+    "in_reply_to_user_id": "1852390818390450176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058900294864703554",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lrmc4e 老公我又想着你扣逼逼了"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with referenced_tweets.id: [2058900294864703554].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2058900294864703554",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2058900294864703554"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2058900294864703554",
+        "created_at": "2026-05-25T13:19:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T14:19:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058900866602827971"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1852390818390450176",
+              "start": 0,
+              "username": "Lrmc4e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058900866602827971",
+        "in_reply_to_user_id": "1852390818390450176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058900294864703554",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lrmc4e 老公我又想着你扣逼逼了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "🚪（纯绿 不入勿扰\n@lei_meng123 随缘过",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 10,
+                "username": "lei_meng123"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2036315164098830372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2058,
+          "following_count": 79,
+          "like_count": 19929,
+          "listed_count": 1,
+          "media_count": 244,
+          "tweet_count": 3290
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-01T16:42:50.000Z",
+        "description": "这个账号只是为了满足自己的分享欲 @ditchn2c",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 17,
+                "username": "ditchn2c"
+              }
+            ]
+          }
+        },
+        "id": "1852390818390450176",
+        "name": "Looe",
+        "pinned_tweet_id": "2029190752761463130",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852391001618612224/yosj9UJd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13997,
+          "following_count": 104,
+          "like_count": 20905,
+          "listed_count": 31,
+          "media_count": 244,
+          "tweet_count": 5523
+        },
+        "username": "Lrmc4e",
+        "verified": false
+      }
+    ]
+  }
+}

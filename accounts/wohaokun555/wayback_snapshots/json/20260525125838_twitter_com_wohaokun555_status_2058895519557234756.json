@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2058889623351488709",
+    "created_at": "2026-05-25T12:58:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T13:58:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058895519557234756"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1887893037365559296",
+          "start": 0,
+          "username": "k4p6mj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058895519557234756",
+    "in_reply_to_user_id": "1887893037365559296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058895110964978155",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@k4p6mj 下一秒被雨淋的不像样了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2058889623351488709",
+        "created_at": "2026-05-25T12:58:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T13:58:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058895519557234756"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1887893037365559296",
+              "start": 0,
+              "username": "k4p6mj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058895519557234756",
+        "in_reply_to_user_id": "1887893037365559296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058895110964978155",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@k4p6mj 下一秒被雨淋的不像样了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887893037365559296",
+        "conversation_id": "2058889623351488709",
+        "created_at": "2026-05-25T12:57:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T13:57:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058895110964978155"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058895110964978155",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058889623351488709",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 好萌啊…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "🚪（纯绿 不入勿扰\n@lei_meng123 随缘过",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 10,
+                "username": "lei_meng123"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2036315164098830372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2058,
+          "following_count": 79,
+          "like_count": 19926,
+          "listed_count": 1,
+          "media_count": 244,
+          "tweet_count": 3288
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-07T15:56:06.000Z",
+        "description": "吾乃天之饺子",
+        "id": "1887893037365559296",
+        "name": "化合物",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018005950712762368/BZ7d20ZK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 527,
+          "following_count": 94,
+          "like_count": 7391,
+          "listed_count": 2,
+          "media_count": 88,
+          "tweet_count": 6401
+        },
+        "username": "k4p6mj",
+        "verified": false
+      }
+    ]
+  }
+}

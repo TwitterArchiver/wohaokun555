@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2036982761932939395",
+    "created_at": "2026-03-26T01:45:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T02:45:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036982761932939395"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1926689407802687488",
+          "start": 3,
+          "username": "liulanggouwait"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036982761932939395",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036258391082017281",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @liulanggouwait: 为什么被自己摸和被别人摸的感觉差这么大"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2036982761932939395",
+        "created_at": "2026-03-26T01:45:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T02:45:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036982761932939395"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1926689407802687488",
+              "start": 3,
+              "username": "liulanggouwait"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036982761932939395",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036258391082017281",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @liulanggouwait: 为什么被自己摸和被别人摸的感觉差这么大"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1926689407802687488",
+        "conversation_id": "2036258391082017281",
+        "created_at": "2026-03-24T01:46:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T02:46:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036258391082017281"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036258391082017281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 305906,
+          "like_count": 797,
+          "quote_count": 9,
+          "reply_count": 78,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "为什么被自己摸和被别人摸的感觉差这么大"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "🚪🫶🏻🫰🏻🩶",
+        "id": "2004619896630788096",
+        "location": "三体（私信只回复口令和🚪",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2035966922010087790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1427,
+          "following_count": 99,
+          "like_count": 12948,
+          "listed_count": 1,
+          "media_count": 124,
+          "tweet_count": 2393
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-25T17:18:56.000Z",
+        "description": "19.1    2.0    1/4    2/3    狗                                                 由3/4m+1/4brat组成   爱是臣服",
+        "id": "1926689407802687488",
+        "location": "我的幻想意淫碎碎念",
+        "name": "X",
+        "pinned_tweet_id": "2033204603177861610",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988283548529577985/xxTmshNz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1217,
+          "following_count": 11,
+          "like_count": 136,
+          "listed_count": 4,
+          "media_count": 5,
+          "tweet_count": 218
+        },
+        "username": "liulanggouwait",
+        "verified": false
+      }
+    ]
+  }
+}

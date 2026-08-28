@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2010536846292562048",
+    "created_at": "2026-01-12T09:04:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-12T10:04:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010638968912797969"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1720307495191678976",
+          "start": 0,
+          "username": "kanan31531"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010638968912797969",
+    "in_reply_to_user_id": "1720307495191678976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010637636701135273",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kanan31531 太敏感了可能…我太容易相信了，我感觉身边的人都很好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2010536846292562048",
+        "created_at": "2026-01-12T09:04:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T10:04:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010638968912797969"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1720307495191678976",
+              "start": 0,
+              "username": "kanan31531"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010638968912797969",
+        "in_reply_to_user_id": "1720307495191678976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010637636701135273",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kanan31531 太敏感了可能…我太容易相信了，我感觉身边的人都很好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720307495191678976",
+        "conversation_id": "2010536846292562048",
+        "created_at": "2026-01-12T08:59:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T09:59:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010637636701135273"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010637636701135273",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010637217128153391",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 就是又焦虑，呃又容易相信人，有点缺安全感了，然后还贼有病，我靠。我发了消息别人不理我，我老是喜欢去揣测，想找对方就是在背刺我什么的信息，然后误会人家了，又疯狂道歉，不知道该怎么取得原谅🌚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "",
+        "id": "2004619896630788096",
+        "location": "？！",
+        "name": "鱼虾一整碗",
+        "pinned_tweet_id": "2009185555268112534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004620653153189888/VWgYLNYv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 436,
+          "following_count": 66,
+          "like_count": 2283,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 713
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-03T05:10:56.000Z",
+        "description": "靠，怎么没人叼我",
+        "id": "1720307495191678976",
+        "name": "明玥天",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010546040601231360/t0Bx8rjF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 9,
+          "like_count": 1560,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 31
+        },
+        "username": "kanan31531",
+        "verified": false
+      }
+    ]
+  }
+}

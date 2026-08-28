@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2018189377256787968"
+      ]
+    },
+    "author_id": "2004619896630788096",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2018189388388388979",
+    "created_at": "2026-02-02T05:07:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-02T06:07:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2018189388388388979"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Es2cCOOqI8",
+          "end": 27,
+          "expanded_url": "https://x.com/wohaokun555/status/2018189388388388979/photo/1",
+          "media_key": "3_2018189377256787968",
+          "start": 4,
+          "url": "https://t.co/Es2cCOOqI8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018189388388388979",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "阳光！ https://t.co/Es2cCOOqI8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2018189377256787968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAIMi7jbkAAIEEF.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018189377256787968"
+          ]
+        },
+        "author_id": "2004619896630788096",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2018189388388388979",
+        "created_at": "2026-02-02T05:07:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T06:07:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018189388388388979"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Es2cCOOqI8",
+              "end": 27,
+              "expanded_url": "https://x.com/wohaokun555/status/2018189388388388979/photo/1",
+              "media_key": "3_2018189377256787968",
+              "start": 4,
+              "url": "https://t.co/Es2cCOOqI8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018189388388388979",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "阳光！ https://t.co/Es2cCOOqI8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2JlN5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2JlN5"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "发生殖器死妈！恶臭男滚！！！",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2016072861732212867",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014313058978406400/yLC08oHO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 564,
+          "following_count": 74,
+          "like_count": 4715,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 1016
+        },
+        "username": "wohaokun555",
+        "verified": false
+      }
+    ]
+  }
+}

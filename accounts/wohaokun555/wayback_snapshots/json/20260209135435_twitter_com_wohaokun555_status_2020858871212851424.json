@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2020750056010473643",
+    "created_at": "2026-02-09T13:54:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T14:54:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020858871212851424"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1556198265061646336",
+          "start": 0,
+          "username": "hfymomoj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020858871212851424",
+    "in_reply_to_user_id": "1556198265061646336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020750056010473643",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hfymomoj 3ce眼影和圣罗兰气垫是真好用！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2020750048641134593",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAsldn0bsAEQv69.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2020750048657805312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAsldn4aEAAQXX8.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2020750056010473643",
+        "created_at": "2026-02-09T13:54:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T14:54:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020858871212851424"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1556198265061646336",
+              "start": 0,
+              "username": "hfymomoj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020858871212851424",
+        "in_reply_to_user_id": "1556198265061646336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020750056010473643",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hfymomoj 3ce眼影和圣罗兰气垫是真好用！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020750048641134593",
+            "3_2020750048657805312"
+          ]
+        },
+        "author_id": "1556198265061646336",
+        "conversation_id": "2020750056010473643",
+        "created_at": "2026-02-09T06:42:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T07:42:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020750056010473643"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/g7KYPwwdBD",
+              "end": 41,
+              "expanded_url": "https://x.com/hfymomoj/status/2020750056010473643/photo/1",
+              "media_key": "3_2020750048641134593",
+              "start": 18,
+              "url": "https://t.co/g7KYPwwdBD"
+            },
+            {
+              "display_url": "pic.x.com/g7KYPwwdBD",
+              "end": 41,
+              "expanded_url": "https://x.com/hfymomoj/status/2020750056010473643/photo/1",
+              "media_key": "3_2020750048657805312",
+              "start": 18,
+              "url": "https://t.co/g7KYPwwdBD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020750056010473643",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 11549,
+          "like_count": 52,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "p1是自用  p2是pyq装逼版: https://t.co/g7KYPwwdBD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2JlN5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2JlN5"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "🚪188（绿（别的私信不回",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2019333252520321256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014313058978406400/yLC08oHO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 666,
+          "following_count": 74,
+          "like_count": 6335,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 1214
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-07T08:39:24.000Z",
+        "description": "发一些碎碎念 营业号私信在@Gniy666随缘互关",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "Gniy666"
+              }
+            ]
+          }
+        },
+        "id": "1556198265061646336",
+        "location": "🚪288/520",
+        "name": "治疗术",
+        "pinned_tweet_id": "1923963433491530106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015482573737381888/HVyMkmvb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46814,
+          "following_count": 62,
+          "like_count": 2397,
+          "listed_count": 136,
+          "media_count": 140,
+          "tweet_count": 1454
+        },
+        "username": "hfymomoj",
+        "verified": false
+      }
+    ]
+  }
+}

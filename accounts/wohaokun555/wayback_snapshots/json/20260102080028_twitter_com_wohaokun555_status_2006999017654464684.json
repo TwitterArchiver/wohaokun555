@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2006999017654464684",
+    "created_at": "2026-01-02T08:00:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-02T09:00:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2006999017654464684"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2006999017654464684",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "小时候觉得5块钱很贵 10点很晚 在麦当劳敢去前台要番茄酱就很勇敢 幻想着去改变世界 长大后发现100块钱不够花 12点也不是很晚 也不知道什么才是勇敢。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2006999017654464684",
+        "created_at": "2026-01-02T08:00:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T09:00:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006999017654464684"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2006999017654464684",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小时候觉得5块钱很贵 10点很晚 在麦当劳敢去前台要番茄酱就很勇敢 幻想着去改变世界 长大后发现100块钱不够花 12点也不是很晚 也不知道什么才是勇敢。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "天天开心o^^o",
+        "id": "2004619896630788096",
+        "location": "三体星球",
+        "name": "鱼虾一整碗",
+        "pinned_tweet_id": "2005582001685012508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004620653153189888/VWgYLNYv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 32,
+          "like_count": 657,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 317
+        },
+        "username": "wohaokun555",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2047180231631573211",
+    "created_at": "2026-04-23T05:45:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T06:45:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047190084332765633"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1978751417100976128",
+          "start": 0,
+          "username": "TDaidai_T"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047190084332765633",
+    "in_reply_to_user_id": "1978751417100976128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047187345561301298",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TDaidai_T 嗯嗯谢谢宝宝 我刚才喝的就是那个 感觉现在好点了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2047180231631573211",
+        "created_at": "2026-04-23T05:45:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T06:45:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047190084332765633"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1978751417100976128",
+              "start": 0,
+              "username": "TDaidai_T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047190084332765633",
+        "in_reply_to_user_id": "1978751417100976128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047187345561301298",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TDaidai_T 嗯嗯谢谢宝宝 我刚才喝的就是那个 感觉现在好点了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1978751417100976128",
+        "conversation_id": "2047180231631573211",
+        "created_at": "2026-04-23T05:34:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T06:34:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047187345561301298"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047187345561301298",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047180231631573211",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 抱抱宝宝🥺司百得的精氨酸布洛芬颗粒真的很难喝，但是起效超级快。或者你可以看看小红书有其他人推荐止痛药"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "",
+        "id": "2004619896630788096",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2036315164098830372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1914,
+          "following_count": 99,
+          "like_count": 16341,
+          "listed_count": 1,
+          "media_count": 196,
+          "tweet_count": 2936
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-16T09:14:54.000Z",
+        "description": "我性格咁多问题 好似冇咩值得你中意",
+        "id": "1978751417100976128",
+        "name": "D",
+        "pinned_tweet_id": "2038647134287958184",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044642372907397120/JpKBjoJK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189,
+          "following_count": 32,
+          "like_count": 2438,
+          "listed_count": 0,
+          "media_count": 107,
+          "tweet_count": 1385
+        },
+        "username": "TDaidai_T",
+        "verified": false
+      }
+    ]
+  }
+}

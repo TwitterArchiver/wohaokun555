@@ -1,0 +1,107 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2027979335467209079",
+    "created_at": "2026-03-01T05:28:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T06:28:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2027979335467209079"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2027979335467209079",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有没有人会修手机呀？我的手机好像坏掉了，应该是我的微信坏掉了吧，就是其他的都能用这个微信也能用啊，但是不知道为什么就是收不到消息了，然后别人给我发消息我都收不到，然后我一条消息都没有"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2027979335467209079",
+        "created_at": "2026-03-01T05:28:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T06:28:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027979335467209079"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2027979335467209079",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有人会修手机呀？我的手机好像坏掉了，应该是我的微信坏掉了吧，就是其他的都能用这个微信也能用啊，但是不知道为什么就是收不到消息了，然后别人给我发消息我都收不到，然后我一条消息都没有"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2JlN5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2JlN5"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "除了口令和正常问题别的私信不回",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2016792238060421479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 944,
+          "following_count": 95,
+          "like_count": 9705,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 1772
+        },
+        "username": "wohaokun555",
+        "verified": false
+      }
+    ]
+  }
+}

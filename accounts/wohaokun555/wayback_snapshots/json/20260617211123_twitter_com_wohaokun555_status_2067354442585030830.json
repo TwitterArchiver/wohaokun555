@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2067112501817516041",
+    "created_at": "2026-06-17T21:11:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T22:11:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067354442585030830"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1212683181029068800",
+          "start": 0,
+          "username": "Cigamipcy1124"
+        },
+        {
+          "end": 29,
+          "id": "1395010837505396739",
+          "start": 15,
+          "username": "web3jiucai111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067354442585030830",
+    "in_reply_to_user_id": "1212683181029068800",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067352300042224121",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cigamipcy1124 @web3jiucai111 我服了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2067112501817516041",
+        "created_at": "2026-06-17T21:11:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T22:11:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067354442585030830"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1212683181029068800",
+              "start": 0,
+              "username": "Cigamipcy1124"
+            },
+            {
+              "end": 29,
+              "id": "1395010837505396739",
+              "start": 15,
+              "username": "web3jiucai111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067354442585030830",
+        "in_reply_to_user_id": "1212683181029068800",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067352300042224121",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cigamipcy1124 @web3jiucai111 我服了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1212683181029068800",
+        "conversation_id": "2067112501817516041",
+        "created_at": "2026-06-17T21:02:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T22:02:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067352300042224121"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            },
+            {
+              "end": 27,
+              "id": "1395010837505396739",
+              "start": 13,
+              "username": "web3jiucai111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067352300042224121",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067227083382919300",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 @web3jiucai111 想不到吧。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "@lei_meng123（随缘过\n这是一个女孩的内心世界🌍",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 0,
+                "username": "lei_meng123"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "私信只回口令过门 其他勿扰…",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2062769965330227585",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2399,
+          "following_count": 78,
+          "like_count": 22472,
+          "listed_count": 2,
+          "media_count": 134,
+          "tweet_count": 3561
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-02T10:33:02.000Z",
+        "description": "直男/碎碎念清水做饭吐槽推/爱香水爱做甜点爱做饭/阿米和跑三粉请绕道^ 找我玩：https://t.co/gcaMsyq9bG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xinxin_offcial",
+                "end": 63,
+                "expanded_url": "https://ngl.link/xinxin_offcial",
+                "start": 40,
+                "url": "https://t.co/gcaMsyq9bG"
+              }
+            ]
+          }
+        },
+        "id": "1212683181029068800",
+        "name": "呆萌小鹿鹿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974806175150465024/SHMNB3U4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 601,
+          "following_count": 197,
+          "like_count": 17174,
+          "listed_count": 1,
+          "media_count": 994,
+          "tweet_count": 10302
+        },
+        "username": "Cigamipcy1124",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-19T13:38:04.000Z",
+        "description": "",
+        "id": "1395010837505396739",
+        "name": "web3韭菜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046215081340575744/i8tv0FOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72549,
+          "following_count": 582,
+          "like_count": 3798,
+          "listed_count": 31,
+          "media_count": 326,
+          "tweet_count": 2524
+        },
+        "username": "web3jiucai111",
+        "verified": true
+      }
+    ]
+  }
+}

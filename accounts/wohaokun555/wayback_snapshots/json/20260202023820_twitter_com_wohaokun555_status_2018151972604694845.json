@@ -1,0 +1,375 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2017898634759766182",
+    "created_at": "2026-02-02T02:38:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-02T03:38:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018151972604694845"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1687988648627834880",
+          "start": 0,
+          "username": "kawcpx"
+        },
+        {
+          "end": 13,
+          "id": "1720665183188922368",
+          "start": 8,
+          "username": "grok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018151972604694845",
+    "in_reply_to_user_id": "1687988648627834880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017898634759766182",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kawcpx @grok 下期抽我"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2017898623435157504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAEEG1KaMAAYSYe.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2017898634759766182",
+        "created_at": "2026-02-02T02:38:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T03:38:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018151972604694845"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1687988648627834880",
+              "start": 0,
+              "username": "kawcpx"
+            },
+            {
+              "end": 13,
+              "id": "1720665183188922368",
+              "start": 8,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018151972604694845",
+        "in_reply_to_user_id": "1687988648627834880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017898634759766182",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kawcpx @grok 下期抽我"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017898623435157504"
+          ]
+        },
+        "author_id": "1687988648627834880",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596161376261",
+              "name": "Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597017083904",
+              "name": "QSR - Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026414829",
+              "name": "KFC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026414829",
+              "name": "KFC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "description": "Fast food",
+              "id": "847865239886417922",
+              "name": "Fast food Restaurants"
+            }
+          }
+        ],
+        "conversation_id": "2017898634759766182",
+        "created_at": "2026-02-01T09:51:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T10:51:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017898634759766182"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jz8Rv4BGve",
+              "end": 23,
+              "expanded_url": "https://x.com/kawcpx/status/2017898634759766182/photo/1",
+              "media_key": "3_2017898623435157504",
+              "start": 0,
+              "url": "https://t.co/jz8Rv4BGve"
+            },
+            {
+              "display_url": "x.com/kawcpx/status/…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/kawcpx/status/2014544912696631718",
+              "start": 24,
+              "url": "https://t.co/CVP5lxCemC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017898634759766182",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6352,
+          "like_count": 30,
+          "quote_count": 1,
+          "reply_count": 30,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014544912696631718",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/jz8Rv4BGve https://t.co/CVP5lxCemC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2JlN5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2JlN5"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "发生殖器死妈！恶臭男滚！！！",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2016072861732212867",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014313058978406400/yLC08oHO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 566,
+          "following_count": 73,
+          "like_count": 4690,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 1012
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-06T00:47:19.000Z",
+        "description": "随便",
+        "id": "1687988648627834880",
+        "name": "kaw",
+        "pinned_tweet_id": "2014544912696631718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1730203704920596480/5fxr_IIu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2192,
+          "following_count": 16,
+          "like_count": 406,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 152
+        },
+        "username": "kawcpx",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "https://t.co/fqNKQSiLQB\n@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 24,
+                "username": "grok"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSiLQB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 23,
+                "expanded_url": "https://grok.com",
+                "start": 0,
+                "url": "https://t.co/BFoTHXcJ8D"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "location": "wherever you are",
+        "name": "Grok",
+        "pinned_tweet_id": "1955006865332638036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7768598,
+          "following_count": 3,
+          "like_count": 85,
+          "listed_count": 5955,
+          "media_count": 8010067,
+          "tweet_count": 97836279
+        },
+        "url": "https://t.co/BFoTHXcJ8D",
+        "username": "grok",
+        "verified": true
+      }
+    ]
+  }
+}

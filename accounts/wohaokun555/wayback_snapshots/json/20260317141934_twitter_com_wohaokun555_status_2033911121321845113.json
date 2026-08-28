@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2033901583323562102",
+    "created_at": "2026-03-17T14:19:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T15:19:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033911121321845113"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1898460414100602880",
+          "start": 0,
+          "username": "z4460614195842"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033911121321845113",
+    "in_reply_to_user_id": "1898460414100602880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033910459674632696",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@z4460614195842 卧槽怎么一模一样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2033901583323562102",
+        "created_at": "2026-03-17T14:19:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T15:19:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033911121321845113"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1898460414100602880",
+              "start": 0,
+              "username": "z4460614195842"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033911121321845113",
+        "in_reply_to_user_id": "1898460414100602880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033910459674632696",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@z4460614195842 卧槽怎么一模一样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898460414100602880",
+        "conversation_id": "2033901583323562102",
+        "created_at": "2026-03-17T14:16:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T15:16:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033910459674632696"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033910459674632696",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033901583323562102",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 ↖️来个真人好嘛？ 🍁"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2JlN5\n🚪",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2JlN5"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "三体",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2008543541979738501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1271,
+          "following_count": 97,
+          "like_count": 11896,
+          "listed_count": 1,
+          "media_count": 109,
+          "tweet_count": 2196
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-08T19:47:00.000Z",
+        "description": "泛知爱好者～亚文化观察者～攻读数学科学与社会学～来推上是为了寻找同频～无恋爱向交友打算～可以做你的闲谈与倾听者～私信前请先关注～定期删闲聊回复只是为了保证时间线清爽",
+        "id": "1898460414100602880",
+        "location": "广州/香港",
+        "name": "Calpol",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921196297861685248/pnn7m4QX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 232,
+          "like_count": 1296,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 619
+        },
+        "username": "z4460614195842",
+        "verified": true
+      }
+    ]
+  }
+}

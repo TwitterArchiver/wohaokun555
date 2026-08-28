@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2031352202196037852",
+    "created_at": "2026-03-10T14:26:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T15:26:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031376250766504072"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1722104761233879040",
+          "start": 0,
+          "username": "badeer254123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031376250766504072",
+    "in_reply_to_user_id": "1722104761233879040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031374489385378033",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@badeer254123 我觉得推理题就是\n先想秩\n再看个数\n最后判相关\n我是看了一个系列的科普视频 然后我觉得很多我原来不理解的事情都可以用几何方式来解释了 我原来就是死板的按照讲的来写题 然后有时导致一点思路都没有 你可以从b站上多看一下 我只是对线性代数这个总体概念有了新的认识"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2031352202196037852",
+        "created_at": "2026-03-10T14:26:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T15:26:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031376250766504072"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1722104761233879040",
+              "start": 0,
+              "username": "badeer254123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031376250766504072",
+        "in_reply_to_user_id": "1722104761233879040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031374489385378033",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@badeer254123 我觉得推理题就是\n先想秩\n再看个数\n最后判相关\n我是看了一个系列的科普视频 然后我觉得很多我原来不理解的事情都可以用几何方式来解释了 我原来就是死板的按照讲的来写题 然后有时导致一点思路都没有 你可以从b站上多看一下 我只是对线性代数这个总体概念有了新的认识"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722104761233879040",
+        "conversation_id": "2031352202196037852",
+        "created_at": "2026-03-10T14:19:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T15:19:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031374489385378033"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031374489385378033",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031352202196037852",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 求指教，真学不明白了，尤其是矩阵的性质那，比如说非零向量组1可以由非零向量组2线性表示，问什么时候向量组2必然线性相关。还有其他那些用性质推的关系，比如说Amxn乘Bnxs等于Cmxs，问A列向量线性相关时A和C的关系，这种都是怎么考虑的呀我脑子想秃噜皮了都不会"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2JlN5\n🚪（勿扰",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2JlN5"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "除了口令别的不回！没有陪聊的义务",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2007765884035813533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1173,
+          "following_count": 97,
+          "like_count": 10620,
+          "listed_count": 1,
+          "media_count": 84,
+          "tweet_count": 1958
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-08T04:12:36.000Z",
+        "description": "",
+        "id": "1722104761233879040",
+        "name": "badeer",
+        "pinned_tweet_id": "1777332217682985275",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1722105139534897152/sCGED-no_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 238,
+          "like_count": 1885,
+          "listed_count": 1,
+          "media_count": 128,
+          "tweet_count": 1514
+        },
+        "username": "badeer254123",
+        "verified": false
+      }
+    ]
+  }
+}

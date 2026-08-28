@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2060982961252794827",
+    "created_at": "2026-05-31T11:38:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T12:38:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061049765643899209"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "222316578",
+          "start": 0,
+          "username": "iam678"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061049765643899209",
+    "in_reply_to_user_id": "222316578",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061021593648976045",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iam678 我的吗呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2060982961252794827",
+        "created_at": "2026-05-31T11:38:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T12:38:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061049765643899209"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "222316578",
+              "start": 0,
+              "username": "iam678"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061049765643899209",
+        "in_reply_to_user_id": "222316578",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061021593648976045",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iam678 我的吗呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "222316578",
+        "conversation_id": "2060982961252794827",
+        "created_at": "2026-05-31T09:46:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T10:46:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061021593648976045"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061021593648976045",
+        "in_reply_to_user_id": "222316578",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 5654,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060982961252794827",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "刚刚问了口令红包和微信红包的代收平台，\nu的代收平台，\n还有PayPal的代收平台，\n简单统计了一下。\n从去年六月一号开始收🚪，\n一年一百六七十万人民币左右，\n比我想象的少，\n还没我上班工资高。\n由此可见男网黄也不是什么高收入的工作…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "🚪（520",
+        "id": "2004619896630788096",
+        "location": "口令➕姓",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2036315164098830372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2177,
+          "following_count": 78,
+          "like_count": 20671,
+          "listed_count": 2,
+          "media_count": 242,
+          "tweet_count": 3384
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2010-12-03T02:06:39.000Z",
+        "description": "夜遊びチャネル運営🇯🇵🇨🇳成人系SNS企画| 培训 | 备用号：@skus678 |日本艺人资料在会员TG频道，X私信仅回复入会咨询|TG咨询专用频道：https://t.co/ipBJVY7okM |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 32,
+                "username": "skus678"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/injp777",
+                "end": 99,
+                "expanded_url": "https://t.me/injp777",
+                "start": 76,
+                "url": "https://t.co/ipBJVY7okM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/taoo777",
+                "end": 23,
+                "expanded_url": "https://lit.link/taoo777",
+                "start": 0,
+                "url": "https://t.co/8Cr5NcQa7o"
+              }
+            ]
+          }
+        },
+        "id": "222316578",
+        "location": "入会咨询及两个平台区别参考置顶推链接",
+        "name": "梁",
+        "pinned_tweet_id": "1927190568909598844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1772826334999502848/ZdX2uBog_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200752,
+          "following_count": 180,
+          "like_count": 1075,
+          "listed_count": 514,
+          "media_count": 1283,
+          "tweet_count": 3177
+        },
+        "url": "https://t.co/8Cr5NcQa7o",
+        "username": "iam678",
+        "verified": true
+      }
+    ]
+  }
+}

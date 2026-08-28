@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2059865986782900298",
+    "created_at": "2026-05-28T05:29:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T06:29:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059869576016580735"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2013000409003315200",
+          "start": 0,
+          "username": "imyy1567"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059869576016580735",
+    "in_reply_to_user_id": "2013000409003315200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059867531658269055",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@imyy1567 我拍照都不敢张嘴笑 怕把别人笑着"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2059865986782900298",
+        "created_at": "2026-05-28T05:29:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T06:29:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059869576016580735"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2013000409003315200",
+              "start": 0,
+              "username": "imyy1567"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059869576016580735",
+        "in_reply_to_user_id": "2013000409003315200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059867531658269055",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@imyy1567 我拍照都不敢张嘴笑 怕把别人笑着"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013000409003315200",
+        "conversation_id": "2059865986782900298",
+        "created_at": "2026-05-28T05:21:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T06:21:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059867531658269055"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059867531658269055",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059866950680166821",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 我牙还算齐的但是咬合不正 上下牙对不齐🥲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "🚪（纯绿 不入勿扰\n@lei_meng123 随缘过",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 10,
+                "username": "lei_meng123"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2036315164098830372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2126,
+          "following_count": 78,
+          "like_count": 20399,
+          "listed_count": 2,
+          "media_count": 240,
+          "tweet_count": 3330
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-18T21:28:05.000Z",
+        "description": "非如此不可 🚪88",
+        "id": "2013000409003315200",
+        "name": "川",
+        "pinned_tweet_id": "2057040390226923969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013000918875201536/zcutPwqg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1873,
+          "following_count": 46,
+          "like_count": 320,
+          "listed_count": 7,
+          "media_count": 193,
+          "tweet_count": 1146
+        },
+        "username": "imyy1567",
+        "verified": false
+      }
+    ]
+  }
+}

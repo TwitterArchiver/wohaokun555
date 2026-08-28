@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2071186194852200658",
+    "created_at": "2026-06-28T13:05:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T14:05:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071218446696845456"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1757898972038086656",
+          "start": 0,
+          "username": "Le_crapaud__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071218446696845456",
+    "in_reply_to_user_id": "1757898972038086656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071186194852200658",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Le_crapaud__ 看得我突然好饿"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2071186137067180032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL5U0WuaUAARTdb.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2071186137079820288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL5U0WxbMAA2RNB.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1437,
+        "media_key": "3_2071186137075646464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL5U0WwbgAAZAHp.jpg",
+        "width": 1162
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2071186194852200658",
+        "created_at": "2026-06-28T13:05:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T14:05:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071218446696845456"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1757898972038086656",
+              "start": 0,
+              "username": "Le_crapaud__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071218446696845456",
+        "in_reply_to_user_id": "1757898972038086656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071186194852200658",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Le_crapaud__ 看得我突然好饿"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071186137067180032",
+            "3_2071186137079820288",
+            "3_2071186137075646464"
+          ]
+        },
+        "author_id": "1757898972038086656",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2071186194852200658",
+        "created_at": "2026-06-28T10:57:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T11:57:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071186194852200658"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Bc4FRIbEjq",
+              "end": 33,
+              "expanded_url": "https://x.com/Le_crapaud__/status/2071186194852200658/photo/1",
+              "media_key": "3_2071186137067180032",
+              "start": 10,
+              "url": "https://t.co/Bc4FRIbEjq"
+            },
+            {
+              "display_url": "pic.x.com/Bc4FRIbEjq",
+              "end": 33,
+              "expanded_url": "https://x.com/Le_crapaud__/status/2071186194852200658/photo/1",
+              "media_key": "3_2071186137079820288",
+              "start": 10,
+              "url": "https://t.co/Bc4FRIbEjq"
+            },
+            {
+              "display_url": "pic.x.com/Bc4FRIbEjq",
+              "end": 33,
+              "expanded_url": "https://x.com/Le_crapaud__/status/2071186194852200658/photo/1",
+              "media_key": "3_2071186137075646464",
+              "start": 10,
+              "url": "https://t.co/Bc4FRIbEjq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071186194852200658",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "天要下雨就下吧☔️ https://t.co/Bc4FRIbEjq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "让我成为我，让一座山并存着嶙峋和肥沃",
+        "id": "2004619896630788096",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2070530833434476867",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2567,
+          "following_count": 81,
+          "like_count": 23209,
+          "listed_count": 2,
+          "media_count": 141,
+          "tweet_count": 3717
+        },
+        "url": "",
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-14T22:46:07.000Z",
+        "description": "(●_●)(●︿●)(✘_✘)\n已死带两个走🤓🤭🫨\nhttps://t.co/z8OLO4JA4C",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sylvan43439",
+                "end": 49,
+                "expanded_url": "https://ngl.link/sylvan43439",
+                "start": 26,
+                "url": "https://t.co/z8OLO4JA4C"
+              }
+            ]
+          }
+        },
+        "id": "1757898972038086656",
+        "location": "Hong Kong",
+        "name": "Le crapaud",
+        "pinned_tweet_id": "2026870265347784767",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048729829307293696/XdwBJR8Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1063,
+          "following_count": 108,
+          "like_count": 1739,
+          "listed_count": 1,
+          "media_count": 34,
+          "tweet_count": 321
+        },
+        "url": "",
+        "username": "Le_crapaud__",
+        "verified": false
+      }
+    ]
+  }
+}

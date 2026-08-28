@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2036623738872185061",
+    "created_at": "2026-03-25T01:58:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T02:58:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2036623738872185061"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xxxx147495/sta…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/xxxx147495/status/2036472804288418283",
+          "start": 5,
+          "url": "https://t.co/EPxMkOgWSz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036623738872185061",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036472804288418283",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "妈呀好帅 https://t.co/EPxMkOgWSz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2036472785934098439",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEMBNYhaIAcH7HH.jpg",
+        "width": 906
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2036472785942487041",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEMBNYjaIAEpC24.jpg",
+        "width": 698
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2036623738872185061",
+        "created_at": "2026-03-25T01:58:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T02:58:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036623738872185061"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xxxx147495/sta…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/xxxx147495/status/2036472804288418283",
+              "start": 5,
+              "url": "https://t.co/EPxMkOgWSz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036623738872185061",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036472804288418283",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "妈呀好帅 https://t.co/EPxMkOgWSz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036472785934098439",
+            "3_2036472785942487041"
+          ]
+        },
+        "author_id": "1936734981755404288",
+        "conversation_id": "2036472804288418283",
+        "created_at": "2026-03-24T15:58:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T16:58:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036472804288418283"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UvMY9cS93T",
+              "end": 35,
+              "expanded_url": "https://x.com/xxxx147495/status/2036472804288418283/photo/1",
+              "media_key": "3_2036472785934098439",
+              "start": 12,
+              "url": "https://t.co/UvMY9cS93T"
+            },
+            {
+              "display_url": "pic.x.com/UvMY9cS93T",
+              "end": 35,
+              "expanded_url": "https://x.com/xxxx147495/status/2036472804288418283/photo/1",
+              "media_key": "3_2036472785942487041",
+              "start": 12,
+              "url": "https://t.co/UvMY9cS93T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036472804288418283",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 143,
+          "impression_count": 51988,
+          "like_count": 1501,
+          "quote_count": 2,
+          "reply_count": 30,
+          "retweet_count": 34
+        },
+        "reply_settings": "everyone",
+        "text": "接举牌..（bushi https://t.co/UvMY9cS93T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "🚪🫶🏻🫰🏻🩶",
+        "id": "2004619896630788096",
+        "location": "三体（私信只回复口令和🚪",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2035966922010087790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1434,
+          "following_count": 99,
+          "like_count": 12859,
+          "listed_count": 1,
+          "media_count": 120,
+          "tweet_count": 2368
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-22T10:36:28.000Z",
+        "description": "苹果只做苹果事",
+        "id": "1936734981755404288",
+        "location": "未知",
+        "name": "林檎",
+        "pinned_tweet_id": "2034254156920426754",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030888005209407488/Swz_X1Rs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3901,
+          "following_count": 98,
+          "like_count": 343,
+          "listed_count": 6,
+          "media_count": 55,
+          "tweet_count": 484
+        },
+        "username": "xxxx147495",
+        "verified": false
+      }
+    ]
+  }
+}

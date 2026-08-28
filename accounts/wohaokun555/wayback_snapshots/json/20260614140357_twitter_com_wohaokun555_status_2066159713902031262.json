@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2066158070615687310",
+    "created_at": "2026-06-14T14:03:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T15:03:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066159713902031262"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1852390818390450176",
+          "start": 0,
+          "username": "Lrmc4e"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066159713902031262",
+    "in_reply_to_user_id": "1852390818390450176",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066158070615687310",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lrmc4e 老婆。女神。天使。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2066158063397249024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKx3z8qaIAASv9m.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2066158070615687310",
+        "created_at": "2026-06-14T14:03:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T15:03:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066159713902031262"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1852390818390450176",
+              "start": 0,
+              "username": "Lrmc4e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066159713902031262",
+        "in_reply_to_user_id": "1852390818390450176",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066158070615687310",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lrmc4e 老婆。女神。天使。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066158063397249024"
+          ]
+        },
+        "author_id": "1852390818390450176",
+        "conversation_id": "2066158070615687310",
+        "created_at": "2026-06-14T13:57:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T14:57:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066158070615687310"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lXpwBeNBYN",
+              "end": 25,
+              "expanded_url": "https://x.com/Lrmc4e/status/2066158070615687310/photo/1",
+              "media_key": "3_2066158063397249024",
+              "start": 2,
+              "url": "https://t.co/lXpwBeNBYN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066158070615687310",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喂 https://t.co/lXpwBeNBYN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "@lei_meng123（随缘过\n这是一个女孩的内心世界🌍",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 0,
+                "username": "lei_meng123"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "私信只回口令过门 其他勿扰…",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2062769965330227585",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2320,
+          "following_count": 77,
+          "like_count": 22071,
+          "listed_count": 2,
+          "media_count": 145,
+          "tweet_count": 3531
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-01T16:42:50.000Z",
+        "description": "这个账号只是为了满足自己的分享欲 @ditchn2c",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 17,
+                "username": "ditchn2c"
+              }
+            ]
+          }
+        },
+        "id": "1852390818390450176",
+        "name": "Looe",
+        "pinned_tweet_id": "2029190752761463130",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852391001618612224/yosj9UJd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13930,
+          "following_count": 102,
+          "like_count": 21403,
+          "listed_count": 31,
+          "media_count": 249,
+          "tweet_count": 5595
+        },
+        "username": "Lrmc4e",
+        "verified": false
+      }
+    ]
+  }
+}

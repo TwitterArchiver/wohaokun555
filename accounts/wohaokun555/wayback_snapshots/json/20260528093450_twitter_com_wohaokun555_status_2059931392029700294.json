@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2059931392029700294",
+    "created_at": "2026-05-28T09:34:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T10:34:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059931392029700294"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1870742151531012096",
+          "start": 3,
+          "username": "litchi77zz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059931392029700294",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 51
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059843234743132261",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @litchi77zz: 谁说吃年上吃的是年龄啊\n吃的是他丰富的阅历 得当的谈吐 恰到好处的分寸 进退节奏的变化 解决事情的能力 被他完全掌握却又耐着性子逗你 温柔引导照顾到关于你大大小小的事 会克制自己的欲望循序渐进"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2059931392029700294",
+        "created_at": "2026-05-28T09:34:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T10:34:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059931392029700294"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1870742151531012096",
+              "start": 3,
+              "username": "litchi77zz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059931392029700294",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 51
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059843234743132261",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @litchi77zz: 谁说吃年上吃的是年龄啊\n吃的是他丰富的阅历 得当的谈吐 恰到好处的分寸 进退节奏的变化 解决事情的能力 被他完全掌握却又耐着性子逗你 温柔引导照顾到关于你大大小小的事 会克制自己的欲望循序渐进"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870742151531012096",
+        "conversation_id": "2059843234743132261",
+        "created_at": "2026-05-28T03:44:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T04:44:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059843234743132261"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059843234743132261",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 9012,
+          "like_count": 451,
+          "quote_count": 10,
+          "reply_count": 29,
+          "retweet_count": 51
+        },
+        "reply_settings": "everyone",
+        "text": "谁说吃年上吃的是年龄啊\n吃的是他丰富的阅历 得当的谈吐 恰到好处的分寸 进退节奏的变化 解决事情的能力 被他完全掌握却又耐着性子逗你 温柔引导照顾到关于你大大小小的事 会克制自己的欲望循序渐进"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "🚪不入勿扰",
+        "id": "2004619896630788096",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2036315164098830372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2126,
+          "following_count": 78,
+          "like_count": 20434,
+          "listed_count": 2,
+          "media_count": 237,
+          "tweet_count": 3333
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-22T08:04:45.000Z",
+        "description": "我的小猫世界第一｜大家都要快快乐乐幸幸福福🤍｜这里是我的碎碎念日记本 也是我的pyq｜偶尔🟡废料1下",
+        "id": "1870742151531012096",
+        "location": "喵咪乐园≽^•༚•🎀≼",
+        "name": "爱吃荔枝肚子饱",
+        "pinned_tweet_id": "2006427267183063121",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965830878220652544/faWhipft_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3791,
+          "following_count": 242,
+          "like_count": 36918,
+          "listed_count": 8,
+          "media_count": 1023,
+          "tweet_count": 7679
+        },
+        "username": "litchi77zz",
+        "verified": false
+      }
+    ]
+  }
+}

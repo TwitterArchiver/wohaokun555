@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2061684180929720498",
+    "created_at": "2026-06-02T05:39:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T06:39:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061684180929720498"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1882102342155407360",
+          "start": 3,
+          "username": "routuishen2lm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061684180929720498",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 64
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061384431689150921",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @routuishen2lm: 如果谈恋爱了，我就在小红书当暧昧期聊天记录博主，在抖音当权威照片和情侣手势舞博主，在x当做饭博主，全网不放过。。。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2061684180929720498",
+        "created_at": "2026-06-02T05:39:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T06:39:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061684180929720498"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1882102342155407360",
+              "start": 3,
+              "username": "routuishen2lm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061684180929720498",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 64
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061384431689150921",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @routuishen2lm: 如果谈恋爱了，我就在小红书当暧昧期聊天记录博主，在抖音当权威照片和情侣手势舞博主，在x当做饭博主，全网不放过。。。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882102342155407360",
+        "conversation_id": "2061384431689150921",
+        "created_at": "2026-06-01T09:48:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T10:48:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061384431689150921"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061384431689150921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 34393,
+          "like_count": 646,
+          "quote_count": 9,
+          "reply_count": 70,
+          "retweet_count": 64
+        },
+        "reply_settings": "everyone",
+        "text": "如果谈恋爱了，我就在小红书当暧昧期聊天记录博主，在抖音当权威照片和情侣手势舞博主，在x当做饭博主，全网不放过。。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "🚪（520",
+        "id": "2004619896630788096",
+        "location": "口令➕姓",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2060575687279567255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2180,
+          "following_count": 79,
+          "like_count": 20954,
+          "listed_count": 2,
+          "media_count": 246,
+          "tweet_count": 3411
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-22T16:25:48.000Z",
+        "description": "神也会落泪吗 /不加v/ 骂我的死全家",
+        "id": "1882102342155407360",
+        "location": "London, England",
+        "name": "肉腿神",
+        "pinned_tweet_id": "2061250506102911121",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058419165837533184/AGi3pbIS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 455,
+          "following_count": 59,
+          "like_count": 321,
+          "listed_count": 3,
+          "media_count": 22,
+          "tweet_count": 259
+        },
+        "username": "routuishen2lm",
+        "verified": false
+      }
+    ]
+  }
+}

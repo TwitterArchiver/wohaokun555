@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066079865355579392"
+      ]
+    },
+    "author_id": "2004619896630788096",
+    "conversation_id": "2066079875925225933",
+    "created_at": "2026-06-14T08:46:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T09:46:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066079875925225933"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/GZfBAGdjly",
+          "end": 23,
+          "expanded_url": "https://x.com/wohaokun555/status/2066079875925225933/photo/1",
+          "media_key": "3_2066079865355579392",
+          "start": 0,
+          "url": "https://t.co/GZfBAGdjly"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066079875925225933",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/GZfBAGdjly"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 941,
+        "media_key": "3_2066079865355579392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKwwsOQbMAAE8Sm.jpg",
+        "width": 1672
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066079865355579392"
+          ]
+        },
+        "author_id": "2004619896630788096",
+        "conversation_id": "2066079875925225933",
+        "created_at": "2026-06-14T08:46:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T09:46:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066079875925225933"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GZfBAGdjly",
+              "end": 23,
+              "expanded_url": "https://x.com/wohaokun555/status/2066079875925225933/photo/1",
+              "media_key": "3_2066079865355579392",
+              "start": 0,
+              "url": "https://t.co/GZfBAGdjly"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066079875925225933",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/GZfBAGdjly"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "@lei_meng123（随缘过\n这是一个女孩的内心世界🌍",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 0,
+                "username": "lei_meng123"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "私信只回口令过门 其他勿扰…",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2062769965330227585",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2302,
+          "following_count": 77,
+          "like_count": 21999,
+          "listed_count": 2,
+          "media_count": 145,
+          "tweet_count": 3523
+        },
+        "username": "wohaokun555",
+        "verified": false
+      }
+    ]
+  }
+}

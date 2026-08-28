@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2062374483487588582",
+    "created_at": "2026-06-04T15:36:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T16:36:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062559185334829388"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1834955424929648640",
+          "start": 0,
+          "username": "rabbot1Il"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062559185334829388",
+    "in_reply_to_user_id": "1834955424929648640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062558134103912648",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rabbot1Il 哎呀好纠结呀😖"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2062374483487588582",
+        "created_at": "2026-06-04T15:36:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T16:36:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062559185334829388"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1834955424929648640",
+              "start": 0,
+              "username": "rabbot1Il"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062559185334829388",
+        "in_reply_to_user_id": "1834955424929648640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062558134103912648",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rabbot1Il 哎呀好纠结呀😖"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834955424929648640",
+        "conversation_id": "2062374483487588582",
+        "created_at": "2026-06-04T15:32:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T16:32:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062558134103912648"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062558134103912648",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062374483487588582",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 没错而且这俩都会推给认识的人，感觉被刷到特尴尬。虽然我也有高中同学是大vloger的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "🚪（520",
+        "id": "2004619896630788096",
+        "location": "口令➕姓",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2036315164098830372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2219,
+          "following_count": 79,
+          "like_count": 21274,
+          "listed_count": 2,
+          "media_count": 137,
+          "tweet_count": 3357
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-14T14:00:51.000Z",
+        "description": "我是一个忧郁的鱿鱼悲伤的悲伤蛙璀璨的孤狼耀眼的明珠\n爱好是嫩嫩的肌肉男^ ^",
+        "id": "1834955424929648640",
+        "location": "距离100,000,000,000km",
+        "name": "？",
+        "pinned_tweet_id": "2061385714907197687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054498227173687296/lazv_1dS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 83,
+          "like_count": 611,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 451
+        },
+        "username": "rabbot1Il",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2082822489277977035",
+    "created_at": "2026-07-30T14:05:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T15:05:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082830018175234259"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1886452072591298560",
+          "start": 0,
+          "username": "bbei_621"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082830018175234259",
+    "in_reply_to_user_id": "1886452072591298560",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082822489277977035",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bbei_621 女神我亲你"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2082822471276023808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOesAJqb0AApM6W.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2082822471284293632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOesAJsaAAAo_Xg.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2082822471284334592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOesAJsaoAA5_fq.jpg",
+        "width": 1539
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2082822471280164864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOesAJrbAAA2NyG.jpg",
+        "width": 1539
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2082822489277977035",
+        "created_at": "2026-07-30T14:05:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T15:05:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082830018175234259"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1886452072591298560",
+              "start": 0,
+              "username": "bbei_621"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082830018175234259",
+        "in_reply_to_user_id": "1886452072591298560",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082822489277977035",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bbei_621 女神我亲你"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082822471276023808",
+            "3_2082822471284293632",
+            "3_2082822471284334592",
+            "3_2082822471280164864"
+          ]
+        },
+        "author_id": "1886452072591298560",
+        "conversation_id": "2082822489277977035",
+        "created_at": "2026-07-30T13:35:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T14:35:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082822489277977035"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FGLSWnyB6Z",
+              "end": 27,
+              "expanded_url": "https://x.com/bbei_621/status/2082822489277977035/photo/1",
+              "media_key": "3_2082822471276023808",
+              "start": 4,
+              "url": "https://t.co/FGLSWnyB6Z"
+            },
+            {
+              "display_url": "pic.x.com/FGLSWnyB6Z",
+              "end": 27,
+              "expanded_url": "https://x.com/bbei_621/status/2082822489277977035/photo/1",
+              "media_key": "3_2082822471284293632",
+              "start": 4,
+              "url": "https://t.co/FGLSWnyB6Z"
+            },
+            {
+              "display_url": "pic.x.com/FGLSWnyB6Z",
+              "end": 27,
+              "expanded_url": "https://x.com/bbei_621/status/2082822489277977035/photo/1",
+              "media_key": "3_2082822471284334592",
+              "start": 4,
+              "url": "https://t.co/FGLSWnyB6Z"
+            },
+            {
+              "display_url": "pic.x.com/FGLSWnyB6Z",
+              "end": 27,
+              "expanded_url": "https://x.com/bbei_621/status/2082822489277977035/photo/1",
+              "media_key": "3_2082822471280164864",
+              "start": 4,
+              "url": "https://t.co/FGLSWnyB6Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082822489277977035",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 253,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": ";-) https://t.co/FGLSWnyB6Z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "＞𐋣＜\n私信只回口令 闲聊勿扰",
+        "id": "2004619896630788096",
+        "location": "🚪（绿",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2036315164098830372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2868,
+          "following_count": 79,
+          "like_count": 25812,
+          "listed_count": 3,
+          "media_count": 155,
+          "tweet_count": 4101
+        },
+        "url": "",
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-03T16:30:44.000Z",
+        "description": "4i不1i｜爱小猫小狗和yushi｜不回关黄推🙏",
+        "id": "1886452072591298560",
+        "name": "周日见",
+        "pinned_tweet_id": "2081366360018633119",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066905386855419904/x2-uSaSh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4969,
+          "following_count": 192,
+          "like_count": 2380,
+          "listed_count": 9,
+          "media_count": 246,
+          "tweet_count": 2330
+        },
+        "url": "",
+        "username": "bbei_621",
+        "verified": false
+      }
+    ]
+  }
+}

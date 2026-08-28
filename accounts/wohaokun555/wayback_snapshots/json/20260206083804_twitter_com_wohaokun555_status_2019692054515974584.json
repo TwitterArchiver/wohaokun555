@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2019682676551389508",
+    "created_at": "2026-02-06T08:38:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-06T09:38:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019692054515974584"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1887893037365559296",
+          "start": 0,
+          "username": "k4p6mj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019692054515974584",
+    "in_reply_to_user_id": "1887893037365559296",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019685966483710395",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@k4p6mj 我也是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2019682676551389508",
+        "created_at": "2026-02-06T08:38:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T09:38:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019692054515974584"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1887893037365559296",
+              "start": 0,
+              "username": "k4p6mj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019692054515974584",
+        "in_reply_to_user_id": "1887893037365559296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019685966483710395",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@k4p6mj 我也是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887893037365559296",
+        "conversation_id": "2019682676551389508",
+        "created_at": "2026-02-06T08:13:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T09:13:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019685966483710395"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019685966483710395",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019682676551389508",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 我的天…我就特别怕虫子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2JlN5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2JlN5"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "🚪188（绿（别的私信不回",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2019333252520321256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014313058978406400/yLC08oHO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 606,
+          "following_count": 73,
+          "like_count": 5733,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 1078
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-07T15:56:06.000Z",
+        "description": "本账号使用者是一个脆弱的小宝宝。匿名提问：https://t.co/QF2Mffktbm",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/user.35056445",
+                "end": 44,
+                "expanded_url": "https://tellonym.me/user.35056445",
+                "start": 21,
+                "url": "https://t.co/QF2Mffktbm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/2781699",
+                "end": 23,
+                "expanded_url": "https://ngl.link/2781699",
+                "start": 0,
+                "url": "https://t.co/sbXp9A6IEM"
+              }
+            ]
+          }
+        },
+        "id": "1887893037365559296",
+        "location": "🚪88纯绿",
+        "name": "化合物",
+        "pinned_tweet_id": "2014729880378998808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018005950712762368/BZ7d20ZK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 382,
+          "following_count": 99,
+          "like_count": 6542,
+          "listed_count": 2,
+          "media_count": 47,
+          "tweet_count": 4824
+        },
+        "url": "https://t.co/sbXp9A6IEM",
+        "username": "k4p6mj",
+        "verified": false
+      }
+    ]
+  }
+}

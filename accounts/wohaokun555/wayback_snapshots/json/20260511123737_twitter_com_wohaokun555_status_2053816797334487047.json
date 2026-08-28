@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2053812287170072784",
+    "created_at": "2026-05-11T12:37:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T13:37:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053816797334487047"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1918664114186096640",
+          "start": 0,
+          "username": "be6b1143"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053816797334487047",
+    "in_reply_to_user_id": "1918664114186096640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053812287170072784",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@be6b1143 我要当手机壁纸…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2053812272439656448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HICbYVYagAA2EWI.jpg",
+        "width": 1535
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2053812287170072784",
+        "created_at": "2026-05-11T12:37:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T13:37:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053816797334487047"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1918664114186096640",
+              "start": 0,
+              "username": "be6b1143"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053816797334487047",
+        "in_reply_to_user_id": "1918664114186096640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053812287170072784",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@be6b1143 我要当手机壁纸…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053812272439656448"
+          ]
+        },
+        "author_id": "1918664114186096640",
+        "conversation_id": "2053812287170072784",
+        "created_at": "2026-05-11T12:19:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T13:19:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053812287170072784"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rDfyHHLw5j",
+              "end": 23,
+              "expanded_url": "https://x.com/be6b1143/status/2053812287170072784/photo/1",
+              "media_key": "3_2053812272439656448",
+              "start": 0,
+              "url": "https://t.co/rDfyHHLw5j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053812287170072784",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 63,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/rDfyHHLw5j"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "没义务陪聊 都是礼貌回复",
+        "id": "2004619896630788096",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2052293259586924701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2068,
+          "following_count": 100,
+          "like_count": 18948,
+          "listed_count": 1,
+          "media_count": 220,
+          "tweet_count": 3151
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-03T13:49:19.000Z",
+        "description": "爱是世界上最伟大的魔法@aumileude",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 11,
+                "username": "aumileude"
+              }
+            ]
+          }
+        },
+        "id": "1918664114186096640",
+        "name": "马奎斯",
+        "pinned_tweet_id": "2005142406526874072",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918665181972082688/met7_bU9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6048,
+          "following_count": 127,
+          "like_count": 7522,
+          "listed_count": 24,
+          "media_count": 52,
+          "tweet_count": 2807
+        },
+        "username": "be6b1143",
+        "verified": false
+      }
+    ]
+  }
+}

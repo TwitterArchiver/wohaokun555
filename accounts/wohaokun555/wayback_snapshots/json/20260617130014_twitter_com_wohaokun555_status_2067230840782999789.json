@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2067143204172931584",
+    "created_at": "2026-06-17T13:00:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T14:00:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067230840782999789"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1395010837505396739",
+          "start": 0,
+          "username": "web3jiucai111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067230840782999789",
+    "in_reply_to_user_id": "1395010837505396739",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067143204172931584",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@web3jiucai111 3:2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 690,
+        "media_key": "3_2067097959729410048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK_OpHWbMAAf0r-.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2067143204172931584",
+        "created_at": "2026-06-17T13:00:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T14:00:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067230840782999789"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1395010837505396739",
+              "start": 0,
+              "username": "web3jiucai111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067230840782999789",
+        "in_reply_to_user_id": "1395010837505396739",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067143204172931584",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@web3jiucai111 3:2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067097959729410048"
+          ]
+        },
+        "author_id": "1395010837505396739",
+        "conversation_id": "2067143204172931584",
+        "created_at": "2026-06-17T07:12:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T08:12:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067143204172931584"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RpecvblDy0",
+              "end": 68,
+              "expanded_url": "https://x.com/web3jiucai111/status/2067143204172931584/photo/1",
+              "media_key": "3_2067097959729410048",
+              "start": 45,
+              "url": "https://t.co/RpecvblDy0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067143204172931584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 22419,
+          "like_count": 237,
+          "quote_count": 1,
+          "reply_count": 586,
+          "retweet_count": 82
+        },
+        "reply_settings": "everyone",
+        "text": "英格兰 vs 克罗地亚\n  \n100USDT给20位正确预测比分的人。\n\n24小时后结束 https://t.co/RpecvblDy0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "@lei_meng123（随缘过\n这是一个女孩的内心世界🌍",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 0,
+                "username": "lei_meng123"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "私信只回口令过门 其他勿扰…",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2062769965330227585",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2400,
+          "following_count": 78,
+          "like_count": 22457,
+          "listed_count": 2,
+          "media_count": 134,
+          "tweet_count": 3558
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-19T13:38:04.000Z",
+        "description": "",
+        "id": "1395010837505396739",
+        "name": "web3韭菜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046215081340575744/i8tv0FOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67682,
+          "following_count": 576,
+          "like_count": 3796,
+          "listed_count": 31,
+          "media_count": 325,
+          "tweet_count": 2518
+        },
+        "username": "web3jiucai111",
+        "verified": true
+      }
+    ]
+  }
+}

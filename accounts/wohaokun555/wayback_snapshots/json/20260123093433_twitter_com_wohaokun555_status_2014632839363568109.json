@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2014551473066279080",
+    "created_at": "2026-01-23T09:34:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-23T10:34:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014632839363568109"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1969015475184222208",
+          "start": 0,
+          "username": "LBMlbm_1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014632839363568109",
+    "in_reply_to_user_id": "1969015475184222208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014629153790951762",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LBMlbm_1 🤦我也不知道这傻逼学校要干啥。我网课忘加入课堂了。零分，我真崩"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2014551473066279080",
+        "created_at": "2026-01-23T09:34:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T10:34:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014632839363568109"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1969015475184222208",
+              "start": 0,
+              "username": "LBMlbm_1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014632839363568109",
+        "in_reply_to_user_id": "1969015475184222208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014629153790951762",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LBMlbm_1 🤦我也不知道这傻逼学校要干啥。我网课忘加入课堂了。零分，我真崩"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1969015475184222208",
+        "conversation_id": "2014551473066279080",
+        "created_at": "2026-01-23T09:19:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T10:19:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014629153790951762"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014629153790951762",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014551473066279080",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 网课还会算到绩点里？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "",
+        "id": "2004619896630788096",
+        "location": "？！",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2014617927212007465",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014313058978406400/yLC08oHO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 435,
+          "following_count": 68,
+          "like_count": 2551,
+          "listed_count": 1,
+          "media_count": 48,
+          "tweet_count": 781
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-19T12:27:41.000Z",
+        "description": "体力：0~\n魅力：0~\n智力：250！",
+        "id": "1969015475184222208",
+        "location": "青城山",
+        "name": "李不莫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009626105435832321/3qnlIQ1B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 47,
+          "like_count": 184,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 46
+        },
+        "username": "LBMlbm_1",
+        "verified": false
+      }
+    ]
+  }
+}

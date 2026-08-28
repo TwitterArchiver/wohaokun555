@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2065049604987761096",
+    "created_at": "2026-06-11T13:49:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T14:49:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065069035625357464"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2052658762692034560",
+          "start": 0,
+          "username": "Jilliydohu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065069035625357464",
+    "in_reply_to_user_id": "2052658762692034560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065064976176513449",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jilliydohu 我亲亲"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2065064963291631616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKiVpJcaUAAF1w0.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2065049604987761096",
+        "created_at": "2026-06-11T13:49:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T14:49:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065069035625357464"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2052658762692034560",
+              "start": 0,
+              "username": "Jilliydohu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065069035625357464",
+        "in_reply_to_user_id": "2052658762692034560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065064976176513449",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jilliydohu 我亲亲"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065064963291631616"
+          ]
+        },
+        "author_id": "2052658762692034560",
+        "conversation_id": "2065049604987761096",
+        "created_at": "2026-06-11T13:33:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T14:33:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065064976176513449"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dYZdXwLa7K",
+              "end": 42,
+              "expanded_url": "https://x.com/Jilliydohu/status/2065064976176513449/photo/1",
+              "media_key": "3_2065064963291631616",
+              "start": 19,
+              "url": "https://t.co/dYZdXwLa7K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065064976176513449",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065049604987761096",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 kiss～ https://t.co/dYZdXwLa7K"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "",
+        "id": "2004619896630788096",
+        "location": "私信只回口令过门 其他勿扰…",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2062769965330227585",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2280,
+          "following_count": 77,
+          "like_count": 21839,
+          "listed_count": 2,
+          "media_count": 146,
+          "tweet_count": 3478
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-08T07:56:53.000Z",
+        "description": "03 enfp 168 72kg 没有闲聊的义务哈\n不约 没有门 单纯分享漂亮照片\n私信都会看感兴趣的会回关\n跟我说主页有照片的你们真的很丑知豆吗",
+        "id": "2052658762692034560",
+        "name": "Jilliy",
+        "pinned_tweet_id": "2062714473060909264",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057712249176002560/7UAb9yhy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2598,
+          "following_count": 53,
+          "like_count": 1570,
+          "listed_count": 3,
+          "media_count": 29,
+          "tweet_count": 647
+        },
+        "username": "Jilliydohu",
+        "verified": false
+      }
+    ]
+  }
+}

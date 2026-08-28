@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2008591410900201902",
+    "created_at": "2026-01-07T05:07:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-07T06:07:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008767491850522766"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2000826943206555649",
+          "start": 0,
+          "username": "pingapingu002"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008767491850522766",
+    "in_reply_to_user_id": "2000826943206555649",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008591410900201902",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pingapingu002 🚬"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2008591410900201902",
+        "created_at": "2026-01-07T05:07:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T06:07:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008767491850522766"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2000826943206555649",
+              "start": 0,
+              "username": "pingapingu002"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008767491850522766",
+        "in_reply_to_user_id": "2000826943206555649",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008591410900201902",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pingapingu002 🚬"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000826943206555649",
+        "conversation_id": "2008591410900201902",
+        "created_at": "2026-01-06T17:28:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T18:28:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008591410900201902"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2008591410900201902",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3246,
+          "like_count": 71,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "感觉有的人只是靠恋爱逃避现实，看起来爱的死去活来的，分手也会立刻谈下一个，到底爱的是什么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "天天开心o^^o",
+        "id": "2004619896630788096",
+        "location": "三体星球",
+        "name": "鱼虾一整碗",
+        "pinned_tweet_id": "2008218066103238856",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004620653153189888/VWgYLNYv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179,
+          "following_count": 47,
+          "like_count": 1336,
+          "listed_count": 1,
+          "media_count": 29,
+          "tweet_count": 443
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-16T07:15:27.000Z",
+        "description": "我是异性恋😇不聊骚不约清水推 叫我壮壮爸或者困困就好\n上一个号的互关们你们私我一下我慢慢回关，我怕我没看见",
+        "id": "2000826943206555649",
+        "location": "码粒纳帮我注册了新号码粒纳好",
+        "name": "睡觉睡觉困困困2.0",
+        "pinned_tweet_id": "2003843366426234896",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003163752800354307/w-eF7K_7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 752,
+          "following_count": 125,
+          "like_count": 613,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 190
+        },
+        "username": "pingapingu002",
+        "verified": false
+      }
+    ]
+  }
+}

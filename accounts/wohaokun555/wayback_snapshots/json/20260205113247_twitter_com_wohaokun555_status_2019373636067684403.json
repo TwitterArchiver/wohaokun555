@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2019305880802718055",
+    "created_at": "2026-02-05T11:32:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-05T12:32:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019373636067684403"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1802757844665794560",
+          "start": 0,
+          "username": "wwww3566"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019373636067684403",
+    "in_reply_to_user_id": "1802757844665794560",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019305880802718055",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wwww3566 16888"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 786,
+        "media_key": "3_2019305878718218240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAYD_3nbgAAzBUE.jpg",
+        "width": 474
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2019305880802718055",
+        "created_at": "2026-02-05T11:32:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T12:32:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019373636067684403"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1802757844665794560",
+              "start": 0,
+              "username": "wwww3566"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019373636067684403",
+        "in_reply_to_user_id": "1802757844665794560",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019305880802718055",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wwww3566 16888"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019305878718218240"
+          ]
+        },
+        "author_id": "1802757844665794560",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+              "id": "1347140848870334468",
+              "name": "Chinese New Year"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+              "id": "1347140848870334468",
+              "name": "Chinese New Year"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2019305880802718055",
+        "created_at": "2026-02-05T07:03:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T08:03:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019305880802718055"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7ComvQJeRU",
+              "end": 86,
+              "expanded_url": "https://x.com/wwww3566/status/2019305880802718055/photo/1",
+              "media_key": "3_2019305878718218240",
+              "start": 63,
+              "url": "https://t.co/7ComvQJeRU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019305880802718055",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "答应兄弟们的事，铭哥一定说到做到。关注我并转发，春节会发红包，从今天开始算，只要你留言回复：16888    寓意一路发发发  我就记一份。到春节那天，有多少人留言，铭哥就发多少个红包，一人不落。不是金额多大，图的就是个热闹和心意，也感谢这一年大家的陪伴和支持。兄弟们动动手，留个言，咱们春节一起热闹一把。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 18344,
+          "like_count": 120,
+          "quote_count": 0,
+          "reply_count": 338,
+          "retweet_count": 72
+        },
+        "reply_settings": "everyone",
+        "text": "答应兄弟们的事，铭哥一定说到做到。关注我并转发，春节会发红包，从今天开始算，只要你留言回复：16888    寓意一路发发发 https://t.co/7ComvQJeRU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2JlN5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2JlN5"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "🚪188（别的私信不回",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2019333252520321256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014313058978406400/yLC08oHO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 580,
+          "following_count": 72,
+          "like_count": 5519,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 1033
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-17T17:39:29.000Z",
+        "description": "金融学博士、宏观经济学家、美股、加密量化负责人",
+        "id": "1802757844665794560",
+        "name": "辉总大道资本",
+        "pinned_tweet_id": "2018540268807766440",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913586970082869249/VkP-13h5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4115,
+          "following_count": 159,
+          "like_count": 89,
+          "listed_count": 9,
+          "media_count": 34,
+          "tweet_count": 590
+        },
+        "username": "wwww3566",
+        "verified": true
+      }
+    ]
+  }
+}

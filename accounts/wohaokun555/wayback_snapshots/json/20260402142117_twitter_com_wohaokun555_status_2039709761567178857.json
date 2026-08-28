@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2039658868750668249",
+    "created_at": "2026-04-02T14:21:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T15:21:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039709761567178857"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2033390406898262016",
+          "start": 0,
+          "username": "mianyin002"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039709761567178857",
+    "in_reply_to_user_id": "2033390406898262016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039709633720565902",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mianyin002 卧槽无法接受…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2039658868750668249",
+        "created_at": "2026-04-02T14:21:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T15:21:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039709761567178857"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2033390406898262016",
+              "start": 0,
+              "username": "mianyin002"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039709761567178857",
+        "in_reply_to_user_id": "2033390406898262016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039709633720565902",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mianyin002 卧槽无法接受…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033390406898262016",
+        "conversation_id": "2039658868750668249",
+        "created_at": "2026-04-02T14:20:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T15:20:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039709633720565902"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039709633720565902",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039658868750668249",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 我炮友还有别的炮友，还是职业做全国可飞的，我踏马知道后就再也没约他了，太癫了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "@quq0000",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "quq0000"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "🚪520",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2007765884035813533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1501,
+          "following_count": 97,
+          "like_count": 13974,
+          "listed_count": 1,
+          "media_count": 151,
+          "tweet_count": 2571
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-16T03:51:34.000Z",
+        "description": "该吃吃该睡睡/🚪99好友位/888（来点不太一样的）",
+        "id": "2033390406898262016",
+        "name": "原春幼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033392441353805824/-c7fyTOa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 41,
+          "like_count": 28,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 67
+        },
+        "username": "mianyin002",
+        "verified": false
+      }
+    ]
+  }
+}

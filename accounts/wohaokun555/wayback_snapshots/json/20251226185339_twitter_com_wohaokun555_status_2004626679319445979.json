@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2004064823924125886",
+    "created_at": "2025-12-26T18:53:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-26T19:53:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004626679319445979"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1939107067954098176",
+          "start": 0,
+          "username": "meechu133220"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004626679319445979",
+    "in_reply_to_user_id": "1939107067954098176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004064823924125886",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@meechu133220 谢谢老师 太形象了描述的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2004064823924125886",
+        "created_at": "2025-12-26T18:53:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T19:53:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004626679319445979"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1939107067954098176",
+              "start": 0,
+              "username": "meechu133220"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004626679319445979",
+        "in_reply_to_user_id": "1939107067954098176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004064823924125886",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meechu133220 谢谢老师 太形象了描述的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939107067954098176",
+        "conversation_id": "2004064823924125886",
+        "created_at": "2025-12-25T05:41:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T06:41:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004064823924125886"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2004064823924125886",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 22671,
+          "like_count": 678,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "冬冬呢就是想做娇妻  然后又关种病大发作忍不住秀的那种  果果就是典型普韩男  喜欢绿茶白幼瘦  捞到钱了就以光年为速度忘本  一切以亲亲老婆为中心  真他妈想吐😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "🚪52",
+        "id": "2004619896630788096",
+        "location": "Hong Kong",
+        "name": "鱼虾一整碗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004620653153189888/VWgYLNYv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 3,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 10
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-28T23:42:16.000Z",
+        "description": "不要截图",
+        "id": "1939107067954098176",
+        "name": "meechu",
+        "pinned_tweet_id": "2000807889888534861",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004261357395628036/uy_Sixii_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 52,
+          "like_count": 579,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 454
+        },
+        "username": "meechu133220",
+        "verified": false
+      }
+    ]
+  }
+}

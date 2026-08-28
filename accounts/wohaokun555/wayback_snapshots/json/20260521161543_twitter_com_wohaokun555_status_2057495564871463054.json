@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2057495564871463054",
+    "created_at": "2026-05-21T16:15:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T17:15:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057495564871463054"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1553278286796451840",
+          "start": 3,
+          "username": "XuanZai12138"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057495564871463054",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 41
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057292720713179183",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @XuanZai12138: 你们就继续自己的奥德赛时期吧\n而我呢，只是一个大二学生，处在滑铁卢时期、大萧条时期、魏晋南北朝时期、敦刻尔克大撤退时期、安史之乱时期、中世纪时期，骆驼祥子没北京户口时期，范进没中举时期，甄嬛甘露寺时期，孔乙己没文化时期，孙悟空五指山时期，杜甫…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2057495564871463054",
+        "created_at": "2026-05-21T16:15:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T17:15:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057495564871463054"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1553278286796451840",
+              "start": 3,
+              "username": "XuanZai12138"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057495564871463054",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 41
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057292720713179183",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @XuanZai12138: 你们就继续自己的奥德赛时期吧\n而我呢，只是一个大二学生，处在滑铁卢时期、大萧条时期、魏晋南北朝时期、敦刻尔克大撤退时期、安史之乱时期、中世纪时期，骆驼祥子没北京户口时期，范进没中举时期，甄嬛甘露寺时期，孔乙己没文化时期，孙悟空五指山时期，杜甫…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1553278286796451840",
+        "conversation_id": "2057292720713179183",
+        "created_at": "2026-05-21T02:49:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T03:49:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057292720713179183"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057292720713179183",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 8627,
+          "like_count": 318,
+          "quote_count": 4,
+          "reply_count": 33,
+          "retweet_count": 41
+        },
+        "reply_settings": "everyone",
+        "text": "你们就继续自己的奥德赛时期吧\n而我呢，只是一个大二学生，处在滑铁卢时期、大萧条时期、魏晋南北朝时期、敦刻尔克大撤退时期、安史之乱时期、中世纪时期，骆驼祥子没北京户口时期，范进没中举时期，甄嬛甘露寺时期，孔乙己没文化时期，孙悟空五指山时期，杜甫茅屋时期，朱元璋要饭时期"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "🚪（纯绿 不入勿扰",
+        "id": "2004619896630788096",
+        "location": "没义务陪聊 别问我乱七八糟的",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2036315164098830372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2056,
+          "following_count": 100,
+          "like_count": 19616,
+          "listed_count": 1,
+          "media_count": 237,
+          "tweet_count": 3243
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-30T07:16:29.000Z",
+        "description": "此账号皮下是一个有躯体化的活珠子丨性别男 取向男\n接占卜烧香点蜡法事 塔罗师从龙女 家是出马的\n⬆️广告营业发在：@LeviCha61174973",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 57,
+                "username": "LeviCha61174973"
+              }
+            ]
+          }
+        },
+        "id": "1553278286796451840",
+        "location": "碎碎念的地方 别骂我",
+        "name": "十九岁帅到邻居想报警",
+        "pinned_tweet_id": "2039733988387139754",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032358916471054336/t5KkBCe4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1362,
+          "following_count": 113,
+          "like_count": 9628,
+          "listed_count": 8,
+          "media_count": 287,
+          "tweet_count": 3762
+        },
+        "username": "XuanZai12138",
+        "verified": false
+      }
+    ]
+  }
+}

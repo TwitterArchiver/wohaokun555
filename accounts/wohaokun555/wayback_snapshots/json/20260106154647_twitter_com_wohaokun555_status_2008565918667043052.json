@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2008551695119430036",
+    "created_at": "2026-01-06T15:46:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-06T16:46:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008565918667043052"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1736375109374689280",
+          "start": 0,
+          "username": "xuehhh174115"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008565918667043052",
+    "in_reply_to_user_id": "1736375109374689280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 62,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008551695119430036",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xuehhh174115 撕烂你内裤！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1420,
+        "media_key": "3_2008551692439351300",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9_PH1zbcAQ2aoi.jpg",
+        "width": 1076
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2008551695119430036",
+        "created_at": "2026-01-06T15:46:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T16:46:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008565918667043052"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1736375109374689280",
+              "start": 0,
+              "username": "xuehhh174115"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008565918667043052",
+        "in_reply_to_user_id": "1736375109374689280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 62,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008551695119430036",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xuehhh174115 撕烂你内裤！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2008551692439351300"
+          ]
+        },
+        "author_id": "1736375109374689280",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2008551695119430036",
+        "created_at": "2026-01-06T14:50:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T15:50:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008551695119430036"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ik6nfolHjT",
+              "end": 52,
+              "expanded_url": "https://x.com/xuehhh174115/status/2008551695119430036/photo/1",
+              "media_key": "3_2008551692439351300",
+              "start": 29,
+              "url": "https://t.co/Ik6nfolHjT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008551695119430036",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2183,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "再说一次，不是不回私信，是太难看了，每次点开都需要勇气。 https://t.co/Ik6nfolHjT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "天天开心o^^o",
+        "id": "2004619896630788096",
+        "location": "三体星球",
+        "name": "鱼虾一整碗",
+        "pinned_tweet_id": "2008218066103238856",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004620653153189888/VWgYLNYv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 43,
+          "like_count": 1310,
+          "listed_count": 1,
+          "media_count": 29,
+          "tweet_count": 440
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-17T13:17:53.000Z",
+        "description": "谁叫我妈妈，就拉黑谁，不接推广，无门\n                  \n   想和小狗做好多好多事日记本\n    不关注我不回私信",
+        "id": "1736375109374689280",
+        "location": "♡",
+        "name": "芥末巧克力",
+        "pinned_tweet_id": "2001362815005921297",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823716770924150784/psq2lkyC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3373,
+          "following_count": 82,
+          "like_count": 2351,
+          "listed_count": 2,
+          "media_count": 54,
+          "tweet_count": 1209
+        },
+        "username": "xuehhh174115",
+        "verified": false
+      }
+    ]
+  }
+}

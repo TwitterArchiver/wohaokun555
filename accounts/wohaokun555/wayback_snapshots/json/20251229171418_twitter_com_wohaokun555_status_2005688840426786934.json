@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2005620040364933233",
+    "created_at": "2025-12-29T17:14:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-29T18:14:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005688840426786934"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1751662848537972736",
+          "start": 0,
+          "username": "ShAn33_TT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005688840426786934",
+    "in_reply_to_user_id": "1751662848537972736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005620040364933233",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ShAn33_TT 我信 你别死"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2005620040364933233",
+        "created_at": "2025-12-29T17:14:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-29T18:14:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005688840426786934"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1751662848537972736",
+              "start": 0,
+              "username": "ShAn33_TT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005688840426786934",
+        "in_reply_to_user_id": "1751662848537972736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005620040364933233",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ShAn33_TT 我信 你别死"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751662848537972736",
+        "conversation_id": "2005620040364933233",
+        "created_at": "2025-12-29T12:40:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-29T13:40:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005620040364933233"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2005620040364933233",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 228,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我操我死给你看你信不信"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "🚪66",
+        "id": "2004619896630788096",
+        "location": "Hong Kong",
+        "name": "鱼虾一整碗",
+        "pinned_tweet_id": "2005582001685012508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004620653153189888/VWgYLNYv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 28,
+          "like_count": 260,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 157
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-28T17:45:51.000Z",
+        "description": "我们一遍遍地往天上荡",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%8F%8A%E4%B…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%8F%8A%E4%B9%8B%E5%9B%BD%E5%A4%A7%E7%8E%8B",
+                "start": 0,
+                "url": "https://t.co/q3Kq0ozVLr"
+              }
+            ]
+          }
+        },
+        "id": "1751662848537972736",
+        "location": "距离您0.2km",
+        "name": "珊之国大王",
+        "pinned_tweet_id": "1952590185960808724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973854797188276225/yNOWlbvD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 186,
+          "following_count": 327,
+          "like_count": 1033,
+          "listed_count": 0,
+          "media_count": 143,
+          "tweet_count": 1922
+        },
+        "url": "https://t.co/q3Kq0ozVLr",
+        "username": "ShAn33_TT",
+        "verified": false
+      }
+    ]
+  }
+}

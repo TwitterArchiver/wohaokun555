@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2005925158838489414",
+    "created_at": "2025-12-30T09:01:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-30T10:01:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005927252543021085"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1950172970422329344",
+          "start": 0,
+          "username": "jwkjyqk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005927252543021085",
+    "in_reply_to_user_id": "1950172970422329344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005925158838489414",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jwkjyqk 接🔝什么意思"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2005925158838489414",
+        "created_at": "2025-12-30T09:01:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T10:01:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005927252543021085"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1950172970422329344",
+              "start": 0,
+              "username": "jwkjyqk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005927252543021085",
+        "in_reply_to_user_id": "1950172970422329344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005925158838489414",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jwkjyqk 接🔝什么意思"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1950172970422329344",
+        "conversation_id": "2005925158838489414",
+        "created_at": "2025-12-30T08:53:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T09:53:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005925158838489414"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2005925158838489414",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看到关注的人接🔝我就取关，就是这样无情"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "我会尽量给大家传播积极情绪的！泥萌都要天天开心哦！(o^^o)   🚪66",
+        "id": "2004619896630788096",
+        "location": "Hong Kong",
+        "name": "鱼虾一整碗",
+        "pinned_tweet_id": "2005582001685012508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004620653153189888/VWgYLNYv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 25,
+          "like_count": 350,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 185
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-29T12:34:24.000Z",
+        "description": "直男  纯爱\nistp    switch    ddlg         素质不详\n世界上另一个我\n碎碎念  想到啥说啥 废话居多\n性取向正常    我一定会养一只属于我的小猫",
+        "id": "1950172970422329344",
+        "location": "没钱过🚪不用私信我",
+        "name": "仅我可见",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998069194609586176/EIdKTvOA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 123,
+          "like_count": 188,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 449
+        },
+        "username": "jwkjyqk",
+        "verified": false
+      }
+    ]
+  }
+}

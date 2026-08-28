@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2015808313066471465",
+    "created_at": "2026-01-27T03:53:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T04:53:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015996618664005655"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1573939488564604928",
+          "start": 0,
+          "username": "Really59763582"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015996618664005655",
+    "in_reply_to_user_id": "1573939488564604928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015808313066471465",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Really59763582 我习惯了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2015808313066471465",
+        "created_at": "2026-01-27T03:53:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T04:53:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015996618664005655"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1573939488564604928",
+              "start": 0,
+              "username": "Really59763582"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015996618664005655",
+        "in_reply_to_user_id": "1573939488564604928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015808313066471465",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Really59763582 我习惯了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1573939488564604928",
+        "conversation_id": "2015808313066471465",
+        "created_at": "2026-01-26T15:25:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T16:25:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015808313066471465"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2015808313066471465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4281,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我搞不懂有些女推为什么屏蔽我，我甚至都没和她聊天也没刷到过她的推也没嘴她，莫名其妙被屏蔽"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2JlN5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2JlN5"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "三体",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2007765884035813533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014313058978406400/yLC08oHO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 459,
+          "following_count": 70,
+          "like_count": 3233,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 833
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-25T07:37:06.000Z",
+        "description": "骂我反弹/代避孕套成人用品/推广自辨 /✈️：https://t.co/AokdvU7MQa    匿名：https://t.co/Hz6mCp3oBb",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "b1.达蒙.com/#/register?cod…",
+                "end": 46,
+                "expanded_url": "https://b1.xn--hv1a41u.com/#/register?code=CUqFwt8R",
+                "start": 23,
+                "url": "https://t.co/AokdvU7MQa"
+              },
+              {
+                "display_url": "ngl.link/really597635821",
+                "end": 76,
+                "expanded_url": "https://ngl.link/really597635821",
+                "start": 53,
+                "url": "https://t.co/Hz6mCp3oBb"
+              }
+            ]
+          }
+        },
+        "id": "1573939488564604928",
+        "location": "有🚪",
+        "name": "芋泥麻薯蛋挞",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009616782496329729/qmZuSqNG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13949,
+          "following_count": 198,
+          "like_count": 3840,
+          "listed_count": 27,
+          "media_count": 97,
+          "tweet_count": 1588
+        },
+        "username": "Really59763582",
+        "verified": false
+      }
+    ]
+  }
+}

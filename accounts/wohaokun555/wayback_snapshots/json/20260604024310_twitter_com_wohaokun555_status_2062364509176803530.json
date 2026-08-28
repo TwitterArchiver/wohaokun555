@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2062283592198508719",
+    "created_at": "2026-06-04T02:43:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T03:43:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062364509176803530"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2013000409003315200",
+          "start": 0,
+          "username": "imyy1567"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062364509176803530",
+    "in_reply_to_user_id": "2013000409003315200",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062283592198508719",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@imyy1567 好 震 憾"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2062283592198508719",
+        "created_at": "2026-06-04T02:43:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T03:43:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062364509176803530"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2013000409003315200",
+              "start": 0,
+              "username": "imyy1567"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062364509176803530",
+        "in_reply_to_user_id": "2013000409003315200",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062283592198508719",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@imyy1567 好 震 憾"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013000409003315200",
+        "conversation_id": "2062283592198508719",
+        "created_at": "2026-06-03T21:21:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T22:21:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062283592198508719"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062283592198508719",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 12815,
+          "like_count": 87,
+          "quote_count": 0,
+          "reply_count": 38,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一个对我表示过好感的男的无意间透露自己玩过8p 我在五雷轰顶的同时还是没忍住问了多p到底需不需要场控这个问题 他说男女人数差异≦2就不需要 但是这肯定是我们最后一次说话了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "🚪（520",
+        "id": "2004619896630788096",
+        "location": "口令➕姓",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2036315164098830372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2214,
+          "following_count": 79,
+          "like_count": 21190,
+          "listed_count": 2,
+          "media_count": 137,
+          "tweet_count": 3342
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-18T21:28:05.000Z",
+        "description": "非如此不可 🚪88",
+        "id": "2013000409003315200",
+        "name": "川",
+        "pinned_tweet_id": "2057040390226923969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013000918875201536/zcutPwqg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1993,
+          "following_count": 46,
+          "like_count": 319,
+          "listed_count": 7,
+          "media_count": 203,
+          "tweet_count": 1206
+        },
+        "username": "imyy1567",
+        "verified": false
+      }
+    ]
+  }
+}

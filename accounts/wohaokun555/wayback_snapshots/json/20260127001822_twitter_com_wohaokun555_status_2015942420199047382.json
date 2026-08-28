@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2015804667318730949",
+    "created_at": "2026-01-27T00:18:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T01:18:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015942420199047382"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1686020017232498688",
+          "start": 0,
+          "username": "juziiiiovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015942420199047382",
+    "in_reply_to_user_id": "1686020017232498688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015852607374557577",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@juziiiiovo 啊啊啊啊这个不可以"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2015804667318730949",
+        "created_at": "2026-01-27T00:18:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T01:18:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015942420199047382"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1686020017232498688",
+              "start": 0,
+              "username": "juziiiiovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015942420199047382",
+        "in_reply_to_user_id": "1686020017232498688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015852607374557577",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@juziiiiovo 啊啊啊啊这个不可以"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1686020017232498688",
+        "conversation_id": "2015804667318730949",
+        "created_at": "2026-01-26T18:21:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T19:21:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015852607374557577"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015852607374557577",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015804667318730949",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 妈呀，之前看到过一个直接用电动牙刷的，看着都疼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2JlN5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2JlN5"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "三体",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2007765884035813533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014313058978406400/yLC08oHO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 458,
+          "following_count": 70,
+          "like_count": 3177,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 828
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-31T14:24:40.000Z",
+        "description": "06 爱祖国 爱人民 爱学习 爱劳动 \n上学中不考虑线下 感谢感谢喜欢orz",
+        "id": "1686020017232498688",
+        "name": "小橘子",
+        "pinned_tweet_id": "2012885063981994287",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941215964458340352/MK3i7YPJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 62,
+          "like_count": 89,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 80
+        },
+        "username": "juziiiiovo",
+        "verified": false
+      }
+    ]
+  }
+}

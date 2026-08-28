@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2077285464017678479",
+    "created_at": "2026-07-15T12:09:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T13:09:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077364882593464819"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1951667419904434177",
+          "start": 0,
+          "username": "sangshen111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077364882593464819",
+    "in_reply_to_user_id": "1951667419904434177",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077285464017678479",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sangshen111 omg！\n好美"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3024,
+        "media_key": "3_2077285415913213952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNQAFHCbUAARmuf.jpg",
+        "width": 4032
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2077285464017678479",
+        "created_at": "2026-07-15T12:09:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T13:09:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077364882593464819"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1951667419904434177",
+              "start": 0,
+              "username": "sangshen111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077364882593464819",
+        "in_reply_to_user_id": "1951667419904434177",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077285464017678479",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sangshen111 omg！\n好美"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077285415913213952"
+          ]
+        },
+        "author_id": "1951667419904434177",
+        "conversation_id": "2077285464017678479",
+        "created_at": "2026-07-15T06:53:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T07:53:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077285464017678479"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/q1NID7Yw61",
+              "end": 23,
+              "expanded_url": "https://x.com/sangshen111/status/2077285464017678479/photo/1",
+              "media_key": "3_2077285415913213952",
+              "start": 0,
+              "url": "https://t.co/q1NID7Yw61"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077285464017678479",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 3155,
+          "like_count": 172,
+          "quote_count": 0,
+          "reply_count": 63,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/q1NID7Yw61"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "＞𐋣＜！🚪1314（闲聊勿扰🐈‍⬛",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pilot.damoplane.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://pilot.damoplane.com/#/register?code=kIfji62G",
+                "start": 0,
+                "url": "https://t.co/bFxvQiBB8B"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "自用vpn⬇️",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2075230890876452974",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2859,
+          "following_count": 82,
+          "like_count": 24514,
+          "listed_count": 2,
+          "media_count": 152,
+          "tweet_count": 3934
+        },
+        "url": "https://t.co/bFxvQiBB8B",
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-02T15:32:35.000Z",
+        "description": "比puq还嘴碎的地方..提问箱：https://t.co/YWSl44v3oB无🚪不➕v（互关除外）其余除非给我一百万☺️。不聊骚不线下不接推广不出原味。私信只回关注我的 只关注对主页感兴趣的@yingtao0306",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 96,
+                "username": "yingtao0306"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/sangshen111",
+                "end": 39,
+                "expanded_url": "https://ngl.link/sangshen111",
+                "start": 16,
+                "url": "https://t.co/YWSl44v3oB"
+              }
+            ]
+          }
+        },
+        "id": "1951667419904434177",
+        "name": "桑葚",
+        "pinned_tweet_id": "2067223524599898547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018401674541535232/p6axfE2k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6933,
+          "following_count": 165,
+          "like_count": 8657,
+          "listed_count": 15,
+          "media_count": 1012,
+          "tweet_count": 7275
+        },
+        "url": "",
+        "username": "sangshen111",
+        "verified": false
+      }
+    ]
+  }
+}

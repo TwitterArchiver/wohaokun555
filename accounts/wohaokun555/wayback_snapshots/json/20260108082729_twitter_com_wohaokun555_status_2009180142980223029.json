@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2009157599275704337",
+    "created_at": "2026-01-08T08:27:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-08T09:27:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009180142980223029"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1751717311479009280",
+          "start": 0,
+          "username": "hty1557348"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009180142980223029",
+    "in_reply_to_user_id": "1751717311479009280",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009157599275704337",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hty1557348 蹲奶茶"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1363,
+        "media_key": "3_2009157596037697540",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-H2MEma0AQEg19.jpg",
+        "width": 1196
+      },
+      {
+        "height": 1575,
+        "media_key": "3_2009157595605725184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-H2MC_bcAAX1fH.jpg",
+        "width": 1223
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2009157599275704337",
+        "created_at": "2026-01-08T08:27:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T09:27:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009180142980223029"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1751717311479009280",
+              "start": 0,
+              "username": "hty1557348"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009180142980223029",
+        "in_reply_to_user_id": "1751717311479009280",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009157599275704337",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hty1557348 蹲奶茶"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009157596037697540",
+            "3_2009157595605725184"
+          ]
+        },
+        "author_id": "1751717311479009280",
+        "conversation_id": "2009157599275704337",
+        "created_at": "2026-01-08T06:57:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T07:57:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009157599275704337"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TV6QztOSoE",
+              "end": 41,
+              "expanded_url": "https://x.com/hty1557348/status/2009157599275704337/photo/1",
+              "media_key": "3_2009157596037697540",
+              "start": 18,
+              "url": "https://t.co/TV6QztOSoE"
+            },
+            {
+              "display_url": "pic.x.com/TV6QztOSoE",
+              "end": 41,
+              "expanded_url": "https://x.com/hty1557348/status/2009157599275704337/photo/1",
+              "media_key": "3_2009157595605725184",
+              "start": 18,
+              "url": "https://t.co/TV6QztOSoE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009157599275704337",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 77,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "关注我真的可能会有奶茶(＾∇＾)🧋 https://t.co/TV6QztOSoE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "天天开心o^^o",
+        "id": "2004619896630788096",
+        "location": "三体星球",
+        "name": "鱼虾一整碗",
+        "pinned_tweet_id": "2008798162614640930",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004620653153189888/VWgYLNYv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241,
+          "following_count": 52,
+          "like_count": 1547,
+          "listed_count": 1,
+          "media_count": 35,
+          "tweet_count": 510
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-28T21:22:13.000Z",
+        "description": "吐槽",
+        "id": "1751717311479009280",
+        "location": "中国",
+        "name": "hty",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1856436977266274304/IBbh9qV6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 3,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 35
+        },
+        "username": "hty1557348",
+        "verified": false
+      }
+    ]
+  }
+}

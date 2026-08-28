@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2030938352506310824",
+    "created_at": "2026-03-09T12:17:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T13:17:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030981423180787998"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1686020017232498688",
+          "start": 0,
+          "username": "juziiiiovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030981423180787998",
+    "in_reply_to_user_id": "1686020017232498688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030981289684381855",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@juziiiiovo 呜呜呜好烦吧！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2030938352506310824",
+        "created_at": "2026-03-09T12:17:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T13:17:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030981423180787998"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1686020017232498688",
+              "start": 0,
+              "username": "juziiiiovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030981423180787998",
+        "in_reply_to_user_id": "1686020017232498688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030981289684381855",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@juziiiiovo 呜呜呜好烦吧！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1686020017232498688",
+        "conversation_id": "2030938352506310824",
+        "created_at": "2026-03-09T12:17:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T13:17:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030981289684381855"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030981289684381855",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030938352506310824",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 服了老铁，俺也是，而且巨难听，但是不好意思说，，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2JlN5\n🚪520 （勿扰",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2JlN5"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "除了口令别的不回！没有陪聊的义务",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2007765884035813533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1092,
+          "following_count": 96,
+          "like_count": 10519,
+          "listed_count": 1,
+          "media_count": 81,
+          "tweet_count": 1923
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-31T14:24:40.000Z",
+        "description": "给你四倍爱",
+        "id": "1686020017232498688",
+        "name": "小橘子",
+        "pinned_tweet_id": "2029274148141449648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941215964458340352/MK3i7YPJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 76,
+          "like_count": 188,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 144
+        },
+        "username": "juziiiiovo",
+        "verified": false
+      }
+    ]
+  }
+}

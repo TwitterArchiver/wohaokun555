@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2071225058597683623",
+    "created_at": "2026-06-29T05:34:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T06:34:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071467225601716287"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2050887139865300992",
+          "start": 0,
+          "username": "kkkkkirito12138"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071467225601716287",
+    "in_reply_to_user_id": "2050887139865300992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071266790857146598",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kkkkkirito12138 我有点焦虑～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2071225058597683623",
+        "created_at": "2026-06-29T05:34:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T06:34:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071467225601716287"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2050887139865300992",
+              "start": 0,
+              "username": "kkkkkirito12138"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071467225601716287",
+        "in_reply_to_user_id": "2050887139865300992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071266790857146598",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kkkkkirito12138 我有点焦虑～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050887139865300992",
+        "conversation_id": "2071225058597683623",
+        "created_at": "2026-06-28T16:17:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T17:17:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071266790857146598"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071266790857146598",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 82,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071225058597683623",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 不用太焦虑吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "让我成为我，让一座山并存着嶙峋和肥沃",
+        "id": "2004619896630788096",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2070530833434476867",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2619,
+          "following_count": 81,
+          "like_count": 23383,
+          "listed_count": 2,
+          "media_count": 142,
+          "tweet_count": 3737
+        },
+        "url": "",
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-03T10:40:35.000Z",
+        "description": "08白羊 直男不4i 勿骚扰礼貌私信会回 \n🚪🫧88 匿名提问在下面👇",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/k407510",
+                "end": 23,
+                "expanded_url": "https://ngl.link/k407510",
+                "start": 0,
+                "url": "https://t.co/17y3x4clkb"
+              }
+            ]
+          }
+        },
+        "id": "2050887139865300992",
+        "location": "21km",
+        "name": "薄荷味的雪",
+        "pinned_tweet_id": "2052628256864538760",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057457738737999872/auHCR0Cy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1417,
+          "following_count": 41,
+          "like_count": 2034,
+          "listed_count": 2,
+          "media_count": 82,
+          "tweet_count": 626
+        },
+        "url": "https://t.co/17y3x4clkb",
+        "username": "kkkkkirito12138",
+        "verified": false
+      }
+    ]
+  }
+}

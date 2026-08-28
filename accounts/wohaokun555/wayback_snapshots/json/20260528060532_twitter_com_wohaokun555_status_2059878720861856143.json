@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2059281929435025760",
+    "created_at": "2026-05-28T06:05:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T07:05:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059878720861856143"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1974360026321162241",
+          "start": 0,
+          "username": "xiaonan215"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059878720861856143",
+    "in_reply_to_user_id": "1974360026321162241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059877361349251278",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaonan215 卧槽真的吗 我试试…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2059281929435025760",
+        "created_at": "2026-05-28T06:05:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T07:05:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059878720861856143"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1974360026321162241",
+              "start": 0,
+              "username": "xiaonan215"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059878720861856143",
+        "in_reply_to_user_id": "1974360026321162241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059877361349251278",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaonan215 卧槽真的吗 我试试…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974360026321162241",
+        "conversation_id": "2059281929435025760",
+        "created_at": "2026-05-28T06:00:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T07:00:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059877361349251278"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059877361349251278",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059281929435025760",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 之前我一直用那个很火的绿罐水杨酸敷就没啥用，甚至给我弄成超级无敌大敏感皮😨碰到水就红且痛，但是在x上刷到了穷姐夫的推荐直接去买了，才用了三天水杨酸洗面奶➕vc➕油橄榄真的好了很多，也不红了，闭口也小了（这样说话好像广告。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "🚪（纯绿 不入勿扰\n@lei_meng123 随缘过",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 10,
+                "username": "lei_meng123"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2036315164098830372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2126,
+          "following_count": 78,
+          "like_count": 20403,
+          "listed_count": 2,
+          "media_count": 240,
+          "tweet_count": 3331
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-04T06:24:56.000Z",
+        "description": "Anti-male chauvinist 不撕逼，不吵架，不社交，不陪聊，不谈恋爱。 专心经营自己的屌丝生活。",
+        "id": "1974360026321162241",
+        "location": "🚫不看私信❗️",
+        "name": "囡囡",
+        "pinned_tweet_id": "2042114121479680222",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037979572902199296/6Dy0t9t9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 33,
+          "like_count": 5450,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 324
+        },
+        "username": "xiaonan215",
+        "verified": false
+      }
+    ]
+  }
+}

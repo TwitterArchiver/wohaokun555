@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2019412515084726463",
+    "created_at": "2026-02-05T14:19:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-05T15:19:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019415554826932639"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1845304648313323522",
+          "start": 0,
+          "username": "55juzi55_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019415554826932639",
+    "in_reply_to_user_id": "1845304648313323522",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019412515084726463",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@55juzi55_ 妈妈"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1701,
+        "media_key": "3_2019412205675114504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAZks6ZacAgEDY7.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1452,
+        "media_key": "3_2019412210255298560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAZktLdagAAyGaF.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2019412515084726463",
+        "created_at": "2026-02-05T14:19:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T15:19:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019415554826932639"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1845304648313323522",
+              "start": 0,
+              "username": "55juzi55_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019415554826932639",
+        "in_reply_to_user_id": "1845304648313323522",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019412515084726463",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@55juzi55_ 妈妈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019412205675114504",
+            "3_2019412210255298560"
+          ]
+        },
+        "author_id": "1845304648313323522",
+        "conversation_id": "2019412515084726463",
+        "created_at": "2026-02-05T14:07:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T15:07:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019412515084726463"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 18,
+              "tag": "美女"
+            },
+            {
+              "end": 27,
+              "start": 22,
+              "tag": "女大学生"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yrc7daZ3aC",
+              "end": 51,
+              "expanded_url": "https://x.com/55juzi55_/status/2019412515084726463/photo/1",
+              "media_key": "3_2019412205675114504",
+              "start": 28,
+              "url": "https://t.co/yrc7daZ3aC"
+            },
+            {
+              "display_url": "pic.x.com/yrc7daZ3aC",
+              "end": 51,
+              "expanded_url": "https://x.com/55juzi55_/status/2019412515084726463/photo/1",
+              "media_key": "3_2019412210255298560",
+              "start": 28,
+              "url": "https://t.co/yrc7daZ3aC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019412515084726463",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "1 or 2（请忽略我脏脏的镜子）\n#美女 #女大学生 https://t.co/yrc7daZ3aC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2JlN5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2JlN5"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "🚪188（绿（别的私信不回",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2019333252520321256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014313058978406400/yLC08oHO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 583,
+          "following_count": 72,
+          "like_count": 5560,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 1042
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-13T03:25:04.000Z",
+        "description": "只回粉丝丨欢迎找我聊天丨当朋友圈发丨直接发屌死全家丨🚪可加联系方式丨欢迎美女宝宝互关丨接陪玩丨喜欢帅哥美女丨礼貌一点互相尊重谢谢",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/juzi.mood",
+                "end": 23,
+                "expanded_url": "https://tellonym.me/juzi.mood",
+                "start": 0,
+                "url": "https://t.co/ymlXKHVLfK"
+              }
+            ]
+          }
+        },
+        "id": "1845304648313323522",
+        "location": "🚪188/520没什么实际区别 无任何抵扣",
+        "name": "欣欣",
+        "pinned_tweet_id": "2013069149870637529",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924989316138467328/bwN8esp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 770,
+          "following_count": 47,
+          "like_count": 1243,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 751
+        },
+        "url": "https://t.co/ymlXKHVLfK",
+        "username": "55juzi55_",
+        "verified": false
+      }
+    ]
+  }
+}

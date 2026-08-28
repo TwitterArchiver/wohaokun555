@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2023429165513597404",
+    "created_at": "2026-02-16T16:08:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T17:08:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023429165513597404"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1886790682809131008",
+          "start": 3,
+          "username": "ChenSir0002"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023429165513597404",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 328
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023389369948877150",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ChenSir0002: 除夕快乐🎉\n\n给大家发个一万的红包吧 评论区留言"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2023429165513597404",
+        "created_at": "2026-02-16T16:08:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T17:08:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023429165513597404"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1886790682809131008",
+              "start": 3,
+              "username": "ChenSir0002"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023429165513597404",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 328
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023389369948877150",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ChenSir0002: 除夕快乐🎉\n\n给大家发个一万的红包吧 评论区留言"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886790682809131008",
+        "conversation_id": "2023389369948877150",
+        "created_at": "2026-02-16T13:29:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T14:29:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023389369948877150"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2023389369948877150",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 42768,
+          "like_count": 450,
+          "quote_count": 5,
+          "reply_count": 631,
+          "retweet_count": 328
+        },
+        "reply_settings": "everyone",
+        "text": "除夕快乐🎉\n\n给大家发个一万的红包吧 评论区留言"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2JlN5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2JlN5"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "🚪188（纯绿纯绿（除了口令和门槛别的私信不回",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2016792238060421479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 812,
+          "following_count": 84,
+          "like_count": 8294,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 1572
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-04T14:55:42.000Z",
+        "description": "『知心陈Sir·交友投稿·记录网友发骚日常』",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Killer_282828",
+                "end": 23,
+                "expanded_url": "https://t.me/Killer_282828",
+                "start": 0,
+                "url": "https://t.co/Bljb6XpfHl"
+              }
+            ]
+          }
+        },
+        "id": "1886790682809131008",
+        "location": "0.01km",
+        "name": "陈Sir",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992681374902599680/_r5g-vs2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6059,
+          "following_count": 3,
+          "like_count": 763,
+          "listed_count": 7,
+          "media_count": 166,
+          "tweet_count": 278
+        },
+        "url": "https://t.co/Bljb6XpfHl",
+        "username": "ChenSir0002",
+        "verified": true
+      }
+    ]
+  }
+}

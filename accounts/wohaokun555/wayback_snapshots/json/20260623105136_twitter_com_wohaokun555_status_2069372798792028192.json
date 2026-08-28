@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2069017016045093326",
+    "created_at": "2026-06-23T10:51:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T11:51:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069372798792028192"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1832637395331682304",
+          "start": 0,
+          "username": "Evilkittyyy_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069372798792028192",
+    "in_reply_to_user_id": "1832637395331682304",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069017016045093326",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Evilkittyyy_ 好美"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2069017007878729728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLagAazacAAj5s3.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2069017016045093326",
+        "created_at": "2026-06-23T10:51:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T11:51:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069372798792028192"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1832637395331682304",
+              "start": 0,
+              "username": "Evilkittyyy_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069372798792028192",
+        "in_reply_to_user_id": "1832637395331682304",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069017016045093326",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Evilkittyyy_ 好美"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069017007878729728"
+          ]
+        },
+        "author_id": "1832637395331682304",
+        "conversation_id": "2069017016045093326",
+        "created_at": "2026-06-22T11:17:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T12:17:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069017016045093326"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0OLsEDJWz9",
+              "end": 38,
+              "expanded_url": "https://x.com/Evilkittyyy_/status/2069017016045093326/photo/1",
+              "media_key": "3_2069017007878729728",
+              "start": 15,
+              "url": "https://t.co/0OLsEDJWz9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069017016045093326",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 6277,
+          "like_count": 320,
+          "quote_count": 0,
+          "reply_count": 62,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我好喜欢朋友偷偷记录我好吧！ https://t.co/0OLsEDJWz9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "🐈‍⬛",
+        "id": "2004619896630788096",
+        "location": "私信只回口令入门 闲聊勿扰～",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2067618656885125585",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2487,
+          "following_count": 80,
+          "like_count": 22810,
+          "listed_count": 2,
+          "media_count": 136,
+          "tweet_count": 3641
+        },
+        "url": "",
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-08T04:29:51.000Z",
+        "description": "",
+        "id": "1832637395331682304",
+        "name": "妹宝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002113441780097024/1bIqUFH0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3887,
+          "following_count": 20,
+          "like_count": 1383,
+          "listed_count": 3,
+          "media_count": 80,
+          "tweet_count": 1355
+        },
+        "url": "",
+        "username": "Evilkittyyy_",
+        "verified": false
+      }
+    ]
+  }
+}

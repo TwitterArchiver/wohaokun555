@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2022269789167813115",
+    "created_at": "2026-02-13T11:28:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T12:28:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022271754878771414"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1592820644919533569",
+          "start": 0,
+          "username": "huajimeirenr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022271754878771414",
+    "in_reply_to_user_id": "1592820644919533569",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022271581632737500",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huajimeirenr 我要亲这个🥚宝宝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2022269789167813115",
+        "created_at": "2026-02-13T11:28:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T12:28:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022271754878771414"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1592820644919533569",
+              "start": 0,
+              "username": "huajimeirenr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022271754878771414",
+        "in_reply_to_user_id": "1592820644919533569",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022271581632737500",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huajimeirenr 我要亲这个🥚宝宝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592820644919533569",
+        "conversation_id": "2022269789167813115",
+        "created_at": "2026-02-13T11:28:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T12:28:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022271581632737500"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022271581632737500",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022269789167813115",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 萌神驾到"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2JlN5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2JlN5"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "🚪188（纯绿纯绿（除了口令和门槛别的私信不回",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2016792238060421479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 714,
+          "following_count": 80,
+          "like_count": 7340,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 1414
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-16T10:03:44.000Z",
+        "description": "05/180 有🚪",
+        "id": "1592820644919533569",
+        "location": "🥚",
+        "name": "一颗蛋",
+        "pinned_tweet_id": "2003695977828614563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974387290026946560/_5kxDxOl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 724,
+          "following_count": 49,
+          "like_count": 3388,
+          "listed_count": 0,
+          "media_count": 263,
+          "tweet_count": 825
+        },
+        "username": "huajimeirenr",
+        "verified": false
+      }
+    ]
+  }
+}

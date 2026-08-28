@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2020915333150933069",
+    "created_at": "2026-02-10T14:49:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-10T15:49:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021234954684989845"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1931321288892751872",
+          "start": 0,
+          "username": "cidao070113"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021234954684989845",
+    "in_reply_to_user_id": "1931321288892751872",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020915333150933069",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cidao070113 老婆"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1871,
+        "media_key": "3_2020915327421513736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAu7yHQaAAgcCG1.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2020915333150933069",
+        "created_at": "2026-02-10T14:49:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T15:49:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021234954684989845"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1931321288892751872",
+              "start": 0,
+              "username": "cidao070113"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021234954684989845",
+        "in_reply_to_user_id": "1931321288892751872",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020915333150933069",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cidao070113 老婆"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020915327421513736"
+          ]
+        },
+        "author_id": "1931321288892751872",
+        "conversation_id": "2020915333150933069",
+        "created_at": "2026-02-09T17:38:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T18:38:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020915333150933069"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0mX2EeAeoZ",
+              "end": 35,
+              "expanded_url": "https://x.com/cidao070113/status/2020915333150933069/photo/1",
+              "media_key": "3_2020915327421513736",
+              "start": 12,
+              "url": "https://t.co/0mX2EeAeoZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020915333150933069",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3744,
+          "like_count": 152,
+          "quote_count": 0,
+          "reply_count": 21,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有人觉得我很忧郁。 https://t.co/0mX2EeAeoZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2JlN5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2JlN5"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "🚪188（绿（别的私信不回",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2009534874970145039",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014313058978406400/yLC08oHO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 668,
+          "following_count": 73,
+          "like_count": 6579,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 1254
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-07T12:04:30.000Z",
+        "description": "我是叨叨、泛性恋 无🚪想加谁我自己会要  私信不要叫姐姐！！提问箱📪 https://t.co/RSwAo9Pseo",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cidao31181",
+                "end": 58,
+                "expanded_url": "https://ngl.link/cidao31181",
+                "start": 35,
+                "url": "https://t.co/RSwAo9Pseo"
+              }
+            ]
+          }
+        },
+        "id": "1931321288892751872",
+        "location": "小船",
+        "name": "hh",
+        "pinned_tweet_id": "1984712046617964633",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960679267089702919/ztNGEkpy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5028,
+          "following_count": 289,
+          "like_count": 3357,
+          "listed_count": 6,
+          "media_count": 102,
+          "tweet_count": 2674
+        },
+        "username": "cidao070113",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2008923765720395876",
+    "created_at": "2026-01-07T15:35:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-07T16:35:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008925363301396876"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1811351392180944896",
+          "start": 0,
+          "username": "1297074057bzk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008925363301396876",
+    "in_reply_to_user_id": "1811351392180944896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008924997025419582",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1297074057bzk 笑死我了这个文案可以"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2008923765720395876",
+        "created_at": "2026-01-07T15:35:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T16:35:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008925363301396876"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1811351392180944896",
+              "start": 0,
+              "username": "1297074057bzk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008925363301396876",
+        "in_reply_to_user_id": "1811351392180944896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008924997025419582",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1297074057bzk 笑死我了这个文案可以"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811351392180944896",
+        "conversation_id": "2008923765720395876",
+        "created_at": "2026-01-07T15:33:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T16:33:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008924997025419582"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008924997025419582",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008923765720395876",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 女娲为什么你对别人就这样毫不掩饰的偏爱，心理委员你快来我不得劲儿😭心理委员你快来我不得劲儿😭心理委员你快来我不得劲儿😭心理委员你快来我不得劲儿😭心理委员你快来我不得劲儿😭心理委员你快来我不得劲儿😭心理委员你快来我不得劲儿😭心理委员你快来我不得劲儿😭心理委员你快来我不得劲儿😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "天天开心o^^o",
+        "id": "2004619896630788096",
+        "location": "三体星球",
+        "name": "鱼虾一整碗",
+        "pinned_tweet_id": "2008798162614640930",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004620653153189888/VWgYLNYv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214,
+          "following_count": 50,
+          "like_count": 1433,
+          "listed_count": 1,
+          "media_count": 32,
+          "tweet_count": 473
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-11T10:46:55.000Z",
+        "description": "",
+        "id": "1811351392180944896",
+        "name": "空条承太郎",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847702664605552641/oOi5HIyd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 61,
+          "like_count": 166,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 279
+        },
+        "username": "1297074057bzk",
+        "verified": false
+      }
+    ]
+  }
+}

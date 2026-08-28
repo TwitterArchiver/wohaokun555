@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2025519823791460748",
+    "created_at": "2026-02-22T11:40:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T12:40:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025536128976335106"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1900533574597799936",
+          "start": 0,
+          "username": "gouguoyu63723"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025536128976335106",
+    "in_reply_to_user_id": "1900533574597799936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025531449429135388",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gouguoyu63723 我从pdd买的～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2025519823791460748",
+        "created_at": "2026-02-22T11:40:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T12:40:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025536128976335106"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1900533574597799936",
+              "start": 0,
+              "username": "gouguoyu63723"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025536128976335106",
+        "in_reply_to_user_id": "1900533574597799936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025531449429135388",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gouguoyu63723 我从pdd买的～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1900533574597799936",
+        "conversation_id": "2025519823791460748",
+        "created_at": "2026-02-22T11:21:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T12:21:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025531449429135388"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025531449429135388",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025519823791460748",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 我去，有版权了吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2JlN5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2JlN5"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "除了口令和正常问题别的私信不回",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2016792238060421479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 923,
+          "following_count": 95,
+          "like_count": 9229,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 1701
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-14T13:05:02.000Z",
+        "description": "阴暗扭曲爬行的工科社畜眼镜男 平等的视奸每一个人 ，玩推就是来看黄图和搞抽象。",
+        "id": "1900533574597799936",
+        "location": "敏行 迟言 缓怒",
+        "name": "果果鱼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024964675860135936/7vkzQkdR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 369,
+          "like_count": 2989,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 425
+        },
+        "username": "gouguoyu63723",
+        "verified": false
+      }
+    ]
+  }
+}

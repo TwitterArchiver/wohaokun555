@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2073239468870349009",
+    "created_at": "2026-07-04T03:56:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T04:56:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073254474349691163"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1734890898310504448",
+          "start": 0,
+          "username": "k0taka_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073254474349691163",
+    "in_reply_to_user_id": "1734890898310504448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073239468870349009",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@k0taka_ 三四百的都没有这种了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2073239458204295168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMWgTYCXIAAqtxQ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2073239468870349009",
+        "created_at": "2026-07-04T03:56:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T04:56:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073254474349691163"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1734890898310504448",
+              "start": 0,
+              "username": "k0taka_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073254474349691163",
+        "in_reply_to_user_id": "1734890898310504448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073239468870349009",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@k0taka_ 三四百的都没有这种了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073239458204295168"
+          ]
+        },
+        "author_id": "1734890898310504448",
+        "conversation_id": "2073239468870349009",
+        "created_at": "2026-07-04T02:56:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T03:56:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073239468870349009"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/saYHtwqwzx",
+              "end": 68,
+              "expanded_url": "https://x.com/k0taka_/status/2073239468870349009/photo/1",
+              "media_key": "3_2073239458204295168",
+              "start": 45,
+              "url": "https://t.co/saYHtwqwzx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073239468870349009",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 605,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "很难想象2026年了还能在酒店见到这种吹风机… \n\n280一晚的电竞酒店都不用这种了吧😅 https://t.co/saYHtwqwzx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "让我成为我，让一座山并存着嶙峋和肥沃",
+        "id": "2004619896630788096",
+        "location": "置顶推广自辨（520🚪",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2073042783791886494",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2729,
+          "following_count": 81,
+          "like_count": 23879,
+          "listed_count": 2,
+          "media_count": 145,
+          "tweet_count": 3824
+        },
+        "url": "",
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-13T11:00:04.000Z",
+        "description": "我只是一个按快门的",
+        "id": "1734890898310504448",
+        "name": "𝙺𝚘𝚝𝚊𝚔𝚊",
+        "pinned_tweet_id": "1987359999816049076",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988753402545745920/Xi9CPddJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1946,
+          "following_count": 433,
+          "like_count": 32930,
+          "listed_count": 7,
+          "media_count": 713,
+          "tweet_count": 3879
+        },
+        "url": "",
+        "username": "k0taka_",
+        "verified": false
+      }
+    ]
+  }
+}

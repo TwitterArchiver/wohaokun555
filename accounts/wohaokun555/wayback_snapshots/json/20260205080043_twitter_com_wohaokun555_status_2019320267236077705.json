@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2019318750936461697",
+    "created_at": "2026-02-05T08:00:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-05T09:00:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019320267236077705"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2000477671193747456",
+          "start": 0,
+          "username": "XiaYu40748"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019320267236077705",
+    "in_reply_to_user_id": "2000477671193747456",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019319664090968153",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XiaYu40748 支持！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2019318750936461697",
+        "created_at": "2026-02-05T08:00:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T09:00:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019320267236077705"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2000477671193747456",
+              "start": 0,
+              "username": "XiaYu40748"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019320267236077705",
+        "in_reply_to_user_id": "2000477671193747456",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019319664090968153",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XiaYu40748 支持！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000477671193747456",
+        "conversation_id": "2019318750936461697",
+        "created_at": "2026-02-05T07:58:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T08:58:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019319664090968153"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019319664090968153",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019318750936461697",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 这个中推忧郁神太萌了！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2JlN5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2JlN5"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "🚪188（别的私信不回",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2008543541979738501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014313058978406400/yLC08oHO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 573,
+          "following_count": 71,
+          "like_count": 5411,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 1016
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-15T08:07:23.000Z",
+        "description": "我想发什么就发什么。/超敏感超自卑超脆弱/不喜欢请直接拉黑/我喜欢跟你萌玩！感谢喜欢🥺",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/suhsjsk1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/suhsjsk1",
+                "start": 0,
+                "url": "https://t.co/XM9uVSriFX"
+              }
+            ]
+          }
+        },
+        "id": "2000477671193747456",
+        "location": "🚪88纯绿",
+        "name": "二氧化碳是你悲伤的浓度",
+        "pinned_tweet_id": "2019049020803645576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019055573069668352/LT2nu7J__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 334,
+          "following_count": 64,
+          "like_count": 301,
+          "listed_count": 1,
+          "media_count": 55,
+          "tweet_count": 497
+        },
+        "url": "https://t.co/XM9uVSriFX",
+        "username": "XiaYu40748",
+        "verified": false
+      }
+    ]
+  }
+}

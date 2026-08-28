@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2071197050029695120",
+    "created_at": "2026-06-28T13:02:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T14:02:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071217735254827322"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1522094329954652161",
+          "start": 0,
+          "username": "0xo_snow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071217735254827322",
+    "in_reply_to_user_id": "1522094329954652161",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071197050029695120",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0xo_snow 好像五哈那个"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2071197038080053248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL5eu4KaUAArYLs.jpg",
+        "width": 1466
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2071197050029695120",
+        "created_at": "2026-06-28T13:02:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T14:02:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071217735254827322"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1522094329954652161",
+              "start": 0,
+              "username": "0xo_snow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071217735254827322",
+        "in_reply_to_user_id": "1522094329954652161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071197050029695120",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0xo_snow 好像五哈那个"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071197038080053248"
+          ]
+        },
+        "author_id": "1522094329954652161",
+        "conversation_id": "2071197050029695120",
+        "created_at": "2026-06-28T11:40:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T12:16:21.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071190965411598426",
+          "2071191220261650527",
+          "2071197050029695120"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uJPVqA9qa4",
+              "end": 49,
+              "expanded_url": "https://x.com/0xo_snow/status/2071197050029695120/photo/1",
+              "media_key": "3_2071197038080053248",
+              "start": 26,
+              "url": "https://t.co/uJPVqA9qa4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071197050029695120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 228,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真服了在北京路过鸟巢有个叫周什么杰伦的非要和我合影 https://t.co/uJPVqA9qa4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "让我成为我，让一座山并存着嶙峋和肥沃",
+        "id": "2004619896630788096",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2070530833434476867",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2567,
+          "following_count": 81,
+          "like_count": 23197,
+          "listed_count": 2,
+          "media_count": 141,
+          "tweet_count": 3716
+        },
+        "url": "",
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-05T06:02:50.000Z",
+        "description": "=恋 🎀 IP北京\n可爱是唯一追求 ！\n爱好是唱歌与美少女。我想被在意\n投喂or入门请扫背景赞赏码感谢！⸝⸝⸝ ╸▵╺⸝⸝⸝",
+        "id": "1522094329954652161",
+        "location": "🚪88回讯息/解锁线下",
+        "name": "🐰れん⊹",
+        "pinned_tweet_id": "2069020558562664463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017787889955098624/u0R2iAGA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18128,
+          "following_count": 423,
+          "like_count": 17088,
+          "listed_count": 33,
+          "media_count": 1388,
+          "tweet_count": 14569
+        },
+        "url": "",
+        "username": "0xo_snow",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2028423811654431098",
+    "created_at": "2026-03-02T14:55:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T15:55:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028484257510031693"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1877992679453454336",
+          "start": 0,
+          "username": "BladeStarr0714"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028484257510031693",
+    "in_reply_to_user_id": "1877992679453454336",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028483069209100657",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BladeStarr0714 是的！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2028423811654431098",
+        "created_at": "2026-03-02T14:55:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T15:55:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028484257510031693"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1877992679453454336",
+              "start": 0,
+              "username": "BladeStarr0714"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028484257510031693",
+        "in_reply_to_user_id": "1877992679453454336",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028483069209100657",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BladeStarr0714 是的！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877992679453454336",
+        "conversation_id": "2028423811654431098",
+        "created_at": "2026-03-02T14:50:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T15:50:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028483069209100657"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028483069209100657",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 50,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028423811654431098",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 这种关系真的很好诶！！大大方方和好朋友互相聊这些话题真的能让友情更加坚固"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2JlN5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2JlN5"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "除了口令和正常问题别的私信不回",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2016792238060421479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 958,
+          "following_count": 94,
+          "like_count": 9973,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 1815
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-11T08:15:31.000Z",
+        "description": "呱呱蛙蛙🐸叭叭夸夸👍🏻咔咔花花🌸嘛嘛哈哈😋\n @Frogly2887是暴露狂蛙的黄色废料小号所以只过互关！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 23,
+                "username": "Frogly2887"
+              }
+            ]
+          }
+        },
+        "id": "1877992679453454336",
+        "name": "ff",
+        "pinned_tweet_id": "1929559181884887192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924760681330704384/xQ-xUWFW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1543,
+          "following_count": 712,
+          "like_count": 37523,
+          "listed_count": 11,
+          "media_count": 511,
+          "tweet_count": 27891
+        },
+        "username": "BladeStarr0714",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2018290062275035151",
+    "created_at": "2026-02-03T07:26:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T08:26:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018587001809973580"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1482213825201901568",
+          "start": 0,
+          "username": "eroxiansheng2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018587001809973580",
+    "in_reply_to_user_id": "1482213825201901568",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018586886743392421",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@eroxiansheng2 yep"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2018290062275035151",
+        "created_at": "2026-02-03T07:26:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T08:26:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018587001809973580"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1482213825201901568",
+              "start": 0,
+              "username": "eroxiansheng2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018587001809973580",
+        "in_reply_to_user_id": "1482213825201901568",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018586886743392421",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@eroxiansheng2 yep"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1482213825201901568",
+        "conversation_id": "2018290062275035151",
+        "created_at": "2026-02-03T07:26:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T08:26:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018586886743392421"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018586886743392421",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018290062275035151",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 我在中间😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2JlN5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2JlN5"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "🚪188（别的私信不回",
+        "name": "中推忧郁神",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014313058978406400/yLC08oHO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 566,
+          "following_count": 72,
+          "like_count": 4947,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 996
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-15T04:51:47.000Z",
+        "description": "這裏是一隻小鹿…祝你天天開心",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/intsecofficer",
+                "end": 23,
+                "expanded_url": "http://ngl.link/intsecofficer",
+                "start": 0,
+                "url": "https://t.co/7aJgQ5wHfS"
+              }
+            ]
+          }
+        },
+        "id": "1482213825201901568",
+        "location": "致远星",
+        "name": "九霄芸鹿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010745635398696960/ytoKOQ6Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 475,
+          "like_count": 14335,
+          "listed_count": 6,
+          "media_count": 104,
+          "tweet_count": 2805
+        },
+        "url": "https://t.co/7aJgQ5wHfS",
+        "username": "eroxiansheng2",
+        "verified": false
+      }
+    ]
+  }
+}

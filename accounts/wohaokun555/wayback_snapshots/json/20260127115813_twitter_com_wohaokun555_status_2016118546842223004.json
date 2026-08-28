@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2016041671025430602",
+    "created_at": "2026-01-27T11:58:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T12:58:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016118546842223004"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1874895356452130816",
+          "start": 0,
+          "username": "newkitty412"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016118546842223004",
+    "in_reply_to_user_id": "1874895356452130816",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016041671025430602",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@newkitty412 接"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 609,
+        "media_key": "3_2016041657695928321",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_prNMtbAAEVgp_.jpg",
+        "width": 843
+      },
+      {
+        "height": 779,
+        "media_key": "3_2016041657855082496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_prNNTXgAA8Fzr.jpg",
+        "width": 849
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2016041671025430602",
+        "created_at": "2026-01-27T11:58:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T12:58:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016118546842223004"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1874895356452130816",
+              "start": 0,
+              "username": "newkitty412"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016118546842223004",
+        "in_reply_to_user_id": "1874895356452130816",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016041671025430602",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@newkitty412 接"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016041657695928321",
+            "3_2016041657855082496"
+          ]
+        },
+        "author_id": "1874895356452130816",
+        "conversation_id": "2016041671025430602",
+        "created_at": "2026-01-27T06:52:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T07:52:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016041671025430602"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3vJBFePgw5",
+              "end": 40,
+              "expanded_url": "https://x.com/newkitty412/status/2016041671025430602/photo/1",
+              "media_key": "3_2016041657695928321",
+              "start": 17,
+              "url": "https://t.co/3vJBFePgw5"
+            },
+            {
+              "display_url": "pic.x.com/3vJBFePgw5",
+              "end": 40,
+              "expanded_url": "https://x.com/newkitty412/status/2016041671025430602/photo/1",
+              "media_key": "3_2016041657855082496",
+              "start": 17,
+              "url": "https://t.co/3vJBFePgw5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016041671025430602",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5275,
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 33,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "俺萌萌的🚪哥对我咋这么好吧 ！🥰 https://t.co/3vJBFePgw5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2JlN5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2JlN5"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "恶臭男别私信我",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2016089174978494744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014313058978406400/yLC08oHO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 461,
+          "following_count": 70,
+          "like_count": 3366,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 851
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-02T19:07:49.000Z",
+        "description": "梦到什么发什么/日记本@eaenek",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 11,
+                "username": "eaenek"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/oinml",
+                "end": 23,
+                "expanded_url": "https://ngl.link/oinml",
+                "start": 0,
+                "url": "https://t.co/5ZgSd7NLBN"
+              }
+            ]
+          }
+        },
+        "id": "1874895356452130816",
+        "location": "🚪88/188",
+        "name": "活着真豆不容易",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012597855949660160/ZXdWzmDh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5347,
+          "following_count": 312,
+          "like_count": 12095,
+          "listed_count": 13,
+          "media_count": 170,
+          "tweet_count": 3821
+        },
+        "url": "https://t.co/5ZgSd7NLBN",
+        "username": "newkitty412",
+        "verified": false
+      }
+    ]
+  }
+}

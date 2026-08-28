@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2047662262467567789",
+    "created_at": "2026-04-24T13:01:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T14:01:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047662262467567789"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kooorimu/statu…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/kooorimu/status/2047464151371682094",
+          "start": 5,
+          "url": "https://t.co/YA6ZPVciYo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047662262467567789",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047464151371682094",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好萌呀。 https://t.co/YA6ZPVciYo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2047464145130549249",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGoNysTa8AETdKk.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2047662262467567789",
+        "created_at": "2026-04-24T13:01:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T14:01:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047662262467567789"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kooorimu/statu…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/kooorimu/status/2047464151371682094",
+              "start": 5,
+              "url": "https://t.co/YA6ZPVciYo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047662262467567789",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047464151371682094",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好萌呀。 https://t.co/YA6ZPVciYo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047464145130549249"
+          ]
+        },
+        "author_id": "1954170460717121536",
+        "conversation_id": "2047464151371682094",
+        "created_at": "2026-04-23T23:54:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T00:54:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047464151371682094"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JSxNH5KHQD",
+              "end": 65,
+              "expanded_url": "https://x.com/kooorimu/status/2047464151371682094/photo/1",
+              "media_key": "3_2047464145130549249",
+              "start": 42,
+              "url": "https://t.co/JSxNH5KHQD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047464151371682094",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 37,
+          "impression_count": 7658,
+          "like_count": 774,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 29
+        },
+        "reply_settings": "everyone",
+        "text": "공항 예절샷 올리는 것도 까묵었었다네~~~(◕  ̫ ◕)(◕  ̫ ◕)// https://t.co/JSxNH5KHQD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "",
+        "id": "2004619896630788096",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2036315164098830372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1909,
+          "following_count": 98,
+          "like_count": 16466,
+          "listed_count": 1,
+          "media_count": 198,
+          "tweet_count": 2944
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-09T13:18:51.000Z",
+        "description": "❥𓂃𓏧 ig. @ kurimumas",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pushoong.com/ask/8445589736/",
+                "end": 23,
+                "expanded_url": "https://pushoong.com/ask/8445589736/",
+                "start": 0,
+                "url": "https://t.co/YcWYKpBUSO"
+              }
+            ]
+          }
+        },
+        "id": "1954170460717121536",
+        "name": "kurimu",
+        "pinned_tweet_id": "1966896708186669340",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954177110601601024/mh-X9b-K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 315,
+          "following_count": 69,
+          "like_count": 1222,
+          "listed_count": 2,
+          "media_count": 61,
+          "tweet_count": 109
+        },
+        "url": "https://t.co/YcWYKpBUSO",
+        "username": "kooorimu",
+        "verified": false
+      }
+    ]
+  }
+}

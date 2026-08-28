@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2074101259720888469",
+    "created_at": "2026-07-06T12:13:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T13:13:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074104499275550804"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1950631792165490689",
+          "start": 0,
+          "username": "MugenLam1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074104499275550804",
+    "in_reply_to_user_id": "1950631792165490689",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074103034599416241",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MugenLam1 好嘟"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2074101259720888469",
+        "created_at": "2026-07-06T12:13:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T13:13:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074104499275550804"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1950631792165490689",
+              "start": 0,
+              "username": "MugenLam1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074104499275550804",
+        "in_reply_to_user_id": "1950631792165490689",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074103034599416241",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MugenLam1 好嘟"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1950631792165490689",
+        "conversation_id": "2074101259720888469",
+        "created_at": "2026-07-06T12:07:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T13:07:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074103034599416241"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074103034599416241",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074101259720888469",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 可能是手机的系统问题，还有软件缓存，或者就是有些APP在后台异常占用，自启动，偷跑什么的，至于散热直接裸机或者就关掉一下不常用的APP的权限，避免占后台（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "让我成为我，让一座山并存着嶙峋和肥沃",
+        "id": "2004619896630788096",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2073716779147506023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2751,
+          "following_count": 81,
+          "like_count": 24003,
+          "listed_count": 2,
+          "media_count": 148,
+          "tweet_count": 3849
+        },
+        "url": "",
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-30T18:57:22.000Z",
+        "description": "03/ISTJ/中国🇨🇳/📷不出名汽车摄影师/JDM/F1/",
+        "id": "1950631792165490689",
+        "location": "China",
+        "name": "小林不会拍车📸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047358586456887296/_VKwe2yN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 128,
+          "like_count": 606,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 225
+        },
+        "url": "",
+        "username": "MugenLam1",
+        "verified": false
+      }
+    ]
+  }
+}

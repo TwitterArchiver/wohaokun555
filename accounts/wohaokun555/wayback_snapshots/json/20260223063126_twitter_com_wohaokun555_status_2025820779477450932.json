@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2025485614221824063",
+    "created_at": "2026-02-23T06:31:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T07:31:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025820779477450932"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2015770770576678912",
+          "start": 0,
+          "username": "Stewie071105"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025820779477450932",
+    "in_reply_to_user_id": "2015770770576678912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025485614221824063",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Stewie071105 时间好快啊啊啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2025485614221824063",
+        "created_at": "2026-02-23T06:31:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T07:31:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025820779477450932"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2015770770576678912",
+              "start": 0,
+              "username": "Stewie071105"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025820779477450932",
+        "in_reply_to_user_id": "2015770770576678912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025485614221824063",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Stewie071105 时间好快啊啊啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015770770576678912",
+        "conversation_id": "2025485614221824063",
+        "created_at": "2026-02-22T08:19:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T09:19:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025485614221824063"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2025485614221824063",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 13546,
+          "like_count": 159,
+          "quote_count": 3,
+          "reply_count": 43,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "为啥07的我已经19岁了！我明明才15岁！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2JlN5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2JlN5"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "除了口令和正常问题别的私信不回",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2016792238060421479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 922,
+          "following_count": 95,
+          "like_count": 9233,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 1706
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-26T12:56:27.000Z",
+        "description": "骂我死全家 有🚪",
+        "id": "2015770770576678912",
+        "name": "饺子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020843589862055936/g-5BpMGq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 22,
+          "like_count": 8,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 119
+        },
+        "username": "Stewie071105",
+        "verified": false
+      }
+    ]
+  }
+}

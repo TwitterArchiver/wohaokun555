@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2023970873640697895",
+    "created_at": "2026-02-18T06:51:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T07:51:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024013875750854712"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1961074708151197696",
+          "start": 0,
+          "username": "xiaoyi766"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024013875750854712",
+    "in_reply_to_user_id": "1961074708151197696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024012064935510402",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoyi766 对…然后开始回忆了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2023970873640697895",
+        "created_at": "2026-02-18T06:51:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T07:51:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024013875750854712"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1961074708151197696",
+              "start": 0,
+              "username": "xiaoyi766"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024013875750854712",
+        "in_reply_to_user_id": "1961074708151197696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024012064935510402",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoyi766 对…然后开始回忆了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1961074708151197696",
+        "conversation_id": "2023970873640697895",
+        "created_at": "2026-02-18T06:44:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T07:44:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024012064935510402"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024012064935510402",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023970873640697895",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 哦不🥹🥹然后又回忆到之前了😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2INXx",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2INXx"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "🚪（纯绿纯绿（除了口令和门槛别的私信不回",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2016792238060421479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 867,
+          "following_count": 83,
+          "like_count": 8514,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 1601
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-28T14:33:52.000Z",
+        "description": "拯救世界 也包括我嘛",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chuxi554",
+                "end": 23,
+                "expanded_url": "https://ngl.link/chuxi554",
+                "start": 0,
+                "url": "https://t.co/fsUfZNxMf0"
+              }
+            ]
+          }
+        },
+        "id": "1961074708151197696",
+        "location": "匿名提问👉",
+        "name": "感觉你是大小艺",
+        "pinned_tweet_id": "2001321448653345008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016346707592937476/b1yiSyuU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 4,
+          "like_count": 331,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 168
+        },
+        "url": "https://t.co/fsUfZNxMf0",
+        "username": "xiaoyi766",
+        "verified": false
+      }
+    ]
+  }
+}

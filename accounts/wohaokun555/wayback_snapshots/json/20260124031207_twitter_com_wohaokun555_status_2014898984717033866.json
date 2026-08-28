@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2014716910445986261",
+    "created_at": "2026-01-24T03:12:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-24T04:12:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014898984717033866"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1761655410820579328",
+          "start": 0,
+          "username": "luckykt17"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014898984717033866",
+    "in_reply_to_user_id": "1761655410820579328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014716910445986261",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@luckykt17 实话实说"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 919,
+        "media_key": "3_2014716906050400256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_W2WgQbsAAjAt0.jpg",
+        "width": 985
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2014716910445986261",
+        "created_at": "2026-01-24T03:12:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T04:12:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014898984717033866"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1761655410820579328",
+              "start": 0,
+              "username": "luckykt17"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014898984717033866",
+        "in_reply_to_user_id": "1761655410820579328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014716910445986261",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luckykt17 实话实说"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014716906050400256"
+          ]
+        },
+        "author_id": "1761655410820579328",
+        "conversation_id": "2014716910445986261",
+        "created_at": "2026-01-23T15:08:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T16:08:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014716910445986261"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/y1X3HNoTxj",
+              "end": 28,
+              "expanded_url": "https://x.com/luckykt17/status/2014716910445986261/photo/1",
+              "media_key": "3_2014716906050400256",
+              "start": 5,
+              "url": "https://t.co/y1X3HNoTxj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014716910445986261",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1983,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "暗爽中！ https://t.co/y1X3HNoTxj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "",
+        "id": "2004619896630788096",
+        "location": "？！",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2014617927212007465",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014313058978406400/yLC08oHO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 441,
+          "following_count": 63,
+          "like_count": 2643,
+          "listed_count": 1,
+          "media_count": 50,
+          "tweet_count": 797
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-25T07:32:50.000Z",
+        "description": "switch｜167/51｜女孩子会回关； 关门了不加v @xiaying1117仅过互关。骂我的4000+",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 29,
+                "username": "xiaying1117"
+              }
+            ]
+          }
+        },
+        "id": "1761655410820579328",
+        "location": "无🚪 不加vx",
+        "name": "恋绘兔",
+        "pinned_tweet_id": "2012903599643197824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002632185489338373/yn0gPdxk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2295,
+          "following_count": 152,
+          "like_count": 1574,
+          "listed_count": 4,
+          "media_count": 74,
+          "tweet_count": 843
+        },
+        "username": "luckykt17",
+        "verified": false
+      }
+    ]
+  }
+}

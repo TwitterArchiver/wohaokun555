@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2007057038078091264"
+      ]
+    },
+    "author_id": "2004619896630788096",
+    "conversation_id": "2007057046508863690",
+    "created_at": "2026-01-02T11:51:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-02T12:51:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2007057046508863690"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/1wed5gKQlW",
+          "end": 45,
+          "expanded_url": "https://x.com/wohaokun555/status/2007057046508863690/photo/1",
+          "media_key": "3_2007057038078091264",
+          "start": 22,
+          "url": "https://t.co/1wed5gKQlW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007057046508863690",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "能不能别通过赞赏码来骂我啊。我心里不得劲… https://t.co/1wed5gKQlW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1094,
+        "media_key": "3_2007057038078091264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9p_vgaXoAAAg1h.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007057038078091264"
+          ]
+        },
+        "author_id": "2004619896630788096",
+        "conversation_id": "2007057046508863690",
+        "created_at": "2026-01-02T11:51:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T12:51:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007057046508863690"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1wed5gKQlW",
+              "end": 45,
+              "expanded_url": "https://x.com/wohaokun555/status/2007057046508863690/photo/1",
+              "media_key": "3_2007057038078091264",
+              "start": 22,
+              "url": "https://t.co/1wed5gKQlW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007057046508863690",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "能不能别通过赞赏码来骂我啊。我心里不得劲… https://t.co/1wed5gKQlW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "天天开心o^^o",
+        "id": "2004619896630788096",
+        "location": "三体星球",
+        "name": "鱼虾一整碗",
+        "pinned_tweet_id": "2005582001685012508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004620653153189888/VWgYLNYv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 32,
+          "like_count": 679,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 323
+        },
+        "username": "wohaokun555",
+        "verified": false
+      }
+    ]
+  }
+}

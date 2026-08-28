@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2015043823752335460",
+    "created_at": "2026-01-24T12:52:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-24T13:52:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015045065702621492"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2012930620851359744",
+          "start": 0,
+          "username": "xnru128883"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015045065702621492",
+    "in_reply_to_user_id": "2012930620851359744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015044628370825552",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xnru128883 我去不早说"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2015043823752335460",
+        "created_at": "2026-01-24T12:52:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T13:52:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015045065702621492"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2012930620851359744",
+              "start": 0,
+              "username": "xnru128883"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015045065702621492",
+        "in_reply_to_user_id": "2012930620851359744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015044628370825552",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xnru128883 我去不早说"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012930620851359744",
+        "conversation_id": "2015043823752335460",
+        "created_at": "2026-01-24T12:50:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T13:50:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015044628370825552"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015044628370825552",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015043823752335460",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 那踏马是想约了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "",
+        "id": "2004619896630788096",
+        "location": "嗯你好",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2007765884035813533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014313058978406400/yLC08oHO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 442,
+          "following_count": 67,
+          "like_count": 2828,
+          "listed_count": 1,
+          "media_count": 49,
+          "tweet_count": 803
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-18T16:50:46.000Z",
+        "description": "来这里是为了寻找快乐",
+        "id": "2012930620851359744",
+        "name": "再不理我全部操飞",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014919297160863744/daZp0wc8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 14,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 21
+        },
+        "username": "xnru128883",
+        "verified": false
+      }
+    ]
+  }
+}

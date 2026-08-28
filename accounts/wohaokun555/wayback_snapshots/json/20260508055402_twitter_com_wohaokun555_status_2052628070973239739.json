@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2052622303914291591",
+    "created_at": "2026-05-08T05:54:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T06:54:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052628070973239739"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1852390818390450176",
+          "start": 0,
+          "username": "Lrmc4e"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052628070973239739",
+    "in_reply_to_user_id": "1852390818390450176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052622303914291591",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lrmc4e 私信真的搞得好恶心啊…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2052622303914291591",
+        "created_at": "2026-05-08T05:54:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T06:54:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052628070973239739"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1852390818390450176",
+              "start": 0,
+              "username": "Lrmc4e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052628070973239739",
+        "in_reply_to_user_id": "1852390818390450176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052622303914291591",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lrmc4e 私信真的搞得好恶心啊…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852390818390450176",
+        "conversation_id": "2052622303914291591",
+        "created_at": "2026-05-08T05:31:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T06:31:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052622303914291591"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052622303914291591",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 100,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "x这个垃圾软件越更新越垃圾，我上条帖子四百多评论结果点进去只有十几条有效评论，剩下的全都是人机广告😅😅😅我请问呢？吞那么多真人的评论是要干嘛啊！而且这个私信更新的也垃圾的要死"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "",
+        "id": "2004619896630788096",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2052293259586924701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2033,
+          "following_count": 99,
+          "like_count": 18558,
+          "listed_count": 2,
+          "media_count": 217,
+          "tweet_count": 3112
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-01T16:42:50.000Z",
+        "description": "这个账号只是为了满足自己的分享欲",
+        "id": "1852390818390450176",
+        "name": "Looe",
+        "pinned_tweet_id": "2029190752761463130",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852391001618612224/yosj9UJd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13817,
+          "following_count": 96,
+          "like_count": 20548,
+          "listed_count": 31,
+          "media_count": 239,
+          "tweet_count": 5385
+        },
+        "username": "Lrmc4e",
+        "verified": false
+      }
+    ]
+  }
+}

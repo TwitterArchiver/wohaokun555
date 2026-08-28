@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2024473809617899794",
+    "created_at": "2026-02-19T13:54:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T14:54:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024482684723228923"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1491438786248470532",
+          "start": 0,
+          "username": "tttttang_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024482684723228923",
+    "in_reply_to_user_id": "1491438786248470532",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024473809617899794",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tttttang_ 我肚肚n"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1633,
+        "media_key": "3_2024473797034979328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBhgMTlbMAAUwNd.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2024473809617899794",
+        "created_at": "2026-02-19T13:54:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T14:54:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024482684723228923"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1491438786248470532",
+              "start": 0,
+              "username": "tttttang_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024482684723228923",
+        "in_reply_to_user_id": "1491438786248470532",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024473809617899794",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tttttang_ 我肚肚n"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024473797034979328"
+          ]
+        },
+        "author_id": "1491438786248470532",
+        "conversation_id": "2024473809617899794",
+        "created_at": "2026-02-19T13:19:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T14:19:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024473809617899794"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IDsLH0Is6b",
+              "end": 27,
+              "expanded_url": "https://x.com/tttttang_/status/2024473809617899794/photo/1",
+              "media_key": "3_2024473797034979328",
+              "start": 4,
+              "url": "https://t.co/IDsLH0Is6b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024473809617899794",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 355,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "断签了 https://t.co/IDsLH0Is6b"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2INXx",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2INXx"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "🚪（纯绿纯绿（除了口令和门槛别的私信不回",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2016792238060421479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 886,
+          "following_count": 89,
+          "like_count": 8765,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 1616
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-09T15:48:23.000Z",
+        "description": "我什么都不太记得了。@mmqmowo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 10,
+                "username": "mmqmowo"
+              }
+            ]
+          }
+        },
+        "id": "1491438786248470532",
+        "name": "我就这样莫名其妙",
+        "pinned_tweet_id": "1972504008796586377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004517650232475649/XoZzV2ph_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12074,
+          "following_count": 404,
+          "like_count": 6443,
+          "listed_count": 21,
+          "media_count": 1165,
+          "tweet_count": 12644
+        },
+        "username": "tttttang_",
+        "verified": false
+      }
+    ]
+  }
+}

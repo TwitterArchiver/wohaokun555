@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2035739586459226148",
+    "created_at": "2026-03-23T05:50:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T06:50:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035957347299078561"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1970515784762859520",
+          "start": 0,
+          "username": "Semp1trnal_2345"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035957347299078561",
+    "in_reply_to_user_id": "1970515784762859520",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035739586459226148",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Semp1trnal_2345 我不同意"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2035739586459226148",
+        "created_at": "2026-03-23T05:50:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T06:50:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035957347299078561"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1970515784762859520",
+              "start": 0,
+              "username": "Semp1trnal_2345"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035957347299078561",
+        "in_reply_to_user_id": "1970515784762859520",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035739586459226148",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Semp1trnal_2345 我不同意"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970515784762859520",
+        "conversation_id": "2035739586459226148",
+        "created_at": "2026-03-22T15:25:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T16:25:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035739586459226148"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2035739586459226148",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 705,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "操你妈啊我长得好恶心。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "🚪🫶🏻",
+        "id": "2004619896630788096",
+        "location": "三体",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2008543541979738501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1392,
+          "following_count": 99,
+          "like_count": 12603,
+          "listed_count": 1,
+          "media_count": 110,
+          "tweet_count": 2307
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜07 ｜一些唠唠叨叨😋 欢迎小宝宝们找我玩！敢给我发吊你就死了。匿名👉🏻 https://t.co/tJ7j3dfnPE或者https://t.co/BHZo1YhpuV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 62,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 39,
+                "url": "https://t.co/tJ7j3dfnPE"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania",
+                "end": 87,
+                "expanded_url": "https://ngl.link/mooo1ania",
+                "start": 64,
+                "url": "https://t.co/BHZo1YhpuV"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "name": "我真的不会画画QwQ",
+        "pinned_tweet_id": "2032352051586613370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034491183356059648/QYnwDQiJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 957,
+          "following_count": 99,
+          "like_count": 9574,
+          "listed_count": 0,
+          "media_count": 268,
+          "tweet_count": 3040
+        },
+        "username": "Semp1trnal_2345",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2061715904141177225",
+    "created_at": "2026-06-02T07:59:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T08:59:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061719332070252570"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1900533574597799936",
+          "start": 0,
+          "username": "gouguoyu63723"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061719332070252570",
+    "in_reply_to_user_id": "1900533574597799936",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061717982796296330",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gouguoyu63723 😡😡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2061715904141177225",
+        "created_at": "2026-06-02T07:59:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T08:59:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061719332070252570"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1900533574597799936",
+              "start": 0,
+              "username": "gouguoyu63723"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061719332070252570",
+        "in_reply_to_user_id": "1900533574597799936",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061717982796296330",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gouguoyu63723 😡😡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1900533574597799936",
+        "conversation_id": "2061715904141177225",
+        "created_at": "2026-06-02T07:54:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T08:54:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061717982796296330"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061717982796296330",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061715904141177225",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 五毛一条😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "🚪（520",
+        "id": "2004619896630788096",
+        "location": "口令➕姓",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2060575687279567255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2182,
+          "following_count": 79,
+          "like_count": 20998,
+          "listed_count": 2,
+          "media_count": 247,
+          "tweet_count": 3416
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-14T13:05:02.000Z",
+        "description": "玩推就是来看黄图和搞抽象。",
+        "id": "1900533574597799936",
+        "location": "敏行 迟言 缓怒",
+        "name": "果果鱼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057024338747121664/1tpYBzC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 441,
+          "like_count": 4087,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 555
+        },
+        "username": "gouguoyu63723",
+        "verified": false
+      }
+    ]
+  }
+}

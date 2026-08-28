@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2006692692487712821",
+    "created_at": "2026-01-02T04:43:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-02T05:43:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006949405321208079"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2000412692683821056",
+          "start": 0,
+          "username": "gehu994086"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006949405321208079",
+    "in_reply_to_user_id": "2000412692683821056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006948773176684810",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gehu994086 卖你妈比了 你缺钱你去卖 傻屌"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2006692692487712821",
+        "created_at": "2026-01-02T04:43:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T05:43:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006949405321208079"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2000412692683821056",
+              "start": 0,
+              "username": "gehu994086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006949405321208079",
+        "in_reply_to_user_id": "2000412692683821056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006948773176684810",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gehu994086 卖你妈比了 你缺钱你去卖 傻屌"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000412692683821056",
+        "conversation_id": "2006692692487712821",
+        "created_at": "2026-01-02T04:40:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T05:40:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006948773176684810"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006948773176684810",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006947717063561445",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 你卖淫你光荣，拉上你妈一起去吧卖淫女"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "天天开心o^^o",
+        "id": "2004619896630788096",
+        "location": "三体星球",
+        "name": "鱼虾一整碗",
+        "pinned_tweet_id": "2005582001685012508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004620653153189888/VWgYLNYv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 32,
+          "like_count": 645,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 306
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-15T03:49:02.000Z",
+        "description": "0.00182km，0.075吨\n长得不好看的长发男（后面可能会漂金色再剪掉）废话很多一人",
+        "id": "2000412692683821056",
+        "location": "United States",
+        "name": "地球啥时候爆炸啊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001367980056416257/B3IC2MKn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 151,
+          "like_count": 245,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 385
+        },
+        "username": "gehu994086",
+        "verified": false
+      }
+    ]
+  }
+}

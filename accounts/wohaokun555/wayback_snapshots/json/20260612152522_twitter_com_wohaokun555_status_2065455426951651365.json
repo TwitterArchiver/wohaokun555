@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2065448711610904712",
+    "created_at": "2026-06-12T15:25:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T16:25:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065455426951651365"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2059930058555637760",
+          "start": 0,
+          "username": "Alicemimiao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065455426951651365",
+    "in_reply_to_user_id": "2059930058555637760",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065448711610904712",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Alicemimiao 大美女完全"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2065448697660604416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKnypbXagAACcC1.jpg",
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2065448711610904712",
+        "created_at": "2026-06-12T15:25:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T16:25:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065455426951651365"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2059930058555637760",
+              "start": 0,
+              "username": "Alicemimiao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065455426951651365",
+        "in_reply_to_user_id": "2059930058555637760",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065448711610904712",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Alicemimiao 大美女完全"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065448697660604416"
+          ]
+        },
+        "author_id": "2059930058555637760",
+        "conversation_id": "2065448711610904712",
+        "created_at": "2026-06-12T14:58:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T15:58:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065448711610904712"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dTcDflx1LY",
+              "end": 68,
+              "expanded_url": "https://x.com/Alicemimiao/status/2065448711610904712/photo/1",
+              "media_key": "3_2065448697660604416",
+              "start": 45,
+              "url": "https://t.co/dTcDflx1LY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065448711610904712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 86,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一边诋毁我一边想成为我\n模仿我的拍照姿势 营业风格 模仿不了我的气质 \n谁破防说的就是谁 https://t.co/dTcDflx1LY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "@lei_meng123（随缘过\n这是一个女孩的内心世界🌍",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 0,
+                "username": "lei_meng123"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "私信只回口令过门 其他勿扰…",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2062769965330227585",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2284,
+          "following_count": 78,
+          "like_count": 21898,
+          "listed_count": 2,
+          "media_count": 145,
+          "tweet_count": 3500
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-28T09:32:27.000Z",
+        "description": "情绪自留地 我乱说的\n在这里偷偷幸福",
+        "id": "2059930058555637760",
+        "location": "喵",
+        "name": "Alice",
+        "pinned_tweet_id": "2065140531991343116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065447746732171264/WWV9ZW8h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 696,
+          "following_count": 55,
+          "like_count": 455,
+          "listed_count": 3,
+          "media_count": 28,
+          "tweet_count": 270
+        },
+        "username": "Alicemimiao",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2009290353262690708",
+    "created_at": "2026-01-09T16:10:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-09T17:10:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009658959876309394"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 18,
+          "normalized_text": "恭喜",
+          "probability": 0.6438,
+          "start": 17,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1939632627755147264",
+          "start": 0,
+          "username": "xiaoxiongmaoTvT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009658959876309394",
+    "in_reply_to_user_id": "1939632627755147264",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009290353262690708",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoxiongmaoTvT 恭喜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2009290353262690708",
+        "created_at": "2026-01-09T16:10:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T17:10:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009658959876309394"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 18,
+              "normalized_text": "恭喜",
+              "probability": 0.6438,
+              "start": 17,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1939632627755147264",
+              "start": 0,
+              "username": "xiaoxiongmaoTvT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009658959876309394",
+        "in_reply_to_user_id": "1939632627755147264",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009290353262690708",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoxiongmaoTvT 恭喜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939632627755147264",
+        "conversation_id": "2009290353262690708",
+        "created_at": "2026-01-08T15:45:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T16:45:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009290353262690708"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2009290353262690708",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6025,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "≡ω≡你们就这样溺爱我吧 第四个🚪也来了嘿嘿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "@lei_meng123 满足个人分享欲",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 0,
+                "username": "lei_meng123"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "有🚪 别来私信骚扰我 发生殖器官司马",
+        "name": "鱼虾一整碗",
+        "pinned_tweet_id": "2007765884035813533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004620653153189888/VWgYLNYv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 298,
+          "following_count": 63,
+          "like_count": 2041,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 681
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-30T10:30:49.000Z",
+        "description": "推是我的日记本/推止于推",
+        "id": "1939632627755147264",
+        "name": "甜甜小熊猫",
+        "pinned_tweet_id": "2009291978085740903",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004865685722476544/he6s1XWA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4812,
+          "following_count": 766,
+          "like_count": 4960,
+          "listed_count": 6,
+          "media_count": 248,
+          "tweet_count": 3904
+        },
+        "username": "xiaoxiongmaoTvT",
+        "verified": false
+      }
+    ]
+  }
+}

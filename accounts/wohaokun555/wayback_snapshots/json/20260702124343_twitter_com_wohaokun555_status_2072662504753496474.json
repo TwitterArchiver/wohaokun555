@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2072618221132529823",
+    "created_at": "2026-07-02T12:43:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T13:43:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072662504753496474"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1522094329954652161",
+          "start": 0,
+          "username": "0xo_snow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072662504753496474",
+    "in_reply_to_user_id": "1522094329954652161",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072618221132529823",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0xo_snow 卧槽居然是小妹妹"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2072618213821865984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMNrSMXbYAAS8Is.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2072618221132529823",
+        "created_at": "2026-07-02T12:43:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T13:43:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072662504753496474"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1522094329954652161",
+              "start": 0,
+              "username": "0xo_snow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072662504753496474",
+        "in_reply_to_user_id": "1522094329954652161",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072618221132529823",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0xo_snow 卧槽居然是小妹妹"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072618213821865984"
+          ]
+        },
+        "author_id": "1522094329954652161",
+        "conversation_id": "2072618221132529823",
+        "created_at": "2026-07-02T09:47:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T10:47:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072618221132529823"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/exUZvgJsxa",
+              "end": 95,
+              "expanded_url": "https://x.com/0xo_snow/status/2072618221132529823/photo/1",
+              "media_key": "3_2072618213821865984",
+              "start": 72,
+              "url": "https://t.co/exUZvgJsxa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072618221132529823",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1619,
+          "like_count": 59,
+          "quote_count": 0,
+          "reply_count": 21,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "今天去领毕业证了，没好意思跟任何人道别，看到以前很照顾我的老师在忙都没敢上前说一句话，明明很可能是最后一次见了。。。好讨厌这么胆小怯生生的自己 https://t.co/exUZvgJsxa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "让我成为我，让一座山并存着嶙峋和肥沃",
+        "id": "2004619896630788096",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2070530833434476867",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2680,
+          "following_count": 82,
+          "like_count": 23691,
+          "listed_count": 2,
+          "media_count": 142,
+          "tweet_count": 3790
+        },
+        "url": "",
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-05T06:02:50.000Z",
+        "description": "=恋 🎀 IP北京\n可爱是唯一追求 ！\n爱好是唱歌与美少女。我想被在意\n投喂or入门请扫背景赞赏码感谢！⸝⸝⸝ ╸▵╺⸝⸝⸝",
+        "id": "1522094329954652161",
+        "location": "🚪88回讯息/解锁线下",
+        "name": "🐰れん⊹",
+        "pinned_tweet_id": "2072033535909851233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017787889955098624/u0R2iAGA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18139,
+          "following_count": 424,
+          "like_count": 17174,
+          "listed_count": 33,
+          "media_count": 1399,
+          "tweet_count": 14654
+        },
+        "url": "",
+        "username": "0xo_snow",
+        "verified": true
+      }
+    ]
+  }
+}

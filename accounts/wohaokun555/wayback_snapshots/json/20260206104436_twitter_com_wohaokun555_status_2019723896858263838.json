@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2019367685545685151",
+    "created_at": "2026-02-06T10:44:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-06T11:44:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019723896858263838"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2414082379",
+          "start": 0,
+          "username": "korumht"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019723896858263838",
+    "in_reply_to_user_id": "2414082379",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019722557415719047",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@korumht 对…还是有些神人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2019367685545685151",
+        "created_at": "2026-02-06T10:44:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T11:44:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019723896858263838"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2414082379",
+              "start": 0,
+              "username": "korumht"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019723896858263838",
+        "in_reply_to_user_id": "2414082379",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019722557415719047",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@korumht 对…还是有些神人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2414082379",
+        "conversation_id": "2019367685545685151",
+        "created_at": "2026-02-06T10:39:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T11:39:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019722557415719047"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019722557415719047",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019367685545685151",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 喜欢乱给别人私信的人其实并不会认真看主页😫"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2JlN5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2JlN5"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "🚪188（绿（别的私信不回",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2019333252520321256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014313058978406400/yLC08oHO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 605,
+          "following_count": 72,
+          "like_count": 5766,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 1088
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2014-03-27T11:09:45.000Z",
+        "description": "我开始当魔法使了！🪄",
+        "id": "2414082379",
+        "location": "好友位188 赞赏码在照片可以找到 不喜欢被骚扰所以关私信了",
+        "name": "开心的刚波宁123🥕",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007775782895284224/6Qo48H93_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 678,
+          "following_count": 52,
+          "like_count": 448,
+          "listed_count": 1,
+          "media_count": 89,
+          "tweet_count": 589
+        },
+        "username": "korumht",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2073262973335073187",
+    "created_at": "2026-07-05T03:05:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T04:05:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073604273724957161"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2021244975753908224",
+          "start": 0,
+          "username": "hs6hFNlZ9j34127"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073604273724957161",
+    "in_reply_to_user_id": "2021244975753908224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073603592582570263",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hs6hFNlZ9j34127 没耐心就下一个"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2073262973335073187",
+        "created_at": "2026-07-05T03:05:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T04:05:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073604273724957161"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2021244975753908224",
+              "start": 0,
+              "username": "hs6hFNlZ9j34127"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073604273724957161",
+        "in_reply_to_user_id": "2021244975753908224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073603592582570263",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hs6hFNlZ9j34127 没耐心就下一个"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2021244975753908224",
+        "conversation_id": "2073262973335073187",
+        "created_at": "2026-07-05T03:03:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T04:03:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073603592582570263"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073603592582570263",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073262973335073187",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 我还真碰到一个高学历高智商的大哥哥 给我迷死了 但是这种人也没什么耐心陪你聊就是了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "让我成为我，让一座山并存着嶙峋和肥沃",
+        "id": "2004619896630788096",
+        "location": "520🚪",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2073042783791886494",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2740,
+          "following_count": 81,
+          "like_count": 23886,
+          "listed_count": 2,
+          "media_count": 147,
+          "tweet_count": 3836
+        },
+        "url": "",
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-10T15:29:01.000Z",
+        "description": "",
+        "id": "2021244975753908224",
+        "name": "云里",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021255533018349570/SISvPnUD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 27,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 2
+        },
+        "url": "",
+        "username": "hs6hFNlZ9j34127",
+        "verified": false
+      }
+    ]
+  }
+}

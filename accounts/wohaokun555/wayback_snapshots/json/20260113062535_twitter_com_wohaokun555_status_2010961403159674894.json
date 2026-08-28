@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2010958591394791590",
+    "created_at": "2026-01-13T06:25:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-13T07:25:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010961403159674894"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1522094329954652161",
+          "start": 0,
+          "username": "0xo_snow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010961403159674894",
+    "in_reply_to_user_id": "1522094329954652161",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010961340903628941",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0xo_snow 老婆！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2010958591394791590",
+        "created_at": "2026-01-13T06:25:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T07:25:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010961403159674894"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1522094329954652161",
+              "start": 0,
+              "username": "0xo_snow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010961403159674894",
+        "in_reply_to_user_id": "1522094329954652161",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010961340903628941",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0xo_snow 老婆！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094329954652161",
+        "conversation_id": "2010958591394791590",
+        "created_at": "2026-01-13T06:25:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T07:25:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010961340903628941"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010961340903628941",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010958591394791590",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 你以为现在就不可爱了吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "",
+        "id": "2004619896630788096",
+        "location": "？！",
+        "name": "鱼虾一整碗",
+        "pinned_tweet_id": "2009185555268112534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004620653153189888/VWgYLNYv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 438,
+          "following_count": 66,
+          "like_count": 2347,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 731
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-05T06:02:50.000Z",
+        "description": "=れん/Rayne/小恋～北京07年155/82 爱装可爱的*🎀#垂耳兔偶像姫様🎀* ｜不定期直播，欢迎点歌！主页也有回放哦～｜🚪88=回信息+ 可线下🩶很活泼请约我玩૮꒰ ˃̵͈᷄ ﻌ ˂̵͈᷅ ꒱ა!!",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 40,
+                "start": 32,
+                "tag": "垂耳兔偶像姫様"
+              }
+            ]
+          }
+        },
+        "id": "1522094329954652161",
+        "location": "💌线下纯绿166/h 半绿入门咨询哦",
+        "name": "🐰れん⊹",
+        "pinned_tweet_id": "2010959203293413542",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008220155432857601/hiAEJNwb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19116,
+          "following_count": 394,
+          "like_count": 14050,
+          "listed_count": 32,
+          "media_count": 1069,
+          "tweet_count": 11591
+        },
+        "username": "0xo_snow",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2062755682722644237",
+    "created_at": "2026-06-05T04:48:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T05:48:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062758408756002986"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1750564848096731136",
+          "start": 0,
+          "username": "yydwzzz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062758408756002986",
+    "in_reply_to_user_id": "1750564848096731136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062755682722644237",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yydwzzz 感觉好多车买得起养不起…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2062755682722644237",
+        "created_at": "2026-06-05T04:48:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T05:48:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062758408756002986"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1750564848096731136",
+              "start": 0,
+              "username": "yydwzzz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062758408756002986",
+        "in_reply_to_user_id": "1750564848096731136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062755682722644237",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yydwzzz 感觉好多车买得起养不起…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1750564848096731136",
+        "conversation_id": "2062755682722644237",
+        "created_at": "2026-06-05T04:37:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T05:37:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062755682722644237"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062755682722644237",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有多少钱才能买并且养得起宾利欧陆gt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "🚪（520",
+        "id": "2004619896630788096",
+        "location": "口令➕姓",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2036315164098830372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2221,
+          "following_count": 76,
+          "like_count": 21323,
+          "listed_count": 2,
+          "media_count": 137,
+          "tweet_count": 3364
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-25T17:02:44.000Z",
+        "description": "我素直男",
+        "id": "1750564848096731136",
+        "location": "B612",
+        "name": "阿比",
+        "pinned_tweet_id": "2020996566312800412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040594545772310528/obFLBqd0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6749,
+          "following_count": 35,
+          "like_count": 417,
+          "listed_count": 11,
+          "media_count": 54,
+          "tweet_count": 1520
+        },
+        "username": "yydwzzz",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2055220118196781311",
+    "created_at": "2026-05-15T13:24:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T14:24:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055278022866124815"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1647385389785841664",
+          "start": 0,
+          "username": "Raffaele042"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055278022866124815",
+    "in_reply_to_user_id": "1647385389785841664",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055220118196781311",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Raffaele042 好形容 真的很idol感"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2055220118196781311",
+        "created_at": "2026-05-15T13:24:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T14:24:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055278022866124815"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1647385389785841664",
+              "start": 0,
+              "username": "Raffaele042"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055278022866124815",
+        "in_reply_to_user_id": "1647385389785841664",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055220118196781311",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Raffaele042 好形容 真的很idol感"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647385389785841664",
+        "conversation_id": "2055220118196781311",
+        "created_at": "2026-05-15T09:33:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T10:33:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055220118196781311"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055220118196781311",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 200,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不知道为什么在这么多的科技大佬里面，黄老板特别特别有idol感...真的好喜欢..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "🚪（纯绿 不入勿扰",
+        "id": "2004619896630788096",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2052293259586924701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2064,
+          "following_count": 100,
+          "like_count": 19174,
+          "listed_count": 1,
+          "media_count": 228,
+          "tweet_count": 3189
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-15T23:44:56.000Z",
+        "description": "Bishop takes Knight’s Pawn\n#电子食堂 #赛博厨子 #盗图转帖动物园 #阳痿文学大文豪 #悲观丧文化代表性传承人 #推特第一丑男 #油腻屌丝 #超龄男大\n博士在读，研究方向主攻吃喝玩乐，珠三角挂不起玉牌的憋佬仔。发表主观自我言论，记录生活，骂赞关取ban随意。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 32,
+                "start": 27,
+                "tag": "电子食堂"
+              },
+              {
+                "end": 38,
+                "start": 33,
+                "tag": "赛博厨子"
+              },
+              {
+                "end": 47,
+                "start": 39,
+                "tag": "盗图转帖动物园"
+              },
+              {
+                "end": 56,
+                "start": 48,
+                "tag": "阳痿文学大文豪"
+              },
+              {
+                "end": 69,
+                "start": 57,
+                "tag": "悲观丧文化代表性传承人"
+              },
+              {
+                "end": 77,
+                "start": 70,
+                "tag": "推特第一丑男"
+              },
+              {
+                "end": 83,
+                "start": 78,
+                "tag": "油腻屌丝"
+              },
+              {
+                "end": 89,
+                "start": 84,
+                "tag": "超龄男大"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/raffele0421",
+                "end": 23,
+                "expanded_url": "https://ngl.link/raffele0421",
+                "start": 0,
+                "url": "https://t.co/3xlSSWfRn8"
+              }
+            ]
+          }
+        },
+        "id": "1647385389785841664",
+        "location": "梦在木星！",
+        "name": "HAL-9000 ⁺✞ʚClaude重度依赖ɞ✟₊",
+        "pinned_tweet_id": "1741351717218959835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778670379588026368/vD2DxYk8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2238,
+          "following_count": 600,
+          "like_count": 149601,
+          "listed_count": 9,
+          "media_count": 2089,
+          "tweet_count": 19297
+        },
+        "url": "https://t.co/3xlSSWfRn8",
+        "username": "Raffaele042",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2077936627058688130",
+    "created_at": "2026-07-17T03:47:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T04:47:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077963344657715203"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "91211654",
+          "start": 0,
+          "username": "Cocoa_0v0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077963344657715203",
+    "in_reply_to_user_id": "91211654",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077936627058688130",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cocoa_0v0 omg这么瘦"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2077936627058688130].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2077936627058688130",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2077936627058688130"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2077936627058688130",
+        "created_at": "2026-07-17T03:47:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T04:47:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077963344657715203"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "91211654",
+              "start": 0,
+              "username": "Cocoa_0v0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077963344657715203",
+        "in_reply_to_user_id": "91211654",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077936627058688130",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cocoa_0v0 omg这么瘦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "＞𐋣＜！🚪1314（闲聊勿扰🐈‍⬛",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pilot.damoplane.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://pilot.damoplane.com/#/register?code=kIfji62G",
+                "start": 0,
+                "url": "https://t.co/bFxvQiBB8B"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "自用vpn⬇️",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2075230890876452974",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2854,
+          "following_count": 82,
+          "like_count": 24588,
+          "listed_count": 2,
+          "media_count": 151,
+          "tweet_count": 3942
+        },
+        "url": "https://t.co/bFxvQiBB8B",
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2009-11-19T22:44:29.000Z",
+        "description": "Bear both love and hate in mind.",
+        "id": "91211654",
+        "name": "Cocoa_beans",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 71,
+          "like_count": 310,
+          "listed_count": 0,
+          "media_count": 178,
+          "tweet_count": 536
+        },
+        "url": "",
+        "username": "Cocoa_0v0",
+        "verified": false
+      }
+    ]
+  }
+}

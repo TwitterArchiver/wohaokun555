@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2081521389136482472",
+    "created_at": "2026-07-27T04:13:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T05:13:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081593862880108925"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1212683181029068800",
+          "start": 0,
+          "username": "Cigamipcy1124"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081593862880108925",
+    "in_reply_to_user_id": "1212683181029068800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081521389136482472",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cigamipcy1124 嘉还是老的豪"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2081521385982332928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOMMrBPbEAAG23D.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2081521389136482472",
+        "created_at": "2026-07-27T04:13:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T05:13:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081593862880108925"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1212683181029068800",
+              "start": 0,
+              "username": "Cigamipcy1124"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081593862880108925",
+        "in_reply_to_user_id": "1212683181029068800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081521389136482472",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cigamipcy1124 嘉还是老的豪"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081521385982332928"
+          ]
+        },
+        "author_id": "1212683181029068800",
+        "conversation_id": "2081521389136482472",
+        "created_at": "2026-07-26T23:25:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T00:25:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081521389136482472"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2tb5vvERGY",
+              "end": 50,
+              "expanded_url": "https://x.com/Cigamipcy1124/status/2081521389136482472/photo/1",
+              "media_key": "3_2081521385982332928",
+              "start": 27,
+              "url": "https://t.co/2tb5vvERGY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081521389136482472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 315,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哎呦我笑的肚子疼啊碎个纸能代表啥啊粉丝真好糊弄😂😂😂 https://t.co/2tb5vvERGY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "＞𐋣＜\n私信只会口令 闲聊勿扰",
+        "id": "2004619896630788096",
+        "location": "🚪（绿",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2073747405099659747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2868,
+          "following_count": 83,
+          "like_count": 25304,
+          "listed_count": 2,
+          "media_count": 153,
+          "tweet_count": 4045
+        },
+        "url": "",
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-02T10:33:02.000Z",
+        "description": "直男/爱碎碎念爱做饭爱吐槽爱香水爱烘焙/阿米和跑三粉请绕道^ 找我玩请来https://t.co/gcaMsyq9bG找我吧！",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xinxin_offcial",
+                "end": 59,
+                "expanded_url": "https://ngl.link/xinxin_offcial",
+                "start": 36,
+                "url": "https://t.co/gcaMsyq9bG"
+              }
+            ]
+          }
+        },
+        "id": "1212683181029068800",
+        "name": "呆萌小鹿鹿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974806175150465024/SHMNB3U4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 616,
+          "following_count": 199,
+          "like_count": 18352,
+          "listed_count": 1,
+          "media_count": 1093,
+          "tweet_count": 11175
+        },
+        "url": "",
+        "username": "Cigamipcy1124",
+        "verified": false
+      }
+    ]
+  }
+}

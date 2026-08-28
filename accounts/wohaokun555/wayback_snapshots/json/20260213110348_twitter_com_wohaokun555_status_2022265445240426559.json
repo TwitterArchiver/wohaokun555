@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2022244108186923065",
+    "created_at": "2026-02-13T11:03:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T12:03:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022265445240426559"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1921233595957735427",
+          "start": 0,
+          "username": "biechiuuuu0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022265445240426559",
+    "in_reply_to_user_id": "1921233595957735427",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022263153242050699",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@biechiuuuu0 扫我码！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2022244108186923065",
+        "created_at": "2026-02-13T11:03:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T12:03:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022265445240426559"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1921233595957735427",
+              "start": 0,
+              "username": "biechiuuuu0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022265445240426559",
+        "in_reply_to_user_id": "1921233595957735427",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022263153242050699",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@biechiuuuu0 扫我码！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1921233595957735427",
+        "conversation_id": "2022244108186923065",
+        "created_at": "2026-02-13T10:54:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T11:54:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022263153242050699"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022263153242050699",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022244108186923065",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2JlN5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2JlN5"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "🚪188（纯绿纯绿（除了口令和门槛别的私信不回",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2016792238060421479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 714,
+          "following_count": 79,
+          "like_count": 7315,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 1404
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-10T15:59:33.000Z",
+        "description": "🚪88/288/520/888 属性sw没有偏向 我自己的碎碎念 我的匿名箱https://t.co/5J88ueYeSW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/unim55400",
+                "end": 61,
+                "expanded_url": "https://ngl.link/unim55400",
+                "start": 38,
+                "url": "https://t.co/5J88ueYeSW"
+              }
+            ]
+          }
+        },
+        "id": "1921233595957735427",
+        "location": "0.1km",
+        "name": "unim",
+        "pinned_tweet_id": "2007349908811165767",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994228481098698753/7HdbcMb2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1135,
+          "following_count": 125,
+          "like_count": 4319,
+          "listed_count": 3,
+          "media_count": 129,
+          "tweet_count": 1251
+        },
+        "username": "biechiuuuu0",
+        "verified": false
+      }
+    ]
+  }
+}

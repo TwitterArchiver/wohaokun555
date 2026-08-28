@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2042148072004964818",
+    "created_at": "2026-04-09T07:50:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T08:50:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042148072004964818"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/eoseowaebwara/…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/eoseowaebwara/status/2041866664271343708",
+          "start": 6,
+          "url": "https://t.co/cLdImVQHoW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042148072004964818",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041866664271343708",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好美啊卧槽 https://t.co/cLdImVQHoW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2041866656851619840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFYq5_ha8AAOqIZ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2042148072004964818",
+        "created_at": "2026-04-09T07:50:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T08:50:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042148072004964818"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/eoseowaebwara/…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/eoseowaebwara/status/2041866664271343708",
+              "start": 6,
+              "url": "https://t.co/cLdImVQHoW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042148072004964818",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041866664271343708",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好美啊卧槽 https://t.co/cLdImVQHoW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041866656851619840"
+          ]
+        },
+        "author_id": "1996417652408147968",
+        "conversation_id": "2041866664271343708",
+        "created_at": "2026-04-08T13:12:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T14:12:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041866664271343708"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dyfFijRLKn",
+              "end": 40,
+              "expanded_url": "https://x.com/eoseowaebwara/status/2041866664271343708/photo/1",
+              "media_key": "3_2041866656851619840",
+              "start": 17,
+              "url": "https://t.co/dyfFijRLKn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041866664271343708",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 245,
+          "impression_count": 65620,
+          "like_count": 2958,
+          "quote_count": 97,
+          "reply_count": 25,
+          "retweet_count": 331
+        },
+        "reply_settings": "everyone",
+        "text": "여름이니까 머리는 더 밝게 💭 https://t.co/dyfFijRLKn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "",
+        "id": "2004619896630788096",
+        "location": "🚪520",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2036315164098830372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1539,
+          "following_count": 99,
+          "like_count": 14846,
+          "listed_count": 1,
+          "media_count": 172,
+          "tweet_count": 2754
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-04T03:14:17.000Z",
+        "description": "",
+        "id": "1996417652408147968",
+        "name": "채인",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996418124430954496/gz4yGvC1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11440,
+          "following_count": 0,
+          "like_count": 11,
+          "listed_count": 10,
+          "media_count": 19,
+          "tweet_count": 27
+        },
+        "username": "eoseowaebwara",
+        "verified": true
+      }
+    ]
+  }
+}

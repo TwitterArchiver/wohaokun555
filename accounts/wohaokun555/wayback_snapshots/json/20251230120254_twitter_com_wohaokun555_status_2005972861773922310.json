@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2005960927884279928",
+    "created_at": "2025-12-30T12:02:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-30T13:02:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005972861773922310"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1482213825201901568",
+          "start": 0,
+          "username": "eroxiansheng2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005972861773922310",
+    "in_reply_to_user_id": "1482213825201901568",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005972743788061097",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@eroxiansheng2 不可以！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2005960927884279928",
+        "created_at": "2025-12-30T12:02:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T13:02:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005972861773922310"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1482213825201901568",
+              "start": 0,
+              "username": "eroxiansheng2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005972861773922310",
+        "in_reply_to_user_id": "1482213825201901568",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005972743788061097",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@eroxiansheng2 不可以！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1482213825201901568",
+        "conversation_id": "2005960927884279928",
+        "created_at": "2025-12-30T12:02:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T13:02:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005972743788061097"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005972743788061097",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005960927884279928",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 但是可能疼完就把你拔掉丢了😖"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "天天开心o^^o🚪66",
+        "id": "2004619896630788096",
+        "location": "Hong Kong",
+        "name": "鱼虾一整碗",
+        "pinned_tweet_id": "2005582001685012508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004620653153189888/VWgYLNYv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 25,
+          "like_count": 375,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 192
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-15T04:51:47.000Z",
+        "description": "这里没有简介…祝你天天开心",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/intsecofficer",
+                "end": 23,
+                "expanded_url": "http://ngl.link/intsecofficer",
+                "start": 0,
+                "url": "https://t.co/KoVcarfZDD"
+              }
+            ]
+          }
+        },
+        "id": "1482213825201901568",
+        "location": "深圳，找我聊天👉🏻",
+        "name": "好好先生",
+        "pinned_tweet_id": "1998080419674394913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004252511721738240/rKOHuGt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 471,
+          "like_count": 6992,
+          "listed_count": 7,
+          "media_count": 60,
+          "tweet_count": 1693
+        },
+        "url": "https://t.co/KoVcarfZDD",
+        "username": "eroxiansheng2",
+        "verified": false
+      }
+    ]
+  }
+}

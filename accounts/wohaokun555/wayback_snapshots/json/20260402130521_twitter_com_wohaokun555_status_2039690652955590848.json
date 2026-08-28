@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2039633752087998829",
+    "created_at": "2026-04-02T13:05:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T14:05:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039690652955590848"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2363856960",
+          "start": 0,
+          "username": "NGNGVXX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039690652955590848",
+    "in_reply_to_user_id": "2363856960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039633752087998829",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NGNGVXX 我好爱有线耳机呀！！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2039633752087998829",
+        "created_at": "2026-04-02T13:05:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T14:05:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039690652955590848"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2363856960",
+              "start": 0,
+              "username": "NGNGVXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039690652955590848",
+        "in_reply_to_user_id": "2363856960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039633752087998829",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NGNGVXX 我好爱有线耳机呀！！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2039633752087998829",
+        "created_at": "2026-04-02T09:19:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T10:19:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039633752087998829"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039633752087998829",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2466,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有线耳机是真的很方便好用啊，除了偶尔缠在一起之外几乎都是优点啊，不用充电没有电量焦虑，几乎没有延迟，也不容易丢，拿掉耳机的时候歌也不会自动断掉，有线耳机的安全感是无线耳机给不了的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "",
+        "id": "2004619896630788096",
+        "location": "🚪520",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2007765884035813533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1499,
+          "following_count": 97,
+          "like_count": 13962,
+          "listed_count": 1,
+          "media_count": 149,
+          "tweet_count": 2563
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "喜欢我可以给我打钱",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8143,
+          "following_count": 5,
+          "like_count": 987,
+          "listed_count": 23,
+          "media_count": 101,
+          "tweet_count": 1776
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2009939100972003455",
+    "created_at": "2026-01-10T11:55:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-10T12:55:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009957273771356575"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2003010814698205184",
+          "start": 0,
+          "username": "ShuBing16121816"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009957273771356575",
+    "in_reply_to_user_id": "2003010814698205184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009939100972003455",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ShuBing16121816 好恶心"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2009939087281795072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-S882WasAAqobU.jpg",
+        "width": 987
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2009939100972003455",
+        "created_at": "2026-01-10T11:55:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T12:55:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009957273771356575"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2003010814698205184",
+              "start": 0,
+              "username": "ShuBing16121816"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009957273771356575",
+        "in_reply_to_user_id": "2003010814698205184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009939100972003455",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ShuBing16121816 好恶心"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009939087281795072"
+          ]
+        },
+        "author_id": "2003010814698205184",
+        "conversation_id": "2009939100972003455",
+        "created_at": "2026-01-10T10:43:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T11:43:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009939100972003455"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BYksvrtXVu",
+              "end": 30,
+              "expanded_url": "https://x.com/ShuBing16121816/status/2009939100972003455/photo/1",
+              "media_key": "3_2009939087281795072",
+              "start": 7,
+              "url": "https://t.co/BYksvrtXVu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009939100972003455",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3696,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "穷b就这样😂 https://t.co/BYksvrtXVu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "@lei_meng123 满足个人分享欲",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 0,
+                "username": "lei_meng123"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "有🚪 别来私信骚扰我 发生殖器官司马",
+        "name": "鱼虾一整碗",
+        "pinned_tweet_id": "2009185555268112534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004620653153189888/VWgYLNYv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 351,
+          "following_count": 64,
+          "like_count": 2234,
+          "listed_count": 2,
+          "media_count": 52,
+          "tweet_count": 743
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-22T07:53:02.000Z",
+        "description": "03｜172｜白羊｜废话｜美食｜不搞黄｜爱看剧｜发吊阳痿｜都是我@cuishu77006 @sunbaiwan888｜置顶评论区引用都是推广自辨❗️❗️❗️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 32,
+                "username": "cuishu77006"
+              },
+              {
+                "end": 58,
+                "start": 45,
+                "username": "sunbaiwan888"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cuishu77006",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cuishu77006",
+                "start": 0,
+                "url": "https://t.co/U0OVO9u5Gm"
+              }
+            ]
+          }
+        },
+        "id": "2003010814698205184",
+        "location": "🚪88/188",
+        "name": "脆薯饼",
+        "pinned_tweet_id": "2009574928115499438",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003011553923375104/hjfbqP4G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 374,
+          "following_count": 68,
+          "like_count": 1144,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 573
+        },
+        "url": "https://t.co/U0OVO9u5Gm",
+        "username": "ShuBing16121816",
+        "verified": false
+      }
+    ]
+  }
+}

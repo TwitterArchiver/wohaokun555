@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2021776423544103030",
+    "created_at": "2026-02-12T02:40:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T03:40:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2021776423544103030"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/wohaokun555/st…",
+          "end": 84,
+          "expanded_url": "https://twitter.com/wohaokun555/status/2021598508847915298",
+          "start": 61,
+          "url": "https://t.co/4Ix6cnrSaO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021776423544103030",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021598508847915298",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "发这条被一群傻男攻击了，我说得一般般又不是说不好看。我只是说没到感觉能火的程度，你们攻击我的又在那个阴暗角落活着呢^-^ https://t.co/4Ix6cnrSaO"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2021776423544103030",
+        "created_at": "2026-02-12T02:40:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T03:40:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021776423544103030"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wohaokun555/st…",
+              "end": 84,
+              "expanded_url": "https://twitter.com/wohaokun555/status/2021598508847915298",
+              "start": 61,
+              "url": "https://t.co/4Ix6cnrSaO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021776423544103030",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021598508847915298",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "发这条被一群傻男攻击了，我说得一般般又不是说不好看。我只是说没到感觉能火的程度，你们攻击我的又在那个阴暗角落活着呢^-^ https://t.co/4Ix6cnrSaO"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2021598508847915298",
+        "created_at": "2026-02-11T14:53:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T15:53:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021598508847915298"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2021598508847915298",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4059,
+          "like_count": 50,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我认识个男的长得一般般。挺会拍照的，发抖音火了，一堆女的舔他，我真服了。起号真容易"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2JlN5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2JlN5"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "🚪188（纯绿纯绿纯绿纯绿（别的私信不回",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2019333252520321256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014313058978406400/yLC08oHO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 674,
+          "following_count": 76,
+          "like_count": 6857,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 1291
+        },
+        "username": "wohaokun555",
+        "verified": false
+      }
+    ]
+  }
+}

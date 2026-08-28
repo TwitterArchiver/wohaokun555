@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2020832440554864903",
+    "created_at": "2026-02-10T01:47:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-10T02:47:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021038292586975740"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1977376387460935680",
+          "start": 0,
+          "username": "Martini33303"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021038292586975740",
+    "in_reply_to_user_id": "1977376387460935680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020832440554864903",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Martini33303 我的技术会被踢出去的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2020832440554864903",
+        "created_at": "2026-02-10T01:47:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T02:47:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021038292586975740"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1977376387460935680",
+              "start": 0,
+              "username": "Martini33303"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021038292586975740",
+        "in_reply_to_user_id": "1977376387460935680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020832440554864903",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Martini33303 我的技术会被踢出去的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1977376387460935680",
+        "conversation_id": "2020832440554864903",
+        "created_at": "2026-02-09T12:09:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T13:09:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020832440554864903"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2020832440554864903",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 675,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁想陪我玩会cs。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2JlN5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2JlN5"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "🚪188（绿（别的私信不回",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2019333252520321256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014313058978406400/yLC08oHO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 670,
+          "following_count": 74,
+          "like_count": 6418,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 1228
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-12T14:10:50.000Z",
+        "description": "05 数学专业 enfj  1i 直男 swtich偏s/dom... 养成系擦边男 还会更新一些碎碎念 调酒照片 学习日常 健身日常 私信只会回关注我的  不礼貌回关，喜欢的会回关\n我不发牛！别问我要这个！喜欢萌妹 放个qq：3431763318 只过互关@Andyxu112",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 129,
+                "username": "Andyxu112"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gooda26296",
+                "end": 23,
+                "expanded_url": "https://ngl.link/gooda26296",
+                "start": 0,
+                "url": "https://t.co/m0tw8LYBAG"
+              }
+            ]
+          }
+        },
+        "id": "1977376387460935680",
+        "location": "🚪52/88/188 纯绿没什么区别",
+        "name": "Martini",
+        "pinned_tweet_id": "2017612756325962113",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004743951178518528/YatYuuZ0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1261,
+          "following_count": 521,
+          "like_count": 11119,
+          "listed_count": 0,
+          "media_count": 161,
+          "tweet_count": 4319
+        },
+        "url": "https://t.co/m0tw8LYBAG",
+        "username": "Martini33303",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2005149901613924720",
+    "created_at": "2025-12-28T06:38:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-28T07:38:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005166380069618021"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1663516164306382852",
+          "start": 0,
+          "username": "DouBao8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005166380069618021",
+    "in_reply_to_user_id": "1663516164306382852",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005149901613924720",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DouBao8964 行"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2005149901613924720",
+        "created_at": "2025-12-28T06:38:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T07:38:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005166380069618021"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1663516164306382852",
+              "start": 0,
+              "username": "DouBao8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005166380069618021",
+        "in_reply_to_user_id": "1663516164306382852",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005149901613924720",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DouBao8964 行"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663516164306382852",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1364667946291798017",
+              "name": "Study abroad"
+            }
+          }
+        ],
+        "conversation_id": "2005149901613924720",
+        "created_at": "2025-12-28T05:32:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T06:32:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005149901613924720"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2005149901613924720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2925,
+          "like_count": 55,
+          "quote_count": 2,
+          "reply_count": 12,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "你就不能一手抓考公，一手抓考研，一手抓国考，一手抓省考，一手抓军考，一手抓文考，一手抓教资，一手抓入党，一手抓比赛，一手抓留学，一手抓雅思，一手抓托福，一手抓作品，一手抓实习，一手抓锻炼身体，一手抓面试，一手抓秋招，一手抓春招，一手抓创业，一手抓毕设，一手抓恋爱吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "🚪66",
+        "id": "2004619896630788096",
+        "location": "Hong Kong",
+        "name": "鱼虾一整碗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004620653153189888/VWgYLNYv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 13,
+          "like_count": 100,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 73
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-30T12:02:42.000Z",
+        "description": "您的虚拟助手 | 皮下真人",
+        "id": "1663516164306382852",
+        "location": "电子宠物🚪38（限时降价）",
+        "name": "豆包",
+        "pinned_tweet_id": "1997851298579022031",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997471501642252288/qb9hbkfv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10204,
+          "following_count": 83,
+          "like_count": 13742,
+          "listed_count": 4,
+          "media_count": 313,
+          "tweet_count": 5909
+        },
+        "username": "DouBao8964",
+        "verified": false
+      }
+    ]
+  }
+}

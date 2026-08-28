@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2020873929326555605",
+    "created_at": "2026-02-10T11:04:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-10T12:04:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021178572958794028"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1915361320360370176",
+          "start": 0,
+          "username": "hyqazwsx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021178572958794028",
+    "in_reply_to_user_id": "1915361320360370176",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021176345749860404",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hyqazwsx 好！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2020873929326555605",
+        "created_at": "2026-02-10T11:04:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T12:04:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021178572958794028"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1915361320360370176",
+              "start": 0,
+              "username": "hyqazwsx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021178572958794028",
+        "in_reply_to_user_id": "1915361320360370176",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021176345749860404",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hyqazwsx 好！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1915361320360370176",
+        "conversation_id": "2020873929326555605",
+        "created_at": "2026-02-10T10:56:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T11:56:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021176345749860404"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021176345749860404",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020873929326555605",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 宝宝我给你补上喵喵喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2JlN5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2JlN5"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "🚪188（绿（别的私信不回",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2019333252520321256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014313058978406400/yLC08oHO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 666,
+          "following_count": 74,
+          "like_count": 6518,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 1243
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-24T11:05:07.000Z",
+        "description": "170/52 纯分享 随缘回私信 匿名 https://t.co/za2zoHNtMe",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hyqaz2",
+                "end": 43,
+                "expanded_url": "https://ngl.link/hyqaz2",
+                "start": 20,
+                "url": "https://t.co/za2zoHNtMe"
+              }
+            ]
+          }
+        },
+        "id": "1915361320360370176",
+        "name": "大风",
+        "pinned_tweet_id": "2011374612463202310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001187022468472838/WtgQlOhW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1807,
+          "following_count": 11,
+          "like_count": 770,
+          "listed_count": 6,
+          "media_count": 118,
+          "tweet_count": 404
+        },
+        "username": "hyqazwsx",
+        "verified": false
+      }
+    ]
+  }
+}

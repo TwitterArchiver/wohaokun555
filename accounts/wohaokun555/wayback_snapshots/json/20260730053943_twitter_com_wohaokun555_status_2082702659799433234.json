@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2082469954587373707",
+    "created_at": "2026-07-30T05:39:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T06:39:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082702659799433234"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1734890898310504448",
+          "start": 0,
+          "username": "k0taka_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082702659799433234",
+    "in_reply_to_user_id": "1734890898310504448",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082469954587373707",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@k0taka_ 同意…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2082469954587373707",
+        "created_at": "2026-07-30T05:39:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T06:39:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082702659799433234"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1734890898310504448",
+              "start": 0,
+              "username": "k0taka_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082702659799433234",
+        "in_reply_to_user_id": "1734890898310504448",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082469954587373707",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@k0taka_ 同意…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1734890898310504448",
+        "conversation_id": "2082469954587373707",
+        "created_at": "2026-07-29T14:15:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T15:15:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082469954587373707"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082469954587373707",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3580,
+          "like_count": 83,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 5
+        },
+        "reply_settings": "following",
+        "text": "人生经验，多和本身就很好的人接触，而不是试图改变不好的人\n\n人的好坏不是由他自己决定的，但是那些导致他变坏的因果不应该由你去承担"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "＞𐋣＜\n私信只回口令 闲聊勿扰",
+        "id": "2004619896630788096",
+        "location": "🚪（绿",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2036315164098830372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2871,
+          "following_count": 81,
+          "like_count": 25782,
+          "listed_count": 3,
+          "media_count": 155,
+          "tweet_count": 4098
+        },
+        "url": "",
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-13T11:00:04.000Z",
+        "description": "我只是一个按快门的",
+        "id": "1734890898310504448",
+        "name": "𝙺𝚘𝚝𝚊𝚔𝚊",
+        "pinned_tweet_id": "1987359999816049076",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988753402545745920/Xi9CPddJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2031,
+          "following_count": 485,
+          "like_count": 35515,
+          "listed_count": 7,
+          "media_count": 774,
+          "tweet_count": 4399
+        },
+        "url": "",
+        "username": "k0taka_",
+        "verified": false
+      }
+    ]
+  }
+}

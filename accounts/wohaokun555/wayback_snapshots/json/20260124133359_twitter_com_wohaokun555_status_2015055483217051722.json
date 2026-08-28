@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2015043823752335460",
+    "created_at": "2026-01-24T13:33:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-24T14:33:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015055483217051722"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1174571362620514306",
+          "start": 0,
+          "username": "HolsonChuang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015055483217051722",
+    "in_reply_to_user_id": "1174571362620514306",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015051818016166196",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HolsonChuang 我不行了我应该骂他一顿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2015043823752335460",
+        "created_at": "2026-01-24T13:33:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T14:33:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015055483217051722"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1174571362620514306",
+              "start": 0,
+              "username": "HolsonChuang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015055483217051722",
+        "in_reply_to_user_id": "1174571362620514306",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015051818016166196",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HolsonChuang 我不行了我应该骂他一顿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1174571362620514306",
+        "conversation_id": "2015043823752335460",
+        "created_at": "2026-01-24T13:19:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T14:19:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015051818016166196"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015051818016166196",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015043823752335460",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 想起那个梗：卧槽宝宝原来你长这样，怎么没有早点发照片给我。哦 那个之前没回你消息是因为我出车祸了，现在我病好了，我们重新聊天吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "",
+        "id": "2004619896630788096",
+        "location": "🤔",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2007765884035813533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014313058978406400/yLC08oHO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 442,
+          "following_count": 67,
+          "like_count": 2830,
+          "listed_count": 1,
+          "media_count": 49,
+          "tweet_count": 805
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2019-09-19T06:30:22.000Z",
+        "description": "Bonjour Tristesse",
+        "id": "1174571362620514306",
+        "name": "Faulkner",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009608221368221696/WQtxRtmS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 222,
+          "like_count": 322,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 215
+        },
+        "username": "HolsonChuang",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2031324026178773089",
+    "created_at": "2026-03-11T02:39:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-11T03:39:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031560590607741332"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2030258904408694784",
+          "start": 0,
+          "username": "bww106348"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031560590607741332",
+    "in_reply_to_user_id": "2030258904408694784",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031555256035975663",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bww106348 我哭了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2031324026178773089",
+        "created_at": "2026-03-11T02:39:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T03:39:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031560590607741332"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2030258904408694784",
+              "start": 0,
+              "username": "bww106348"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031560590607741332",
+        "in_reply_to_user_id": "2030258904408694784",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031555256035975663",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bww106348 我哭了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2030258904408694784",
+        "conversation_id": "2031324026178773089",
+        "created_at": "2026-03-11T02:18:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T03:18:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031555256035975663"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031555256035975663",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031324026178773089",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 商家怒赚9.9元"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2JlN5\n🚪（勿扰",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2JlN5"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "除了口令别的不回！没有陪聊的义务",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2008543541979738501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1199,
+          "following_count": 96,
+          "like_count": 10729,
+          "listed_count": 2,
+          "media_count": 87,
+          "tweet_count": 1984
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-07T12:27:17.000Z",
+        "description": "现实社恐，来推扩列",
+        "id": "2030258904408694784",
+        "name": "顽病",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031072593563013120/zL421Aye_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 10,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 28
+        },
+        "username": "bww106348",
+        "verified": false
+      }
+    ]
+  }
+}

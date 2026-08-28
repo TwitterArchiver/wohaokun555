@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2014363131909443584"
+      ]
+    },
+    "author_id": "2004619896630788096",
+    "conversation_id": "2014363141011034622",
+    "created_at": "2026-01-22T15:42:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-22T16:42:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2014363141011034622"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/MR0q6vbKcx",
+          "end": 28,
+          "expanded_url": "https://x.com/wohaokun555/status/2014363141011034622/photo/1",
+          "media_key": "3_2014363131909443584",
+          "start": 5,
+          "url": "https://t.co/MR0q6vbKcx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014363141011034622",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "默契程度 https://t.co/MR0q6vbKcx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 866,
+        "media_key": "3_2014363131909443584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_R0mI4bEAAQgkh.jpg",
+        "width": 860
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014363131909443584"
+          ]
+        },
+        "author_id": "2004619896630788096",
+        "conversation_id": "2014363141011034622",
+        "created_at": "2026-01-22T15:42:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T16:42:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014363141011034622"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MR0q6vbKcx",
+              "end": 28,
+              "expanded_url": "https://x.com/wohaokun555/status/2014363141011034622/photo/1",
+              "media_key": "3_2014363131909443584",
+              "start": 5,
+              "url": "https://t.co/MR0q6vbKcx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014363141011034622",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "默契程度 https://t.co/MR0q6vbKcx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "",
+        "id": "2004619896630788096",
+        "location": "？！",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2007765884035813533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014313058978406400/yLC08oHO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 438,
+          "following_count": 68,
+          "like_count": 2486,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 766
+        },
+        "username": "wohaokun555",
+        "verified": false
+      }
+    ]
+  }
+}

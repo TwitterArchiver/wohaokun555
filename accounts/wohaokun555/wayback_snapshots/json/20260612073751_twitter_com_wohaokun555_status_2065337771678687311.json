@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2064988870845079660",
+    "created_at": "2026-06-12T07:37:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T08:37:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065337771678687311"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1632079685436727299",
+          "start": 0,
+          "username": "xxNANAml"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065337771678687311",
+    "in_reply_to_user_id": "1632079685436727299",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064988870845079660",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xxNANAml 季度"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2064988870845079660",
+        "created_at": "2026-06-12T07:37:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T08:37:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065337771678687311"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1632079685436727299",
+              "start": 0,
+              "username": "xxNANAml"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065337771678687311",
+        "in_reply_to_user_id": "1632079685436727299",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064988870845079660",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xxNANAml 季度"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1632079685436727299",
+        "conversation_id": "2064988870845079660",
+        "created_at": "2026-06-11T08:31:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T09:31:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064988870845079660"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064988870845079660",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 907,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我要去面基基了过两天"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "@lei_meng123（随缘过\n这是一个女孩的内心世界🌍",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 0,
+                "username": "lei_meng123"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "私信只回口令过门 其他勿扰…",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2062769965330227585",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2286,
+          "following_count": 78,
+          "like_count": 21838,
+          "listed_count": 2,
+          "media_count": 146,
+          "tweet_count": 3490
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-04T18:05:03.000Z",
+        "description": "自是人生长恨水长东",
+        "id": "1632079685436727299",
+        "name": "王锦",
+        "pinned_tweet_id": "2061157295976022324",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059561525682286592/nx12v6TQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3277,
+          "following_count": 212,
+          "like_count": 35106,
+          "listed_count": 8,
+          "media_count": 585,
+          "tweet_count": 7352
+        },
+        "username": "xxNANAml",
+        "verified": false
+      }
+    ]
+  }
+}

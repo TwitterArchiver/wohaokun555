@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2051575379736068375",
+    "created_at": "2026-05-05T08:47:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T09:47:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051584605938139446"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1900533574597799936",
+          "start": 0,
+          "username": "gouguoyu63723"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051584605938139446",
+    "in_reply_to_user_id": "1900533574597799936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051584519019618401",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gouguoyu63723 好像不是 是百亿补贴"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2051575379736068375",
+        "created_at": "2026-05-05T08:47:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T09:47:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051584605938139446"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1900533574597799936",
+              "start": 0,
+              "username": "gouguoyu63723"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051584605938139446",
+        "in_reply_to_user_id": "1900533574597799936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051584519019618401",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gouguoyu63723 好像不是 是百亿补贴"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1900533574597799936",
+        "conversation_id": "2051575379736068375",
+        "created_at": "2026-05-05T08:47:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T09:47:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051584519019618401"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "c00e5392b3fa46fb"
+        },
+        "id": "2051584519019618401",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051575379736068375",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 好厉害，不过现在是618预售了吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "",
+        "id": "2004619896630788096",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2007765884035813533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2020,
+          "following_count": 99,
+          "like_count": 18168,
+          "listed_count": 2,
+          "media_count": 213,
+          "tweet_count": 3059
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-14T13:05:02.000Z",
+        "description": "玩推就是来看黄图和搞抽象。",
+        "id": "1900533574597799936",
+        "location": "敏行 迟言 缓怒",
+        "name": "果果鱼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048697824293097472/r50ue12w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 426,
+          "like_count": 3936,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 512
+        },
+        "username": "gouguoyu63723",
+        "verified": false
+      }
+    ]
+  }
+}

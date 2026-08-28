@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2024500638219194547",
+    "created_at": "2026-02-20T03:37:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T04:37:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024689756341489740"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1845304648313323522",
+          "start": 0,
+          "username": "55juzi55_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024689756341489740",
+    "in_reply_to_user_id": "1845304648313323522",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024500638219194547",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@55juzi55_ 卧槽为啥"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2024500638219194547].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2024500638219194547",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2024500638219194547"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2024500638219194547",
+        "created_at": "2026-02-20T03:37:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T04:37:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024689756341489740"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1845304648313323522",
+              "start": 0,
+              "username": "55juzi55_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024689756341489740",
+        "in_reply_to_user_id": "1845304648313323522",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024500638219194547",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@55juzi55_ 卧槽为啥"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2INXx",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2INXx"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "🚪（纯绿纯绿（除了口令和门槛别的私信不回",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2016792238060421479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 892,
+          "following_count": 91,
+          "like_count": 8777,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 1628
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-13T03:25:04.000Z",
+        "description": "‼️私信前请先关注丨优先回复🚪/有意思的/女孩子丨当朋友圈发丨🚪可加联系方式丨欢迎美女宝宝互关丨礼貌一点互相尊重谢谢",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/juzi.mood",
+                "end": 23,
+                "expanded_url": "https://tellonym.me/juzi.mood",
+                "start": 0,
+                "url": "https://t.co/ymlXKHVLfK"
+              }
+            ]
+          }
+        },
+        "id": "1845304648313323522",
+        "location": "🚪98/188/520没什么实际区别",
+        "name": "欣欣",
+        "pinned_tweet_id": "2021138914254389481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924989316138467328/bwN8esp3_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1011,
+          "following_count": 79,
+          "like_count": 2278,
+          "listed_count": 0,
+          "media_count": 129,
+          "tweet_count": 1279
+        },
+        "url": "https://t.co/ymlXKHVLfK",
+        "username": "55juzi55_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      }
+    ],
+    "conversation_id": "2071107583113646366",
+    "created_at": "2026-06-28T09:18:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T10:18:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071161231331983385"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2050887139865300992",
+          "start": 0,
+          "username": "kkkkkirito12138"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071161231331983385",
+    "in_reply_to_user_id": "2050887139865300992",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071160962460377342",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kkkkkirito12138 我拍一次日常吧 哎呀我抖音流量可差了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "2071107583113646366",
+        "created_at": "2026-06-28T09:18:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T10:18:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071161231331983385"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2050887139865300992",
+              "start": 0,
+              "username": "kkkkkirito12138"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071161231331983385",
+        "in_reply_to_user_id": "2050887139865300992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071160962460377342",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kkkkkirito12138 我拍一次日常吧 哎呀我抖音流量可差了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050887139865300992",
+        "conversation_id": "2071107583113646366",
+        "created_at": "2026-06-28T09:17:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T10:17:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071160962460377342"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071160962460377342",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071158862569492578",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 日常如果每天都一样的话不用一直拍，像旅行，放假什么的可以换着拍"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "让我成为我，让一座山并存着嶙峋和肥沃",
+        "id": "2004619896630788096",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2070530833434476867",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2565,
+          "following_count": 81,
+          "like_count": 23191,
+          "listed_count": 2,
+          "media_count": 140,
+          "tweet_count": 3711
+        },
+        "url": "",
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-03T10:40:35.000Z",
+        "description": "08白羊 直男不4i 勿骚扰礼貌私信会回 \n🚪🫧88 匿名提问在下面👇",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/k407510",
+                "end": 23,
+                "expanded_url": "https://ngl.link/k407510",
+                "start": 0,
+                "url": "https://t.co/17y3x4clkb"
+              }
+            ]
+          }
+        },
+        "id": "2050887139865300992",
+        "location": "21km",
+        "name": "薄荷味的雪",
+        "pinned_tweet_id": "2052628256864538760",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057457738737999872/auHCR0Cy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1416,
+          "following_count": 43,
+          "like_count": 2040,
+          "listed_count": 2,
+          "media_count": 82,
+          "tweet_count": 618
+        },
+        "url": "https://t.co/17y3x4clkb",
+        "username": "kkkkkirito12138",
+        "verified": false
+      }
+    ]
+  }
+}

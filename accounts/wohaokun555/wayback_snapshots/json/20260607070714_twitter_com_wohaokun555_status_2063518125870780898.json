@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2063518058778636288"
+      ]
+    },
+    "author_id": "2004619896630788096",
+    "conversation_id": "2063518125870780898",
+    "created_at": "2026-06-07T07:07:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T08:07:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063518125870780898"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/1AfhIaSfuq",
+          "end": 45,
+          "expanded_url": "https://x.com/wohaokun555/status/2063518125870780898/video/1",
+          "media_key": "13_2063518058778636288",
+          "start": 22,
+          "url": "https://t.co/1AfhIaSfuq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063518125870780898",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "给我几个粉丝报备一下  \n看完给我转五块钱 https://t.co/1AfhIaSfuq"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16533,
+        "height": 1280,
+        "media_key": "13_2063518058778636288",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2063518058778636288/img/ytn5esdhsMMcXr-b.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063518058778636288/vid/avc1/320x568/JlQT5BVfg2un82zN.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063518058778636288/vid/avc1/480x852/T4CbvKci6O0ZAT6A.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063518058778636288/vid/avc1/720x1280/Fcd7UEbXmH6wSMz_.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2063518058778636288/pl/heuzA37AkkX2NwRk.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2063518058778636288"
+          ]
+        },
+        "author_id": "2004619896630788096",
+        "conversation_id": "2063518125870780898",
+        "created_at": "2026-06-07T07:07:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T08:07:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063518125870780898"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1AfhIaSfuq",
+              "end": 45,
+              "expanded_url": "https://x.com/wohaokun555/status/2063518125870780898/video/1",
+              "media_key": "13_2063518058778636288",
+              "start": 22,
+              "url": "https://t.co/1AfhIaSfuq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063518125870780898",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "给我几个粉丝报备一下  \n看完给我转五块钱 https://t.co/1AfhIaSfuq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "",
+        "id": "2004619896630788096",
+        "location": "私信只回口令过门 其他勿扰…",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2062769965330227585",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2249,
+          "following_count": 77,
+          "like_count": 21418,
+          "listed_count": 2,
+          "media_count": 142,
+          "tweet_count": 3404
+        },
+        "username": "wohaokun555",
+        "verified": false
+      }
+    ]
+  }
+}

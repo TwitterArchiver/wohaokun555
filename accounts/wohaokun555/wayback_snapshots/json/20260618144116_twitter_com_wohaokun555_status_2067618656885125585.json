@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2067618656885125585",
+    "created_at": "2026-06-18T14:41:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T15:41:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067618656885125585"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "原创博主｜记录美好生活",
+          "display_url": "t.me/wohaokun555",
+          "end": 102,
+          "expanded_url": "http://t.me/wohaokun555",
+          "images": [
+            {
+              "height": 320,
+              "url": "https://pbs.twimg.com/news_img/2067618662316646402/kkYGaQyF?format=jpg&name=orig",
+              "width": 320
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2067618662316646402/kkYGaQyF?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 79,
+          "status": 200,
+          "title": "中推忧郁神",
+          "unwound_url": "https://t.me/wohaokun555",
+          "url": "https://t.co/mvGcl6W1dx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067618656885125585",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "mentionedUsers",
+    "text": "凭此缘分可进群🌹 ，进群即可观看我所有的完整版视频，私人写真，定制视频等等。 仅限：粉丝🌹 ！仅限24小时！\n唯一暗号:     女神（注意素质）\n唯一通道：https://t.co/mvGcl6W1dx"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2067618656885125585",
+        "created_at": "2026-06-18T14:41:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T15:41:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067618656885125585"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "原创博主｜记录美好生活",
+              "display_url": "t.me/wohaokun555",
+              "end": 102,
+              "expanded_url": "http://t.me/wohaokun555",
+              "images": [
+                {
+                  "height": 320,
+                  "url": "https://pbs.twimg.com/news_img/2067618662316646402/kkYGaQyF?format=jpg&name=orig",
+                  "width": 320
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2067618662316646402/kkYGaQyF?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 79,
+              "status": 200,
+              "title": "中推忧郁神",
+              "unwound_url": "https://t.me/wohaokun555",
+              "url": "https://t.co/mvGcl6W1dx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067618656885125585",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "凭此缘分可进群🌹 ，进群即可观看我所有的完整版视频，私人写真，定制视频等等。 仅限：粉丝🌹 ！仅限24小时！\n唯一暗号:     女神（注意素质）\n唯一通道：https://t.co/mvGcl6W1dx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "@lei_meng123（随缘过\n这是一个女孩的内心世界🌍",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 0,
+                "username": "lei_meng123"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "私信只回口令过门 其他勿扰…",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2062769965330227585",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2437,
+          "following_count": 78,
+          "like_count": 22538,
+          "listed_count": 2,
+          "media_count": 135,
+          "tweet_count": 3589
+        },
+        "url": "",
+        "username": "wohaokun555",
+        "verified": false
+      }
+    ]
+  }
+}

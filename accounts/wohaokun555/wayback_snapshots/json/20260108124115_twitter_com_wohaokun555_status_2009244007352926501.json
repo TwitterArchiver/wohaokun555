@@ -1,0 +1,341 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2009161883069370575",
+    "created_at": "2026-01-08T12:41:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-08T13:41:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009244007352926501"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1417020458801799170",
+          "start": 0,
+          "username": "UmiNeko11101010"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009244007352926501",
+    "in_reply_to_user_id": "1417020458801799170",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009161883069370575",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@UmiNeko11101010 卧槽好想住这也太适合度假了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2009161841537425408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-H6DMUboAAIAKp.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2009161841264738304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-H6DLTawAAMc_-.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2009161849837899782",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-H6DrPa0AYUBYt.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2009161851100348416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-H6Dv8aQAAsehW.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2009161883069370575",
+        "created_at": "2026-01-08T12:41:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T13:41:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009244007352926501"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1417020458801799170",
+              "start": 0,
+              "username": "UmiNeko11101010"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009244007352926501",
+        "in_reply_to_user_id": "1417020458801799170",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009161883069370575",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@UmiNeko11101010 卧槽好想住这也太适合度假了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009161841537425408",
+            "3_2009161841264738304",
+            "3_2009161849837899782",
+            "3_2009161851100348416"
+          ]
+        },
+        "author_id": "1417020458801799170",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Spa and Medical Spa",
+              "id": "855066047157649408",
+              "name": "Spas"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Spa Bathing",
+              "id": "855073024814469120",
+              "name": "Spa Bathing"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Spa Bathing",
+              "id": "855073024814469120",
+              "name": "Spa Bathing"
+            }
+          }
+        ],
+        "conversation_id": "2009161883069370575",
+        "created_at": "2026-01-08T07:14:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T08:14:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009161883069370575"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1HYjQ3HBdS",
+              "end": 96,
+              "expanded_url": "https://x.com/UmiNeko11101010/status/2009161883069370575/photo/1",
+              "media_key": "3_2009161841537425408",
+              "start": 73,
+              "url": "https://t.co/1HYjQ3HBdS"
+            },
+            {
+              "display_url": "pic.x.com/1HYjQ3HBdS",
+              "end": 96,
+              "expanded_url": "https://x.com/UmiNeko11101010/status/2009161883069370575/photo/1",
+              "media_key": "3_2009161841264738304",
+              "start": 73,
+              "url": "https://t.co/1HYjQ3HBdS"
+            },
+            {
+              "display_url": "pic.x.com/1HYjQ3HBdS",
+              "end": 96,
+              "expanded_url": "https://x.com/UmiNeko11101010/status/2009161883069370575/photo/1",
+              "media_key": "3_2009161849837899782",
+              "start": 73,
+              "url": "https://t.co/1HYjQ3HBdS"
+            },
+            {
+              "display_url": "pic.x.com/1HYjQ3HBdS",
+              "end": 96,
+              "expanded_url": "https://x.com/UmiNeko11101010/status/2009161883069370575/photo/1",
+              "media_key": "3_2009161851100348416",
+              "start": 73,
+              "url": "https://t.co/1HYjQ3HBdS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009161883069370575",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 170,
+          "impression_count": 69413,
+          "like_count": 436,
+          "quote_count": 5,
+          "reply_count": 30,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "我操这房间太牛逼了\n超级无敌海景房，海浪的声音伴随温泉的流动，世界都变得安静了\n居住体验吊打一众五星级酒店，却只有普通度假酒店的价格，我他妈血赚 https://t.co/1HYjQ3HBdS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "天天开心o^^o",
+        "id": "2004619896630788096",
+        "location": "三体星球",
+        "name": "鱼虾一整碗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004620653153189888/VWgYLNYv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 248,
+          "following_count": 53,
+          "like_count": 1598,
+          "listed_count": 1,
+          "media_count": 35,
+          "tweet_count": 534
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-19T07:16:28.000Z",
+        "description": "平平无奇的开卡店的。\n同时也是小说作者，个人投资者，旅行者。\n卡店在 https://t.co/G738UDTyOe\n随机回关。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "maps.app.goo.gl/wBuqVyeLPG4y3C…",
+                "end": 58,
+                "expanded_url": "https://maps.app.goo.gl/wBuqVyeLPG4y3C9ZA",
+                "start": 35,
+                "url": "https://t.co/G738UDTyOe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "stellacards.net",
+                "end": 23,
+                "expanded_url": "https://stellacards.net/",
+                "start": 0,
+                "url": "https://t.co/cnvF7v8tJm"
+              }
+            ]
+          }
+        },
+        "id": "1417020458801799170",
+        "location": "大阪市北区天神桥三丁目5-9 スタートレカ",
+        "name": "浮世",
+        "pinned_tweet_id": "1963144010987684083",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1813055870504476674/e3JN8Yi5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6436,
+          "following_count": 846,
+          "like_count": 199582,
+          "listed_count": 35,
+          "media_count": 4488,
+          "tweet_count": 24931
+        },
+        "url": "https://t.co/cnvF7v8tJm",
+        "username": "UmiNeko11101010",
+        "verified": true
+      }
+    ]
+  }
+}

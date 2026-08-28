@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2004600239328821266",
+    "created_at": "2025-12-27T05:27:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-27T06:27:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004786276525052128"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1507375433368719366",
+          "start": 0,
+          "username": "Ggg34169790wa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004786276525052128",
+    "in_reply_to_user_id": "1507375433368719366",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004600239328821266",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ggg34169790wa 我就是这样刚睡醒的！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2004600239328821266",
+        "created_at": "2025-12-27T05:27:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T06:27:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004786276525052128"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1507375433368719366",
+              "start": 0,
+              "username": "Ggg34169790wa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004786276525052128",
+        "in_reply_to_user_id": "1507375433368719366",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004600239328821266",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ggg34169790wa 我就是这样刚睡醒的！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1507375433368719366",
+        "conversation_id": "2004600239328821266",
+        "created_at": "2025-12-26T17:08:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T18:08:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004600239328821266"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2004600239328821266",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1069,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我很喜欢右侧躺着且缩成一团睡觉，头还要埋在玩偶里才能舒服入眠"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "🚪52",
+        "id": "2004619896630788096",
+        "location": "Hong Kong",
+        "name": "鱼虾一整碗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004620653153189888/VWgYLNYv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 5,
+          "like_count": 31,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 27
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-25T15:14:56.000Z",
+        "description": "这个男人叫小帅，他重生了，这一世他将唯唯诺诺，成为无能的丈夫",
+        "id": "1507375433368719366",
+        "name": "俺真不中了",
+        "pinned_tweet_id": "2000209784084287985",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002010345314107392/l4dj9K4g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 71,
+          "like_count": 288,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 57
+        },
+        "username": "Ggg34169790wa",
+        "verified": false
+      }
+    ]
+  }
+}

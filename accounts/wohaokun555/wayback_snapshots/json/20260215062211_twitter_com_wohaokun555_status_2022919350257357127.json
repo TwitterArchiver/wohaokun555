@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2022877771035480148",
+    "created_at": "2026-02-15T06:22:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T07:22:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022919350257357127"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1584818679786577921",
+          "start": 0,
+          "username": "LilGhost09010"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022919350257357127",
+    "in_reply_to_user_id": "1584818679786577921",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022918359940239427",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LilGhost09010 没有ai标志就是真的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2022877771035480148",
+        "created_at": "2026-02-15T06:22:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T07:22:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022919350257357127"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1584818679786577921",
+              "start": 0,
+              "username": "LilGhost09010"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022919350257357127",
+        "in_reply_to_user_id": "1584818679786577921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022918359940239427",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LilGhost09010 没有ai标志就是真的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584818679786577921",
+        "conversation_id": "2022877771035480148",
+        "created_at": "2026-02-15T06:18:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T07:18:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022918359940239427"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022918359940239427",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022877771035480148",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 这是真的假的😱😱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2JlN5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2JlN5"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "🚪188（纯绿纯绿（除了口令和门槛别的私信不回",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2016792238060421479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 740,
+          "following_count": 79,
+          "like_count": 7790,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 1480
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-25T08:06:42.000Z",
+        "description": "所有人给我发点那种萌萌的黄黄的消息，否则我的手段你懂得。",
+        "id": "1584818679786577921",
+        "name": "DEADSTAR0909",
+        "pinned_tweet_id": "2019408908163649576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774353440585703425/WAZoWA8y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 950,
+          "like_count": 2070,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 450
+        },
+        "username": "LilGhost09010",
+        "verified": false
+      }
+    ]
+  }
+}

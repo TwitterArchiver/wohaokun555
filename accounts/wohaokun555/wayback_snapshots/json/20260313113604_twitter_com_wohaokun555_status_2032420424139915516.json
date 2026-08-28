@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2032341928118042709",
+    "created_at": "2026-03-13T11:36:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T12:36:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032420424139915516"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1713608900203978752",
+          "start": 0,
+          "username": "Mr_yuren"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032420424139915516",
+    "in_reply_to_user_id": "1713608900203978752",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032341928118042709",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mr_yuren 我蹲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2032341928118042709",
+        "created_at": "2026-03-13T11:36:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T12:36:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032420424139915516"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1713608900203978752",
+              "start": 0,
+              "username": "Mr_yuren"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032420424139915516",
+        "in_reply_to_user_id": "1713608900203978752",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032341928118042709",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mr_yuren 我蹲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713608900203978752",
+        "conversation_id": "2032341928118042709",
+        "created_at": "2026-03-13T06:24:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T07:24:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032341928118042709"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2032341928118042709",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2442,
+          "like_count": 52,
+          "quote_count": 0,
+          "reply_count": 65,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "心情不错，评论区抽三杯奶茶，晚上开，不用私信哈，加个🚪姐，多点人，请多关照孤独老人。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2JlN5\n🚪（勿扰",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2JlN5"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "除了口令别的不回！没有陪聊的义务",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2008543541979738501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1239,
+          "following_count": 98,
+          "like_count": 11230,
+          "listed_count": 1,
+          "media_count": 97,
+          "tweet_count": 2083
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-15T17:33:08.000Z",
+        "description": "直的，男的过了25只能聊聊天不能写代码了，不熟就是人机客服，xp被口。",
+        "id": "1713608900203978752",
+        "location": "shanghai",
+        "name": "对代码说我们聊聊天",
+        "pinned_tweet_id": "2029937228806549722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1713779612826873856/DN5kdpf0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 44,
+          "like_count": 181,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 133
+        },
+        "username": "Mr_yuren",
+        "verified": false
+      }
+    ]
+  }
+}

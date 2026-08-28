@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2067963693925851567",
+    "created_at": "2026-06-19T14:05:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T15:05:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067971928674185247"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1852390818390450176",
+          "start": 0,
+          "username": "Lrmc4e"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067971928674185247",
+    "in_reply_to_user_id": "1852390818390450176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067963693925851567",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lrmc4e 依旧是我的一辈子"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2067963693925851567",
+        "created_at": "2026-06-19T14:05:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T15:05:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067971928674185247"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1852390818390450176",
+              "start": 0,
+              "username": "Lrmc4e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067971928674185247",
+        "in_reply_to_user_id": "1852390818390450176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067963693925851567",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lrmc4e 依旧是我的一辈子"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852390818390450176",
+        "conversation_id": "2067963693925851567",
+        "created_at": "2026-06-19T13:32:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T14:32:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067963693925851567"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067963693925851567",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 136,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "24年是我的颜值巅峰，回不去了唉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "🌍",
+        "id": "2004619896630788096",
+        "location": "置顶是广告 非本人 请自辨",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2067618656885125585",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2443,
+          "following_count": 80,
+          "like_count": 22609,
+          "listed_count": 2,
+          "media_count": 134,
+          "tweet_count": 3603
+        },
+        "url": "",
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-01T16:42:50.000Z",
+        "description": "这个账号只是为了满足自己的分享欲 防走丢 @ditchn2c",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 21,
+                "username": "ditchn2c"
+              }
+            ]
+          }
+        },
+        "id": "1852390818390450176",
+        "name": "Looe",
+        "pinned_tweet_id": "2029190752761463130",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852391001618612224/yosj9UJd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13954,
+          "following_count": 102,
+          "like_count": 21583,
+          "listed_count": 32,
+          "media_count": 250,
+          "tweet_count": 5654
+        },
+        "url": "",
+        "username": "Lrmc4e",
+        "verified": false
+      }
+    ]
+  }
+}

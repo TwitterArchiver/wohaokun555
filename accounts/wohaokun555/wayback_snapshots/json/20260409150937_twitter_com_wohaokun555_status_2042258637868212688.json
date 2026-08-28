@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2042246854709272785",
+    "created_at": "2026-04-09T15:09:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T16:09:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042258637868212688"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1952302490218831872",
+          "start": 0,
+          "username": "cooulaaa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042258637868212688",
+    "in_reply_to_user_id": "1952302490218831872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042257008007757924",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cooulaaa 嘿嘿超级好吃啊啊啊啊啊😋还好剥"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2042257008007757924].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2042257008007757924",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2042257008007757924"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2042246854709272785",
+        "created_at": "2026-04-09T15:09:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T16:09:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042258637868212688"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1952302490218831872",
+              "start": 0,
+              "username": "cooulaaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042258637868212688",
+        "in_reply_to_user_id": "1952302490218831872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042257008007757924",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cooulaaa 嘿嘿超级好吃啊啊啊啊啊😋还好剥"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "",
+        "id": "2004619896630788096",
+        "location": "🚪520",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2040741237666533734",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1539,
+          "following_count": 99,
+          "like_count": 14961,
+          "listed_count": 1,
+          "media_count": 174,
+          "tweet_count": 2774
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-04T09:36:11.000Z",
+        "description": "我只是个懵逼的单细胞生物草履虫呀。 \n双｜08高二在读｜小号@chng1089971 只过互关or🚪（谨慎关注 目前里面只有色图。｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 30,
+                "username": "chng1089971"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tz86.vip/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.tz86.vip/#/register?code=4nDoXVYO",
+                "start": 0,
+                "url": "https://t.co/CxyhLeh86g"
+              }
+            ]
+          }
+        },
+        "id": "1952302490218831872",
+        "location": "🚪188/520",
+        "name": "忧郁萌神草履虫",
+        "pinned_tweet_id": "2027423487170916519",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028332698625003521/i3elCBTB_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 3492,
+          "following_count": 364,
+          "like_count": 788,
+          "listed_count": 7,
+          "media_count": 240,
+          "tweet_count": 1288
+        },
+        "url": "https://t.co/CxyhLeh86g",
+        "username": "cooulaaa",
+        "verified": false
+      }
+    ]
+  }
+}

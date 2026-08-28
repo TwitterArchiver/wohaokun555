@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2069671532113342827",
+    "created_at": "2026-06-24T13:00:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T14:00:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069767713439051890"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1618878387820576768",
+          "start": 0,
+          "username": "ARC_Cherry0305"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069767713439051890",
+    "in_reply_to_user_id": "1618878387820576768",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069696942658215983",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ARC_Cherry0305 我好坤动 好想吃"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1706,
+        "media_key": "3_2069696925431926784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLkKY1EWkAArAdz.jpg",
+        "width": 1279
+      },
+      {
+        "height": 1706,
+        "media_key": "3_2069696936500965376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLkKZeTasAAQN4w.jpg",
+        "width": 1279
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2069671532113342827",
+        "created_at": "2026-06-24T13:00:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T14:00:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069767713439051890"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1618878387820576768",
+              "start": 0,
+              "username": "ARC_Cherry0305"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069767713439051890",
+        "in_reply_to_user_id": "1618878387820576768",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069696942658215983",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ARC_Cherry0305 我好坤动 好想吃"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069696925431926784",
+            "3_2069696936500965376"
+          ]
+        },
+        "author_id": "1618878387820576768",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2069671532113342827",
+        "created_at": "2026-06-24T08:19:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T09:19:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069696942658215983"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EFikC7s13i",
+              "end": 41,
+              "expanded_url": "https://x.com/ARC_Cherry0305/status/2069696942658215983/photo/1",
+              "media_key": "3_2069696925431926784",
+              "start": 18,
+              "url": "https://t.co/EFikC7s13i"
+            },
+            {
+              "display_url": "pic.x.com/EFikC7s13i",
+              "end": 41,
+              "expanded_url": "https://x.com/ARC_Cherry0305/status/2069696942658215983/photo/1",
+              "media_key": "3_2069696936500965376",
+              "start": 18,
+              "url": "https://t.co/EFikC7s13i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069696942658215983",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 73,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069671532113342827",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 我带你吃 https://t.co/EFikC7s13i"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "🐈‍⬛",
+        "id": "2004619896630788096",
+        "location": "私信只回口令入门 闲聊勿扰～",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2067618656885125585",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2511,
+          "following_count": 81,
+          "like_count": 22847,
+          "listed_count": 2,
+          "media_count": 137,
+          "tweet_count": 3656
+        },
+        "url": "",
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-27T07:47:47.000Z",
+        "description": "Don't want to be part of the world.\n\n男同和锁推请不要关注我。",
+        "id": "1618878387820576768",
+        "name": "双层吉士汉堡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891359283658588160/Ckt9ChId_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 565,
+          "following_count": 387,
+          "like_count": 5722,
+          "listed_count": 4,
+          "media_count": 83,
+          "tweet_count": 2537
+        },
+        "url": "",
+        "username": "ARC_Cherry0305",
+        "verified": false
+      }
+    ]
+  }
+}

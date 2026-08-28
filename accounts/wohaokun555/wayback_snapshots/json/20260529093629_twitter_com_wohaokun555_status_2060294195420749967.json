@@ -1,0 +1,336 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2060291678452507109",
+    "created_at": "2026-05-29T09:36:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T10:36:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060294195420749967"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1647385389785841664",
+          "start": 0,
+          "username": "Raffaele042"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060294195420749967",
+    "in_reply_to_user_id": "1647385389785841664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060291678452507109",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Raffaele042 第二个。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2060291564317089793",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJegQwjaoAEyM7t.jpg",
+        "width": 460
+      },
+      {
+        "duration_ms": 22267,
+        "height": 1280,
+        "media_key": "7_2060291560168914944",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2060291560168914944/pu/img/t_squLmYKJmzbEGi.jpg",
+        "public_metrics": {
+          "view_count": 10
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2060291560168914944/pu/vid/avc1/320x568/auMGh5TKyc07yBh_.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2060291560168914944/pu/vid/avc1/480x852/iXf48QQ8hwgxxKAA.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2060291560168914944/pu/vid/avc1/720x1280/RjjyDFPLcf3-2Iq7.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2060291560168914944/pu/pl/xkadVo5OWBZP7EIq.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 1651,
+        "media_key": "3_2060291646680637440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJegVjYaoAAT46E.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2060291663608889344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJegWicbQAAJnRP.jpg",
+        "width": 1072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2060291678452507109",
+        "created_at": "2026-05-29T09:36:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T10:36:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060294195420749967"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1647385389785841664",
+              "start": 0,
+              "username": "Raffaele042"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060294195420749967",
+        "in_reply_to_user_id": "1647385389785841664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060291678452507109",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Raffaele042 第二个。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060291564317089793",
+            "7_2060291560168914944",
+            "3_2060291646680637440",
+            "3_2060291663608889344"
+          ]
+        },
+        "author_id": "1647385389785841664",
+        "conversation_id": "2060291678452507109",
+        "created_at": "2026-05-29T09:26:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T10:26:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060291678452507109"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/79CZciuSvE",
+              "end": 39,
+              "expanded_url": "https://x.com/Raffaele042/status/2060291678452507109/video/1",
+              "media_key": "3_2060291564317089793",
+              "start": 16,
+              "url": "https://t.co/79CZciuSvE"
+            },
+            {
+              "display_url": "pic.x.com/79CZciuSvE",
+              "end": 39,
+              "expanded_url": "https://x.com/Raffaele042/status/2060291678452507109/video/1",
+              "media_key": "7_2060291560168914944",
+              "start": 16,
+              "url": "https://t.co/79CZciuSvE"
+            },
+            {
+              "display_url": "pic.x.com/79CZciuSvE",
+              "end": 39,
+              "expanded_url": "https://x.com/Raffaele042/status/2060291678452507109/video/1",
+              "media_key": "3_2060291646680637440",
+              "start": 16,
+              "url": "https://t.co/79CZciuSvE"
+            },
+            {
+              "display_url": "pic.x.com/79CZciuSvE",
+              "end": 39,
+              "expanded_url": "https://x.com/Raffaele042/status/2060291678452507109/video/1",
+              "media_key": "3_2060291663608889344",
+              "start": 16,
+              "url": "https://t.co/79CZciuSvE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060291678452507109",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "世界上最难联系在一起的四个画面 https://t.co/79CZciuSvE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "🚪不入勿扰",
+        "id": "2004619896630788096",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2036315164098830372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2145,
+          "following_count": 77,
+          "like_count": 20531,
+          "listed_count": 2,
+          "media_count": 239,
+          "tweet_count": 3351
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-15T23:44:56.000Z",
+        "description": "Bishop takes Knight’s Pawn\n#电子食堂 #赛博厨子 #盗图转帖动物园 #阳痿文学大文豪 #悲观丧文化代表性传承人 #推特第一丑男 #油腻屌丝 #超龄男大\n博士在读，研究方向主攻吃喝玩乐，珠三角挂不起玉牌的憋佬仔。发表主观自我言论，记录生活，骂赞关取ban随意。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 32,
+                "start": 27,
+                "tag": "电子食堂"
+              },
+              {
+                "end": 38,
+                "start": 33,
+                "tag": "赛博厨子"
+              },
+              {
+                "end": 47,
+                "start": 39,
+                "tag": "盗图转帖动物园"
+              },
+              {
+                "end": 56,
+                "start": 48,
+                "tag": "阳痿文学大文豪"
+              },
+              {
+                "end": 69,
+                "start": 57,
+                "tag": "悲观丧文化代表性传承人"
+              },
+              {
+                "end": 77,
+                "start": 70,
+                "tag": "推特第一丑男"
+              },
+              {
+                "end": 83,
+                "start": 78,
+                "tag": "油腻屌丝"
+              },
+              {
+                "end": 89,
+                "start": 84,
+                "tag": "超龄男大"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/raffele0421",
+                "end": 23,
+                "expanded_url": "https://ngl.link/raffele0421",
+                "start": 0,
+                "url": "https://t.co/3xlSSWfRn8"
+              }
+            ]
+          }
+        },
+        "id": "1647385389785841664",
+        "location": "梦在木星！",
+        "name": "HAL-9000 ⁺✞ʚClaude重度依赖ɞ✟₊",
+        "pinned_tweet_id": "1741351717218959835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778670379588026368/vD2DxYk8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2252,
+          "following_count": 599,
+          "like_count": 150742,
+          "listed_count": 9,
+          "media_count": 2095,
+          "tweet_count": 19391
+        },
+        "url": "https://t.co/3xlSSWfRn8",
+        "username": "Raffaele042",
+        "verified": false
+      }
+    ]
+  }
+}

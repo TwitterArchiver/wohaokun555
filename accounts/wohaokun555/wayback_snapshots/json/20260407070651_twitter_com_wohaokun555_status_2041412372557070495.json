@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2041174217857913069",
+    "created_at": "2026-04-07T07:06:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T08:06:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041412372557070495"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1891562958842626049",
+          "start": 0,
+          "username": "chunrihuijin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041412372557070495",
+    "in_reply_to_user_id": "1891562958842626049",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041174217857913069",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chunrihuijin 好可爱呀。这个衣服也好可爱呀还有小波点"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2041174204259975168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFO1H8mbQAASqh3.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2041174217857913069",
+        "created_at": "2026-04-07T07:06:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T08:06:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041412372557070495"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1891562958842626049",
+              "start": 0,
+              "username": "chunrihuijin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041412372557070495",
+        "in_reply_to_user_id": "1891562958842626049",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041174217857913069",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chunrihuijin 好可爱呀。这个衣服也好可爱呀还有小波点"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041174204259975168"
+          ]
+        },
+        "author_id": "1891562958842626049",
+        "conversation_id": "2041174217857913069",
+        "created_at": "2026-04-06T15:20:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T16:20:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041174217857913069"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eFRpdDHEkx",
+              "end": 29,
+              "expanded_url": "https://x.com/chunrihuijin/status/2041174217857913069/photo/1",
+              "media_key": "3_2041174204259975168",
+              "start": 6,
+              "url": "https://t.co/eFRpdDHEkx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041174217857913069",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2167,
+          "like_count": 85,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这张没有p https://t.co/eFRpdDHEkx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "",
+        "id": "2004619896630788096",
+        "location": "🚪520",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2040741237666533734",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1548,
+          "following_count": 98,
+          "like_count": 14561,
+          "listed_count": 1,
+          "media_count": 169,
+          "tweet_count": 2703
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-17T18:58:56.000Z",
+        "description": "上推为看腹肌男",
+        "id": "1891562958842626049",
+        "location": "https://ngl.link/xiaozhu39883",
+        "name": "当小猪坏了",
+        "pinned_tweet_id": "1900566746156933432",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040354463907827712/E_ZYclxg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1389,
+          "following_count": 218,
+          "like_count": 6823,
+          "listed_count": 7,
+          "media_count": 191,
+          "tweet_count": 3599
+        },
+        "username": "chunrihuijin",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-17T18:58:56.000Z",
+        "description": "上推为看腹肌男",
+        "id": "1891562958842626049",
+        "location": "https://ngl.link/xiaozhu39883",
+        "name": "当小猪坏了",
+        "pinned_tweet_id": "1900566746156933432",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040354463907827712/E_ZYclxg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1389,
+          "following_count": 218,
+          "like_count": 6823,
+          "listed_count": 7,
+          "media_count": 191,
+          "tweet_count": 3599
+        },
+        "username": "chunrihuijin",
+        "verified": true
+      }
+    ]
+  }
+}

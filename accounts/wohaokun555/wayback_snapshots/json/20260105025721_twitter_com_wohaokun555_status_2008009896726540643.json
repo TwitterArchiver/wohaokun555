@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2007816364971688134",
+    "created_at": "2026-01-05T02:57:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-05T03:57:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008009896726540643"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1736040027271168000",
+          "start": 0,
+          "username": "kkqq070823"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008009896726540643",
+    "in_reply_to_user_id": "1736040027271168000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007816364971688134",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kkqq070823 不许"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2007816364971688134",
+        "created_at": "2026-01-05T02:57:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T03:57:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008009896726540643"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1736040027271168000",
+              "start": 0,
+              "username": "kkqq070823"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008009896726540643",
+        "in_reply_to_user_id": "1736040027271168000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007816364971688134",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kkqq070823 不许"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1736040027271168000",
+        "conversation_id": "2007816364971688134",
+        "created_at": "2026-01-04T14:08:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T15:08:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007816364971688134"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2007816364971688134",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 6747,
+          "like_count": 46,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我要做一件让周围房子降价的事情"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "天天开心o^^o",
+        "id": "2004619896630788096",
+        "location": "三体星球",
+        "name": "鱼虾一整碗",
+        "pinned_tweet_id": "2005582001685012508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004620653153189888/VWgYLNYv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 40,
+          "like_count": 1055,
+          "listed_count": 1,
+          "media_count": 27,
+          "tweet_count": 403
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-16T15:06:24.000Z",
+        "description": "08双偏gay🌈 infp-t 剧韭 欧美日音 呃不知道该说啥好就这样吧 欢迎交友",
+        "id": "1736040027271168000",
+        "location": "🌍",
+        "name": "我不想上学。",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944940440068734976/3wOz_hlB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 907,
+          "following_count": 1362,
+          "like_count": 8132,
+          "listed_count": 0,
+          "media_count": 208,
+          "tweet_count": 2094
+        },
+        "username": "kkqq070823",
+        "verified": false
+      }
+    ]
+  }
+}

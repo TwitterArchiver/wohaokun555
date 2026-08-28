@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2032114796204867587"
+      ],
+      "media_source_tweet_id": [
+        "2032114808250863741"
+      ]
+    },
+    "author_id": "2004619896630788096",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2032326523630629073",
+    "created_at": "2026-03-13T05:22:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T06:22:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032326523630629073"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1848692895261593600",
+          "start": 3,
+          "username": "woyebuxihuan828"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FwTuMQ23nQ",
+          "end": 100,
+          "expanded_url": "https://x.com/woyebuxihuan828/status/2032114808250863741/photo/1",
+          "media_key": "3_2032114796204867587",
+          "start": 77,
+          "url": "https://t.co/FwTuMQ23nQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032326523630629073",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 44
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032114808250863741",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @woyebuxihuan828: 今天开心 猛猛抽 只要关注+转推 额外再抽随机🧧  另外来个性格好的🚪姐  每天或者每周投喂  太开心了今天。 https://t.co/FwTuMQ23nQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2032114796204867587",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDOFo_qbQAMi_tG.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032114796204867587"
+          ],
+          "media_source_tweet_id": [
+            "2032114808250863741"
+          ]
+        },
+        "author_id": "2004619896630788096",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2032326523630629073",
+        "created_at": "2026-03-13T05:22:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T06:22:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032326523630629073"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1848692895261593600",
+              "start": 3,
+              "username": "woyebuxihuan828"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FwTuMQ23nQ",
+              "end": 100,
+              "expanded_url": "https://x.com/woyebuxihuan828/status/2032114808250863741/photo/1",
+              "media_key": "3_2032114796204867587",
+              "start": 77,
+              "url": "https://t.co/FwTuMQ23nQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032326523630629073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 44
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032114808250863741",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @woyebuxihuan828: 今天开心 猛猛抽 只要关注+转推 额外再抽随机🧧  另外来个性格好的🚪姐  每天或者每周投喂  太开心了今天。 https://t.co/FwTuMQ23nQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032114796204867587"
+          ]
+        },
+        "author_id": "1848692895261593600",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2032114808250863741",
+        "created_at": "2026-03-12T15:21:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T16:21:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032114808250863741"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FwTuMQ23nQ",
+              "end": 79,
+              "expanded_url": "https://x.com/woyebuxihuan828/status/2032114808250863741/photo/1",
+              "media_key": "3_2032114796204867587",
+              "start": 56,
+              "url": "https://t.co/FwTuMQ23nQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032114808250863741",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3761,
+          "like_count": 53,
+          "quote_count": 1,
+          "reply_count": 44,
+          "retweet_count": 44
+        },
+        "reply_settings": "everyone",
+        "text": "今天开心 猛猛抽 只要关注+转推 额外再抽随机🧧  另外来个性格好的🚪姐  每天或者每周投喂  太开心了今天。 https://t.co/FwTuMQ23nQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2JlN5\n🚪（勿扰",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2JlN5"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "除了口令别的不回！没有陪聊的义务",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2008543541979738501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1240,
+          "following_count": 98,
+          "like_count": 11192,
+          "listed_count": 1,
+          "media_count": 97,
+          "tweet_count": 2079
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-22T11:48:37.000Z",
+        "description": "所有奖品皆由Grok从粉丝列表选出",
+        "id": "1848692895261593600",
+        "name": "oxo",
+        "pinned_tweet_id": "2032108625280581811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990669193633800192/11iw4OI0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 2,
+          "media_count": 12,
+          "tweet_count": 25
+        },
+        "username": "woyebuxihuan828",
+        "verified": false
+      }
+    ]
+  }
+}

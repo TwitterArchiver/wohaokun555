@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2021724747248414757",
+    "created_at": "2026-02-12T11:42:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T12:42:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021912907135823917"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1507375433368719366",
+          "start": 0,
+          "username": "Ggg34169790wa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021912907135823917",
+    "in_reply_to_user_id": "1507375433368719366",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021724747248414757",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ggg34169790wa 太雷霆了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1046,
+        "media_key": "3_2021724744794730496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA6b8Z8bcAA0cfZ.jpg",
+        "width": 1046
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2021724747248414757",
+        "created_at": "2026-02-12T11:42:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T12:42:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021912907135823917"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1507375433368719366",
+              "start": 0,
+              "username": "Ggg34169790wa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021912907135823917",
+        "in_reply_to_user_id": "1507375433368719366",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021724747248414757",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ggg34169790wa 太雷霆了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021724744794730496"
+          ]
+        },
+        "author_id": "1507375433368719366",
+        "conversation_id": "2021724747248414757",
+        "created_at": "2026-02-11T23:15:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T00:15:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021724747248414757"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SuxF1Baozu",
+              "end": 37,
+              "expanded_url": "https://x.com/Ggg34169790wa/status/2021724747248414757/photo/1",
+              "media_key": "3_2021724744794730496",
+              "start": 14,
+              "url": "https://t.co/SuxF1Baozu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021724747248414757",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 286,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我将使用这个喜庆的头像一天 https://t.co/SuxF1Baozu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2JlN5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2JlN5"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "🚪188（纯绿纯绿纯绿纯绿（别的私信不回",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2019333252520321256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014313058978406400/yLC08oHO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 689,
+          "following_count": 76,
+          "like_count": 6976,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 1330
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-25T15:14:56.000Z",
+        "description": "新年你快来！！我需要放假！",
+        "id": "1507375433368719366",
+        "location": "infp 金牛座",
+        "name": "俺不中了",
+        "pinned_tweet_id": "2012894347847696754",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021724568612974592/ZS0NEjqz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 140,
+          "like_count": 4468,
+          "listed_count": 1,
+          "media_count": 95,
+          "tweet_count": 851
+        },
+        "username": "Ggg34169790wa",
+        "verified": false
+      }
+    ]
+  }
+}

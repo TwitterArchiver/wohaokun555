@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2068228103004914078",
+    "created_at": "2026-06-21T11:38:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T12:38:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068659820761411973"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2012898835513913344",
+          "start": 0,
+          "username": "5cyyyyyy"
+        },
+        {
+          "end": 24,
+          "id": "1395010837505396739",
+          "start": 10,
+          "username": "web3jiucai111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068659820761411973",
+    "in_reply_to_user_id": "2012898835513913344",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068656882366202313",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@5cyyyyyy @web3jiucai111 ？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2068228103004914078",
+        "created_at": "2026-06-21T11:38:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T12:38:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068659820761411973"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012898835513913344",
+              "start": 0,
+              "username": "5cyyyyyy"
+            },
+            {
+              "end": 24,
+              "id": "1395010837505396739",
+              "start": 10,
+              "username": "web3jiucai111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068659820761411973",
+        "in_reply_to_user_id": "2012898835513913344",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068656882366202313",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@5cyyyyyy @web3jiucai111 ？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012898835513913344",
+        "conversation_id": "2068228103004914078",
+        "created_at": "2026-06-21T11:26:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T12:26:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068656882366202313"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            },
+            {
+              "end": 27,
+              "id": "1395010837505396739",
+              "start": 13,
+              "username": "web3jiucai111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068656882366202313",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068239630420578721",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 @web3jiucai111 看出来了，忧郁神是真不看球🥸"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "好好睡一觉呀",
+        "id": "2004619896630788096",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2067618656885125585",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2462,
+          "following_count": 79,
+          "like_count": 22679,
+          "listed_count": 2,
+          "media_count": 135,
+          "tweet_count": 3621
+        },
+        "url": "",
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-18T14:44:25.000Z",
+        "description": "coys",
+        "id": "2012898835513913344",
+        "location": "06 187 160",
+        "name": "5cyyyyyyyyyyyyyyyy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018539311600160768/ADJGk4p-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 53,
+          "like_count": 240,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 316
+        },
+        "url": "",
+        "username": "5cyyyyyy",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-19T13:38:04.000Z",
+        "description": "",
+        "id": "1395010837505396739",
+        "name": "web3韭菜",
+        "pinned_tweet_id": "2068194830220677209",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046215081340575744/i8tv0FOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75664,
+          "following_count": 626,
+          "like_count": 3817,
+          "listed_count": 31,
+          "media_count": 377,
+          "tweet_count": 2644
+        },
+        "url": "",
+        "username": "web3jiucai111",
+        "verified": true
+      }
+    ]
+  }
+}

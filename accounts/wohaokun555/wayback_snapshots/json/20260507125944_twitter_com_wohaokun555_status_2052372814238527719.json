@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2052254021407379674",
+    "created_at": "2026-05-07T12:59:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T13:59:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052372814238527719"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1823767829465980931",
+          "start": 0,
+          "username": "CaoYu61579"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052372814238527719",
+    "in_reply_to_user_id": "1823767829465980931",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052371748889473400",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CaoYu61579 对对对"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2052371739771113472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHt9OTAbkAA-NUu.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2052254021407379674",
+        "created_at": "2026-05-07T12:59:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T13:59:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052372814238527719"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1823767829465980931",
+              "start": 0,
+              "username": "CaoYu61579"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052372814238527719",
+        "in_reply_to_user_id": "1823767829465980931",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052371748889473400",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CaoYu61579 对对对"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052371739771113472"
+          ]
+        },
+        "author_id": "1823767829465980931",
+        "conversation_id": "2052254021407379674",
+        "created_at": "2026-05-07T12:55:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T13:55:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052371748889473400"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qvqoF1FSP1",
+              "end": 42,
+              "expanded_url": "https://x.com/CaoYu61579/status/2052371748889473400/photo/1",
+              "media_key": "3_2052371739771113472",
+              "start": 19,
+              "url": "https://t.co/qvqoF1FSP1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052371748889473400",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052280473309811180",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 这个吗闺蜜 https://t.co/qvqoF1FSP1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "",
+        "id": "2004619896630788096",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2052293259586924701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2018,
+          "following_count": 101,
+          "like_count": 18479,
+          "listed_count": 2,
+          "media_count": 217,
+          "tweet_count": 3096
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-14T17:05:21.000Z",
+        "description": "丘比特的力气太小了 只穿透了我一个人的心",
+        "id": "1823767829465980931",
+        "location": "讨厌你 每个小猫你都想摸˃ ˄ ˂",
+        "name": "我烤箱咋滴",
+        "pinned_tweet_id": "2044082335973527734",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007159379410464768/ObpktCDK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3239,
+          "following_count": 190,
+          "like_count": 9275,
+          "listed_count": 8,
+          "media_count": 255,
+          "tweet_count": 5086
+        },
+        "username": "CaoYu61579",
+        "verified": false
+      }
+    ]
+  }
+}

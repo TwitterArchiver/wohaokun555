@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083086187577917440"
+      ]
+    },
+    "author_id": "2004619896630788096",
+    "conversation_id": "2083086195668754752",
+    "created_at": "2026-07-31T07:03:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T08:03:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083086195668754752"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Cz4EJ7xmqG",
+          "end": 35,
+          "expanded_url": "https://x.com/wohaokun555/status/2083086195668754752/photo/1",
+          "media_key": "3_2083086187577917440",
+          "start": 12,
+          "url": "https://t.co/Cz4EJ7xmqG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083086195668754752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "看着镜子里的人 我的发 https://t.co/Cz4EJ7xmqG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2083086187577917440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOib2dcawAAIGYo.jpg",
+        "width": 810
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083086187577917440"
+          ]
+        },
+        "author_id": "2004619896630788096",
+        "conversation_id": "2083086195668754752",
+        "created_at": "2026-07-31T07:03:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T08:03:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083086195668754752"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Cz4EJ7xmqG",
+              "end": 35,
+              "expanded_url": "https://x.com/wohaokun555/status/2083086195668754752/photo/1",
+              "media_key": "3_2083086187577917440",
+              "start": 12,
+              "url": "https://t.co/Cz4EJ7xmqG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083086195668754752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看着镜子里的人 我的发 https://t.co/Cz4EJ7xmqG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "＞𐋣＜\n私信只回口令 闲聊勿扰",
+        "id": "2004619896630788096",
+        "location": "🚪（绿",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2036315164098830372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2864,
+          "following_count": 78,
+          "like_count": 25801,
+          "listed_count": 3,
+          "media_count": 156,
+          "tweet_count": 4102
+        },
+        "url": "",
+        "username": "wohaokun555",
+        "verified": false
+      }
+    ]
+  }
+}

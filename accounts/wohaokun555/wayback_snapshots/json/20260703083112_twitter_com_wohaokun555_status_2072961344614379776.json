@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2072946850387140849",
+    "created_at": "2026-07-03T08:31:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T09:31:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072961344614379776"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1734890898310504448",
+          "start": 0,
+          "username": "k0taka_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072961344614379776",
+    "in_reply_to_user_id": "1734890898310504448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072946850387140849",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@k0taka_ 我觉得dazz好神 那个ccd真的拍出来和我的相机\n差不多"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15133,
+        "height": 1280,
+        "media_key": "13_2072946769848147968",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2072946769848147968/img/KQTYClOJ4wEu4qG8.jpg",
+        "public_metrics": {
+          "view_count": 217
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072946769848147968/vid/avc1/320x694/w6OygG6XS4jPG-NF.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072946769848147968/vid/avc1/480x1040/JIcA1qVD163tXOtV.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072946769848147968/vid/avc1/590x1280/jmm5zsiGKvjz4Zd7.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2072946769848147968/pl/6IHq-j3967hGv9lR.m3u8"
+          }
+        ],
+        "width": 590
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2072946850387140849",
+        "created_at": "2026-07-03T08:31:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T09:31:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072961344614379776"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1734890898310504448",
+              "start": 0,
+              "username": "k0taka_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072961344614379776",
+        "in_reply_to_user_id": "1734890898310504448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072946850387140849",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@k0taka_ 我觉得dazz好神 那个ccd真的拍出来和我的相机\n差不多"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2072946769848147968"
+          ]
+        },
+        "author_id": "1734890898310504448",
+        "conversation_id": "2072946850387140849",
+        "created_at": "2026-07-03T07:33:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T08:33:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072946850387140849"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Rq0Patkr7h",
+              "end": 39,
+              "expanded_url": "https://x.com/k0taka_/status/2072946850387140849/video/1",
+              "media_key": "13_2072946769848147968",
+              "start": 16,
+              "url": "https://t.co/Rq0Patkr7h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072946850387140849",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 678,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真觉得大部分时间手机就够用了😇 https://t.co/Rq0Patkr7h"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "让我成为我，让一座山并存着嶙峋和肥沃",
+        "id": "2004619896630788096",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2070530833434476867",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2705,
+          "following_count": 82,
+          "like_count": 23813,
+          "listed_count": 2,
+          "media_count": 144,
+          "tweet_count": 3810
+        },
+        "url": "",
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-13T11:00:04.000Z",
+        "description": "我只是一个按快门的",
+        "id": "1734890898310504448",
+        "name": "𝙺𝚘𝚝𝚊𝚔𝚊",
+        "pinned_tweet_id": "1987359999816049076",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988753402545745920/Xi9CPddJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1917,
+          "following_count": 419,
+          "like_count": 32492,
+          "listed_count": 7,
+          "media_count": 702,
+          "tweet_count": 3801
+        },
+        "url": "",
+        "username": "k0taka_",
+        "verified": false
+      }
+    ]
+  }
+}

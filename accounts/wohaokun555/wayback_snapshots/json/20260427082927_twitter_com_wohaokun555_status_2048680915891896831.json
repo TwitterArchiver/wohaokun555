@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2048680915891896831",
+    "created_at": "2026-04-27T08:29:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T09:29:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048680915891896831"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/liaode50793/st…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/liaode50793/status/2048525350129586502",
+          "start": 13,
+          "url": "https://t.co/tlpmgUuL4T"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048680915891896831",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048525350129586502",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "评论区说国足广告笑死我了 https://t.co/tlpmgUuL4T"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2048680915891896831",
+        "created_at": "2026-04-27T08:29:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T09:29:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048680915891896831"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/liaode50793/st…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/liaode50793/status/2048525350129586502",
+              "start": 13,
+              "url": "https://t.co/tlpmgUuL4T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048680915891896831",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048525350129586502",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "评论区说国足广告笑死我了 https://t.co/tlpmgUuL4T"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1667455597615394816",
+        "conversation_id": "2048525350129586502",
+        "created_at": "2026-04-26T22:11:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T23:11:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048525350129586502"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048525350129586502",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 26808,
+          "like_count": 186,
+          "quote_count": 3,
+          "reply_count": 56,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "看了个自拍视频\n那男的太太太持久了\n长时间一直猛猛爆艹\n女生被艹得腿一直不受控制的狂抖个不停\n一旁另一个男的：握草你这么猛啊？果然是踢足球的\n\n呜呜呜呜呜呜好想试试踢足球的\n早就听说踢足球的很猛了😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "",
+        "id": "2004619896630788096",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2036315164098830372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1921,
+          "following_count": 99,
+          "like_count": 17078,
+          "listed_count": 1,
+          "media_count": 203,
+          "tweet_count": 2984
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-10T08:56:23.000Z",
+        "description": "不喜欢睡觉喜欢手冲\n      匿名箱https://t.co/0Hde6jBUo4",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/liaode507931",
+                "end": 42,
+                "expanded_url": "https://ngl.link/liaode507931",
+                "start": 19,
+                "url": "https://t.co/0Hde6jBUo4"
+              }
+            ]
+          }
+        },
+        "id": "1667455597615394816",
+        "name": "乏味",
+        "pinned_tweet_id": "1929384252442841472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878433162344189952/0xG7ZC84_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6319,
+          "following_count": 135,
+          "like_count": 1380,
+          "listed_count": 16,
+          "media_count": 212,
+          "tweet_count": 1904
+        },
+        "username": "LiaoDe50793",
+        "verified": false
+      }
+    ]
+  }
+}

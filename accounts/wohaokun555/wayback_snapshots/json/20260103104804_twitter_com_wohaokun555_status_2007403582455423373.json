@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2007057046508863690",
+    "created_at": "2026-01-03T10:48:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-03T11:48:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007403582455423373"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1695767564687970304",
+          "start": 0,
+          "username": "ran_he27756"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007403582455423373",
+    "in_reply_to_user_id": "1695767564687970304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007403256490975283",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ran_he27756 ？多转点可以"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2007057046508863690",
+        "created_at": "2026-01-03T10:48:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T11:48:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007403582455423373"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1695767564687970304",
+              "start": 0,
+              "username": "ran_he27756"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007403582455423373",
+        "in_reply_to_user_id": "1695767564687970304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007403256490975283",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ran_he27756 ？多转点可以"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695767564687970304",
+        "conversation_id": "2007057046508863690",
+        "created_at": "2026-01-03T10:46:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T11:46:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007403256490975283"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007403256490975283",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007057046508863690",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 好新奇的骂人思路我也想试试可以么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "天天开心o^^o",
+        "id": "2004619896630788096",
+        "location": "三体星球",
+        "name": "鱼虾一整碗",
+        "pinned_tweet_id": "2005582001685012508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004620653153189888/VWgYLNYv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 35,
+          "like_count": 780,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 359
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-27T11:58:00.000Z",
+        "description": "something for nothing",
+        "id": "1695767564687970304",
+        "location": "苏州",
+        "name": "李嘉图.路",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915274888157528064/Hld7-iYA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 19,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 14
+        },
+        "username": "ran_he27756",
+        "verified": false
+      }
+    ]
+  }
+}

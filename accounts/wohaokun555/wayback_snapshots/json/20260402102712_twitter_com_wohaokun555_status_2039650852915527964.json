@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2039332567036682371",
+    "created_at": "2026-04-02T10:27:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T11:27:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039650852915527964"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1634930304107581446",
+          "start": 0,
+          "username": "Sprim20"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039650852915527964",
+    "in_reply_to_user_id": "1634930304107581446",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039647804835135992",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sprim20 嘿嘿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2039332567036682371",
+        "created_at": "2026-04-02T10:27:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T11:27:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039650852915527964"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1634930304107581446",
+              "start": 0,
+              "username": "Sprim20"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039650852915527964",
+        "in_reply_to_user_id": "1634930304107581446",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039647804835135992",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sprim20 嘿嘿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634930304107581446",
+        "conversation_id": "2039332567036682371",
+        "created_at": "2026-04-02T10:15:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T11:15:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039647804835135992"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039647804835135992",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039644481419702620",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 十分好看！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "",
+        "id": "2004619896630788096",
+        "location": "🚪520",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2007765884035813533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1498,
+          "following_count": 98,
+          "like_count": 13923,
+          "listed_count": 1,
+          "media_count": 150,
+          "tweet_count": 2554
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-12T14:52:26.000Z",
+        "description": "你好？你好！（备考中，不常上线）",
+        "id": "1634930304107581446",
+        "location": "回南天下的潮湿角落",
+        "name": "感受第102次心跳",
+        "pinned_tweet_id": "2035521953663242718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028146915486175232/tJXLqv4W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 351,
+          "like_count": 3559,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 584
+        },
+        "username": "Sprim20",
+        "verified": false
+      }
+    ]
+  }
+}

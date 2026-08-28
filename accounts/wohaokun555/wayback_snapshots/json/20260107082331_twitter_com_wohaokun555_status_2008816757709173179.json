@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2008518444078297094",
+    "created_at": "2026-01-07T08:23:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-07T09:23:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008816757709173179"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1987731769534365696",
+          "start": 0,
+          "username": "renshuainiaoda"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008816757709173179",
+    "in_reply_to_user_id": "1987731769534365696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008518444078297094",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@renshuainiaoda 我突然也想开个号分享和前任的doi视频了😭"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2008518444078297094].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2008518444078297094",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2008518444078297094"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2008518444078297094",
+        "created_at": "2026-01-07T08:23:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T09:23:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008816757709173179"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1987731769534365696",
+              "start": 0,
+              "username": "renshuainiaoda"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008816757709173179",
+        "in_reply_to_user_id": "1987731769534365696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008518444078297094",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@renshuainiaoda 我突然也想开个号分享和前任的doi视频了😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "天天开心o^^o",
+        "id": "2004619896630788096",
+        "location": "三体星球",
+        "name": "鱼虾一整碗",
+        "pinned_tweet_id": "2008798162614640930",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004620653153189888/VWgYLNYv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190,
+          "following_count": 48,
+          "like_count": 1356,
+          "listed_count": 1,
+          "media_count": 31,
+          "tweet_count": 456
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-10T03:59:48.000Z",
+        "description": "",
+        "id": "1987731769534365696",
+        "name": "唧唧小说话屌",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987809159266672640/4ej-nJpV_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 22,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 6
+        },
+        "username": "renshuainiaoda",
+        "verified": false
+      }
+    ]
+  }
+}

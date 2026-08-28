@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2052773518719492330",
+    "created_at": "2026-05-09T06:13:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T07:13:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052995297710841868"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1750913278354866177",
+          "start": 0,
+          "username": "evelyn_8tterfly"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052995297710841868",
+    "in_reply_to_user_id": "1750913278354866177",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052994776941863087",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@evelyn_8tterfly 呜呜呜谢谢尼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2052773518719492330",
+        "created_at": "2026-05-09T06:13:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T07:13:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052995297710841868"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1750913278354866177",
+              "start": 0,
+              "username": "evelyn_8tterfly"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052995297710841868",
+        "in_reply_to_user_id": "1750913278354866177",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052994776941863087",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@evelyn_8tterfly 呜呜呜谢谢尼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1750913278354866177",
+        "conversation_id": "2052773518719492330",
+        "created_at": "2026-05-09T06:11:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T07:11:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052994776941863087"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052994776941863087",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052773518719492330",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 没关系呀宝宝 慢慢加油潜移默化中慢慢变好就好了^不要因为这些事情给自己太大压力捏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "没义务陪聊 都是礼貌回复",
+        "id": "2004619896630788096",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2052293259586924701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2066,
+          "following_count": 98,
+          "like_count": 18611,
+          "listed_count": 2,
+          "media_count": 217,
+          "tweet_count": 3131
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-26T16:07:32.000Z",
+        "description": "Jesus,keep my heart tender,even when it hurts…❤️‍🩹\n这里有一只小听^@TDaidai_T",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 59,
+                "username": "TDaidai_T"
+              }
+            ]
+          }
+        },
+        "id": "1750913278354866177",
+        "location": "CHN",
+        "name": "开心果茉莉椰咋这么好喝",
+        "pinned_tweet_id": "2028804196246626369",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013311142697779200/STCN8cVv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 871,
+          "following_count": 192,
+          "like_count": 2153,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 125
+        },
+        "username": "evelyn_8tterfly",
+        "verified": false
+      }
+    ]
+  }
+}

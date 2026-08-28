@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2017479750827266073",
+    "created_at": "2026-02-01T13:46:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-01T14:46:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017957787075244149"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1520209192375644160",
+          "start": 0,
+          "username": "supezen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017957787075244149",
+    "in_reply_to_user_id": "1520209192375644160",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017479750827266073",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@supezen 信息茧房"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2017479750827266073",
+        "created_at": "2026-02-01T13:46:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T14:46:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017957787075244149"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1520209192375644160",
+              "start": 0,
+              "username": "supezen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017957787075244149",
+        "in_reply_to_user_id": "1520209192375644160",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017479750827266073",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@supezen 信息茧房"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1520209192375644160",
+        "conversation_id": "2017479750827266073",
+        "created_at": "2026-01-31T06:07:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T07:07:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017479750827266073"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2017479750827266073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 46,
+          "impression_count": 129833,
+          "like_count": 1178,
+          "quote_count": 15,
+          "reply_count": 151,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "发现 X 信息流有个很严重的问题，只要你点过几条某个话题的内容系统就会持续密集的给你推这类内容，让你误以为全世界都在聊这个话题，事实上可能只是某个小圈子的一部分人流行的话题而已。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2JlN5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2JlN5"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "发生殖器死妈！恶臭男滚！！！",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2016072861732212867",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014313058978406400/yLC08oHO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 563,
+          "following_count": 73,
+          "like_count": 4620,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 1003
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-30T01:11:43.000Z",
+        "description": "vibe coding w/ claude code since day 1, cooking up something cool.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "zen.cooking",
+                "end": 23,
+                "expanded_url": "http://zen.cooking",
+                "start": 0,
+                "url": "https://t.co/jdqJWaHSm4"
+              }
+            ]
+          }
+        },
+        "id": "1520209192375644160",
+        "name": "ZEN",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1720260828606439424/ED7gdTMS_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29369,
+          "following_count": 537,
+          "like_count": 5929,
+          "listed_count": 486,
+          "media_count": 1203,
+          "tweet_count": 5490
+        },
+        "url": "https://t.co/jdqJWaHSm4",
+        "username": "supezen",
+        "verified": true
+      }
+    ]
+  }
+}

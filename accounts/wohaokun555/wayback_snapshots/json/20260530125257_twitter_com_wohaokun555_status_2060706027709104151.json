@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2060612983357862179",
+    "created_at": "2026-05-30T12:52:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T13:52:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060706027709104151"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2050618757018746880",
+          "start": 0,
+          "username": "uooo3o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060706027709104151",
+    "in_reply_to_user_id": "2050618757018746880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060704896735924587",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@uooo3o 天呢！我们互换一下"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2060612983357862179",
+        "created_at": "2026-05-30T12:52:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T13:52:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060706027709104151"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2050618757018746880",
+              "start": 0,
+              "username": "uooo3o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060706027709104151",
+        "in_reply_to_user_id": "2050618757018746880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060704896735924587",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uooo3o 天呢！我们互换一下"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050618757018746880",
+        "conversation_id": "2060612983357862179",
+        "created_at": "2026-05-30T12:48:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T13:48:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060704896735924587"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060704896735924587",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060612983357862179",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 我也很想剪齐刘海 但是感觉我不适合齐刘海……完全旱的旱死涝的涝死"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "🚪（520",
+        "id": "2004619896630788096",
+        "location": "口令➕姓",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2036315164098830372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2162,
+          "following_count": 77,
+          "like_count": 20566,
+          "listed_count": 2,
+          "media_count": 242,
+          "tweet_count": 3375
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-02T16:50:37.000Z",
+        "description": "",
+        "id": "2050618757018746880",
+        "location": "🚪52/188/520",
+        "name": "ye",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056287678375858176/Mlcd2J_3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 206,
+          "following_count": 2,
+          "like_count": 40,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 92
+        },
+        "username": "uooo3o",
+        "verified": false
+      }
+    ]
+  }
+}

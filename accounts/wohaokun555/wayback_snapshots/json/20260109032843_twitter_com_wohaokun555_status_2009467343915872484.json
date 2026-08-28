@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2009459283805786574",
+    "created_at": "2026-01-09T03:28:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-09T04:28:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009467343915872484"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2007536834902212608",
+          "start": 0,
+          "username": "weidi191466"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009467343915872484",
+    "in_reply_to_user_id": "2007536834902212608",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009467043964440633",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@weidi191466 射射你！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2009459283805786574",
+        "created_at": "2026-01-09T03:28:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T04:28:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009467343915872484"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2007536834902212608",
+              "start": 0,
+              "username": "weidi191466"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009467343915872484",
+        "in_reply_to_user_id": "2007536834902212608",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009467043964440633",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@weidi191466 射射你！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007536834902212608",
+        "conversation_id": "2009459283805786574",
+        "created_at": "2026-01-09T03:27:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T04:27:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009467043964440633"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009467043964440633",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009463394441822525",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 疯狂星期四已经过了，可以请你喝杯奶茶😈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "天天开心o^^o",
+        "id": "2004619896630788096",
+        "location": "三体星球",
+        "name": "鱼虾一整碗",
+        "pinned_tweet_id": "2007765884035813533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004620653153189888/VWgYLNYv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 265,
+          "following_count": 56,
+          "like_count": 1726,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 587
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-03T19:37:50.000Z",
+        "description": "少私寡欲，让心灵回归本真的宁静。",
+        "id": "2007536834902212608",
+        "name": "随心所欲",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008443644567842819/pfync9ll_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 169,
+          "like_count": 247,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 154
+        },
+        "username": "weidi191466",
+        "verified": false
+      }
+    ]
+  }
+}

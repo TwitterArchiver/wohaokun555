@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2037063411604087168",
+    "created_at": "2026-03-26T11:33:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T12:33:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037130875180396965"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1542453524763930625",
+          "start": 0,
+          "username": "Geliebt1115"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037130875180396965",
+    "in_reply_to_user_id": "1542453524763930625",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037063411604087168",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Geliebt1115 我蹲蹲蹲蹲蹲蹲蹲蹲蹲蹲蹲蹲蹲蹲蹲蹲蹲蹲蹲蹲蹲蹲蹲蹲蹲！！！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2037063411604087168",
+        "created_at": "2026-03-26T11:33:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T12:33:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037130875180396965"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1542453524763930625",
+              "start": 0,
+              "username": "Geliebt1115"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037130875180396965",
+        "in_reply_to_user_id": "1542453524763930625",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037063411604087168",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Geliebt1115 我蹲蹲蹲蹲蹲蹲蹲蹲蹲蹲蹲蹲蹲蹲蹲蹲蹲蹲蹲蹲蹲蹲蹲蹲蹲！！！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1542453524763930625",
+        "conversation_id": "2037063411604087168",
+        "created_at": "2026-03-26T07:05:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T08:05:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037063411604087168"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037063411604087168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 3146,
+          "like_count": 61,
+          "quote_count": 0,
+          "reply_count": 45,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "踏马的甘，今天疯狂星期四，抽几个有眼缘的请吃肯德基，晚点来开，点赞评论参与\n（其实是因为今天心情莫名好）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "🚪🫶🏻🫰🏻🩶",
+        "id": "2004619896630788096",
+        "location": "三体（私信只回复口令和🚪",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2035966922010087790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1429,
+          "following_count": 99,
+          "like_count": 13078,
+          "listed_count": 1,
+          "media_count": 128,
+          "tweet_count": 2416
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-30T10:22:49.000Z",
+        "description": "有🚪，你说得都对\n匿名信箱https://t.co/RIsHjaSjHB",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/geliebt1115",
+                "end": 36,
+                "expanded_url": "https://ngl.link/geliebt1115",
+                "start": 13,
+                "url": "https://t.co/RIsHjaSjHB"
+              }
+            ]
+          }
+        },
+        "id": "1542453524763930625",
+        "name": "啊对对对",
+        "pinned_tweet_id": "1809141272399229249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1612890641939443712/zuLrL6rM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1161,
+          "following_count": 168,
+          "like_count": 1871,
+          "listed_count": 3,
+          "media_count": 194,
+          "tweet_count": 2609
+        },
+        "username": "Geliebt1115",
+        "verified": false
+      }
+    ]
+  }
+}

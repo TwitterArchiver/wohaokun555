@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2036019806034620563",
+    "created_at": "2026-03-23T10:07:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T11:07:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036022004923703522"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1647385389785841664",
+          "start": 0,
+          "username": "Raffaele042"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036022004923703522",
+    "in_reply_to_user_id": "1647385389785841664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036019806034620563",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Raffaele042 如果我专业需要的话我会爱上你的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2036019806034620563",
+        "created_at": "2026-03-23T10:07:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T11:07:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036022004923703522"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1647385389785841664",
+              "start": 0,
+              "username": "Raffaele042"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036022004923703522",
+        "in_reply_to_user_id": "1647385389785841664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036019806034620563",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Raffaele042 如果我专业需要的话我会爱上你的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647385389785841664",
+        "conversation_id": "2036019806034620563",
+        "created_at": "2026-03-23T09:58:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T10:58:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036019806034620563"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036019806034620563",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "女：和你在一起我们可以怎么样\n能找到对象的男生：给你浪漫给你爱，带你日本旅游马尔代夫度假，带你瑰丽四季文华omakase，买包买衣服。\n我：可以教你写论文，帮你做ai agent搭复杂系统，帮你做数据挖掘做文本处理帮你爬数据，这个月剩下来150的零花钱也没能力请你吃啥漂亮饭，所以我就拿去冲claude了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "🚪🫶🏻",
+        "id": "2004619896630788096",
+        "location": "三体",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2035966922010087790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1396,
+          "following_count": 99,
+          "like_count": 12654,
+          "listed_count": 1,
+          "media_count": 111,
+          "tweet_count": 2314
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-15T23:44:56.000Z",
+        "description": "Bishop takes Knight’s Pawn\n#电子食堂 #赛博厨子 #盗图转帖动物园 #阳痿文学大文豪 #悲观丧文化代表性传承人 #推特第一丑男 #油腻屌丝 #超龄男大\n博士在读，研究方向主攻吃喝玩乐，珠三角挂不起玉牌的憋佬仔。发表主观自我言论，记录生活，骂赞关取ban随意。🚪1/2/3/4/5/6....",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 32,
+                "start": 27,
+                "tag": "电子食堂"
+              },
+              {
+                "end": 38,
+                "start": 33,
+                "tag": "赛博厨子"
+              },
+              {
+                "end": 47,
+                "start": 39,
+                "tag": "盗图转帖动物园"
+              },
+              {
+                "end": 56,
+                "start": 48,
+                "tag": "阳痿文学大文豪"
+              },
+              {
+                "end": 69,
+                "start": 57,
+                "tag": "悲观丧文化代表性传承人"
+              },
+              {
+                "end": 77,
+                "start": 70,
+                "tag": "推特第一丑男"
+              },
+              {
+                "end": 83,
+                "start": 78,
+                "tag": "油腻屌丝"
+              },
+              {
+                "end": 89,
+                "start": 84,
+                "tag": "超龄男大"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/raffele0421",
+                "end": 23,
+                "expanded_url": "https://ngl.link/raffele0421",
+                "start": 0,
+                "url": "https://t.co/3xlSSWfRn8"
+              }
+            ]
+          }
+        },
+        "id": "1647385389785841664",
+        "location": "梦在木星！",
+        "name": "HAL-9000 ⁺✞ʚ咖啡因重度依赖ɞ✟₊",
+        "pinned_tweet_id": "1741351717218959835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778670379588026368/vD2DxYk8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2207,
+          "following_count": 588,
+          "like_count": 140832,
+          "listed_count": 9,
+          "media_count": 1998,
+          "tweet_count": 18724
+        },
+        "url": "https://t.co/3xlSSWfRn8",
+        "username": "Raffaele042",
+        "verified": false
+      }
+    ]
+  }
+}

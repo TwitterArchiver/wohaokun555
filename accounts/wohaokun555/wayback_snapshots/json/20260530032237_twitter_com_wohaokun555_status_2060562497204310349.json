@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2060324380169970149",
+    "created_at": "2026-05-30T03:22:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T04:22:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060562497204310349"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2046789229880188928",
+          "start": 0,
+          "username": "natasharhne"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060562497204310349",
+    "in_reply_to_user_id": "2046789229880188928",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060324380169970149",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@natasharhne 我的吗呀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2060324372087463936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJe-GbBaYAAGUyg.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2060324380169970149",
+        "created_at": "2026-05-30T03:22:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T04:22:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060562497204310349"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2046789229880188928",
+              "start": 0,
+              "username": "natasharhne"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060562497204310349",
+        "in_reply_to_user_id": "2046789229880188928",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060324380169970149",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@natasharhne 我的吗呀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060324372087463936"
+          ]
+        },
+        "author_id": "2046789229880188928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2060324380169970149",
+        "created_at": "2026-05-29T11:36:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T12:36:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060324380169970149"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vZ6Ofa7ang",
+              "end": 43,
+              "expanded_url": "https://x.com/natasharhne/status/2060324380169970149/photo/1",
+              "media_key": "3_2060324372087463936",
+              "start": 20,
+              "url": "https://t.co/vZ6Ofa7ang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060324380169970149",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1335,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 30,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我操.....算上燃油我有一点4️⃣了 https://t.co/vZ6Ofa7ang"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "🚪不入勿扰",
+        "id": "2004619896630788096",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2036315164098830372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2158,
+          "following_count": 77,
+          "like_count": 20497,
+          "listed_count": 2,
+          "media_count": 241,
+          "tweet_count": 3368
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-22T03:13:42.000Z",
+        "description": "有一天我们终能在这里重逢@llyqin150215",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 12,
+                "username": "llyqin150215"
+              }
+            ]
+          }
+        },
+        "id": "2046789229880188928",
+        "name": "1017",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046835908327178240/GSkj2g3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 705,
+          "following_count": 395,
+          "like_count": 3645,
+          "listed_count": 2,
+          "media_count": 183,
+          "tweet_count": 764
+        },
+        "username": "natasharhne",
+        "verified": false
+      }
+    ]
+  }
+}

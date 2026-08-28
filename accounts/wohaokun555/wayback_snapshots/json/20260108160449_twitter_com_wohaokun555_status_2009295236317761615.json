@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2009287411155542179",
+    "created_at": "2026-01-08T16:04:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-08T17:04:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009295236317761615"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1686259751225851905",
+          "start": 0,
+          "username": "liutong520453"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009295236317761615",
+    "in_reply_to_user_id": "1686259751225851905",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009287411155542179",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liutong520453 蹲奶茶(o^^o)"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2009287397255589888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-JsPf0WsAAVYj7.jpg",
+        "width": 472
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2009287411155542179",
+        "created_at": "2026-01-08T16:04:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T17:04:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009295236317761615"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1686259751225851905",
+              "start": 0,
+              "username": "liutong520453"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009295236317761615",
+        "in_reply_to_user_id": "1686259751225851905",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009287411155542179",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liutong520453 蹲奶茶(o^^o)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009287397255589888"
+          ]
+        },
+        "author_id": "1686259751225851905",
+        "conversation_id": "2009287411155542179",
+        "created_at": "2026-01-08T15:33:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T16:33:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009287411155542179"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dlAbD8Fa9v",
+              "end": 51,
+              "expanded_url": "https://x.com/liutong520453/status/2009287411155542179/photo/1",
+              "media_key": "3_2009287397255589888",
+              "start": 28,
+              "url": "https://t.co/dlAbD8Fa9v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009287411155542179",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 108,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最喜欢的🚪姐让我消停两天 这两天不入门了 给大家抽奶茶 https://t.co/dlAbD8Fa9v"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "天天开心o^^o",
+        "id": "2004619896630788096",
+        "location": "三体星球",
+        "name": "鱼虾一整碗",
+        "pinned_tweet_id": "2007765884035813533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004620653153189888/VWgYLNYv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 55,
+          "like_count": 1685,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 565
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-01T06:17:18.000Z",
+        "description": "永远热恋18岁",
+        "id": "1686259751225851905",
+        "name": "毛野",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975846003841597441/1R2i87k-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 393,
+          "like_count": 99,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 35
+        },
+        "username": "liutong520453",
+        "verified": false
+      }
+    ]
+  }
+}

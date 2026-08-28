@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2019366162388382132",
+    "created_at": "2026-02-05T11:14:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-05T12:14:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019369110854103536"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1823767829465980931",
+          "start": 0,
+          "username": "CaoYu61579"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019369110854103536",
+    "in_reply_to_user_id": "1823767829465980931",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019366162388382132",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CaoYu61579 他的帖子好像都是偷的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2270,
+        "media_key": "3_2019366141626343424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAY6zocW4AACnkd.jpg",
+        "width": 1259
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2019366162388382132",
+        "created_at": "2026-02-05T11:14:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T12:14:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019369110854103536"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1823767829465980931",
+              "start": 0,
+              "username": "CaoYu61579"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019369110854103536",
+        "in_reply_to_user_id": "1823767829465980931",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019366162388382132",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CaoYu61579 他的帖子好像都是偷的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019366141626343424"
+          ]
+        },
+        "author_id": "1823767829465980931",
+        "conversation_id": "2019366162388382132",
+        "created_at": "2026-02-05T11:03:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T12:03:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019366162388382132"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/E0sjAF5rvH",
+              "end": 38,
+              "expanded_url": "https://x.com/CaoYu61579/status/2019366162388382132/photo/1",
+              "media_key": "3_2019366141626343424",
+              "start": 15,
+              "url": "https://t.co/E0sjAF5rvH"
+            },
+            {
+              "display_url": "x.com/Minnie600cc/st…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/Minnie600cc/status/2019204674109469186",
+              "start": 39,
+              "url": "https://t.co/7wKKgs1ReL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019366162388382132",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 55,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019204674109469186",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我要演牌。\n雷霆被单你也偷。 https://t.co/E0sjAF5rvH https://t.co/7wKKgs1ReL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2JlN5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2JlN5"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "🚪188（别的私信不回",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2019333252520321256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014313058978406400/yLC08oHO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 579,
+          "following_count": 72,
+          "like_count": 5500,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 1028
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-14T17:05:21.000Z",
+        "description": "你像世界为了我活着抛出的诱饵┋小号@imnotoven只过互关┋取关随意┋没有陪聊的义务┋匿名：https://t.co/EcmAneyOcQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 17,
+                "username": "imnotoven"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "tellonym.me/user.83912044",
+                "end": 71,
+                "expanded_url": "http://tellonym.me/user.83912044",
+                "start": 48,
+                "url": "https://t.co/EcmAneyOcQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/binyeon_yu",
+                "end": 23,
+                "expanded_url": "http://ngl.link/binyeon_yu",
+                "start": 0,
+                "url": "https://t.co/EiqXcqLYjB"
+              }
+            ]
+          }
+        },
+        "id": "1823767829465980931",
+        "location": "讨厌你 每个小猫你都想摸˃ ˄ ˂",
+        "name": "我烤箱咋滴",
+        "pinned_tweet_id": "2008925797210575355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007159379410464768/ObpktCDK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2288,
+          "following_count": 146,
+          "like_count": 7081,
+          "listed_count": 6,
+          "media_count": 174,
+          "tweet_count": 3074
+        },
+        "url": "https://t.co/EiqXcqLYjB",
+        "username": "CaoYu61579",
+        "verified": false
+      }
+    ]
+  }
+}

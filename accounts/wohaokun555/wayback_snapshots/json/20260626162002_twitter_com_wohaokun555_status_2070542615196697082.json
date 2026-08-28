@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2070526703101944036",
+    "created_at": "2026-06-26T16:20:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T17:20:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070542615196697082"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1973422975904092160",
+          "start": 0,
+          "username": "youyushuiniu626"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070542615196697082",
+    "in_reply_to_user_id": "1973422975904092160",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070526703101944036",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@youyushuiniu626 不出所料"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2070526703101944036",
+        "created_at": "2026-06-26T16:20:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T17:20:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070542615196697082"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1973422975904092160",
+              "start": 0,
+              "username": "youyushuiniu626"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070542615196697082",
+        "in_reply_to_user_id": "1973422975904092160",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070526703101944036",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youyushuiniu626 不出所料"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1973422975904092160",
+        "conversation_id": "2070526703101944036",
+        "created_at": "2026-06-26T15:16:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T16:16:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070526703101944036"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070526703101944036",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 167,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "蒹葭的指潮机好舒服的呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "让我成为我，让一座山并存着嶙峋和肥沃",
+        "id": "2004619896630788096",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2070530833434476867",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2534,
+          "following_count": 81,
+          "like_count": 22975,
+          "listed_count": 2,
+          "media_count": 140,
+          "tweet_count": 3680
+        },
+        "url": "",
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-01T16:21:24.000Z",
+        "description": "DontcryU",
+        "id": "1973422975904092160",
+        "name": "鱿鱼的水牛",
+        "pinned_tweet_id": "2003662712962974030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989705569654247427/o1qKXNfj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2075,
+          "following_count": 180,
+          "like_count": 3744,
+          "listed_count": 7,
+          "media_count": 34,
+          "tweet_count": 612
+        },
+        "url": "",
+        "username": "youyushuiniu626",
+        "verified": false
+      }
+    ]
+  }
+}

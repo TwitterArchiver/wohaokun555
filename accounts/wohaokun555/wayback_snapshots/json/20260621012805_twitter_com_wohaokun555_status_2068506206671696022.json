@@ -1,0 +1,381 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "BLACKPINK (블랙핑크) - Jisoo (지수),\nJennie (제니),\nRose (로제),\nLisa (리사)",
+          "id": "894606843783270401",
+          "name": "BLACKPINK"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "description": "BLACKPINK (블랙핑크) - Jisoo (지수),\nJennie (제니),\nRose (로제),\nLisa (리사)",
+          "id": "894606843783270401",
+          "name": "BLACKPINK"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "K-Pop",
+          "id": "888105153038958593",
+          "name": "K-pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "K-Pop",
+          "id": "888105153038958593",
+          "name": "K-pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "BLACKPINK (블랙핑크) - Jisoo (지수),\nJennie (제니),\nRose (로제),\nLisa (리사)",
+          "id": "894606843783270401",
+          "name": "BLACKPINK"
+        }
+      }
+    ],
+    "conversation_id": "2068343186091819510",
+    "created_at": "2026-06-21T01:28:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T02:28:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068506206671696022"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2050887139865300992",
+          "start": 0,
+          "username": "kkkkkirito12138"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068506206671696022",
+    "in_reply_to_user_id": "2050887139865300992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068354581256605920",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kkkkkirito12138 装忧郁打错字blackpink"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "BLACKPINK (블랙핑크) - Jisoo (지수),\nJennie (제니),\nRose (로제),\nLisa (리사)",
+              "id": "894606843783270401",
+              "name": "BLACKPINK"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "BLACKPINK (블랙핑크) - Jisoo (지수),\nJennie (제니),\nRose (로제),\nLisa (리사)",
+              "id": "894606843783270401",
+              "name": "BLACKPINK"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BLACKPINK (블랙핑크) - Jisoo (지수),\nJennie (제니),\nRose (로제),\nLisa (리사)",
+              "id": "894606843783270401",
+              "name": "BLACKPINK"
+            }
+          }
+        ],
+        "conversation_id": "2068343186091819510",
+        "created_at": "2026-06-21T01:28:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T02:28:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068506206671696022"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2050887139865300992",
+              "start": 0,
+              "username": "kkkkkirito12138"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068506206671696022",
+        "in_reply_to_user_id": "2050887139865300992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068354581256605920",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kkkkkirito12138 装忧郁打错字blackpink"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050887139865300992",
+        "conversation_id": "2068343186091819510",
+        "created_at": "2026-06-20T15:25:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T16:25:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068354581256605920"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068354581256605920",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 273,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068343186091819510",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 谁知道你是哑巴(｡ì _ í｡)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "好好睡一觉呀",
+        "id": "2004619896630788096",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2067618656885125585",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2457,
+          "following_count": 79,
+          "like_count": 22646,
+          "listed_count": 2,
+          "media_count": 135,
+          "tweet_count": 3620
+        },
+        "url": "",
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-03T10:40:35.000Z",
+        "description": "08白羊 直男不4i 勿骚扰礼貌私信会回 \n🚪🫧88 匿名提问在下面👇",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/k407510",
+                "end": 23,
+                "expanded_url": "https://ngl.link/k407510",
+                "start": 0,
+                "url": "https://t.co/17y3x4clkb"
+              }
+            ]
+          }
+        },
+        "id": "2050887139865300992",
+        "location": "21km",
+        "name": "薄荷味的雪",
+        "pinned_tweet_id": "2052628256864538760",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057457738737999872/auHCR0Cy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1339,
+          "following_count": 36,
+          "like_count": 2047,
+          "listed_count": 2,
+          "media_count": 78,
+          "tweet_count": 598
+        },
+        "url": "https://t.co/17y3x4clkb",
+        "username": "kkkkkirito12138",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2081005727565680860",
+    "created_at": "2026-07-25T13:29:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T14:29:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081008923369472056"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2040447989517565952",
+          "start": 0,
+          "username": "Beizilirjjr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081008923369472056",
+    "in_reply_to_user_id": "2040447989517565952",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081007903088210050",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Beizilirjjr 我也想哭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2081005727565680860",
+        "created_at": "2026-07-25T13:29:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T14:29:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081008923369472056"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2040447989517565952",
+              "start": 0,
+              "username": "Beizilirjjr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081008923369472056",
+        "in_reply_to_user_id": "2040447989517565952",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081007903088210050",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Beizilirjjr 我也想哭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040447989517565952",
+        "conversation_id": "2081005727565680860",
+        "created_at": "2026-07-25T13:25:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T14:25:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081007903088210050"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081007903088210050",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081005727565680860",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 主播，我好想哭啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "你好＞𐋣＜",
+        "id": "2004619896630788096",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2073747405099659747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2866,
+          "following_count": 83,
+          "like_count": 25151,
+          "listed_count": 2,
+          "media_count": 151,
+          "tweet_count": 4014
+        },
+        "url": "",
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-04T15:15:08.000Z",
+        "description": "没有人认识我，我爱怎么j8发就怎么勾八发，欢迎找我聊天，我特别无聊",
+        "id": "2040447989517565952",
+        "name": "bpro",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060003089378324480/iG7pcuaT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 11,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 44
+        },
+        "url": "",
+        "username": "Beizilirjjr",
+        "verified": false
+      }
+    ]
+  }
+}

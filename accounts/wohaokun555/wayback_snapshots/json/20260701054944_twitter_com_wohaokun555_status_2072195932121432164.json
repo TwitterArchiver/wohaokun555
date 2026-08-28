@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2072142848380572151",
+    "created_at": "2026-07-01T05:49:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T06:49:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072195932121432164"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2004922498975236105",
+          "start": 0,
+          "username": "paetteumaeddu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072195932121432164",
+    "in_reply_to_user_id": "2004922498975236105",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072142848380572151",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@paetteumaeddu 好棒"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2072142841812598784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMG675obwAAYObF.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2072142848380572151",
+        "created_at": "2026-07-01T05:49:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T06:49:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072195932121432164"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2004922498975236105",
+              "start": 0,
+              "username": "paetteumaeddu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072195932121432164",
+        "in_reply_to_user_id": "2004922498975236105",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072142848380572151",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@paetteumaeddu 好棒"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072142841812598784"
+          ]
+        },
+        "author_id": "2004922498975236105",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Investors and patents",
+              "id": "857878402157629440",
+              "name": "Investors and patents"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          }
+        ],
+        "conversation_id": "2072142848380572151",
+        "created_at": "2026-07-01T02:18:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T03:18:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072142848380572151"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vbHC1vNPtN",
+              "end": 168,
+              "expanded_url": "https://x.com/paetteumaeddu/status/2072142848380572151/photo/1",
+              "media_key": "3_2072142841812598784",
+              "start": 145,
+              "url": "https://t.co/vbHC1vNPtN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072142848380572151",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 5131,
+          "like_count": 219,
+          "quote_count": 8,
+          "reply_count": 5,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "사설에 일희일비 하고 싶지 않아서 그동안 사설은 한번도 점수를 공개한 적이 없엇는데… (잘본성적말하고다니면무조건떨어지는징크스도있음) 자랑하나만 해도 됩니까\n 나 작수55354엿는데 이만큼 오름\n아빠한테 투자한 보람이 있다 소리 들음 너무 행복해서 날라갈거가툼 https://t.co/vbHC1vNPtN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "让我成为我，让一座山并存着嶙峋和肥沃",
+        "id": "2004619896630788096",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2070530833434476867",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2658,
+          "following_count": 81,
+          "like_count": 23570,
+          "listed_count": 2,
+          "media_count": 144,
+          "tweet_count": 3768
+        },
+        "url": "",
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-27T14:29:27.000Z",
+        "description": "부러움 속에서 피어나는 동경을 안고서 날아갈래요 아주 높이",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "spin-spin.com/paetteumaeddu",
+                "end": 23,
+                "expanded_url": "https://spin-spin.com/paetteumaeddu",
+                "start": 0,
+                "url": "https://t.co/RZceyzJ6i5"
+              }
+            ]
+          }
+        },
+        "id": "2004922498975236105",
+        "name": "내일",
+        "pinned_tweet_id": "2046910894903595203",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 185,
+          "like_count": 2047,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 499
+        },
+        "url": "https://t.co/RZceyzJ6i5",
+        "username": "paetteumaeddu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2018565754371940427",
+    "created_at": "2026-02-03T07:26:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T08:26:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018586926115409952"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2007600959850217472",
+          "start": 0,
+          "username": "Echoand522"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018586926115409952",
+    "in_reply_to_user_id": "2007600959850217472",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018565754371940427",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Echoand522 接"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 351,
+        "media_key": "3_2018565746851495936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HANi2hjawAAJpPV.jpg",
+        "width": 978
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2018565754371940427",
+        "created_at": "2026-02-03T07:26:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T08:26:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018586926115409952"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2007600959850217472",
+              "start": 0,
+              "username": "Echoand522"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018586926115409952",
+        "in_reply_to_user_id": "2007600959850217472",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018565754371940427",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Echoand522 接"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018565746851495936"
+          ]
+        },
+        "author_id": "2007600959850217472",
+        "conversation_id": "2018565754371940427",
+        "created_at": "2026-02-03T06:02:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T07:02:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018565754371940427"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8bF9Bg0mww",
+              "end": 33,
+              "expanded_url": "https://x.com/Echoand522/status/2018565754371940427/photo/1",
+              "media_key": "3_2018565746851495936",
+              "start": 10,
+              "url": "https://t.co/8bF9Bg0mww"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018565754371940427",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 306,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "2月就这样幸福🪿🥰 https://t.co/8bF9Bg0mww"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2JlN5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2JlN5"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "🚪188（别的私信不回",
+        "name": "中推忧郁神",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014313058978406400/yLC08oHO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 566,
+          "following_count": 72,
+          "like_count": 4945,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 995
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-03T23:53:09.000Z",
+        "description": "原号被封@g08129551 私信口令带姓 只回口令 赚钱供自己上学",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 4,
+                "username": "g08129551"
+              }
+            ]
+          }
+        },
+        "id": "2007600959850217472",
+        "location": "🚪520/1314",
+        "name": "522",
+        "pinned_tweet_id": "2017994744618762674",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017994216128102401/AORSRTRV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 665,
+          "following_count": 34,
+          "like_count": 557,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 215
+        },
+        "username": "Echoand522",
+        "verified": false
+      }
+    ]
+  }
+}

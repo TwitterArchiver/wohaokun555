@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2061822033093403113",
+    "created_at": "2026-06-02T14:47:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T15:47:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061822033093403113"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2061822033093403113",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "如果以后我们闹掰了，我就掏出和好绳，缠你小拇指上，就说明咱俩和好了，如果缠你脖子上，你别出声就行，头晕是正常的知道了吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2061822033093403113",
+        "created_at": "2026-06-02T14:47:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T15:47:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061822033093403113"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061822033093403113",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果以后我们闹掰了，我就掏出和好绳，缠你小拇指上，就说明咱俩和好了，如果缠你脖子上，你别出声就行，头晕是正常的知道了吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "🚪（520",
+        "id": "2004619896630788096",
+        "location": "口令➕姓",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2060575687279567255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2183,
+          "following_count": 78,
+          "like_count": 21004,
+          "listed_count": 2,
+          "media_count": 135,
+          "tweet_count": 3322
+        },
+        "username": "wohaokun555",
+        "verified": false
+      }
+    ]
+  }
+}

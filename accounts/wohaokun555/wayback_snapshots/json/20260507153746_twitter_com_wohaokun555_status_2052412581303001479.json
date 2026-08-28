@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2052391197390565497",
+    "created_at": "2026-05-07T15:37:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T16:37:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052412581303001479"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1728602295565418496",
+          "start": 0,
+          "username": "logcabinlog"
+        },
+        {
+          "end": 24,
+          "id": "1994960821429186560",
+          "start": 13,
+          "username": "lyF1830721"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052412581303001479",
+    "in_reply_to_user_id": "1728602295565418496",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052410058252616158",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@logcabinlog @lyF1830721 哈哈哈哈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2052391197390565497",
+        "created_at": "2026-05-07T15:37:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T16:37:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052412581303001479"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1728602295565418496",
+              "start": 0,
+              "username": "logcabinlog"
+            },
+            {
+              "end": 24,
+              "id": "1994960821429186560",
+              "start": 13,
+              "username": "lyF1830721"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052412581303001479",
+        "in_reply_to_user_id": "1728602295565418496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052410058252616158",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@logcabinlog @lyF1830721 哈哈哈哈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1728602295565418496",
+        "conversation_id": "2052391197390565497",
+        "created_at": "2026-05-07T15:27:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T16:27:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052410058252616158"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1994960821429186560",
+              "start": 0,
+              "username": "lyF1830721"
+            },
+            {
+              "end": 24,
+              "id": "2004619896630788096",
+              "start": 12,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052410058252616158",
+        "in_reply_to_user_id": "1994960821429186560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052393895519195496",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lyF1830721 @wohaokun555 高级个🥚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "",
+        "id": "2004619896630788096",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2052293259586924701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2022,
+          "following_count": 101,
+          "like_count": 18523,
+          "listed_count": 2,
+          "media_count": 218,
+          "tweet_count": 3104
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-26T02:31:25.000Z",
+        "description": "天蝎｜人类｜想哭\n#摄影 #露营 #胶片",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 12,
+                "start": 9,
+                "tag": "摄影"
+              },
+              {
+                "end": 16,
+                "start": 13,
+                "tag": "露营"
+              },
+              {
+                "end": 20,
+                "start": 17,
+                "tag": "胶片"
+              }
+            ]
+          }
+        },
+        "id": "1728602295565418496",
+        "location": "温州",
+        "name": "Blues",
+        "pinned_tweet_id": "2050158624769552776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034951181181886465/lOfUgy27_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11186,
+          "following_count": 233,
+          "like_count": 2772,
+          "listed_count": 33,
+          "media_count": 282,
+          "tweet_count": 1888
+        },
+        "username": "logcabinlog",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-30T02:45:12.000Z",
+        "description": "只吃美团拼好饭",
+        "id": "1994960821429186560",
+        "location": "天津",
+        "name": "Khalil",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043713891474239488/XJPZpw82_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 56,
+          "like_count": 161,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 36
+        },
+        "username": "lyF1830721",
+        "verified": false
+      }
+    ]
+  }
+}

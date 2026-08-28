@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2027289894083830048",
+    "created_at": "2026-02-27T09:45:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T10:45:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027319252529955188"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1999061638293680128",
+          "start": 0,
+          "username": "cjmrrdhl01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027319252529955188",
+    "in_reply_to_user_id": "1999061638293680128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027307374130942167",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cjmrrdhl01 下次有机会我一定要攒钱看现场 感觉现场看好爽"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2027289894083830048",
+        "created_at": "2026-02-27T09:45:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T10:45:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027319252529955188"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1999061638293680128",
+              "start": 0,
+              "username": "cjmrrdhl01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027319252529955188",
+        "in_reply_to_user_id": "1999061638293680128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027307374130942167",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cjmrrdhl01 下次有机会我一定要攒钱看现场 感觉现场看好爽"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1999061638293680128",
+        "conversation_id": "2027289894083830048",
+        "created_at": "2026-02-27T08:58:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T09:58:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027307374130942167"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027307374130942167",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027289894083830048",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 上海站票售完了吧 搁家看看挺好的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2JlN5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2JlN5"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "除了口令和正常问题别的私信不回",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2016792238060421479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 935,
+          "following_count": 94,
+          "like_count": 9592,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 1751
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-11T10:20:25.000Z",
+        "description": "原账号狐狸儿 什么都没干就被封禁了 我的友友们啊 哭哭\n喜欢赛车的铁铁看到的火速来找我赛车( FPS也可以)模型也很喜欢捏良言一句三冬暖,恶语伤人六月寒。",
+        "id": "1999061638293680128",
+        "name": "超级毛茸茸大狐狸🦊",
+        "pinned_tweet_id": "2025085819791564917",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999092876488388608/FPUXgRv8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 138,
+          "like_count": 2886,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 155
+        },
+        "username": "cjmrrdhl01",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2059608490801512732",
+    "created_at": "2026-05-28T01:41:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T02:41:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059812196415394151"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1701140302889979904",
+          "start": 0,
+          "username": "ItooTunes"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059812196415394151",
+    "in_reply_to_user_id": "1701140302889979904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059811387321499730",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ItooTunes 这对吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2059608490801512732",
+        "created_at": "2026-05-28T01:41:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T02:41:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059812196415394151"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1701140302889979904",
+              "start": 0,
+              "username": "ItooTunes"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059812196415394151",
+        "in_reply_to_user_id": "1701140302889979904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059811387321499730",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ItooTunes 这对吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1701140302889979904",
+        "conversation_id": "2059608490801512732",
+        "created_at": "2026-05-28T01:37:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T02:37:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059811387321499730"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059811387321499730",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059608490801512732",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 冈本001"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "🚪（纯绿 不入勿扰\n@lei_meng123 随缘过",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 10,
+                "username": "lei_meng123"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2036315164098830372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2121,
+          "following_count": 78,
+          "like_count": 20364,
+          "listed_count": 2,
+          "media_count": 240,
+          "tweet_count": 3326
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-11T07:47:32.000Z",
+        "description": "叽里咕噜说什么呢",
+        "id": "1701140302889979904",
+        "name": "KraiTunes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035538890325417984/6baKFZm-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 71,
+          "like_count": 168,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 120
+        },
+        "username": "ItooTunes",
+        "verified": false
+      }
+    ]
+  }
+}

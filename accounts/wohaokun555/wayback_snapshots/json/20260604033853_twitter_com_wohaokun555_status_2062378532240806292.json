@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2062222719303967027",
+    "created_at": "2026-06-04T03:38:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T04:38:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062378532240806292"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1769987262635458560",
+          "start": 0,
+          "username": "papa520131"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062378532240806292",
+    "in_reply_to_user_id": "1769987262635458560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062222719303967027",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@papa520131 你这个名字看起来就不像女的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2062222719303967027",
+        "created_at": "2026-06-04T03:38:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T04:38:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062378532240806292"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1769987262635458560",
+              "start": 0,
+              "username": "papa520131"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062378532240806292",
+        "in_reply_to_user_id": "1769987262635458560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062222719303967027",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@papa520131 你这个名字看起来就不像女的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1769987262635458560",
+        "conversation_id": "2062222719303967027",
+        "created_at": "2026-06-03T17:19:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T18:19:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062222719303967027"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062222719303967027",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14543,
+          "like_count": 12,
+          "quote_count": 2,
+          "reply_count": 24,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大家都在喷夏美，但试问哪个女孩子不想成为夏美？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "🚪（520",
+        "id": "2004619896630788096",
+        "location": "口令➕姓",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2036315164098830372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2215,
+          "following_count": 79,
+          "like_count": 21211,
+          "listed_count": 2,
+          "media_count": 137,
+          "tweet_count": 3343
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-19T07:20:33.000Z",
+        "description": "盯着你👀【推广自辩】",
+        "id": "1769987262635458560",
+        "name": "不知名美女",
+        "pinned_tweet_id": "2029943044238364750",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924304499973214208/KqF35paR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21076,
+          "following_count": 84,
+          "like_count": 2334,
+          "listed_count": 39,
+          "media_count": 452,
+          "tweet_count": 1259
+        },
+        "username": "papa520131",
+        "verified": false
+      }
+    ]
+  }
+}

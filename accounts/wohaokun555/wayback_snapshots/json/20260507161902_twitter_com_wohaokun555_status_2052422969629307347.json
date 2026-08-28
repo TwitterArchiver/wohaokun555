@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2052391197390565497",
+    "created_at": "2026-05-07T16:19:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T17:19:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052422969629307347"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1999695376044163074",
+          "start": 0,
+          "username": "lfmirr0096"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052422969629307347",
+    "in_reply_to_user_id": "1999695376044163074",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052422735188709480",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lfmirr0096 😮‍💨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2052391197390565497",
+        "created_at": "2026-05-07T16:19:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T17:19:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052422969629307347"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1999695376044163074",
+              "start": 0,
+              "username": "lfmirr0096"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052422969629307347",
+        "in_reply_to_user_id": "1999695376044163074",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052422735188709480",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lfmirr0096 😮‍💨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1999695376044163074",
+        "conversation_id": "2052391197390565497",
+        "created_at": "2026-05-07T16:18:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T17:18:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052422735188709480"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052422735188709480",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052391197390565497",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 抱抱你，这人都不提前说好歹报销下路费呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "",
+        "id": "2004619896630788096",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2052293259586924701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2022,
+          "following_count": 100,
+          "like_count": 18532,
+          "listed_count": 2,
+          "media_count": 218,
+          "tweet_count": 3108
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-13T04:18:43.000Z",
+        "description": "我一个人的世界",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/miningvii_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/miningvii_",
+                "start": 0,
+                "url": "https://t.co/MaY4uFKoCj"
+              }
+            ]
+          }
+        },
+        "id": "1999695376044163074",
+        "name": "lairrula",
+        "pinned_tweet_id": "2022741360877388019",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012480267882049537/MGCZ0xOJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 954,
+          "following_count": 24,
+          "like_count": 34,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 111
+        },
+        "url": "https://t.co/MaY4uFKoCj",
+        "username": "lfmirr0096",
+        "verified": false
+      }
+    ]
+  }
+}

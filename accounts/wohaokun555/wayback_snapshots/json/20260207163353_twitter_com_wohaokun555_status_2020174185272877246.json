@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2020070222733164616",
+    "created_at": "2026-02-07T16:33:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-07T17:33:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020174185272877246"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1753051911253827584",
+          "start": 0,
+          "username": "Schneider180608"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020174185272877246",
+    "in_reply_to_user_id": "1753051911253827584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020171756527571234",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Schneider180608 千问 我要米村拌饭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2020070222733164616",
+        "created_at": "2026-02-07T16:33:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T17:33:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020174185272877246"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1753051911253827584",
+              "start": 0,
+              "username": "Schneider180608"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020174185272877246",
+        "in_reply_to_user_id": "1753051911253827584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020171756527571234",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Schneider180608 千问 我要米村拌饭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753051911253827584",
+        "conversation_id": "2020070222733164616",
+        "created_at": "2026-02-07T16:24:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T17:24:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020171756527571234"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020171756527571234",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020070222733164616",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 不是，这咋做到的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2JlN5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2JlN5"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "🚪188（绿（别的私信不回",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2019333252520321256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014313058978406400/yLC08oHO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 612,
+          "following_count": 72,
+          "like_count": 6058,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 1144
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-01T13:45:29.000Z",
+        "description": "嗯对，嗯对，嗯对\n06♂\n@Snyder0927  小号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "Snyder0927"
+              }
+            ]
+          }
+        },
+        "id": "1753051911253827584",
+        "name": "Schneider",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756761499236732928/_Tt0cZIY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 15,
+          "like_count": 65,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 72
+        },
+        "username": "Schneider180608",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2068933843760107900",
+    "created_at": "2026-06-22T06:54:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T07:54:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068950805886197908"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1918664114186096640",
+          "start": 0,
+          "username": "be6b1143"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068950805886197908",
+    "in_reply_to_user_id": "1918664114186096640",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068933843760107900",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@be6b1143 此女是神"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2068933830363533312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLZUW2abUAAL7vb.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2068933843760107900",
+        "created_at": "2026-06-22T06:54:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T07:54:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068950805886197908"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1918664114186096640",
+              "start": 0,
+              "username": "be6b1143"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068950805886197908",
+        "in_reply_to_user_id": "1918664114186096640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068933843760107900",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@be6b1143 此女是神"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068933830363533312"
+          ]
+        },
+        "author_id": "1918664114186096640",
+        "conversation_id": "2068933843760107900",
+        "created_at": "2026-06-22T05:47:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T06:47:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068933843760107900"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Whhajffgas",
+              "end": 23,
+              "expanded_url": "https://x.com/be6b1143/status/2068933843760107900/photo/1",
+              "media_key": "3_2068933830363533312",
+              "start": 0,
+              "url": "https://t.co/Whhajffgas"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068933843760107900",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 473,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Whhajffgas"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "好好睡一觉呀",
+        "id": "2004619896630788096",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2067618656885125585",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2465,
+          "following_count": 80,
+          "like_count": 22739,
+          "listed_count": 2,
+          "media_count": 135,
+          "tweet_count": 3624
+        },
+        "url": "",
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-03T13:49:19.000Z",
+        "description": "（仅此一个号）爱是世界上最伟大的魔法@aumileude",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 18,
+                "username": "aumileude"
+              }
+            ]
+          }
+        },
+        "id": "1918664114186096640",
+        "name": "马奎斯",
+        "pinned_tweet_id": "2005142406526874072",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918665181972082688/met7_bU9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6519,
+          "following_count": 105,
+          "like_count": 8929,
+          "listed_count": 25,
+          "media_count": 63,
+          "tweet_count": 3192
+        },
+        "url": "",
+        "username": "be6b1143",
+        "verified": false
+      }
+    ]
+  }
+}

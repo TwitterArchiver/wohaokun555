@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2070626801492414948",
+    "created_at": "2026-06-27T05:26:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T06:26:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070740438110396806"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2050887139865300992",
+          "start": 0,
+          "username": "kkkkkirito12138"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070740438110396806",
+    "in_reply_to_user_id": "2050887139865300992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070626801492414948",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kkkkkirito12138 我有哥们废了的衣服…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2070626782055903232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLxYFm7aMAA9gPa.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2070626782072733696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLxYFm_bAAAsNEV.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2070626782064316416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLxYFm9akAAtcZh.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2070626783398105088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLxYFr7akAA6as8.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2070626801492414948",
+        "created_at": "2026-06-27T05:26:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T06:26:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070740438110396806"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2050887139865300992",
+              "start": 0,
+              "username": "kkkkkirito12138"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070740438110396806",
+        "in_reply_to_user_id": "2050887139865300992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070626801492414948",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kkkkkirito12138 我有哥们废了的衣服…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070626782055903232",
+            "3_2070626782072733696",
+            "3_2070626782064316416",
+            "3_2070626783398105088"
+          ]
+        },
+        "author_id": "2050887139865300992",
+        "conversation_id": "2070626801492414948",
+        "created_at": "2026-06-26T21:54:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T22:54:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070626801492414948"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NtiUzxy6D0",
+              "end": 28,
+              "expanded_url": "https://x.com/kkkkkirito12138/status/2070626801492414948/photo/1",
+              "media_key": "3_2070626782055903232",
+              "start": 5,
+              "url": "https://t.co/NtiUzxy6D0"
+            },
+            {
+              "display_url": "pic.x.com/NtiUzxy6D0",
+              "end": 28,
+              "expanded_url": "https://x.com/kkkkkirito12138/status/2070626801492414948/photo/1",
+              "media_key": "3_2070626782072733696",
+              "start": 5,
+              "url": "https://t.co/NtiUzxy6D0"
+            },
+            {
+              "display_url": "pic.x.com/NtiUzxy6D0",
+              "end": 28,
+              "expanded_url": "https://x.com/kkkkkirito12138/status/2070626801492414948/photo/1",
+              "media_key": "3_2070626782064316416",
+              "start": 5,
+              "url": "https://t.co/NtiUzxy6D0"
+            },
+            {
+              "display_url": "pic.x.com/NtiUzxy6D0",
+              "end": 28,
+              "expanded_url": "https://x.com/kkkkkirito12138/status/2070626801492414948/photo/1",
+              "media_key": "3_2070626783398105088",
+              "start": 5,
+              "url": "https://t.co/NtiUzxy6D0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070626801492414948",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 6879,
+          "like_count": 50,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哥们废了 https://t.co/NtiUzxy6D0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "让我成为我，让一座山并存着嶙峋和肥沃",
+        "id": "2004619896630788096",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2070530833434476867",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2560,
+          "following_count": 81,
+          "like_count": 22973,
+          "listed_count": 2,
+          "media_count": 140,
+          "tweet_count": 3681
+        },
+        "url": "",
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-03T10:40:35.000Z",
+        "description": "08白羊 直男不4i 勿骚扰礼貌私信会回 \n🚪🫧88 匿名提问在下面👇",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/k407510",
+                "end": 23,
+                "expanded_url": "https://ngl.link/k407510",
+                "start": 0,
+                "url": "https://t.co/17y3x4clkb"
+              }
+            ]
+          }
+        },
+        "id": "2050887139865300992",
+        "location": "21km",
+        "name": "薄荷味的雪",
+        "pinned_tweet_id": "2052628256864538760",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057457738737999872/auHCR0Cy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1361,
+          "following_count": 42,
+          "like_count": 2043,
+          "listed_count": 2,
+          "media_count": 82,
+          "tweet_count": 613
+        },
+        "url": "https://t.co/17y3x4clkb",
+        "username": "kkkkkirito12138",
+        "verified": false
+      }
+    ]
+  }
+}

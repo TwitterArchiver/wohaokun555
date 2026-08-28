@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2041691720807788759",
+    "created_at": "2026-04-08T01:40:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T02:40:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041692527888363608"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1915098465472016386",
+          "start": 0,
+          "username": "asteriaaaa0109"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041692527888363608",
+    "in_reply_to_user_id": "1915098465472016386",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041691720807788759",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@asteriaaaa0109 我也看到了 太恐怖了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2041691720807788759",
+        "created_at": "2026-04-08T01:40:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T02:40:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041692527888363608"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1915098465472016386",
+              "start": 0,
+              "username": "asteriaaaa0109"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041692527888363608",
+        "in_reply_to_user_id": "1915098465472016386",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041691720807788759",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@asteriaaaa0109 我也看到了 太恐怖了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1915098465472016386",
+        "conversation_id": "2041691720807788759",
+        "created_at": "2026-04-08T01:36:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T02:36:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041691720807788759"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041691720807788759",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不关心前段时间的网黄瓜 但是有的人把他们三个的照片学校专业扒出来放推上是什么意思?  疯了吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "",
+        "id": "2004619896630788096",
+        "location": "🚪520",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2040741237666533734",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1546,
+          "following_count": 98,
+          "like_count": 14622,
+          "listed_count": 1,
+          "media_count": 171,
+          "tweet_count": 2717
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-23T17:40:39.000Z",
+        "description": "泛性恋 3i＞4i＞1i switch偏s\n都是碎碎念 欢迎有礼貌的聊天 欢迎向我提问https://t.co/hifkM4PDAZ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/asteriaa50019",
+                "end": 66,
+                "expanded_url": "https://ngl.link/asteriaa50019",
+                "start": 43,
+                "url": "https://t.co/hifkM4PDAZ"
+              }
+            ]
+          }
+        },
+        "id": "1915098465472016386",
+        "name": "asteriaa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033052729296523264/uddre5fd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 716,
+          "following_count": 139,
+          "like_count": 4502,
+          "listed_count": 1,
+          "media_count": 131,
+          "tweet_count": 2006
+        },
+        "username": "asteriaaaa0109",
+        "verified": false
+      }
+    ]
+  }
+}

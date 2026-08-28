@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2004883520750260248",
+    "created_at": "2025-12-28T10:57:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-28T11:57:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005231684057456729"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1943313630574878721",
+          "start": 0,
+          "username": "qq1000110"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005231684057456729",
+    "in_reply_to_user_id": "1943313630574878721",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004883520750260248",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qq1000110 我复制了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2004883520750260248",
+        "created_at": "2025-12-28T10:57:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T11:57:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005231684057456729"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1943313630574878721",
+              "start": 0,
+              "username": "qq1000110"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005231684057456729",
+        "in_reply_to_user_id": "1943313630574878721",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004883520750260248",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qq1000110 我复制了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943313630574878721",
+        "conversation_id": "2004883520750260248",
+        "created_at": "2025-12-27T11:54:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T12:54:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004883520750260248"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2004883520750260248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3683,
+          "like_count": 49,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我对异性有 颜值要求 学历要求 财富要求 素质要求 情商要求 地域要求 没有为什么因为这些我都有 这是我最起码的要求 不然我找你干嘛 我来扶贫吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "🚪66",
+        "id": "2004619896630788096",
+        "location": "Hong Kong",
+        "name": "鱼虾一整碗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004620653153189888/VWgYLNYv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 13,
+          "like_count": 133,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 90
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-10T14:17:42.000Z",
+        "description": "呆萌的度过我的每一天",
+        "id": "1943313630574878721",
+        "location": "纯分享日常 给我发吊四全家 聊天请私信过🚪",
+        "name": "qq",
+        "pinned_tweet_id": "1994669212493557851",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002036504755855360/xOjMM6uB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 802,
+          "following_count": 107,
+          "like_count": 1371,
+          "listed_count": 2,
+          "media_count": 196,
+          "tweet_count": 1613
+        },
+        "username": "qq1000110",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2081367823004373500",
+    "created_at": "2026-07-26T14:02:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T15:02:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081379550303576246"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1522094329954652161",
+          "start": 0,
+          "username": "0xo_snow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081379550303576246",
+    "in_reply_to_user_id": "1522094329954652161",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081367823004373500",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0xo_snow 已经好瘦好瘦呀宝宝"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1483,
+        "media_key": "3_2081367808563462144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOKA_oxbwAAKxtb.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2081367808559210497",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOKA_owa4AEtuWu.jpg",
+        "width": 1899
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2081367823004373500",
+        "created_at": "2026-07-26T14:02:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T15:02:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081379550303576246"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1522094329954652161",
+              "start": 0,
+              "username": "0xo_snow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081379550303576246",
+        "in_reply_to_user_id": "1522094329954652161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081367823004373500",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0xo_snow 已经好瘦好瘦呀宝宝"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081367808563462144",
+            "3_2081367808559210497"
+          ]
+        },
+        "author_id": "1522094329954652161",
+        "conversation_id": "2081367823004373500",
+        "created_at": "2026-07-26T13:15:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T14:15:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081367823004373500"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TPhcKlq5nb",
+              "end": 128,
+              "expanded_url": "https://x.com/0xo_snow/status/2081367823004373500/photo/1",
+              "media_key": "3_2081367808563462144",
+              "start": 105,
+              "url": "https://t.co/TPhcKlq5nb"
+            },
+            {
+              "display_url": "pic.x.com/TPhcKlq5nb",
+              "end": 128,
+              "expanded_url": "https://x.com/0xo_snow/status/2081367823004373500/photo/1",
+              "media_key": "3_2081367808559210497",
+              "start": 105,
+              "url": "https://t.co/TPhcKlq5nb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081367823004373500",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 264,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "本来以为只要瘦到一定程度就能穿什么都可爱，实际上并不是。蓬蓬的上衣还是会显得肩膀很壮，收腰不够紧还是还是会看上去像个桶。就算假装不在意身上的肉，又忍不住嫌弃自己的骨头、比例…已经没有任何东西能救得了我的自卑了 https://t.co/TPhcKlq5nb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "＞𐋣＜🚪520（绿",
+        "id": "2004619896630788096",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2073747405099659747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2864,
+          "following_count": 83,
+          "like_count": 25282,
+          "listed_count": 2,
+          "media_count": 152,
+          "tweet_count": 4037
+        },
+        "url": "",
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-05T06:02:50.000Z",
+        "description": "=恋 🎀 ip北京 我在接线下请来找我玩\n可爱是唯一追求 ！爱好是唱歌二次元和美少女\n可以来喜欢我吗？;ㅅ;\n📪小号@rina20496141",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 58,
+                "username": "rina20496141"
+              }
+            ]
+          }
+        },
+        "id": "1522094329954652161",
+        "location": "🚪私信口令88回讯息/解锁线下",
+        "name": "🐰れん⊹",
+        "pinned_tweet_id": "2078827982949679123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017787889955098624/u0R2iAGA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18122,
+          "following_count": 426,
+          "like_count": 17545,
+          "listed_count": 35,
+          "media_count": 1449,
+          "tweet_count": 14976
+        },
+        "url": "",
+        "username": "0xo_snow",
+        "verified": true
+      }
+    ]
+  }
+}

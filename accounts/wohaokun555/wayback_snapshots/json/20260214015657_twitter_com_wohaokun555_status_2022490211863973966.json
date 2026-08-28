@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2022353963358822525",
+    "created_at": "2026-02-14T01:56:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T02:56:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022490211863973966"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1908573817980747776",
+          "start": 0,
+          "username": "chunzhenmeng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022490211863973966",
+    "in_reply_to_user_id": "1908573817980747776",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022353963358822525",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chunzhenmeng 接"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 542,
+        "media_key": "3_2022353957793009664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBDYNbBbkAAQneh.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2022353963358822525",
+        "created_at": "2026-02-14T01:56:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T02:56:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022490211863973966"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1908573817980747776",
+              "start": 0,
+              "username": "chunzhenmeng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022490211863973966",
+        "in_reply_to_user_id": "1908573817980747776",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022353963358822525",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chunzhenmeng 接"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022353957793009664"
+          ]
+        },
+        "author_id": "1908573817980747776",
+        "conversation_id": "2022353963358822525",
+        "created_at": "2026-02-13T16:55:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T17:55:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022353963358822525"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CxFBVQ8kcG",
+              "end": 34,
+              "expanded_url": "https://x.com/chunzhenmeng/status/2022353963358822525/photo/1",
+              "media_key": "3_2022353957793009664",
+              "start": 11,
+              "url": "https://t.co/CxFBVQ8kcG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022353963358822525",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 360,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我也收到情人节红包了 https://t.co/CxFBVQ8kcG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2JlN5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2JlN5"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "🚪188（纯绿纯绿（除了口令和门槛别的私信不回",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2016792238060421479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 718,
+          "following_count": 78,
+          "like_count": 7487,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 1442
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-05T17:34:03.000Z",
+        "description": "叫我梦梦 | 有事没事找我聊天呗💋🤭| 不喜欢我的请善用屏蔽🫰🏻",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnfast.top/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnfast.top/#/register?code=LNc0YvcI",
+                "start": 0,
+                "url": "https://t.co/YkJT1GSDvT"
+              }
+            ]
+          }
+        },
+        "id": "1908573817980747776",
+        "location": "哦",
+        "name": "純真夢",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908792630487773184/pEZC1Tb8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5889,
+          "following_count": 420,
+          "like_count": 7747,
+          "listed_count": 11,
+          "media_count": 104,
+          "tweet_count": 5375
+        },
+        "url": "https://t.co/YkJT1GSDvT",
+        "username": "chunzhenmeng",
+        "verified": false
+      }
+    ]
+  }
+}

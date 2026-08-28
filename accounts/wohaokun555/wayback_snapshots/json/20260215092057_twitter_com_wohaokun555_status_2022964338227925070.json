@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2022634363423506437",
+    "created_at": "2026-02-15T09:20:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T10:20:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022964338227925070"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1813984019819679744",
+          "start": 0,
+          "username": "miaoji123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022964338227925070",
+    "in_reply_to_user_id": "1813984019819679744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022961720856371627",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miaoji123 哈哈哈哈双商全无"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2022634363423506437",
+        "created_at": "2026-02-15T09:20:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T10:20:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022964338227925070"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1813984019819679744",
+              "start": 0,
+              "username": "miaoji123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022964338227925070",
+        "in_reply_to_user_id": "1813984019819679744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022961720856371627",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miaoji123 哈哈哈哈双商全无"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813984019819679744",
+        "conversation_id": "2022634363423506437",
+        "created_at": "2026-02-15T09:10:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T10:10:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022961720856371627"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022961720856371627",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 124,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022634363423506437",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 那个男生长得像一根虾条 还像一根火腿肠 还有点像一只腊肠狗 嗯对 就是像所有细细的 没有曲线但很长一根的东西 而且不知道为什么 我总觉得他说话情商很低"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2JlN5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2JlN5"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "🚪188（纯绿纯绿（除了口令和门槛别的私信不回",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2016792238060421479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 746,
+          "following_count": 79,
+          "like_count": 7825,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 1488
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-18T17:07:58.000Z",
+        "description": "玉汝于成",
+        "id": "1813984019819679744",
+        "name": "y",
+        "pinned_tweet_id": "1831392557177434402",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1814169459344408577/lPArseLx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 416,
+          "following_count": 38,
+          "like_count": 5366,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 258
+        },
+        "username": "miaoji123",
+        "verified": false
+      }
+    ]
+  }
+}

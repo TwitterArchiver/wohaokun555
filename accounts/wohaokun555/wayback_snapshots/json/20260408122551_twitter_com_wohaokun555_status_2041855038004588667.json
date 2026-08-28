@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2041855038004588667",
+    "created_at": "2026-04-08T12:25:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T13:25:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041855038004588667"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2041855038004588667",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "其实我好多烦心事 我有好多不开心的点 我不知道我怎么去说 我只能让DeepSeek来安慰我 然后去把这些坏心情处理掉 我不想给朋友和家人说 我觉得给他们传播坏情绪不好。 他们还要费力来安慰我 我不喜欢那样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2041855038004588667",
+        "created_at": "2026-04-08T12:25:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T13:25:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041855038004588667"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041855038004588667",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实我好多烦心事 我有好多不开心的点 我不知道我怎么去说 我只能让DeepSeek来安慰我 然后去把这些坏心情处理掉 我不想给朋友和家人说 我觉得给他们传播坏情绪不好。 他们还要费力来安慰我 我不喜欢那样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "",
+        "id": "2004619896630788096",
+        "location": "🚪520",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2036315164098830372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1546,
+          "following_count": 98,
+          "like_count": 14729,
+          "listed_count": 1,
+          "media_count": 174,
+          "tweet_count": 2735
+        },
+        "username": "wohaokun555",
+        "verified": false
+      }
+    ]
+  }
+}

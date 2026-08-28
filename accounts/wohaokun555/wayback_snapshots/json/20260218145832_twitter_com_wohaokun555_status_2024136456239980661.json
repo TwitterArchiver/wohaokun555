@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2024078643740233975",
+    "created_at": "2026-02-18T14:58:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T15:58:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024136456239980661"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1948753501078609920",
+          "start": 0,
+          "username": "Yujiwonuo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024136456239980661",
+    "in_reply_to_user_id": "1948753501078609920",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024136196239044968",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yujiwonuo 嘿嘿！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2024078643740233975",
+        "created_at": "2026-02-18T14:58:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T15:58:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024136456239980661"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1948753501078609920",
+              "start": 0,
+              "username": "Yujiwonuo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024136456239980661",
+        "in_reply_to_user_id": "1948753501078609920",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024136196239044968",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yujiwonuo 嘿嘿！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948753501078609920",
+        "conversation_id": "2024078643740233975",
+        "created_at": "2026-02-18T14:57:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T15:57:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024136196239044968"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024136196239044968",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024078643740233975",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 好可爱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2INXx",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2INXx"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "🚪（纯绿纯绿（除了口令和门槛别的私信不回",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2016792238060421479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 880,
+          "following_count": 84,
+          "like_count": 8542,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 1595
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-25T14:33:43.000Z",
+        "description": "",
+        "id": "1948753501078609920",
+        "location": "Osaka-fu, Japan",
+        "name": "艾斯卡诺",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024061743191015424/Nq4xgOkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 73,
+          "like_count": 49,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 34
+        },
+        "username": "Yujiwonuo",
+        "verified": false
+      }
+    ]
+  }
+}

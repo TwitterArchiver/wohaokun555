@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2005922539416215554"
+      ]
+    },
+    "author_id": "2004619896630788096",
+    "conversation_id": "2005922549348360528",
+    "created_at": "2025-12-30T08:42:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-30T09:42:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2005922549348360528"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/jvr1pAZEiO",
+          "end": 56,
+          "expanded_url": "https://x.com/wohaokun555/status/2005922549348360528/photo/1",
+          "media_key": "3_2005922539416215554",
+          "start": 33,
+          "url": "https://t.co/jvr1pAZEiO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005922549348360528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "啥叫我没理你就是不喜欢你 你没玩过galagame吗 这叫傲娇系 https://t.co/jvr1pAZEiO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2005922539416215554",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9Z36_jaYAIMizC.jpg",
+        "width": 572
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2005922539416215554"
+          ]
+        },
+        "author_id": "2004619896630788096",
+        "conversation_id": "2005922549348360528",
+        "created_at": "2025-12-30T08:42:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T09:42:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005922549348360528"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jvr1pAZEiO",
+              "end": 56,
+              "expanded_url": "https://x.com/wohaokun555/status/2005922549348360528/photo/1",
+              "media_key": "3_2005922539416215554",
+              "start": 33,
+              "url": "https://t.co/jvr1pAZEiO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005922549348360528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "啥叫我没理你就是不喜欢你 你没玩过galagame吗 这叫傲娇系 https://t.co/jvr1pAZEiO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "我会尽量给大家传播积极情绪的！泥萌都要天天开心哦！(o^^o)   🚪66",
+        "id": "2004619896630788096",
+        "location": "Hong Kong",
+        "name": "鱼虾一整碗",
+        "pinned_tweet_id": "2005582001685012508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004620653153189888/VWgYLNYv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 25,
+          "like_count": 345,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 184
+        },
+        "username": "wohaokun555",
+        "verified": false
+      }
+    ]
+  }
+}

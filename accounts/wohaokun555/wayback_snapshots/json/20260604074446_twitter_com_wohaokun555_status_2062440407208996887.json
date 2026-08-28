@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2062438283783844234",
+    "created_at": "2026-06-04T07:44:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T08:44:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062440407208996887"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "91211654",
+          "start": 0,
+          "username": "Cocoa_0v0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062440407208996887",
+    "in_reply_to_user_id": "91211654",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062438283783844234",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cocoa_0v0 p2好臭屁的样子 我亲亲"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2062438283783844234].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2062438283783844234",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2062438283783844234"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2062438283783844234",
+        "created_at": "2026-06-04T07:44:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T08:44:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062440407208996887"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "91211654",
+              "start": 0,
+              "username": "Cocoa_0v0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062440407208996887",
+        "in_reply_to_user_id": "91211654",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062438283783844234",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cocoa_0v0 p2好臭屁的样子 我亲亲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "🚪（520",
+        "id": "2004619896630788096",
+        "location": "口令➕姓",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2036315164098830372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2215,
+          "following_count": 79,
+          "like_count": 21227,
+          "listed_count": 2,
+          "media_count": 137,
+          "tweet_count": 3348
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2009-11-19T22:44:29.000Z",
+        "description": "Bear both love and hate in mind.",
+        "id": "91211654",
+        "name": "Cocoa_beans",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 53,
+          "like_count": 149,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 267
+        },
+        "username": "Cocoa_0v0",
+        "verified": false
+      }
+    ]
+  }
+}

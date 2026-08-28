@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2061809377410216104",
+    "created_at": "2026-06-02T13:57:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T14:57:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061809529453707277"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1632079685436727299",
+          "start": 0,
+          "username": "xxNANAml"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061809529453707277",
+    "in_reply_to_user_id": "1632079685436727299",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061809453272629509",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xxNANAml 🤦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2061809377410216104",
+        "created_at": "2026-06-02T13:57:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T14:57:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061809529453707277"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1632079685436727299",
+              "start": 0,
+              "username": "xxNANAml"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061809529453707277",
+        "in_reply_to_user_id": "1632079685436727299",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061809453272629509",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xxNANAml 🤦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1632079685436727299",
+        "conversation_id": "2061809377410216104",
+        "created_at": "2026-06-02T13:57:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T14:57:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061809453272629509"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061809453272629509",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061809377410216104",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 鲁国的纸..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "🚪（520",
+        "id": "2004619896630788096",
+        "location": "口令➕姓",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2060575687279567255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2180,
+          "following_count": 79,
+          "like_count": 20988,
+          "listed_count": 2,
+          "media_count": 135,
+          "tweet_count": 3320
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-04T18:05:03.000Z",
+        "description": "自是人生长恨水长东",
+        "id": "1632079685436727299",
+        "name": "王锦",
+        "pinned_tweet_id": "2061157295976022324",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059561525682286592/nx12v6TQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3096,
+          "following_count": 203,
+          "like_count": 31451,
+          "listed_count": 8,
+          "media_count": 491,
+          "tweet_count": 6452
+        },
+        "username": "xxNANAml",
+        "verified": false
+      }
+    ]
+  }
+}

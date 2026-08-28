@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2015461408595730680",
+    "created_at": "2026-01-25T16:59:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-25T17:59:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015469605163336114"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1522094329954652161",
+          "start": 0,
+          "username": "0xo_snow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015469605163336114",
+    "in_reply_to_user_id": "1522094329954652161",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015461408595730680",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0xo_snow 完全符合文案"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2015461399535960065",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_hbdunaQAEH6SO.jpg",
+        "width": 1332
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2015461408595730680",
+        "created_at": "2026-01-25T16:59:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T17:59:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015469605163336114"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1522094329954652161",
+              "start": 0,
+              "username": "0xo_snow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015469605163336114",
+        "in_reply_to_user_id": "1522094329954652161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015461408595730680",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0xo_snow 完全符合文案"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015461399535960065"
+          ]
+        },
+        "author_id": "1522094329954652161",
+        "conversation_id": "2015461408595730680",
+        "created_at": "2026-01-25T16:26:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T17:26:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015461408595730680"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qWNp0oeCwQ",
+              "end": 29,
+              "expanded_url": "https://x.com/0xo_snow/status/2015461408595730680/photo/1",
+              "media_key": "3_2015461399535960065",
+              "start": 6,
+              "url": "https://t.co/qWNp0oeCwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015461408595730680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 123,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "暗夜大小姐 https://t.co/qWNp0oeCwQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "",
+        "id": "2004619896630788096",
+        "location": "🤔",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2007765884035813533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014313058978406400/yLC08oHO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 455,
+          "following_count": 69,
+          "like_count": 3041,
+          "listed_count": 1,
+          "media_count": 50,
+          "tweet_count": 835
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-05T06:02:50.000Z",
+        "description": "=恋 🎀萌即为正义&美少女全肯定bot‼️🩶主页基本为唱歌自拍碎碎念//喜欢一切有礼貌的人//ip北京接线下中…",
+        "id": "1522094329954652161",
+        "location": "🚪88r回信息/线下 纯绿166/h",
+        "name": "🐰れん⊹",
+        "pinned_tweet_id": "2015461408595730680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008220155432857601/hiAEJNwb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18709,
+          "following_count": 406,
+          "like_count": 14359,
+          "listed_count": 33,
+          "media_count": 1101,
+          "tweet_count": 11857
+        },
+        "username": "0xo_snow",
+        "verified": true
+      }
+    ]
+  }
+}

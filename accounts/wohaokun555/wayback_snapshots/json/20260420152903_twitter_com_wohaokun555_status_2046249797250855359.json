@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2046246472791032172",
+    "created_at": "2026-04-20T15:29:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T16:29:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046249797250855359"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2012867571113242624",
+          "start": 0,
+          "username": "UwUwU0U"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046249797250855359",
+    "in_reply_to_user_id": "2012867571113242624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046247624534262128",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@UwUwU0U 没事就是有点小委屈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2046246472791032172",
+        "created_at": "2026-04-20T15:29:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T16:29:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046249797250855359"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2012867571113242624",
+              "start": 0,
+              "username": "UwUwU0U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046249797250855359",
+        "in_reply_to_user_id": "2012867571113242624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046247624534262128",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@UwUwU0U 没事就是有点小委屈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012867571113242624",
+        "conversation_id": "2046246472791032172",
+        "created_at": "2026-04-20T15:20:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T16:20:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046247624534262128"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046247624534262128",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046246472791032172",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 宝宝你没事吧！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "",
+        "id": "2004619896630788096",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2036315164098830372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1920,
+          "following_count": 99,
+          "like_count": 16029,
+          "listed_count": 1,
+          "media_count": 191,
+          "tweet_count": 2916
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-18T12:40:07.000Z",
+        "description": "有🚪 神秘人小号 我妈妈@catuuxu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 12,
+                "username": "catuuxu"
+              }
+            ]
+          }
+        },
+        "id": "2012867571113242624",
+        "location": "距离你2.8km",
+        "name": "7ne",
+        "pinned_tweet_id": "2045353938468352356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013193193815216128/smRjz562_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 229,
+          "following_count": 13,
+          "like_count": 95,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 126
+        },
+        "username": "UwUwU0U",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2005645036348932330",
+    "created_at": "2025-12-29T14:20:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-29T15:20:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005645108260340005"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2005645108260340005",
+    "in_reply_to_user_id": "2004619896630788096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005645036348932330",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我等会就删掉🥹你们快看！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2005645024932052992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9V7hhiawAAx03g.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2005645036348932330",
+        "created_at": "2025-12-29T14:20:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-29T15:20:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005645108260340005"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2005645108260340005",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005645036348932330",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我等会就删掉🥹你们快看！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2005645024932052992"
+          ]
+        },
+        "author_id": "2004619896630788096",
+        "conversation_id": "2005645036348932330",
+        "created_at": "2025-12-29T14:20:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-29T15:20:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005645036348932330"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Dp4rnMj21e",
+              "end": 25,
+              "expanded_url": "https://x.com/wohaokun555/status/2005645036348932330/photo/1",
+              "media_key": "3_2005645024932052992",
+              "start": 2,
+              "url": "https://t.co/Dp4rnMj21e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005645036348932330",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🤳 https://t.co/Dp4rnMj21e"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "🚪66",
+        "id": "2004619896630788096",
+        "location": "Hong Kong",
+        "name": "鱼虾一整碗",
+        "pinned_tweet_id": "2005582001685012508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004620653153189888/VWgYLNYv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 27,
+          "like_count": 230,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 149
+        },
+        "username": "wohaokun555",
+        "verified": false
+      }
+    ]
+  }
+}

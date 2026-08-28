@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2064589862783562205",
+    "created_at": "2026-06-11T01:19:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T02:19:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064880059337597176"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2044742039036919808",
+          "start": 0,
+          "username": "hhcjxx112233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064880059337597176",
+    "in_reply_to_user_id": "2044742039036919808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064589862783562205",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hhcjxx112233 这也能信…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2064589839463251968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKblhTQWgAARWbo.jpg",
+        "width": 471
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2064589839459119104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKblhTPXcAAKNaa.jpg",
+        "width": 471
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2064589839459115008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKblhTPXYAAXMiL.jpg",
+        "width": 471
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2064589862783562205",
+        "created_at": "2026-06-11T01:19:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T02:19:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064880059337597176"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2044742039036919808",
+              "start": 0,
+              "username": "hhcjxx112233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064880059337597176",
+        "in_reply_to_user_id": "2044742039036919808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064589862783562205",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hhcjxx112233 这也能信…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064589839463251968",
+            "3_2064589839459119104",
+            "3_2064589839459115008"
+          ]
+        },
+        "author_id": "2044742039036919808",
+        "conversation_id": "2064589862783562205",
+        "created_at": "2026-06-10T06:05:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T07:05:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064589862783562205"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0XRFoidWD9",
+              "end": 51,
+              "expanded_url": "https://x.com/hhcjxx112233/status/2064589862783562205/photo/1",
+              "media_key": "3_2064589839463251968",
+              "start": 28,
+              "url": "https://t.co/0XRFoidWD9"
+            },
+            {
+              "display_url": "pic.x.com/0XRFoidWD9",
+              "end": 51,
+              "expanded_url": "https://x.com/hhcjxx112233/status/2064589862783562205/photo/1",
+              "media_key": "3_2064589839459119104",
+              "start": 28,
+              "url": "https://t.co/0XRFoidWD9"
+            },
+            {
+              "display_url": "pic.x.com/0XRFoidWD9",
+              "end": 51,
+              "expanded_url": "https://x.com/hhcjxx112233/status/2064589862783562205/photo/1",
+              "media_key": "3_2064589839459115008",
+              "start": 28,
+              "url": "https://t.co/0XRFoidWD9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064589862783562205",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 37,
+          "impression_count": 485086,
+          "like_count": 207,
+          "quote_count": 5,
+          "reply_count": 633,
+          "retweet_count": 37
+        },
+        "reply_settings": "everyone",
+        "text": "曝光骗🚪姐  说好的 付款了然后直接拉黑删除 投稿+5 https://t.co/0XRFoidWD9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "",
+        "id": "2004619896630788096",
+        "location": "私信只回口令过门 其他勿扰…",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2062769965330227585",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2277,
+          "following_count": 77,
+          "like_count": 21759,
+          "listed_count": 2,
+          "media_count": 145,
+          "tweet_count": 3465
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-16T11:38:33.000Z",
+        "description": "此号专注帮新人辨识骗子，皮下男。我回复抽象是为了积累素材。模拟新人第一次玩推，因为我也吃过亏。不想让兄弟们再吃一次亏。推荐关注",
+        "id": "2044742039036919808",
+        "name": "hhcj",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044742707365703680/uha-RE2P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 746,
+          "following_count": 17,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 38
+        },
+        "username": "hhcjxx112233",
+        "verified": false
+      }
+    ]
+  }
+}

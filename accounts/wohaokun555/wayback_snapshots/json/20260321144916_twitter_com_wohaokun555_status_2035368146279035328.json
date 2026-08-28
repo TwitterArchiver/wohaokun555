@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2031907035131093067",
+    "created_at": "2026-03-21T14:49:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-21T15:49:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035368146279035328"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1677942343662723073",
+          "start": 0,
+          "username": "huahua_Bob"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035368146279035328",
+    "in_reply_to_user_id": "1677942343662723073",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035367401467084906",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huahua_Bob 他老被我踢走"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2031907035131093067",
+        "created_at": "2026-03-21T14:49:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T15:49:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035368146279035328"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1677942343662723073",
+              "start": 0,
+              "username": "huahua_Bob"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035368146279035328",
+        "in_reply_to_user_id": "1677942343662723073",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035367401467084906",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huahua_Bob 他老被我踢走"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1677942343662723073",
+        "conversation_id": "2031907035131093067",
+        "created_at": "2026-03-21T14:46:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T15:46:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035367401467084906"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035367401467084906",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031907035131093067",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 要拿脚背最硬的脚背颠"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "🚪（好友位\n你们天天开心呀",
+        "id": "2004619896630788096",
+        "location": "三体",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2008543541979738501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1342,
+          "following_count": 99,
+          "like_count": 12357,
+          "listed_count": 1,
+          "media_count": 106,
+          "tweet_count": 2259
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-09T07:26:55.000Z",
+        "description": "数院研一 吐槽 & 碎碎念",
+        "id": "1677942343662723073",
+        "location": "上海",
+        "name": "huahua",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035043942560145408/b5JLoPpl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 35,
+          "like_count": 83,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 40
+        },
+        "username": "huahua_Bob",
+        "verified": false
+      }
+    ]
+  }
+}

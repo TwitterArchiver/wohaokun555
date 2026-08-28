@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2058872790992945609",
+    "created_at": "2026-05-25T15:26:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T16:26:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058932823869067589"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1903994645304283136",
+          "start": 0,
+          "username": "dandandanm12"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058932823869067589",
+    "in_reply_to_user_id": "1903994645304283136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058872790992945609",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dandandanm12 卧槽…好恶心啊啊啊啊啊啊我真要吐了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 413,
+        "media_key": "3_2058872780523962368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJKV4rDaAAACFCO.jpg",
+        "width": 670
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2058872790992945609",
+        "created_at": "2026-05-25T15:26:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T16:26:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058932823869067589"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1903994645304283136",
+              "start": 0,
+              "username": "dandandanm12"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058932823869067589",
+        "in_reply_to_user_id": "1903994645304283136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058872790992945609",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dandandanm12 卧槽…好恶心啊啊啊啊啊啊我真要吐了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058872780523962368"
+          ]
+        },
+        "author_id": "1903994645304283136",
+        "conversation_id": "2058872790992945609",
+        "created_at": "2026-05-25T11:28:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T12:28:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058872790992945609"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uJmeUquWjl",
+              "end": 67,
+              "expanded_url": "https://x.com/dandandanm12/status/2058872790992945609/photo/1",
+              "media_key": "3_2058872780523962368",
+              "start": 44,
+              "url": "https://t.co/uJmeUquWjl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058872790992945609",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2365,
+          "like_count": 137,
+          "quote_count": 0,
+          "reply_count": 19,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我管你们什么粉籍什么立场拿女艺人小时候照片，用素媛案玩这种梗，你们全家族谱飞升畜生道了 https://t.co/uJmeUquWjl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "🚪（纯绿 不入勿扰\n@lei_meng123 随缘过",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 10,
+                "username": "lei_meng123"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2036315164098830372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2060,
+          "following_count": 78,
+          "like_count": 19941,
+          "listed_count": 1,
+          "media_count": 244,
+          "tweet_count": 3292
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-24T02:18:02.000Z",
+        "description": "中文特供版希尔顿前拎包小妹 Kanye前妻 skims主理人 哈佛大学法学生 亿万富翁 小西北妈妈",
+        "id": "1903994645304283136",
+        "name": "小西北妈妈",
+        "pinned_tweet_id": "2030852243965333929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043307613493018625/2n1nwJDR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 6,
+          "like_count": 252,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 203
+        },
+        "username": "dandandanm12",
+        "verified": false
+      }
+    ]
+  }
+}

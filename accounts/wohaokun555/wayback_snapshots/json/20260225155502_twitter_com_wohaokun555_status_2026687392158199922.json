@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2026684799369490670",
+    "created_at": "2026-02-25T15:55:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T16:55:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026687392158199922"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1750564848096731136",
+          "start": 0,
+          "username": "yydwzzz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026687392158199922",
+    "in_reply_to_user_id": "1750564848096731136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026684799369490670",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yydwzzz 🫘里一堆傻逼 真是显着了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 509,
+        "media_key": "3_2026684790230102021",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCA7FDFaMAUmVwU.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2026684799369490670",
+        "created_at": "2026-02-25T15:55:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T16:55:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026687392158199922"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1750564848096731136",
+              "start": 0,
+              "username": "yydwzzz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026687392158199922",
+        "in_reply_to_user_id": "1750564848096731136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026684799369490670",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yydwzzz 🫘里一堆傻逼 真是显着了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026684790230102021"
+          ]
+        },
+        "author_id": "1750564848096731136",
+        "conversation_id": "2026684799369490670",
+        "created_at": "2026-02-25T15:44:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T16:44:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026684799369490670"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HdeQtqKXoB",
+              "end": 48,
+              "expanded_url": "https://x.com/yydwzzz/status/2026684799369490670/photo/1",
+              "media_key": "3_2026684790230102021",
+              "start": 25,
+              "url": "https://t.co/HdeQtqKXoB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026684799369490670",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 97,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这种人有病是不是😅显着你了，再说了我又不是黄推😅 https://t.co/HdeQtqKXoB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2JlN5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2JlN5"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "除了口令和正常问题别的私信不回",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2016792238060421479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 923,
+          "following_count": 96,
+          "like_count": 9450,
+          "listed_count": 0,
+          "media_count": 92,
+          "tweet_count": 1750
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-25T17:02:44.000Z",
+        "description": "🚪88 防骚扰",
+        "id": "1750564848096731136",
+        "location": "Changsha",
+        "name": "阿比",
+        "pinned_tweet_id": "2020996566312800412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022917754865750018/xaQJONz3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5452,
+          "following_count": 44,
+          "like_count": 316,
+          "listed_count": 8,
+          "media_count": 83,
+          "tweet_count": 1281
+        },
+        "username": "yydwzzz",
+        "verified": false
+      }
+    ]
+  }
+}

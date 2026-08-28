@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2021598508847915298",
+    "created_at": "2026-02-12T05:50:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T06:50:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021824084720685551"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1820434955358642176",
+          "start": 0,
+          "username": "xiazhilong123"
+        },
+        {
+          "end": 28,
+          "id": "1856170326134272001",
+          "start": 15,
+          "username": "ci_chen58502"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021824084720685551",
+    "in_reply_to_user_id": "1820434955358642176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021823545874198879",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiazhilong123 @ci_chen58502 现实生活有人理你没？🤣😹😂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2021598508847915298",
+        "created_at": "2026-02-12T05:50:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T06:50:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021824084720685551"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1820434955358642176",
+              "start": 0,
+              "username": "xiazhilong123"
+            },
+            {
+              "end": 28,
+              "id": "1856170326134272001",
+              "start": 15,
+              "username": "ci_chen58502"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021824084720685551",
+        "in_reply_to_user_id": "1820434955358642176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021823545874198879",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiazhilong123 @ci_chen58502 现实生活有人理你没？🤣😹😂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820434955358642176",
+        "conversation_id": "2021598508847915298",
+        "created_at": "2026-02-12T05:47:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T06:47:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021823545874198879"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1856170326134272001",
+              "start": 0,
+              "username": "ci_chen58502"
+            },
+            {
+              "end": 26,
+              "id": "2004619896630788096",
+              "start": 14,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021823545874198879",
+        "in_reply_to_user_id": "1856170326134272001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021813806738157974",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ci_chen58502 @wohaokun555 188，这种货色也配188？现实我都不看一眼的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2JlN5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2JlN5"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "🚪188（纯绿纯绿纯绿纯绿（别的私信不回",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2019333252520321256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014313058978406400/yLC08oHO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 676,
+          "following_count": 76,
+          "like_count": 6920,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 1310
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-05T12:22:01.000Z",
+        "description": "只骂恶心的人，只说真实的话。",
+        "id": "1820434955358642176",
+        "name": "zhilong",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999766680374050816/_AF5euoy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 32,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 47
+        },
+        "username": "xiazhilong123",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-12T03:01:42.000Z",
+        "description": "",
+        "id": "1856170326134272001",
+        "name": "难遇",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965987685388136448/drx4b26y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 23,
+          "like_count": 18,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 68
+        },
+        "username": "ci_chen58502",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2039332557456912384"
+      ]
+    },
+    "author_id": "2004619896630788096",
+    "conversation_id": "2039332567036682371",
+    "created_at": "2026-04-01T13:22:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T14:22:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039332567036682371"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/QmE4QlU6aF",
+          "end": 32,
+          "expanded_url": "https://x.com/wohaokun555/status/2039332567036682371/photo/1",
+          "media_key": "3_2039332557456912384",
+          "start": 9,
+          "url": "https://t.co/QmE4QlU6aF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039332567036682371",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我喜欢带一堆手链 https://t.co/QmE4QlU6aF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2039332557456912384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE0qJ_obsAAYhuf.jpg",
+        "width": 1734
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039332557456912384"
+          ]
+        },
+        "author_id": "2004619896630788096",
+        "conversation_id": "2039332567036682371",
+        "created_at": "2026-04-01T13:22:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T14:22:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039332567036682371"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QmE4QlU6aF",
+              "end": 32,
+              "expanded_url": "https://x.com/wohaokun555/status/2039332567036682371/photo/1",
+              "media_key": "3_2039332557456912384",
+              "start": 9,
+              "url": "https://t.co/QmE4QlU6aF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039332567036682371",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我喜欢带一堆手链 https://t.co/QmE4QlU6aF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "",
+        "id": "2004619896630788096",
+        "location": "🚪520",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2007765884035813533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1489,
+          "following_count": 103,
+          "like_count": 13820,
+          "listed_count": 1,
+          "media_count": 148,
+          "tweet_count": 2532
+        },
+        "username": "wohaokun555",
+        "verified": false
+      }
+    ]
+  }
+}

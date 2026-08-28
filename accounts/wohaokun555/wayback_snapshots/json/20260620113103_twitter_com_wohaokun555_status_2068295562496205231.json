@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2068039985002111019",
+    "created_at": "2026-06-20T11:31:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T12:31:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068295562496205231"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1901287406919360512",
+          "start": 0,
+          "username": "4ever_keep_move"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068295562496205231",
+    "in_reply_to_user_id": "1901287406919360512",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068039985002111019",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@4ever_keep_move 我服了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2068039985002111019",
+        "created_at": "2026-06-20T11:31:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T12:31:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068295562496205231"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1901287406919360512",
+              "start": 0,
+              "username": "4ever_keep_move"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068295562496205231",
+        "in_reply_to_user_id": "1901287406919360512",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068039985002111019",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@4ever_keep_move 我服了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1901287406919360512",
+        "conversation_id": "2068039985002111019",
+        "created_at": "2026-06-19T18:35:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T19:35:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068039985002111019"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068039985002111019",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3526,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么盗图。还我的麦当劳。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "🌍",
+        "id": "2004619896630788096",
+        "location": "置顶是广告 非本人 请自辨",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2067618656885125585",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2444,
+          "following_count": 79,
+          "like_count": 22630,
+          "listed_count": 2,
+          "media_count": 134,
+          "tweet_count": 3613
+        },
+        "url": "",
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-16T15:00:26.000Z",
+        "description": "朋友圈丨05 直男 男同放过我谢谢",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%AA%9D%E5%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%AA%9D%E5%94%89%E8%82%A0%E7%B2%89",
+                "start": 0,
+                "url": "https://t.co/W4kfcgBEBv"
+              }
+            ]
+          }
+        },
+        "id": "1901287406919360512",
+        "name": "Nam_",
+        "pinned_tweet_id": "1980821798678937639",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048123461718130688/QXFGUnsE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2223,
+          "following_count": 301,
+          "like_count": 26297,
+          "listed_count": 4,
+          "media_count": 280,
+          "tweet_count": 6699
+        },
+        "url": "https://t.co/W4kfcgBEBv",
+        "username": "4ever_keep_move",
+        "verified": false
+      }
+    ]
+  }
+}

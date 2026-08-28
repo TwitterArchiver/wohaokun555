@@ -1,0 +1,374 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2006239591536488916",
+    "created_at": "2025-12-31T05:42:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-31T06:42:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2006239591536488916"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ijubngqln13855…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/ijubngqln13855/status/1911085141830869488",
+          "start": 15,
+          "url": "https://t.co/VOEPKyJ0ys"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006239591536488916",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1911085141830869488",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "符合所有xp…我好喜欢这个！ https://t.co/VOEPKyJ0ys"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 139100,
+        "height": 714,
+        "media_key": "7_1911084674568359936",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1911084674568359936/pu/img/QbvYyHaj4bQzlS6R.jpg",
+        "public_metrics": {
+          "view_count": 1389513
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1911084674568359936/pu/vid/avc1/484x270/HVbtlFVkOT-ilbEb.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1911084674568359936/pu/vid/avc1/644x360/yRPduF25yfSAHz6e.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1911084674568359936/pu/vid/avc1/1280x714/j9ANPgvbQPADulI4.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1911084674568359936/pu/pl/540nbFPRTT6AVKRx.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "duration_ms": 139466,
+        "height": 714,
+        "media_key": "7_1911084674467700736",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1911084674467700736/pu/img/PK-FlGzPiYsCUoQi.jpg",
+        "public_metrics": {
+          "view_count": 297947
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1911084674467700736/pu/vid/avc1/484x270/P1eTV3S4hPj1GLf4.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1911084674467700736/pu/vid/avc1/644x360/6kC2lG5vRCuvFgxv.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1911084674467700736/pu/vid/avc1/1280x714/TkaeXOZi_e9huVNm.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1911084674467700736/pu/pl/tGPcwrDwEeNG52ot.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "duration_ms": 139866,
+        "height": 714,
+        "media_key": "7_1911084674476085248",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1911084674476085248/pu/img/ipTt9vVaLPWAJ9-h.jpg",
+        "public_metrics": {
+          "view_count": 232740
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1911084674476085248/pu/vid/avc1/484x270/i_K5Lgs372oMLiRH.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1911084674476085248/pu/vid/avc1/644x360/wXWpCsC5FNQmd2tE.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1911084674476085248/pu/vid/avc1/1280x714/JUa7KlqdA3-j5GnT.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1911084674476085248/pu/pl/PG-thqIwsnSTOolO.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "duration_ms": 138266,
+        "height": 714,
+        "media_key": "7_1911084674459303936",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1911084674459303936/pu/img/6nyadNxChgm442W9.jpg",
+        "public_metrics": {
+          "view_count": 278386
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1911084674459303936/pu/vid/avc1/484x270/TfMzzOqlk-tKfs_e.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1911084674459303936/pu/vid/avc1/644x360/7nlpyYPUggdaAArH.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1911084674459303936/pu/vid/avc1/1280x714/fNy5BbNzyF9novyf.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1911084674459303936/pu/pl/XijLASlP9LOfcqIo.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2006239591536488916",
+        "created_at": "2025-12-31T05:42:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T06:42:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006239591536488916"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ijubngqln13855…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/ijubngqln13855/status/1911085141830869488",
+              "start": 15,
+              "url": "https://t.co/VOEPKyJ0ys"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006239591536488916",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1911085141830869488",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "符合所有xp…我好喜欢这个！ https://t.co/VOEPKyJ0ys"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1911084674568359936",
+            "7_1911084674467700736",
+            "7_1911084674476085248",
+            "7_1911084674459303936"
+          ]
+        },
+        "author_id": "1656291807674896384",
+        "conversation_id": "1911085141830869488",
+        "created_at": "2025-04-12T15:52:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-12T16:52:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1911085141830869488"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tKhdUlTBEc",
+              "end": 188,
+              "expanded_url": "https://x.com/ijubngqln13855/status/1911085141830869488/video/1",
+              "media_key": "7_1911084674568359936",
+              "start": 165,
+              "url": "https://t.co/tKhdUlTBEc"
+            },
+            {
+              "display_url": "pic.x.com/tKhdUlTBEc",
+              "end": 188,
+              "expanded_url": "https://x.com/ijubngqln13855/status/1911085141830869488/video/1",
+              "media_key": "7_1911084674467700736",
+              "start": 165,
+              "url": "https://t.co/tKhdUlTBEc"
+            },
+            {
+              "display_url": "pic.x.com/tKhdUlTBEc",
+              "end": 188,
+              "expanded_url": "https://x.com/ijubngqln13855/status/1911085141830869488/video/1",
+              "media_key": "7_1911084674476085248",
+              "start": 165,
+              "url": "https://t.co/tKhdUlTBEc"
+            },
+            {
+              "display_url": "pic.x.com/tKhdUlTBEc",
+              "end": 188,
+              "expanded_url": "https://x.com/ijubngqln13855/status/1911085141830869488/video/1",
+              "media_key": "7_1911084674459303936",
+              "start": 165,
+              "url": "https://t.co/tKhdUlTBEc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911085141830869488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 7783,
+          "impression_count": 4083019,
+          "like_count": 15982,
+          "quote_count": 63,
+          "reply_count": 178,
+          "retweet_count": 1050
+        },
+        "reply_settings": "everyone",
+        "text": "👉🏻👈🏻\n不知道这算不算女性向\n\n车牌号：HUNBL-119 \n\n因为内容尺度很大 主要是给辅导老师下💊 do爱\n\n第一对 失野慎二 太持久了 \n\n我的王母娘娘啊🥵🥵🥵\n\n看的m属性大爆发 ！\n冷白皮的腹肌 一直猛do 一直扇屁屁🥵\n\n看的人火热🔥\n\n排雷：内含强制🐍嘴巴里 \n对于这类不喜欢的宝宝 可以不看哦 \n怕你们接受不了 https://t.co/tKhdUlTBEc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "天天开心o^^o",
+        "id": "2004619896630788096",
+        "location": "三体星球",
+        "name": "鱼虾一整碗",
+        "pinned_tweet_id": "2005582001685012508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004620653153189888/VWgYLNYv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 30,
+          "like_count": 470,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 238
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-10T13:35:27.000Z",
+        "description": "不接推广｜女宝集合地｜爱推女性向｜希望能和宝宝们成为电子好朋友👭🫶🏻🩵｜分享的基本都有🔗小号🫶🏻@xwbzh5555‼️‼️禁止贩卖🔗｜只有这一个平台，无其他账号！！！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 48,
+                "username": "xwbzh5555"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ip.harmonylink.net/share/g6r8g3",
+                "end": 23,
+                "expanded_url": "http://ip.harmonylink.net/share/g6r8g3",
+                "start": 0,
+                "url": "https://t.co/430qcOTVZA"
+              }
+            ]
+          }
+        },
+        "id": "1656291807674896384",
+        "location": "自用vpn 👇🏻（我自己用了好久了，看个人需求使用）",
+        "name": "爱嚼冰淇淋🍦",
+        "pinned_tweet_id": "1838532188926808080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827588466437238784/iQ3x51NQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 967311,
+          "following_count": 4,
+          "like_count": 837,
+          "listed_count": 1345,
+          "media_count": 548,
+          "tweet_count": 2703
+        },
+        "url": "https://t.co/430qcOTVZA",
+        "username": "ijubngqln13855",
+        "verified": true
+      }
+    ]
+  }
+}

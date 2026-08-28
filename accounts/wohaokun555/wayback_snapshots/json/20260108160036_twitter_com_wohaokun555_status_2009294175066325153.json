@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2008969143232639312",
+    "created_at": "2026-01-08T16:00:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-08T17:00:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009294175066325153"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1543058207861420033",
+          "start": 0,
+          "username": "Fo25636908F"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009294175066325153",
+    "in_reply_to_user_id": "1543058207861420033",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008969143232639312",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fo25636908F 下水道蚂蚁"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8533,
+        "height": 1280,
+        "media_key": "13_2008968880606281728",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2008968880606281728/img/VQDN7TPHhMTaHDce.jpg",
+        "public_metrics": {
+          "view_count": 2028
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2008968880606281728/vid/avc1/320x568/JwLt-77pa9nRu71h.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2008968880606281728/vid/avc1/480x852/wWqddNt5OoW-x0cr.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2008968880606281728/vid/avc1/720x1280/fXtyh9D5MCMbtl1m.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2008968880606281728/pl/8kd21SMA0_FAY-ho.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2008969143232639312",
+        "created_at": "2026-01-08T16:00:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T17:00:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009294175066325153"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1543058207861420033",
+              "start": 0,
+              "username": "Fo25636908F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009294175066325153",
+        "in_reply_to_user_id": "1543058207861420033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008969143232639312",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fo25636908F 下水道蚂蚁"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2008968880606281728"
+          ]
+        },
+        "author_id": "1543058207861420033",
+        "conversation_id": "2008969143232639312",
+        "created_at": "2026-01-07T18:29:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T19:29:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008969143232639312"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 28,
+              "tag": "男高"
+            },
+            {
+              "end": 35,
+              "start": 32,
+              "tag": "男大"
+            },
+            {
+              "end": 39,
+              "start": 36,
+              "tag": "反差"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/knmCnGqnGV",
+              "end": 63,
+              "expanded_url": "https://x.com/Fo25636908F/status/2008969143232639312/video/1",
+              "media_key": "13_2008968880606281728",
+              "start": 40,
+              "url": "https://t.co/knmCnGqnGV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008969143232639312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 9656,
+          "like_count": 186,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "广东不仅有藏在犄角旮旯里的蟑螂，还有在蜷缩在下水道的我##男高 #男大 #反差 https://t.co/knmCnGqnGV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "天天开心o^^o",
+        "id": "2004619896630788096",
+        "location": "三体星球",
+        "name": "鱼虾一整碗",
+        "pinned_tweet_id": "2007765884035813533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004620653153189888/VWgYLNYv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 55,
+          "like_count": 1681,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 563
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-02T02:25:47.000Z",
+        "description": "04直男",
+        "id": "1543058207861420033",
+        "name": "fo",
+        "pinned_tweet_id": "1617510610828431364",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1592123238921953280/aawAFlqt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 528,
+          "following_count": 100,
+          "like_count": 1016,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 128
+        },
+        "username": "Fo25636908F",
+        "verified": false
+      }
+    ]
+  }
+}

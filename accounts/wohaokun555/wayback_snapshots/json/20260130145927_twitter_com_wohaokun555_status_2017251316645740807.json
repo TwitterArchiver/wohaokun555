@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2017154717072375855",
+    "created_at": "2026-01-30T14:59:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T15:59:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017251316645740807"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1679628700399341570",
+          "start": 0,
+          "username": "RillaD261140"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017251316645740807",
+    "in_reply_to_user_id": "1679628700399341570",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017250765807722989",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RillaD261140 啥东西"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2017154717072375855",
+        "created_at": "2026-01-30T14:59:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T15:59:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017251316645740807"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1679628700399341570",
+              "start": 0,
+              "username": "RillaD261140"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017251316645740807",
+        "in_reply_to_user_id": "1679628700399341570",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017250765807722989",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RillaD261140 啥东西"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1679628700399341570",
+        "conversation_id": "2017154717072375855",
+        "created_at": "2026-01-30T14:57:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T15:57:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017250765807722989"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017250765807722989",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017250586060865863",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 不是19238是19298 sry😅"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2JlN5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2JlN5"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "发生殖器死妈！",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2016072861732212867",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014313058978406400/yLC08oHO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 505,
+          "following_count": 71,
+          "like_count": 4197,
+          "listed_count": 2,
+          "media_count": 48,
+          "tweet_count": 948
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-13T23:07:58.000Z",
+        "description": "日常发疯 啥都看 除了鉴证 \n碎碎念发疯\n音乐制作 编曲 录音 混音 母带请私信",
+        "id": "1679628700399341570",
+        "location": "Shanghai",
+        "name": "乞讨艺术家！法！！！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017157911932510208/bh6ypiMr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 465,
+          "like_count": 77,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 16
+        },
+        "username": "RillaD261140",
+        "verified": false
+      }
+    ]
+  }
+}

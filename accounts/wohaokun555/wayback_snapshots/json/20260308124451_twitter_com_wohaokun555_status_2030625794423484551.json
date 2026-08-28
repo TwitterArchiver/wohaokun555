@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2030625769878401025"
+      ]
+    },
+    "author_id": "2004619896630788096",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2030625794423484551",
+    "created_at": "2026-03-08T12:44:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T13:44:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2030625794423484551"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/9bfomanWGd",
+          "end": 32,
+          "expanded_url": "https://x.com/wohaokun555/status/2030625794423484551/photo/1",
+          "media_key": "3_2030625769878401025",
+          "start": 9,
+          "url": "https://t.co/9bfomanWGd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030625794423484551",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我要开始打卡了！ https://t.co/9bfomanWGd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2030625769878401025",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC47YQVbMAEuOcA.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030625769878401025"
+          ]
+        },
+        "author_id": "2004619896630788096",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2030625794423484551",
+        "created_at": "2026-03-08T12:44:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T13:44:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030625794423484551"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9bfomanWGd",
+              "end": 32,
+              "expanded_url": "https://x.com/wohaokun555/status/2030625794423484551/photo/1",
+              "media_key": "3_2030625769878401025",
+              "start": 9,
+              "url": "https://t.co/9bfomanWGd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030625794423484551",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我要开始打卡了！ https://t.co/9bfomanWGd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2JlN5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2JlN5"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "除了口令和正常问题别的私信不回",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2007765884035813533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1093,
+          "following_count": 97,
+          "like_count": 10455,
+          "listed_count": 1,
+          "media_count": 78,
+          "tweet_count": 1898
+        },
+        "username": "wohaokun555",
+        "verified": false
+      }
+    ]
+  }
+}

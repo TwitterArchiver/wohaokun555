@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2017084498673095108",
+    "created_at": "2026-01-30T06:15:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T07:15:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017119541315457168"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1682395404976156672",
+          "start": 0,
+          "username": "yanghs84"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017119541315457168",
+    "in_reply_to_user_id": "1682395404976156672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017084498673095108",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yanghs84 奶茶我来了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1801,
+        "media_key": "3_2017084495481143296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_4fqWMaAAA9q9l.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2017084498673095108",
+        "created_at": "2026-01-30T06:15:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T07:15:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017119541315457168"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1682395404976156672",
+              "start": 0,
+              "username": "yanghs84"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017119541315457168",
+        "in_reply_to_user_id": "1682395404976156672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017084498673095108",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yanghs84 奶茶我来了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017084495481143296"
+          ]
+        },
+        "author_id": "1682395404976156672",
+        "conversation_id": "2017084498673095108",
+        "created_at": "2026-01-30T03:56:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T04:56:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017084498673095108"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/B0wCc03FhA",
+              "end": 61,
+              "expanded_url": "https://x.com/yanghs84/status/2017084498673095108/photo/1",
+              "media_key": "3_2017084495481143296",
+              "start": 38,
+              "url": "https://t.co/B0wCc03FhA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017084498673095108",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2044,
+          "like_count": 39,
+          "quote_count": 0,
+          "reply_count": 44,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "抽个奶茶，🚪姐反馈，点赞评论里面抽，晚上10点开奖\n🚪哥🚪姐都能找我推荐嗷 https://t.co/B0wCc03FhA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2JlN5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2JlN5"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "发生殖器死妈！",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2016072861732212867",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014313058978406400/yLC08oHO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 494,
+          "following_count": 71,
+          "like_count": 4006,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 916
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-21T14:21:41.000Z",
+        "description": "极度厌蠢｜非正常人类研究者｜金牌🚪姐验证｜12-8点休息\n通过验证的🚪姐都在@Vimal11203477关注里",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 38,
+                "username": "Vimal11203477"
+              }
+            ]
+          }
+        },
+        "id": "1682395404976156672",
+        "location": "Taiwan",
+        "name": "不吃鱼的猫",
+        "pinned_tweet_id": "2016360632166371541",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016011338741628928/D6sBt4Uq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 315,
+          "following_count": 28,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 152
+        },
+        "username": "yanghs84",
+        "verified": false
+      }
+    ]
+  }
+}

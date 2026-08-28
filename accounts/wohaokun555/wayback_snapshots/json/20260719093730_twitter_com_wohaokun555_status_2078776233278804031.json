@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2078722201625473283",
+    "created_at": "2026-07-19T09:37:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T10:37:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078776233278804031"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1878142610805788672",
+          "start": 0,
+          "username": "yukinoo_123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078776233278804031",
+    "in_reply_to_user_id": "1878142610805788672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078722201625473283",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yukinoo_123 看到好崩溃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2078722201625473283",
+        "created_at": "2026-07-19T09:37:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T10:37:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078776233278804031"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1878142610805788672",
+              "start": 0,
+              "username": "yukinoo_123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078776233278804031",
+        "in_reply_to_user_id": "1878142610805788672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078722201625473283",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yukinoo_123 看到好崩溃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878142610805788672",
+        "conversation_id": "2078722201625473283",
+        "created_at": "2026-07-19T06:02:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T07:02:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078722201625473283"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078722201625473283",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1372,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "抖音上一群没开智的傻逼：situationship才是最好的关系。给我笑得要死了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "＞𐋣＜！🚪1314（闲聊勿扰🐈‍⬛",
+        "id": "2004619896630788096",
+        "location": "置顶推广自辨",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2078469858631749749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2861,
+          "following_count": 82,
+          "like_count": 24702,
+          "listed_count": 2,
+          "media_count": 152,
+          "tweet_count": 3956
+        },
+        "url": "",
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-11T18:11:28.000Z",
+        "description": "私信使用指南：发自拍/发小动物/发红包会得到回复 发生殖器/聊骚/hello可以认识一下吗会被无视甚至拉黑\n卡颜。我喜欢的会回关 喜欢我可以赏我点零花钱 \n🔗 https://t.co/pTsNSyZgkm",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/7hooi",
+                "end": 103,
+                "expanded_url": "https://ngl.link/7hooi",
+                "start": 80,
+                "url": "https://t.co/pTsNSyZgkm"
+              }
+            ]
+          }
+        },
+        "id": "1878142610805788672",
+        "location": "不与傻瓜论短长。问我约不约的你全家死完了",
+        "name": "分手后用烟头把前任烫成斑点狗",
+        "pinned_tweet_id": "2077993813025439943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051229318081400832/uQwMMOCF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2922,
+          "following_count": 290,
+          "like_count": 1833,
+          "listed_count": 5,
+          "media_count": 312,
+          "tweet_count": 3053
+        },
+        "url": "",
+        "username": "yukinoo_123",
+        "verified": false
+      }
+    ]
+  }
+}

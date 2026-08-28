@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2053867713945313362",
+    "created_at": "2026-05-11T15:59:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T16:59:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053867713945313362"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2053867713945313362",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "在无数个夜晚我深思着我经历的事情 我的不足 我的欲望…我想变得更好 每一次感到难受的时候 一定会是推着我往前走的一瞬间 我要继续走"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2053867713945313362",
+        "created_at": "2026-05-11T15:59:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T16:59:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053867713945313362"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053867713945313362",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在无数个夜晚我深思着我经历的事情 我的不足 我的欲望…我想变得更好 每一次感到难受的时候 一定会是推着我往前走的一瞬间 我要继续走"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "没义务陪聊 都是礼貌回复",
+        "id": "2004619896630788096",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2052293259586924701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2069,
+          "following_count": 100,
+          "like_count": 18982,
+          "listed_count": 1,
+          "media_count": 221,
+          "tweet_count": 3156
+        },
+        "username": "wohaokun555",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2075218089080504370",
+    "created_at": "2026-07-09T14:59:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T15:59:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075233317671379084"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1943296086103502848",
+          "start": 0,
+          "username": "wwiqing120966"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075233317671379084",
+    "in_reply_to_user_id": "1943296086103502848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075232775465234473",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wwiqing120966 谢谢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2075218089080504370",
+        "created_at": "2026-07-09T14:59:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T15:59:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075233317671379084"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1943296086103502848",
+              "start": 0,
+              "username": "wwiqing120966"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075233317671379084",
+        "in_reply_to_user_id": "1943296086103502848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075232775465234473",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wwiqing120966 谢谢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943296086103502848",
+        "conversation_id": "2075218089080504370",
+        "created_at": "2026-07-09T14:57:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T15:57:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075232775465234473"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075232775465234473",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075218089080504370",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 生日快乐，祝主包热度长虹，天天都有好心情"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "让我成为我，让一座山并存着嶙峋和肥沃",
+        "id": "2004619896630788096",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2073747405099659747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2780,
+          "following_count": 81,
+          "like_count": 24233,
+          "listed_count": 2,
+          "media_count": 151,
+          "tweet_count": 3891
+        },
+        "url": "",
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-10T13:08:03.000Z",
+        "description": "骨折康复中，除了玩游戏啥也不会",
+        "id": "1943296086103502848",
+        "location": "厦门",
+        "name": "强",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955884266392576003/ORSnWrNk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 431,
+          "like_count": 10556,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 823
+        },
+        "url": "",
+        "username": "wwiqing120966",
+        "verified": false
+      }
+    ]
+  }
+}

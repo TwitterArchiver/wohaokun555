@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2042496842085384317",
+    "created_at": "2026-04-10T08:32:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T09:32:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042521024512823412"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1949037897547706368",
+          "start": 0,
+          "username": "XuWei13894"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042521024512823412",
+    "in_reply_to_user_id": "1949037897547706368",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042496842085384317",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XuWei13894 女孩你的被子好漂亮指甲也好美"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2042496809990569984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFhoBu5bQAAX3I_.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2042496842085384317",
+        "created_at": "2026-04-10T08:32:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T09:32:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042521024512823412"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1949037897547706368",
+              "start": 0,
+              "username": "XuWei13894"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042521024512823412",
+        "in_reply_to_user_id": "1949037897547706368",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042496842085384317",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XuWei13894 女孩你的被子好漂亮指甲也好美"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042496809990569984"
+          ]
+        },
+        "author_id": "1949037897547706368",
+        "conversation_id": "2042496842085384317",
+        "created_at": "2026-04-10T06:56:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T07:56:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042496842085384317"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VGn10fmZrQ",
+              "end": 26,
+              "expanded_url": "https://x.com/XuWei13894/status/2042496842085384317/photo/1",
+              "media_key": "3_2042496809990569984",
+              "start": 3,
+              "url": "https://t.co/VGn10fmZrQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042496842085384317",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1187,
+          "like_count": 43,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "绿色 https://t.co/VGn10fmZrQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "",
+        "id": "2004619896630788096",
+        "location": "🚪520",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2040741237666533734",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1536,
+          "following_count": 98,
+          "like_count": 15068,
+          "listed_count": 1,
+          "media_count": 177,
+          "tweet_count": 2788
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-26T09:23:54.000Z",
+        "description": "…",
+        "id": "1949037897547706368",
+        "location": "Japan",
+        "name": "g.",
+        "pinned_tweet_id": "1991527262047608832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038999398563414017/9J8wbzxt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1043,
+          "following_count": 49,
+          "like_count": 1697,
+          "listed_count": 6,
+          "media_count": 64,
+          "tweet_count": 196
+        },
+        "username": "XuWei13894",
+        "verified": false
+      }
+    ]
+  }
+}

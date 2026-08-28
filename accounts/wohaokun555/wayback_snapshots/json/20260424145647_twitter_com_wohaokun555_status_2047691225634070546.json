@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2047691225634070546",
+    "created_at": "2026-04-24T14:56:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T15:56:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047691225634070546"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/anblk984/statu…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/anblk984/status/2047286034304757926",
+          "start": 8,
+          "url": "https://t.co/Xdsme2K1uB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047691225634070546",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047286034304757926",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "看来我是小众b https://t.co/Xdsme2K1uB"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2047691225634070546",
+        "created_at": "2026-04-24T14:56:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T15:56:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047691225634070546"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/anblk984/statu…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/anblk984/status/2047286034304757926",
+              "start": 8,
+              "url": "https://t.co/Xdsme2K1uB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047691225634070546",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047286034304757926",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看来我是小众b https://t.co/Xdsme2K1uB"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1103830967163117568",
+        "conversation_id": "2047286034304757926",
+        "created_at": "2026-04-23T12:06:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T13:06:29.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047285981435539565",
+          "2047286034304757926"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047286034304757926",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 81,
+          "impression_count": 53020,
+          "like_count": 2197,
+          "quote_count": 27,
+          "reply_count": 144,
+          "retweet_count": 157
+        },
+        "reply_settings": "everyone",
+        "text": "现在吃药改花刀已经不是小众了，真正的小众是早睡早起每天运动保持良好的心态重复的进行自省和进步，这才是真正的小众b"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "",
+        "id": "2004619896630788096",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2036315164098830372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1909,
+          "following_count": 98,
+          "like_count": 16504,
+          "listed_count": 1,
+          "media_count": 199,
+          "tweet_count": 2947
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-08T01:33:05.000Z",
+        "description": "黄泛区说书人/17岁美少蛆/狐鸣鬼泣，醒时尽皆虚妄；嬉笑怒骂，更无一物是真   最后感谢大爹画窝头像@data_syuxchu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 50,
+                "username": "data_syuxchu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/orewamaruganesu",
+                "end": 23,
+                "expanded_url": "https://t.me/orewamaruganesu",
+                "start": 0,
+                "url": "https://t.co/H2pejl6igE"
+              }
+            ]
+          }
+        },
+        "id": "1103830967163117568",
+        "location": "梁家河冲浪里          下面是tg频道",
+        "name": "琵琶牧々",
+        "pinned_tweet_id": "1991346530033496380",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020118049534472192/Qa7ES9rk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12801,
+          "following_count": 990,
+          "like_count": 114345,
+          "listed_count": 66,
+          "media_count": 2576,
+          "tweet_count": 27909
+        },
+        "url": "https://t.co/H2pejl6igE",
+        "username": "anblk984",
+        "verified": true
+      }
+    ]
+  }
+}

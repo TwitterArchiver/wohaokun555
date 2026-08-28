@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2071543307545792915",
+    "created_at": "2026-06-30T14:24:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T15:24:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071962972990345635"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2059270386068697089",
+          "start": 0,
+          "username": "kaxkzlaz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071962972990345635",
+    "in_reply_to_user_id": "2059270386068697089",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071543307545792915",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kaxkzlaz 很棒呀女孩"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2071543307545792915",
+        "created_at": "2026-06-30T14:24:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T15:24:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071962972990345635"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2059270386068697089",
+              "start": 0,
+              "username": "kaxkzlaz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071962972990345635",
+        "in_reply_to_user_id": "2059270386068697089",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071543307545792915",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kaxkzlaz 很棒呀女孩"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059270386068697089",
+        "conversation_id": "2071543307545792915",
+        "created_at": "2026-06-29T10:36:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T11:36:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071543307545792915"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071543307545792915",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 884,
+          "impression_count": 1684455,
+          "like_count": 30736,
+          "quote_count": 3669,
+          "reply_count": 418,
+          "retweet_count": 1140
+        },
+        "reply_settings": "everyone",
+        "text": "안녕하세요\n제가 이번 학기 중에 정신병원 입원만 두번 했을 정도로 우울증이 정말정말 심했거든요 \n근데 오늘 학점 확인해보니 3.6이더라고요\n누군가에겐 낮은 학점, 폐급 학점일 수 있겠지만\n제 나름대로 열심히 해서 나온 학점이라서요\n고생했다고 한마디만 해주시면 기쁠 거 같아요"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "让我成为我，让一座山并存着嶙峋和肥沃",
+        "id": "2004619896630788096",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2070530833434476867",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2657,
+          "following_count": 81,
+          "like_count": 23493,
+          "listed_count": 2,
+          "media_count": 144,
+          "tweet_count": 3755
+        },
+        "url": "",
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-26T13:49:49.000Z",
+        "description": "@JoOoj0Y",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "JoOoj0Y"
+              }
+            ]
+          }
+        },
+        "id": "2059270386068697089",
+        "location": "폐급대학생의 일기",
+        "name": "장이♡",
+        "pinned_tweet_id": "2059281012782490069",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066184973045096448/l_KJMfIe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 325,
+          "following_count": 98,
+          "like_count": 225,
+          "listed_count": 1,
+          "media_count": 1,
+          "tweet_count": 64
+        },
+        "url": "",
+        "username": "kaxkzlaz",
+        "verified": false
+      }
+    ]
+  }
+}

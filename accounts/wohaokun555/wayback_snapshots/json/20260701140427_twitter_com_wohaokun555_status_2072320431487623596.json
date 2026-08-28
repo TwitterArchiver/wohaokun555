@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2071940593606103551",
+    "created_at": "2026-07-01T14:04:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T15:04:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072320431487623596"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2027387008340119552",
+          "start": 0,
+          "username": "Qustsm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072320431487623596",
+    "in_reply_to_user_id": "2027387008340119552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071940593606103551",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Qustsm 是这样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2071940593606103551",
+        "created_at": "2026-07-01T14:04:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T15:04:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072320431487623596"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2027387008340119552",
+              "start": 0,
+              "username": "Qustsm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072320431487623596",
+        "in_reply_to_user_id": "2027387008340119552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071940593606103551",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Qustsm 是这样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2027387008340119552",
+        "conversation_id": "2071940593606103551",
+        "created_at": "2026-06-30T12:55:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T13:55:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071940593606103551"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071940593606103551",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 39020,
+          "like_count": 329,
+          "quote_count": 4,
+          "reply_count": 119,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "我真的很喜欢服务意识很强的男的，和话话很多的，和这种男谈过之后再也接受不了很自我的男的了，真的很爽"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "让我成为我，让一座山并存着嶙峋和肥沃",
+        "id": "2004619896630788096",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2070530833434476867",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2659,
+          "following_count": 82,
+          "like_count": 23630,
+          "listed_count": 2,
+          "media_count": 141,
+          "tweet_count": 3778
+        },
+        "url": "",
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-27T14:16:07.000Z",
+        "description": "",
+        "id": "2027387008340119552",
+        "location": "江苏",
+        "name": "Qu",
+        "pinned_tweet_id": "2048257696873451576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065842596681850880/aQoAsj6E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3465,
+          "following_count": 0,
+          "like_count": 83,
+          "listed_count": 10,
+          "media_count": 50,
+          "tweet_count": 712
+        },
+        "url": "",
+        "username": "Qustsm",
+        "verified": false
+      }
+    ]
+  }
+}

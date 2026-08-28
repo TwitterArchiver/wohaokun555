@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2080962292624298184",
+    "created_at": "2026-07-25T11:20:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T12:20:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080976551005561203"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1413042565960503296",
+          "start": 0,
+          "username": "Eyesouo2b"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080976551005561203",
+    "in_reply_to_user_id": "1413042565960503296",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080962292624298184",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Eyesouo2b 老婆呀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2080962281006092289",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOEQK05a0AEP1KF.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2080962292624298184",
+        "created_at": "2026-07-25T11:20:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T12:20:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080976551005561203"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1413042565960503296",
+              "start": 0,
+              "username": "Eyesouo2b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080976551005561203",
+        "in_reply_to_user_id": "1413042565960503296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080962292624298184",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Eyesouo2b 老婆呀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080962281006092289"
+          ]
+        },
+        "author_id": "1413042565960503296",
+        "conversation_id": "2080962292624298184",
+        "created_at": "2026-07-25T10:24:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T11:24:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080962292624298184"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/miuVFb11Jo",
+              "end": 29,
+              "expanded_url": "https://x.com/Eyesouo2b/status/2080962292624298184/photo/1",
+              "media_key": "3_2080962281006092289",
+              "start": 6,
+              "url": "https://t.co/miuVFb11Jo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080962292624298184",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 67,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "(/ω＼) https://t.co/miuVFb11Jo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "＞𐋣＜",
+        "id": "2004619896630788096",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2073747405099659747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2866,
+          "following_count": 83,
+          "like_count": 25073,
+          "listed_count": 2,
+          "media_count": 150,
+          "tweet_count": 4007
+        },
+        "url": "",
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-08T07:49:49.000Z",
+        "description": "私信会看骚扰拉黑",
+        "id": "1413042565960503296",
+        "location": "🚪",
+        "name": "休克的羔羊",
+        "pinned_tweet_id": "1954600869221347354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900425950724321280/cchWJJby_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10403,
+          "following_count": 178,
+          "like_count": 2025,
+          "listed_count": 22,
+          "media_count": 137,
+          "tweet_count": 895
+        },
+        "url": "",
+        "username": "Eyesouo2b",
+        "verified": false
+      }
+    ]
+  }
+}

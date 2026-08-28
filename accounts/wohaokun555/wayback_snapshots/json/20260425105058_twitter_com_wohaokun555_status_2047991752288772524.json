@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047976918390358016"
+      ],
+      "media_source_tweet_id": [
+        "2047976941668749497"
+      ]
+    },
+    "author_id": "2004619896630788096",
+    "conversation_id": "2047991752288772524",
+    "created_at": "2026-04-25T10:50:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T11:50:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047991752288772524"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1704167325858230272",
+          "start": 3,
+          "username": "sungjunsunowife"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jrS6vCvLiR",
+          "end": 54,
+          "expanded_url": "https://x.com/sungjunsunowife/status/2047976941668749497/photo/1",
+          "media_key": "3_2047976918390358016",
+          "start": 31,
+          "url": "https://t.co/jrS6vCvLiR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047991752288772524",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047976941668749497",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @sungjunsunowife: 2n살 지갑 수준 https://t.co/jrS6vCvLiR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2047976918390358016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGvgKBjbQAAYDBG.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047976918390358016"
+          ],
+          "media_source_tweet_id": [
+            "2047976941668749497"
+          ]
+        },
+        "author_id": "2004619896630788096",
+        "conversation_id": "2047991752288772524",
+        "created_at": "2026-04-25T10:50:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T11:50:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047991752288772524"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1704167325858230272",
+              "start": 3,
+              "username": "sungjunsunowife"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jrS6vCvLiR",
+              "end": 54,
+              "expanded_url": "https://x.com/sungjunsunowife/status/2047976941668749497/photo/1",
+              "media_key": "3_2047976918390358016",
+              "start": 31,
+              "url": "https://t.co/jrS6vCvLiR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047991752288772524",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047976941668749497",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @sungjunsunowife: 2n살 지갑 수준 https://t.co/jrS6vCvLiR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047976918390358016"
+          ]
+        },
+        "author_id": "1704167325858230272",
+        "conversation_id": "2047976941668749497",
+        "created_at": "2026-04-25T09:52:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T10:52:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047976941668749497"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jrS6vCvLiR",
+              "end": 33,
+              "expanded_url": "https://x.com/sungjunsunowife/status/2047976941668749497/photo/1",
+              "media_key": "3_2047976918390358016",
+              "start": 10,
+              "url": "https://t.co/jrS6vCvLiR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047976941668749497",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 674,
+          "like_count": 32,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "reply_settings": "following",
+        "text": "2n살 지갑 수준 https://t.co/jrS6vCvLiR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "",
+        "id": "2004619896630788096",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2036315164098830372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1910,
+          "following_count": 98,
+          "like_count": 16637,
+          "listed_count": 1,
+          "media_count": 200,
+          "tweet_count": 2954
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-19T16:15:40.000Z",
+        "description": "☆https://t.co/EtY45vBcLU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "spin-spin.com/jijeon",
+                "end": 24,
+                "expanded_url": "https://spin-spin.com/jijeon",
+                "start": 1,
+                "url": "https://t.co/EtY45vBcLU"
+              }
+            ]
+          }
+        },
+        "id": "1704167325858230272",
+        "location": "2d archive",
+        "name": "지죤",
+        "pinned_tweet_id": "2046184130736779426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013197828135301120/kqhGaXwc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5107,
+          "following_count": 100,
+          "like_count": 50236,
+          "listed_count": 15,
+          "media_count": 111,
+          "tweet_count": 14072
+        },
+        "username": "sungjunsunowife",
+        "verified": false
+      }
+    ]
+  }
+}

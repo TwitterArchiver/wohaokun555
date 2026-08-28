@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2005939459800379427",
+    "created_at": "2025-12-30T16:51:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-30T17:51:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006045540425879919"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1945894406244208640",
+          "start": 0,
+          "username": "daimengniu8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006045540425879919",
+    "in_reply_to_user_id": "1945894406244208640",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005939459800379427",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@daimengniu8964 行"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2005939459800379427",
+        "created_at": "2025-12-30T16:51:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T17:51:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006045540425879919"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1945894406244208640",
+              "start": 0,
+              "username": "daimengniu8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006045540425879919",
+        "in_reply_to_user_id": "1945894406244208640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005939459800379427",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@daimengniu8964 行"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1945894406244208640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1324117227465891840",
+              "name": "Japanese imperial family"
+            }
+          }
+        ],
+        "conversation_id": "2005939459800379427",
+        "created_at": "2025-12-30T09:50:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T10:50:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005939459800379427"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2005939459800379427",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1905,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "好了你们别吵了，红楼梦记载的是我干过的坏事，永乐大典里写着我操纵光明会的真相，孝庄皇后的出轨对象是我，嬴政是我带人霸凌的，行了吧！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "天天开心o^^o🚪66（纯绿！",
+        "id": "2004619896630788096",
+        "location": "Hong Kong",
+        "name": "鱼虾一整碗",
+        "pinned_tweet_id": "2005582001685012508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004620653153189888/VWgYLNYv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 28,
+          "like_count": 428,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 225
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-17T17:12:45.000Z",
+        "description": "感觉自己好呆萌呀……门槛费涨钱是因为牛牛最近炒股赔钱了 好想哭 皮下女孩 接广请自行分辨❕牛牛在赚饲料钱 牛牛上网就是为了逗你们开心滴",
+        "id": "1945894406244208640",
+        "location": "🚪52💚",
+        "name": "呆萌小牛牛",
+        "pinned_tweet_id": "2001269107069739214",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003809315216613376/T96k8TkP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8479,
+          "following_count": 39,
+          "like_count": 3077,
+          "listed_count": 3,
+          "media_count": 82,
+          "tweet_count": 2700
+        },
+        "username": "daimengniu8964",
+        "verified": false
+      }
+    ]
+  }
+}

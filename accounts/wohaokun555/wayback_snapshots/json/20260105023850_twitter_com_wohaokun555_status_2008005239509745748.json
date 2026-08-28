@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2008005239509745748",
+    "created_at": "2026-01-05T02:38:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-05T03:38:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008005239509745748"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1507396901594820608",
+          "start": 3,
+          "username": "hgds0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008005239509745748",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2398
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006331356943696335",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hgds0: 来抽奖啦，今年第一条抽奖，给大家抽一条西太后项链，感觉饰品的实用性和颜值都挺高而且男生女生都可以戴～奖品可折现（1415元），按项链当日售价发红包！大家关注我 并评论 转发 此条推文就行啦，下个月（1月31日）开，拒绝黑幕我们到时候随机数抽奖，希望大家喜欢…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1434,
+        "media_key": "3_2006331344117538816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9frujvboAAVDTO.jpg",
+        "width": 1289
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2008005239509745748",
+        "created_at": "2026-01-05T02:38:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T03:38:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008005239509745748"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1507396901594820608",
+              "start": 3,
+              "username": "hgds0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008005239509745748",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2398
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006331356943696335",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hgds0: 来抽奖啦，今年第一条抽奖，给大家抽一条西太后项链，感觉饰品的实用性和颜值都挺高而且男生女生都可以戴～奖品可折现（1415元），按项链当日售价发红包！大家关注我 并评论 转发 此条推文就行啦，下个月（1月31日）开，拒绝黑幕我们到时候随机数抽奖，希望大家喜欢…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006331344117538816"
+          ]
+        },
+        "author_id": "1507396901594820608",
+        "conversation_id": "2006331356943696335",
+        "created_at": "2025-12-31T11:47:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T12:47:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006331356943696335"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qIVvXL6ngQ",
+              "end": 153,
+              "expanded_url": "https://x.com/hgds0/status/2006331356943696335/photo/1",
+              "media_key": "3_2006331344117538816",
+              "start": 130,
+              "url": "https://t.co/qIVvXL6ngQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006331356943696335",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 120,
+          "impression_count": 487024,
+          "like_count": 2569,
+          "quote_count": 128,
+          "reply_count": 2855,
+          "retweet_count": 2398
+        },
+        "reply_settings": "everyone",
+        "text": "来抽奖啦，今年第一条抽奖，给大家抽一条西太后项链，感觉饰品的实用性和颜值都挺高而且男生女生都可以戴～奖品可折现（1415元），按项链当日售价发红包！大家关注我 并评论 转发 此条推文就行啦，下个月（1月31日）开，拒绝黑幕我们到时候随机数抽奖，希望大家喜欢💕 https://t.co/qIVvXL6ngQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "天天开心o^^o",
+        "id": "2004619896630788096",
+        "location": "三体星球",
+        "name": "鱼虾一整碗",
+        "pinned_tweet_id": "2005582001685012508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004620653153189888/VWgYLNYv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 40,
+          "like_count": 1042,
+          "listed_count": 1,
+          "media_count": 27,
+          "tweet_count": 401
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-25T16:40:26.000Z",
+        "description": "感谢你的关注 /接受投稿 过稿即回复 /作品观点不代表本人观点 仅供娱乐/部分作品搬运 侵删",
+        "id": "1507396901594820608",
+        "name": "恋",
+        "pinned_tweet_id": "2006331356943696335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853640703144046592/OC2mQ87G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98145,
+          "following_count": 2611,
+          "like_count": 43912,
+          "listed_count": 137,
+          "media_count": 3518,
+          "tweet_count": 7865
+        },
+        "username": "hgds0",
+        "verified": true
+      }
+    ]
+  }
+}

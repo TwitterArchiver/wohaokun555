@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2058889623351488709",
+    "created_at": "2026-05-25T13:20:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T14:20:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058901018684137596"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1592820644919533569",
+          "start": 0,
+          "username": "huajimeirenr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058901018684137596",
+    "in_reply_to_user_id": "1592820644919533569",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058899562241405392",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huajimeirenr 卧槽呀你美得不像话！！！！！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2058889623351488709",
+        "created_at": "2026-05-25T13:20:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T14:20:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058901018684137596"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1592820644919533569",
+              "start": 0,
+              "username": "huajimeirenr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058901018684137596",
+        "in_reply_to_user_id": "1592820644919533569",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058899562241405392",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huajimeirenr 卧槽呀你美得不像话！！！！！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592820644919533569",
+        "conversation_id": "2058889623351488709",
+        "created_at": "2026-05-25T13:14:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T14:14:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058899562241405392"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058899562241405392",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058889623351488709",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 洗衣粉儿让我有这么流畅的脸型我做梦都要笑醒"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "🚪（纯绿 不入勿扰\n@lei_meng123 随缘过",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 10,
+                "username": "lei_meng123"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2036315164098830372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2058,
+          "following_count": 79,
+          "like_count": 19931,
+          "listed_count": 1,
+          "media_count": 244,
+          "tweet_count": 3291
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-16T10:03:44.000Z",
+        "description": "选择性回关注私信..",
+        "id": "1592820644919533569",
+        "location": "🥚",
+        "name": "一颗蛋",
+        "pinned_tweet_id": "2023740096214630763",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974387290026946560/_5kxDxOl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1546,
+          "following_count": 52,
+          "like_count": 3747,
+          "listed_count": 0,
+          "media_count": 269,
+          "tweet_count": 975
+        },
+        "username": "huajimeirenr",
+        "verified": false
+      }
+    ]
+  }
+}

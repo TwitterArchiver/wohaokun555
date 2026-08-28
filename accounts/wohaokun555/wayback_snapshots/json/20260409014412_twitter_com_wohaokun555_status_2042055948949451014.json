@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2041513230858846263",
+    "created_at": "2026-04-09T01:44:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T02:44:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042055948949451014"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1618878387820576768",
+          "start": 0,
+          "username": "ARC_Cherry0305"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042055948949451014",
+    "in_reply_to_user_id": "1618878387820576768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041513230858846263",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ARC_Cherry0305 好厉害"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1972,
+        "media_key": "3_2041513226228391936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFTpdn2a4AALJwr.jpg",
+        "width": 960
+      },
+      {
+        "height": 1948,
+        "media_key": "3_2041513223992868865",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFTpdfhbgAEtZs3.jpg",
+        "width": 960
+      },
+      {
+        "height": 1948,
+        "media_key": "3_2041513225884463106",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFTpdmka8AI0tND.jpg",
+        "width": 960
+      },
+      {
+        "height": 931,
+        "media_key": "3_2041513222860312576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFTpdbTaEAAr1PX.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2041513230858846263",
+        "created_at": "2026-04-09T01:44:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T02:44:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042055948949451014"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1618878387820576768",
+              "start": 0,
+              "username": "ARC_Cherry0305"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042055948949451014",
+        "in_reply_to_user_id": "1618878387820576768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041513230858846263",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ARC_Cherry0305 好厉害"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041513226228391936",
+            "3_2041513223992868865",
+            "3_2041513225884463106",
+            "3_2041513222860312576"
+          ]
+        },
+        "author_id": "1618878387820576768",
+        "conversation_id": "2041513230858846263",
+        "created_at": "2026-04-07T13:47:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T14:47:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041513230858846263"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gQyMIVTh4f",
+              "end": 94,
+              "expanded_url": "https://x.com/ARC_Cherry0305/status/2041513230858846263/photo/1",
+              "media_key": "3_2041513226228391936",
+              "start": 71,
+              "url": "https://t.co/gQyMIVTh4f"
+            },
+            {
+              "display_url": "pic.x.com/gQyMIVTh4f",
+              "end": 94,
+              "expanded_url": "https://x.com/ARC_Cherry0305/status/2041513230858846263/photo/1",
+              "media_key": "3_2041513223992868865",
+              "start": 71,
+              "url": "https://t.co/gQyMIVTh4f"
+            },
+            {
+              "display_url": "pic.x.com/gQyMIVTh4f",
+              "end": 94,
+              "expanded_url": "https://x.com/ARC_Cherry0305/status/2041513230858846263/photo/1",
+              "media_key": "3_2041513225884463106",
+              "start": 71,
+              "url": "https://t.co/gQyMIVTh4f"
+            },
+            {
+              "display_url": "pic.x.com/gQyMIVTh4f",
+              "end": 94,
+              "expanded_url": "https://x.com/ARC_Cherry0305/status/2041513230858846263/photo/1",
+              "media_key": "3_2041513222860312576",
+              "start": 71,
+              "url": "https://t.co/gQyMIVTh4f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041513230858846263",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1946,
+          "like_count": 41,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "每次中断回归后的第一课\n都是努力坚持到最后一公里。\n\n夸夸自己 硕士毕业后工作发福\n半年减了10kg 重新把10km跑进4'40''\n🤟🤟🤟 https://t.co/gQyMIVTh4f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "",
+        "id": "2004619896630788096",
+        "location": "🚪520",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2036315164098830372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1541,
+          "following_count": 98,
+          "like_count": 14736,
+          "listed_count": 1,
+          "media_count": 172,
+          "tweet_count": 2740
+        },
+        "url": "",
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-27T07:47:47.000Z",
+        "description": "Don't want to be part of the world.\n\n男同和锁推请不要关注我。",
+        "id": "1618878387820576768",
+        "name": "双层吉士汉堡",
+        "pinned_tweet_id": "1780804817117704322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891359283658588160/Ckt9ChId_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 520,
+          "following_count": 359,
+          "like_count": 4965,
+          "listed_count": 4,
+          "media_count": 89,
+          "tweet_count": 2560
+        },
+        "url": "",
+        "username": "ARC_Cherry0305",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-27T07:47:47.000Z",
+        "description": "Don't want to be part of the world.\n\n男同和锁推请不要关注我。",
+        "id": "1618878387820576768",
+        "name": "双层吉士汉堡",
+        "pinned_tweet_id": "1780804817117704322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891359283658588160/Ckt9ChId_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 520,
+          "following_count": 359,
+          "like_count": 4965,
+          "listed_count": 4,
+          "media_count": 89,
+          "tweet_count": 2560
+        },
+        "username": "ARC_Cherry0305",
+        "verified": false
+      }
+    ]
+  }
+}

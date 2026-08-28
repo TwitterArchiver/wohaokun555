@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2070908666132509035",
+    "created_at": "2026-06-28T05:06:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T06:06:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071097791284478431"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1750564848096731136",
+          "start": 0,
+          "username": "yydwzzz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071097791284478431",
+    "in_reply_to_user_id": "1750564848096731136",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071096647514509411",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yydwzzz 是吧是吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2071096634092789760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL4DamKboAAGUqM.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2070908666132509035",
+        "created_at": "2026-06-28T05:06:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T06:06:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071097791284478431"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1750564848096731136",
+              "start": 0,
+              "username": "yydwzzz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071097791284478431",
+        "in_reply_to_user_id": "1750564848096731136",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071096647514509411",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yydwzzz 是吧是吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071096634092789760"
+          ]
+        },
+        "author_id": "1750564848096731136",
+        "conversation_id": "2070908666132509035",
+        "created_at": "2026-06-28T05:01:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T06:01:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071096647514509411"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JcepE6oDKe",
+              "end": 55,
+              "expanded_url": "https://x.com/yydwzzz/status/2071096647514509411/photo/1",
+              "media_key": "3_2071096634092789760",
+              "start": 32,
+              "url": "https://t.co/JcepE6oDKe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071096647514509411",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071096388935663714",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 我的法克我刚刚刷到这个发现真的可以了 https://t.co/JcepE6oDKe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "让我成为我，让一座山并存着嶙峋和肥沃",
+        "id": "2004619896630788096",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2070530833434476867",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2563,
+          "following_count": 81,
+          "like_count": 23158,
+          "listed_count": 2,
+          "media_count": 140,
+          "tweet_count": 3706
+        },
+        "url": "",
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-25T17:02:44.000Z",
+        "description": "😀",
+        "id": "1750564848096731136",
+        "location": "B612",
+        "name": "阿比",
+        "pinned_tweet_id": "2020996566312800412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040594545772310528/obFLBqd0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7002,
+          "following_count": 35,
+          "like_count": 419,
+          "listed_count": 11,
+          "media_count": 61,
+          "tweet_count": 1293
+        },
+        "url": "",
+        "username": "yydwzzz",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2060559899977990644",
+    "created_at": "2026-05-30T03:12:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T04:12:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060559899977990644"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xiaoshu_yy33/s…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/xiaoshu_yy33/status/2060383847070806301",
+          "start": 5,
+          "url": "https://t.co/rt58elmDE8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060559899977990644",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060383847070806301",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我肚肚啊 https://t.co/rt58elmDE8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2168,
+        "media_key": "3_2060383833976094720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJf0Lj0aQAAR11x.jpg",
+        "width": 797
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2060559899977990644",
+        "created_at": "2026-05-30T03:12:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T04:12:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060559899977990644"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xiaoshu_yy33/s…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/xiaoshu_yy33/status/2060383847070806301",
+              "start": 5,
+              "url": "https://t.co/rt58elmDE8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060559899977990644",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060383847070806301",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我肚肚啊 https://t.co/rt58elmDE8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060383833976094720"
+          ]
+        },
+        "author_id": "1922650331454058496",
+        "conversation_id": "2060383847070806301",
+        "created_at": "2026-05-29T15:32:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T16:32:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060383847070806301"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6mmYC2l9Oq",
+              "end": 28,
+              "expanded_url": "https://x.com/xiaoshu_yy33/status/2060383847070806301/photo/1",
+              "media_key": "3_2060383833976094720",
+              "start": 5,
+              "url": "https://t.co/6mmYC2l9Oq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060383847070806301",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1108,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "笑死人。 https://t.co/6mmYC2l9Oq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "🚪不入勿扰",
+        "id": "2004619896630788096",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2036315164098830372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2158,
+          "following_count": 77,
+          "like_count": 20481,
+          "listed_count": 2,
+          "media_count": 241,
+          "tweet_count": 3365
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-14T13:49:05.000Z",
+        "description": "小树🏳️‍⚧️",
+        "id": "1922650331454058496",
+        "location": "🚪520",
+        "name": "解树",
+        "pinned_tweet_id": "2059560719902036245",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056883446212104193/OKfrUqee_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4528,
+          "following_count": 43,
+          "like_count": 807,
+          "listed_count": 16,
+          "media_count": 130,
+          "tweet_count": 1273
+        },
+        "username": "xiaoshu_yy33",
+        "verified": false
+      }
+    ]
+  }
+}

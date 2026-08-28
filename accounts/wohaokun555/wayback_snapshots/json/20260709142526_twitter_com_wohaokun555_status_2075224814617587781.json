@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2075218089080504370",
+    "created_at": "2026-07-09T14:25:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T15:25:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075224814617587781"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1949401818909548544",
+          "start": 0,
+          "username": "birlv477"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075224814617587781",
+    "in_reply_to_user_id": "1949401818909548544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075221503793320107",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@birlv477 谢谢老师"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2075218089080504370",
+        "created_at": "2026-07-09T14:25:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T15:25:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075224814617587781"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1949401818909548544",
+              "start": 0,
+              "username": "birlv477"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075224814617587781",
+        "in_reply_to_user_id": "1949401818909548544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075221503793320107",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@birlv477 谢谢老师"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1949401818909548544",
+        "conversation_id": "2075218089080504370",
+        "created_at": "2026-07-09T14:12:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T15:12:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075221503793320107"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075221503793320107",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075218089080504370",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 生日快乐☺️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "让我成为我，让一座山并存着嶙峋和肥沃",
+        "id": "2004619896630788096",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2073747405099659747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2780,
+          "following_count": 81,
+          "like_count": 24219,
+          "listed_count": 2,
+          "media_count": 150,
+          "tweet_count": 3886
+        },
+        "url": "",
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-27T09:29:57.000Z",
+        "description": "🏐/id不是自我介绍/说要看牛的你给我打钱不/straight/🫐梦男",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%A9%9F%E5%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%A9%9F%E5%AF%861",
+                "start": 0,
+                "url": "https://t.co/fTaMKwfkpf"
+              }
+            ]
+          }
+        },
+        "id": "1949401818909548544",
+        "location": "🌎",
+        "name": "翘臀排在奈子前面",
+        "pinned_tweet_id": "2031011736531407044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073296934975254528/-SBx_Y96_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1518,
+          "following_count": 72,
+          "like_count": 8776,
+          "listed_count": 6,
+          "media_count": 187,
+          "tweet_count": 1488
+        },
+        "url": "https://t.co/fTaMKwfkpf",
+        "username": "birlv477",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2008831766405280107",
+    "created_at": "2026-01-07T16:36:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-07T17:36:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008940704308117811"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1573939488564604928",
+          "start": 0,
+          "username": "Really59763582"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008940704308117811",
+    "in_reply_to_user_id": "1573939488564604928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008831766405280107",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Really59763582 自我感动🥲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2008831766405280107",
+        "created_at": "2026-01-07T16:36:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T17:36:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008940704308117811"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1573939488564604928",
+              "start": 0,
+              "username": "Really59763582"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008940704308117811",
+        "in_reply_to_user_id": "1573939488564604928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008831766405280107",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Really59763582 自我感动🥲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1573939488564604928",
+        "conversation_id": "2008831766405280107",
+        "created_at": "2026-01-07T09:23:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T10:23:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008831766405280107"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2008831766405280107",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 29041,
+          "like_count": 218,
+          "quote_count": 2,
+          "reply_count": 24,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我发现十个里有8个男的都会说自己被甩，前女友对他很好，他对前女友很好吧啦一大堆。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "天天开心o^^o",
+        "id": "2004619896630788096",
+        "location": "三体星球",
+        "name": "鱼虾一整碗",
+        "pinned_tweet_id": "2008798162614640930",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004620653153189888/VWgYLNYv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 51,
+          "like_count": 1465,
+          "listed_count": 1,
+          "media_count": 32,
+          "tweet_count": 485
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-25T07:37:06.000Z",
+        "description": "骂我反弹/代避孕套成人用品/代电影票优惠 可以私我谢谢你们/不随便➕v/推广自辨 ✈️：https://t.co/AokdvU7MQa",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "b1.达蒙.com/#/register?cod…",
+                "end": 67,
+                "expanded_url": "https://b1.xn--hv1a41u.com/#/register?code=CUqFwt8R",
+                "start": 44,
+                "url": "https://t.co/AokdvU7MQa"
+              }
+            ]
+          }
+        },
+        "id": "1573939488564604928",
+        "location": "88/128/388/520",
+        "name": "芋泥麻薯蛋挞",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007158178132393984/4YyPbJbG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13942,
+          "following_count": 195,
+          "like_count": 3699,
+          "listed_count": 28,
+          "media_count": 97,
+          "tweet_count": 1393
+        },
+        "username": "Really59763582",
+        "verified": false
+      }
+    ]
+  }
+}

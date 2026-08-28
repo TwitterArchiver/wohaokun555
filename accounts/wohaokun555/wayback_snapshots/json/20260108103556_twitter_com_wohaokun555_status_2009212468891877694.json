@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2009212468891877694",
+    "created_at": "2026-01-08T10:35:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-08T11:35:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2009212468891877694"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2009212468891877694",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我装疯卖傻也没人给我疯狂星期四报销。不过我还是买了犒劳老己"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2009212468891877694",
+        "created_at": "2026-01-08T10:35:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T11:35:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009212468891877694"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2009212468891877694",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我装疯卖傻也没人给我疯狂星期四报销。不过我还是买了犒劳老己"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "天天开心o^^o",
+        "id": "2004619896630788096",
+        "location": "三体星球",
+        "name": "鱼虾一整碗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004620653153189888/VWgYLNYv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 244,
+          "following_count": 52,
+          "like_count": 1570,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 521
+        },
+        "username": "wohaokun555",
+        "verified": false
+      }
+    ]
+  }
+}

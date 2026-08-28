@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2021598508847915298",
+    "created_at": "2026-02-13T01:33:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T02:33:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022121861874954525"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1662971930964791296",
+          "start": 0,
+          "username": "goyangi1246382l"
+        },
+        {
+          "end": 30,
+          "id": "1856170326134272001",
+          "start": 17,
+          "username": "ci_chen58502"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022121861874954525",
+    "in_reply_to_user_id": "1662971930964791296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022055622574059577",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@goyangi1246382l @ci_chen58502 你也算了吧猪男"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2021598508847915298",
+        "created_at": "2026-02-13T01:33:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T02:33:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022121861874954525"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1662971930964791296",
+              "start": 0,
+              "username": "goyangi1246382l"
+            },
+            {
+              "end": 30,
+              "id": "1856170326134272001",
+              "start": 17,
+              "username": "ci_chen58502"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022121861874954525",
+        "in_reply_to_user_id": "1662971930964791296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022055622574059577",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@goyangi1246382l @ci_chen58502 你也算了吧猪男"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662971930964791296",
+        "conversation_id": "2021598508847915298",
+        "created_at": "2026-02-12T21:10:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T22:10:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022055622574059577"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            },
+            {
+              "end": 26,
+              "id": "1856170326134272001",
+              "start": 13,
+              "username": "ci_chen58502"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022055622574059577",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021810050453713373",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 @ci_chen58502 表子还立上牌坊了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2JlN5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2JlN5"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "🚪188（纯绿纯绿纯绿纯绿（别的私信不回",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2019333252520321256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 715,
+          "following_count": 79,
+          "like_count": 7127,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 1367
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-28T23:59:52.000Z",
+        "description": "",
+        "id": "1662971930964791296",
+        "location": "Busan, Republic of Korea",
+        "name": "kk^",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778502968213409792/EuoC8gIF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 22,
+          "like_count": 652,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 150
+        },
+        "username": "goyangi1246382l",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-12T03:01:42.000Z",
+        "description": "",
+        "id": "1856170326134272001",
+        "name": "难遇",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965987685388136448/drx4b26y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 24,
+          "like_count": 18,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 10
+        },
+        "username": "ci_chen58502",
+        "verified": false
+      }
+    ]
+  }
+}

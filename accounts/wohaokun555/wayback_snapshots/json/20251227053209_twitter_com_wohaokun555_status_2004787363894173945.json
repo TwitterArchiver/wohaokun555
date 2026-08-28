@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2004775453635346440",
+    "created_at": "2025-12-27T05:32:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-27T06:32:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004787363894173945"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1950172970422329344",
+          "start": 0,
+          "username": "jwkjyqk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004787363894173945",
+    "in_reply_to_user_id": "1950172970422329344",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004775453635346440",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jwkjyqk 如果我淡推了，可能是我幸福了吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2004775453635346440",
+        "created_at": "2025-12-27T05:32:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T06:32:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004787363894173945"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1950172970422329344",
+              "start": 0,
+              "username": "jwkjyqk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004787363894173945",
+        "in_reply_to_user_id": "1950172970422329344",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004775453635346440",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jwkjyqk 如果我淡推了，可能是我幸福了吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1950172970422329344",
+        "conversation_id": "2004775453635346440",
+        "created_at": "2025-12-27T04:44:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T05:44:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004775453635346440"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2004775453635346440",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果我淡推了，可能是我幸福了吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "🚪52",
+        "id": "2004619896630788096",
+        "location": "Hong Kong",
+        "name": "鱼虾一整碗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004620653153189888/VWgYLNYv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 5,
+          "like_count": 32,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 29
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-29T12:34:24.000Z",
+        "description": "直男  纯爱\nistp    switch    ddlg         素质不详\n世界上另一个我\n碎碎念  想到啥说啥 废话居多\n性取向正常    我一定会养一只属于我的小猫",
+        "id": "1950172970422329344",
+        "location": "无人在意",
+        "name": "仅我可见",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998069194609586176/EIdKTvOA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 110,
+          "like_count": 63,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 276
+        },
+        "username": "jwkjyqk",
+        "verified": false
+      }
+    ]
+  }
+}

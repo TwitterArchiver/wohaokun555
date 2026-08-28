@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2067251259552538664",
+    "created_at": "2026-06-18T06:25:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T07:25:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067493967281926425"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1806877178333929472",
+          "start": 0,
+          "username": "xio1766719oai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067493967281926425",
+    "in_reply_to_user_id": "1806877178333929472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067251259552538664",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xio1766719oai 卧槽我终于找到高敏感的好处了…高考就语文超常发挥了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1503,
+        "media_key": "3_2067251246000652288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLBaDjNaQAAL1wA.jpg",
+        "width": 1256
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2067251259552538664",
+        "created_at": "2026-06-18T06:25:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T07:25:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067493967281926425"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1806877178333929472",
+              "start": 0,
+              "username": "xio1766719oai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067493967281926425",
+        "in_reply_to_user_id": "1806877178333929472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067251259552538664",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xio1766719oai 卧槽我终于找到高敏感的好处了…高考就语文超常发挥了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067251246000652288"
+          ]
+        },
+        "author_id": "1806877178333929472",
+        "conversation_id": "2067251259552538664",
+        "created_at": "2026-06-17T14:21:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T15:21:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067251259552538664"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pkBuEpAakV",
+              "end": 35,
+              "expanded_url": "https://x.com/xio1766719oai/status/2067251259552538664/photo/1",
+              "media_key": "3_2067251246000652288",
+              "start": 12,
+              "url": "https://t.co/pkBuEpAakV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067251259552538664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 4149,
+          "like_count": 62,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "高敏感语文成绩136🥹 https://t.co/pkBuEpAakV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "@lei_meng123（随缘过\n这是一个女孩的内心世界🌍",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 0,
+                "username": "lei_meng123"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "私信只回口令过门 其他勿扰…",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2062769965330227585",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2410,
+          "following_count": 78,
+          "like_count": 22531,
+          "listed_count": 2,
+          "media_count": 134,
+          "tweet_count": 3577
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-29T02:33:49.000Z",
+        "description": "我系一只小猫猫。\n@xyr060606",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "xyr060606"
+              }
+            ]
+          }
+        },
+        "id": "1806877178333929472",
+        "location": "🚪88/188/388/520/1314 非入门私信不回",
+        "name": "絮语耳",
+        "pinned_tweet_id": "2039264031958249738",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970489809358430208/-R4LNrUR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5606,
+          "following_count": 9,
+          "like_count": 142,
+          "listed_count": 16,
+          "media_count": 44,
+          "tweet_count": 151
+        },
+        "username": "xio1766719oai",
+        "verified": false
+      }
+    ]
+  }
+}

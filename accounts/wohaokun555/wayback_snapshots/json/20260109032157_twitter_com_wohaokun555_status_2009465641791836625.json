@@ -1,0 +1,375 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2009464098225078506",
+    "created_at": "2026-01-09T03:21:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-09T04:21:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009465641791836625"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1522094329954652161",
+          "start": 0,
+          "username": "0xo_snow"
+        },
+        {
+          "end": 26,
+          "id": "1203523096235278336",
+          "start": 10,
+          "username": "Yukikaz40772195"
+        },
+        {
+          "end": 38,
+          "id": "1884862807545683968",
+          "start": 27,
+          "username": "Haruyo1024"
+        },
+        {
+          "end": 48,
+          "id": "1845491203124441093",
+          "start": 39,
+          "username": "yu_huacs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009465641791836625",
+    "in_reply_to_user_id": "1522094329954652161",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009464098225078506",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0xo_snow @Yukikaz40772195 @Haruyo1024 @yu_huacs 这个衣服好美萌"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2009464047729823746",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-MM56Ha0AICndG.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2009464047738212356",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-MM56Ja0AQhqF0.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2009464098225078506",
+        "created_at": "2026-01-09T03:21:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T04:21:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009465641791836625"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1522094329954652161",
+              "start": 0,
+              "username": "0xo_snow"
+            },
+            {
+              "end": 26,
+              "id": "1203523096235278336",
+              "start": 10,
+              "username": "Yukikaz40772195"
+            },
+            {
+              "end": 38,
+              "id": "1884862807545683968",
+              "start": 27,
+              "username": "Haruyo1024"
+            },
+            {
+              "end": 48,
+              "id": "1845491203124441093",
+              "start": 39,
+              "username": "yu_huacs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009465641791836625",
+        "in_reply_to_user_id": "1522094329954652161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009464098225078506",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0xo_snow @Yukikaz40772195 @Haruyo1024 @yu_huacs 这个衣服好美萌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009464047729823746",
+            "3_2009464047738212356"
+          ]
+        },
+        "author_id": "1522094329954652161",
+        "conversation_id": "2009464098225078506",
+        "created_at": "2026-01-09T03:15:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T04:15:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009464098225078506"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 30,
+              "id": "1203523096235278336",
+              "start": 14,
+              "username": "Yukikaz40772195"
+            },
+            {
+              "end": 42,
+              "id": "1884862807545683968",
+              "start": 31,
+              "username": "Haruyo1024"
+            },
+            {
+              "end": 52,
+              "id": "1845491203124441093",
+              "start": 43,
+              "username": "yu_huacs"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/goLI1AgDoJ",
+              "end": 94,
+              "expanded_url": "https://x.com/0xo_snow/status/2009464098225078506/photo/1",
+              "media_key": "3_2009464047729823746",
+              "start": 71,
+              "url": "https://t.co/goLI1AgDoJ"
+            },
+            {
+              "display_url": "pic.x.com/goLI1AgDoJ",
+              "end": 94,
+              "expanded_url": "https://x.com/0xo_snow/status/2009464098225078506/photo/1",
+              "media_key": "3_2009464047738212356",
+              "start": 71,
+              "url": "https://t.co/goLI1AgDoJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009464098225078506",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 61,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "第一次去见这么多推友好激动～@Yukikaz40772195 @Haruyo1024 @yu_huacs 希望玩得开心！！(･∞･ﾐэ )Э https://t.co/goLI1AgDoJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "天天开心o^^o",
+        "id": "2004619896630788096",
+        "location": "三体星球",
+        "name": "鱼虾一整碗",
+        "pinned_tweet_id": "2007765884035813533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004620653153189888/VWgYLNYv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 263,
+          "following_count": 56,
+          "like_count": 1724,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 585
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-05T06:02:50.000Z",
+        "description": "=小恋！身份为*🎀💘灰白垂耳兔偶像姫様* 有点歌功能！｜ip 北京07gap中｜🚪88=回信息+解锁线下🩶我超活泼哦，会尽全力让别人高兴，所以请来约我！！🥹🥹｜绝不和任何人建立任何 类恋爱关系ᗜ ‸ ᗜ",
+        "id": "1522094329954652161",
+        "location": "💌过门解锁线下～价格166/h｜277/h 谢谢你•⩊•",
+        "name": "🐰れん⊹",
+        "pinned_tweet_id": "2009128318222967066",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008220155432857601/hiAEJNwb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18513,
+          "following_count": 389,
+          "like_count": 13970,
+          "listed_count": 32,
+          "media_count": 1054,
+          "tweet_count": 11512
+        },
+        "username": "0xo_snow",
+        "verified": true
+      },
+      {
+        "created_at": "2019-12-08T03:54:17.000Z",
+        "description": "サヤと申します。 東京勢、20⬆️、カメラマン、黒コーデ、ゴスロリ、地雷(偶に)、猫派、ドール、DBD、FF14、法律、音ゲ。政治無関心なので、討論しないように。恋人いる。",
+        "id": "1203523096235278336",
+        "location": "ホームレス支援センター",
+        "name": "Yukikaze",
+        "pinned_tweet_id": "1776791991000694983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979629710255513600/bAQCv90S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 776,
+          "following_count": 1290,
+          "like_count": 17522,
+          "listed_count": 8,
+          "media_count": 567,
+          "tweet_count": 5445
+        },
+        "username": "Yukikaz40772195",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-30T07:15:01.000Z",
+        "description": "哈鲁哟の三代目账号｜INFJ｜前魅族员工｜爱研究の垃圾佬｜喜德盛X-LAB、SRAM、SHIMANO培训认证自行车机械师｜另一个我@HaruyoSong",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 65,
+                "username": "HaruyoSong"
+              }
+            ]
+          }
+        },
+        "id": "1884862807545683968",
+        "location": "上海",
+        "name": "はるよ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884866566841675776/y9Q35UZc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 1324,
+          "like_count": 19409,
+          "listed_count": 1,
+          "media_count": 65,
+          "tweet_count": 1315
+        },
+        "username": "Haruyo1024",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-13T15:46:25.000Z",
+        "description": "不知名的yu huacs 泛性恋 \n友所有群体   爱着你们深深的喜欢着你们\n成分复杂 双相焦虑治疗中 overdose lain 了解公路车 在役公路车s works old venge\n第二人格 @yuhuacs5570\n最好の兄弟 @Lizzy6315",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 100,
+                "username": "yuhuacs5570"
+              },
+              {
+                "end": 129,
+                "start": 119,
+                "username": "Lizzy6315"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yu_huacs",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yu_huacs",
+                "start": 0,
+                "url": "https://t.co/fGARwmdoNl"
+              }
+            ]
+          }
+        },
+        "id": "1845491203124441093",
+        "location": "尼特",
+        "name": "余华成霜",
+        "pinned_tweet_id": "2008434225205440588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009204093987028992/H3zOBPI9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1269,
+          "following_count": 1037,
+          "like_count": 98849,
+          "listed_count": 9,
+          "media_count": 1780,
+          "tweet_count": 16752
+        },
+        "url": "https://t.co/fGARwmdoNl",
+        "username": "yu_huacs",
+        "verified": false
+      }
+    ]
+  }
+}

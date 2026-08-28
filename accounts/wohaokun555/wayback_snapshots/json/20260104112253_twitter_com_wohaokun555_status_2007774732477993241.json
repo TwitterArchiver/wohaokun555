@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2007765884035813533",
+    "created_at": "2026-01-04T11:22:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-04T12:22:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007774732477993241"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1680959897641578500",
+          "start": 0,
+          "username": "daaixianzungu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007774732477993241",
+    "in_reply_to_user_id": "1680959897641578500",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007773718018486677",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@daaixianzungu 诶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2007765884035813533",
+        "created_at": "2026-01-04T11:22:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T12:22:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007774732477993241"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1680959897641578500",
+              "start": 0,
+              "username": "daaixianzungu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007774732477993241",
+        "in_reply_to_user_id": "1680959897641578500",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007773718018486677",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@daaixianzungu 诶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680959897641578500",
+        "conversation_id": "2007765884035813533",
+        "created_at": "2026-01-04T11:18:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T12:18:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007773718018486677"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007773718018486677",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007765884035813533",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 妈妈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "天天开心o^^o",
+        "id": "2004619896630788096",
+        "location": "三体星球",
+        "name": "鱼虾一整碗",
+        "pinned_tweet_id": "2005582001685012508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004620653153189888/VWgYLNYv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 38,
+          "like_count": 988,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 396
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-17T15:17:34.000Z",
+        "description": "06 182 65",
+        "id": "1680959897641578500",
+        "name": "昼雪雪雪雪雪",
+        "pinned_tweet_id": "1998460988538986669",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998487229237440515/LnBOvw2m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 131,
+          "like_count": 2300,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 753
+        },
+        "username": "daaixianzungu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2005243522451185955",
+    "created_at": "2025-12-28T12:44:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-28T13:44:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005258653159542897"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1863041923604180992",
+          "start": 0,
+          "username": "leow_0508"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005258653159542897",
+    "in_reply_to_user_id": "1863041923604180992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005243522451185955",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@leow_0508 为啥没人要看我的老师，就因为我没有吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1932,
+        "media_key": "3_2005243507783663616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9QOWJmagAAPCNx.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2005243522451185955",
+        "created_at": "2025-12-28T12:44:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T13:44:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005258653159542897"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1863041923604180992",
+              "start": 0,
+              "username": "leow_0508"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005258653159542897",
+        "in_reply_to_user_id": "1863041923604180992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005243522451185955",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@leow_0508 为啥没人要看我的老师，就因为我没有吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2005243507783663616"
+          ]
+        },
+        "author_id": "1863041923604180992",
+        "conversation_id": "2005243522451185955",
+        "created_at": "2025-12-28T11:44:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T12:44:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005243522451185955"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AA3X7r5cxK",
+              "end": 28,
+              "expanded_url": "https://x.com/leow_0508/status/2005243522451185955/photo/1",
+              "media_key": "3_2005243507783663616",
+              "start": 5,
+              "url": "https://t.co/AA3X7r5cxK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005243522451185955",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 447,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "何意味。 https://t.co/AA3X7r5cxK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "🚪66",
+        "id": "2004619896630788096",
+        "location": "Hong Kong",
+        "name": "鱼虾一整碗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004620653153189888/VWgYLNYv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 15,
+          "like_count": 140,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 94
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-01T02:06:44.000Z",
+        "description": "准高中老师，性别男，爱好女，直男。小号@kikikiw0320",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 19,
+                "username": "kikikiw0320"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=ghdd8He6",
+                "start": 0,
+                "url": "https://t.co/Xw6PlaQkvI"
+              }
+            ]
+          }
+        },
+        "id": "1863041923604180992",
+        "location": "天天开心",
+        "name": "Leo",
+        "pinned_tweet_id": "2000249230217400738",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997656823822946304/6nUUE3RL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2554,
+          "following_count": 4291,
+          "like_count": 36026,
+          "listed_count": 5,
+          "media_count": 320,
+          "tweet_count": 5826
+        },
+        "url": "https://t.co/Xw6PlaQkvI",
+        "username": "leow_0508",
+        "verified": false
+      }
+    ]
+  }
+}

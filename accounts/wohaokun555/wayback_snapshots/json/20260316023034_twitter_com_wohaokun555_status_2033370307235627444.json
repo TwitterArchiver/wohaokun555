@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2033368655648752061",
+    "created_at": "2026-03-16T02:30:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T03:30:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033370307235627444"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1618878387820576768",
+          "start": 0,
+          "username": "ARC_Cherry0305"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033370307235627444",
+    "in_reply_to_user_id": "1618878387820576768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033368655648752061",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ARC_Cherry0305 妈呀啊啊啊啊我要去看看怎么了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2033368655648752061",
+        "created_at": "2026-03-16T02:30:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T03:30:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033370307235627444"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1618878387820576768",
+              "start": 0,
+              "username": "ARC_Cherry0305"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033370307235627444",
+        "in_reply_to_user_id": "1618878387820576768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033368655648752061",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ARC_Cherry0305 妈呀啊啊啊啊我要去看看怎么了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1618878387820576768",
+        "conversation_id": "2033368655648752061",
+        "created_at": "2026-03-16T02:24:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T03:24:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033368655648752061"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2033368655648752061",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "实在很难想象一个微信昵称叫“猫猫要吃香香饭”的女生会被导师带教硬生生逼到死，CSU作为母校真是全方面的烂完，中国无良教授这群吃人血的贱种东西到底什么时候才能死完？？？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2JlN5\n🚪（勿扰",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2JlN5"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "三体",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2008543541979738501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1247,
+          "following_count": 97,
+          "like_count": 11623,
+          "listed_count": 1,
+          "media_count": 104,
+          "tweet_count": 2149
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-27T07:47:47.000Z",
+        "description": "Don't want to be part of the world.\n\n男同和锁推请不要关注我。",
+        "id": "1618878387820576768",
+        "name": "双层吉士汉堡",
+        "pinned_tweet_id": "1780804817117704322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891359283658588160/Ckt9ChId_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 598,
+          "following_count": 357,
+          "like_count": 4689,
+          "listed_count": 4,
+          "media_count": 83,
+          "tweet_count": 2508
+        },
+        "username": "ARC_Cherry0305",
+        "verified": false
+      }
+    ]
+  }
+}

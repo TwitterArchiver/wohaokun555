@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2009225570647695710",
+    "created_at": "2026-01-08T12:41:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-08T13:41:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009244103171809480"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1688397365336850432",
+          "start": 0,
+          "username": "nkqlbxc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009244103171809480",
+    "in_reply_to_user_id": "1688397365336850432",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009225570647695710",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nkqlbxc 蹲星巴克(o^^o)"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2009157352159891461",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-H194Fa0AUaJAm.jpg",
+        "width": 949
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2009225570647695710",
+        "created_at": "2026-01-08T12:41:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T13:41:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009244103171809480"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1688397365336850432",
+              "start": 0,
+              "username": "nkqlbxc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009244103171809480",
+        "in_reply_to_user_id": "1688397365336850432",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009225570647695710",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nkqlbxc 蹲星巴克(o^^o)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009157352159891461"
+          ]
+        },
+        "author_id": "1688397365336850432",
+        "conversation_id": "2009225570647695710",
+        "created_at": "2026-01-08T11:28:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T12:28:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009225570647695710"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WuE1DvUMpU",
+              "end": 58,
+              "expanded_url": "https://x.com/nkqlbxc/status/2009225570647695710/photo/1",
+              "media_key": "3_2009157352159891461",
+              "start": 35,
+              "url": "https://t.co/WuE1DvUMpU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009225570647695710",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3152,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 45,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "成都 98 175/68kg\n蹲一个一起变好的人\n评论区抽三杯星巴克 https://t.co/WuE1DvUMpU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "天天开心o^^o",
+        "id": "2004619896630788096",
+        "location": "三体星球",
+        "name": "鱼虾一整碗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004620653153189888/VWgYLNYv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 248,
+          "following_count": 53,
+          "like_count": 1597,
+          "listed_count": 1,
+          "media_count": 35,
+          "tweet_count": 535
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-07T03:51:28.000Z",
+        "description": "“用性对抗平庸的生活”\n\n防封小号（处哥在干嘛）：@chuge857",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 25,
+                "username": "chuge857"
+              }
+            ]
+          }
+        },
+        "id": "1688397365336850432",
+        "name": "你看起来不像处",
+        "pinned_tweet_id": "1996944506026185176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915355119677562884/LcbFYTd6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91457,
+          "following_count": 272,
+          "like_count": 1305,
+          "listed_count": 101,
+          "media_count": 1766,
+          "tweet_count": 2849
+        },
+        "username": "nkqlbxc",
+        "verified": true
+      }
+    ]
+  }
+}

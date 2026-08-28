@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2048316705852838110",
+    "created_at": "2026-04-26T10:38:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T11:38:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048350973412983108"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2000060779056492544",
+          "start": 0,
+          "username": "kakou0026"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048350973412983108",
+    "in_reply_to_user_id": "2000060779056492544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048316705852838110",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kakou0026 这个加上你那个戒指简直太配了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2048316696851877888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG0VLu9bkAAMe2v.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2048316705852838110",
+        "created_at": "2026-04-26T10:38:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T11:38:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048350973412983108"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2000060779056492544",
+              "start": 0,
+              "username": "kakou0026"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048350973412983108",
+        "in_reply_to_user_id": "2000060779056492544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048316705852838110",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kakou0026 这个加上你那个戒指简直太配了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048316696851877888"
+          ]
+        },
+        "author_id": "2000060779056492544",
+        "conversation_id": "2048316705852838110",
+        "created_at": "2026-04-26T08:22:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T09:22:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048316705852838110"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WThVEZBDE6",
+              "end": 30,
+              "expanded_url": "https://x.com/kakou0026/status/2048316705852838110/photo/1",
+              "media_key": "3_2048316696851877888",
+              "start": 7,
+              "url": "https://t.co/WThVEZBDE6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048316705852838110",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 724,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我做的新美甲 https://t.co/WThVEZBDE6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "",
+        "id": "2004619896630788096",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2036315164098830372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1919,
+          "following_count": 99,
+          "like_count": 16848,
+          "listed_count": 1,
+          "media_count": 202,
+          "tweet_count": 2970
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-14T04:30:32.000Z",
+        "description": "07｜女｜switch｜双｜单身｜ 回关看主页！｜匿名聊天💬 https://t.co/5EKyiiCQQf",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/Kakou0026",
+                "end": 54,
+                "expanded_url": "https://tellonym.me/Kakou0026",
+                "start": 31,
+                "url": "https://t.co/5EKyiiCQQf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kakou36409",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kakou36409",
+                "start": 0,
+                "url": "https://t.co/HmMHXfIDkT"
+              }
+            ]
+          }
+        },
+        "id": "2000060779056492544",
+        "location": "这里是Kakou 喜欢你来＞_＜",
+        "name": "Kakou",
+        "pinned_tweet_id": "2042443058994970651",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010569778847764480/DepEpZBq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4513,
+          "following_count": 185,
+          "like_count": 4713,
+          "listed_count": 9,
+          "media_count": 339,
+          "tweet_count": 3791
+        },
+        "url": "https://t.co/HmMHXfIDkT",
+        "username": "kakou0026",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2055667646558015953",
+    "created_at": "2026-05-16T15:12:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T16:12:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055667646558015953"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2055667646558015953",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有时觉得柏拉图好好…单纯的聊理想聊书籍聊生活 交换着彼此的灵魂 展开一场淡淡的爱…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2055667646558015953",
+        "created_at": "2026-05-16T15:12:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T16:12:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055667646558015953"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055667646558015953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有时觉得柏拉图好好…单纯的聊理想聊书籍聊生活 交换着彼此的灵魂 展开一场淡淡的爱…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "🚪（纯绿 不入勿扰",
+        "id": "2004619896630788096",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2052293259586924701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2064,
+          "following_count": 100,
+          "like_count": 19228,
+          "listed_count": 1,
+          "media_count": 230,
+          "tweet_count": 3194
+        },
+        "username": "wohaokun555",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2059281929435025760",
+    "created_at": "2026-05-27T05:33:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T06:33:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059508192313520343"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1982786927716962304",
+          "start": 0,
+          "username": "xxxlykke"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059508192313520343",
+    "in_reply_to_user_id": "1982786927716962304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059507985987276926",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xxxlykke 谢谢宝宝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2059281929435025760",
+        "created_at": "2026-05-27T05:33:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T06:33:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059508192313520343"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1982786927716962304",
+              "start": 0,
+              "username": "xxxlykke"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059508192313520343",
+        "in_reply_to_user_id": "1982786927716962304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059507985987276926",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xxxlykke 谢谢宝宝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1982786927716962304",
+        "conversation_id": "2059281929435025760",
+        "created_at": "2026-05-27T05:32:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T06:32:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059507985987276926"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059507985987276926",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059281929435025760",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 宝宝，我是油痘脂溢性皮炎玫瑰痤疮，我一开始去医院全方位治疗的时候，医生就建议我不爆发的时候可以去刷酸，但是一定要去医院操作，我们自己在家用小剂量的，比如博乐达，就是居家用酸，其实我还是建议能去院里就去院里刷，周期性的去。我现在很稳定了，在用传明酸➕壬二酸祛痘印中。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "🚪（纯绿 不入勿扰\n@lei_meng123 随缘过",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 10,
+                "username": "lei_meng123"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2036315164098830372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2084,
+          "following_count": 78,
+          "like_count": 20188,
+          "listed_count": 1,
+          "media_count": 245,
+          "tweet_count": 3321
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-27T12:30:33.000Z",
+        "description": "All love only for Kwon Jiyong🐉🌼 LoVe since 2011",
+        "id": "1982786927716962304",
+        "name": "lykkewithgd",
+        "pinned_tweet_id": "2056684830717558958",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054042561833209856/rvK_EOly_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 46,
+          "like_count": 1663,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 246
+        },
+        "username": "xxxlykke",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2020369231238611439",
+    "created_at": "2026-02-08T07:26:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-08T08:26:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020398912889385321"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1879824856557961216",
+          "start": 0,
+          "username": "HMXXY0220"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020398912889385321",
+    "in_reply_to_user_id": "1879824856557961216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020398790071717923",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HMXXY0220 谢谢！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2020369231238611439",
+        "created_at": "2026-02-08T07:26:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T08:26:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020398912889385321"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1879824856557961216",
+              "start": 0,
+              "username": "HMXXY0220"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020398912889385321",
+        "in_reply_to_user_id": "1879824856557961216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020398790071717923",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HMXXY0220 谢谢！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1879824856557961216",
+        "conversation_id": "2020369231238611439",
+        "created_at": "2026-02-08T07:26:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T08:26:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020398790071717923"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020398790071717923",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020369231238611439",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 可爱手，漂亮美甲😽"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2JlN5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2JlN5"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "🚪188（绿（别的私信不回",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2019333252520321256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014313058978406400/yLC08oHO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 614,
+          "following_count": 72,
+          "like_count": 6115,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 1167
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-16T09:35:55.000Z",
+        "description": "绿泡泡要52🚪，有玉足没有黄色哈。\n不接推广不线下，随便发发。",
+        "id": "1879824856557961216",
+        "location": "请叫俺小Y",
+        "name": "黑魔仙小Y",
+        "pinned_tweet_id": "1887380805217099972",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880286377042145288/JL2ar6Xn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2240,
+          "following_count": 52,
+          "like_count": 23,
+          "listed_count": 3,
+          "media_count": 40,
+          "tweet_count": 411
+        },
+        "username": "HMXXY0220",
+        "verified": false
+      }
+    ]
+  }
+}

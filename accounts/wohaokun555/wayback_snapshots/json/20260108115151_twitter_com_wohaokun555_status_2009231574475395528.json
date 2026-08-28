@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2009126703340409256",
+    "created_at": "2026-01-08T11:51:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-08T12:51:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009231574475395528"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1820898082961420289",
+          "start": 0,
+          "username": "Ejcryc3h4o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009231574475395528",
+    "in_reply_to_user_id": "1820898082961420289",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009126703340409256",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ejcryc3h4o 我点了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2009126703340409256",
+        "created_at": "2026-01-08T11:51:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T12:51:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009231574475395528"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1820898082961420289",
+              "start": 0,
+              "username": "Ejcryc3h4o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009231574475395528",
+        "in_reply_to_user_id": "1820898082961420289",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009126703340409256",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ejcryc3h4o 我点了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820898082961420289",
+        "conversation_id": "2009126703340409256",
+        "created_at": "2026-01-08T04:55:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T05:55:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009126703340409256"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2009126703340409256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4636,
+          "like_count": 111,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "下steam到底有什么难的，还没找梯子上x、代号鸢港服难，怎么老有的傻逼玩的游戏还瞧不起女生了我们只是没屌子又不是没脑子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "天天开心o^^o",
+        "id": "2004619896630788096",
+        "location": "三体星球",
+        "name": "鱼虾一整碗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004620653153189888/VWgYLNYv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 246,
+          "following_count": 53,
+          "like_count": 1586,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 530
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-06T19:02:01.000Z",
+        "description": "小画渣，我上来就为了找点文案看看，或者我自己发发，不参与zz，皮下女，喜欢跟女孩子聊天，防加v价666",
+        "id": "1820898082961420289",
+        "name": "真人",
+        "pinned_tweet_id": "2007743781366600159",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978147991920705536/-TdyXumo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 355,
+          "following_count": 188,
+          "like_count": 1619,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 672
+        },
+        "username": "Ejcryc3h4o",
+        "verified": false
+      }
+    ]
+  }
+}

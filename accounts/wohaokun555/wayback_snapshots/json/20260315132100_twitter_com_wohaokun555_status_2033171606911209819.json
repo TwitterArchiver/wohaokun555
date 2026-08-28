@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2033170508066197700",
+    "created_at": "2026-03-15T13:21:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T14:21:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033171606911209819"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1907051158751023104",
+          "start": 0,
+          "username": "Tractor_xmq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033171606911209819",
+    "in_reply_to_user_id": "1907051158751023104",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033170508066197700",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tractor_xmq 我支持。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2033170508066197700",
+        "created_at": "2026-03-15T13:21:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T14:21:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033171606911209819"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1907051158751023104",
+              "start": 0,
+              "username": "Tractor_xmq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033171606911209819",
+        "in_reply_to_user_id": "1907051158751023104",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033170508066197700",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tractor_xmq 我支持。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907051158751023104",
+        "conversation_id": "2033170508066197700",
+        "created_at": "2026-03-15T13:16:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T14:16:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033170508066197700"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2033170508066197700",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没错啊我就是这么肤浅啊 我觉得你不过🚪或者不爆金币就是没有很喜欢我啊 我都玩推特了你还要我怎么样 爱钱怎么了谁会跟钱过不去啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2JlN5\n🚪（勿扰",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2JlN5"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "除了口令别的不回！没有陪聊的义务",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2008543541979738501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1239,
+          "following_count": 97,
+          "like_count": 11544,
+          "listed_count": 1,
+          "media_count": 103,
+          "tweet_count": 2135
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-01T12:43:32.000Z",
+        "description": "我希望活到老做到老 ｜诚找学习搭子😭｜MBTI：IMQBim穷b｜🚪88/188/520/1314 ❗️推广自辨",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "dongtutu.云端飘雪.中国/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://dongtutu.xn--9kqp59h8srpyb.xn--fiqs8s/#/register?code=uOt4SSmN",
+                "start": 0,
+                "url": "https://t.co/whvgJ0aK1G"
+              }
+            ]
+          }
+        },
+        "id": "1907051158751023104",
+        "location": "0.2km",
+        "name": "西门庆坐拖拉机看武大郎洗澡",
+        "pinned_tweet_id": "1989275745685025094",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021652905887932416/lJMy1967_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5422,
+          "following_count": 412,
+          "like_count": 1921,
+          "listed_count": 8,
+          "media_count": 46,
+          "tweet_count": 1422
+        },
+        "url": "https://t.co/whvgJ0aK1G",
+        "username": "Tractor_xmq",
+        "verified": false
+      }
+    ]
+  }
+}

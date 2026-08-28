@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2075218089080504370",
+    "created_at": "2026-07-11T11:44:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T12:44:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075909155395981721"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2044069075471540224",
+          "start": 0,
+          "username": "majsjsjwiiwowiw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075909155395981721",
+    "in_reply_to_user_id": "2044069075471540224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075893850795573753",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@majsjsjwiiwowiw 还是觉得你可怜🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2075218089080504370",
+        "created_at": "2026-07-11T11:44:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T12:44:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075909155395981721"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2044069075471540224",
+              "start": 0,
+              "username": "majsjsjwiiwowiw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075909155395981721",
+        "in_reply_to_user_id": "2044069075471540224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075893850795573753",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@majsjsjwiiwowiw 还是觉得你可怜🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044069075471540224",
+        "conversation_id": "2075218089080504370",
+        "created_at": "2026-07-11T10:43:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T11:43:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075893850795573753"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075893850795573753",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075736753236050382",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 别发你的丑自拍了 煞笔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "让我成为我，让一座山并存着嶙峋和肥沃",
+        "id": "2004619896630788096",
+        "location": "置顶推广自辨",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2075862358107587032",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2827,
+          "following_count": 82,
+          "like_count": 24293,
+          "listed_count": 2,
+          "media_count": 152,
+          "tweet_count": 3903
+        },
+        "url": "",
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-14T15:03:46.000Z",
+        "description": "",
+        "id": "2044069075471540224",
+        "name": "Jjjjj",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044069120895754240/P5hnt8_J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 50,
+          "like_count": 35,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 18
+        },
+        "url": "",
+        "username": "majsjsjwiiwowiw",
+        "verified": false
+      }
+    ]
+  }
+}

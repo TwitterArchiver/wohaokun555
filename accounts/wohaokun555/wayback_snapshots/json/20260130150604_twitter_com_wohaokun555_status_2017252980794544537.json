@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2017252969453076480"
+      ]
+    },
+    "author_id": "2004619896630788096",
+    "conversation_id": "2017252980794544537",
+    "created_at": "2026-01-30T15:06:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T16:06:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2017252980794544537"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/n5dDOQsBea",
+          "end": 50,
+          "expanded_url": "https://x.com/wohaokun555/status/2017252980794544537/photo/1",
+          "media_key": "3_2017252969453076480",
+          "start": 27,
+          "url": "https://t.co/n5dDOQsBea"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017252980794544537",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "聊一两句我基本都礼貌回复 聊多了我觉得是在骚扰:-I https://t.co/n5dDOQsBea"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2017252969453076480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_6440paQAA2J3r.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017252969453076480"
+          ]
+        },
+        "author_id": "2004619896630788096",
+        "conversation_id": "2017252980794544537",
+        "created_at": "2026-01-30T15:06:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T16:06:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017252980794544537"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/n5dDOQsBea",
+              "end": 50,
+              "expanded_url": "https://x.com/wohaokun555/status/2017252980794544537/photo/1",
+              "media_key": "3_2017252969453076480",
+              "start": 27,
+              "url": "https://t.co/n5dDOQsBea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017252980794544537",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "聊一两句我基本都礼貌回复 聊多了我觉得是在骚扰:-I https://t.co/n5dDOQsBea"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2JlN5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2JlN5"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "发生殖器死妈！",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2016072861732212867",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014313058978406400/yLC08oHO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 505,
+          "following_count": 71,
+          "like_count": 4200,
+          "listed_count": 2,
+          "media_count": 49,
+          "tweet_count": 950
+        },
+        "username": "wohaokun555",
+        "verified": false
+      }
+    ]
+  }
+}

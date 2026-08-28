@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2072520708266336297",
+    "created_at": "2026-07-02T10:23:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T11:23:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072627281160462711"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2059930058555637760",
+          "start": 0,
+          "username": "yeeezike"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072627281160462711",
+    "in_reply_to_user_id": "2059930058555637760",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072520708266336297",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yeeezike 幸福"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1704,
+        "media_key": "3_2072520696073510912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMMSl6cbYAAW3Q7.jpg",
+        "width": 985
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2072520708266336297",
+        "created_at": "2026-07-02T10:23:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T11:23:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072627281160462711"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2059930058555637760",
+              "start": 0,
+              "username": "yeeezike"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072627281160462711",
+        "in_reply_to_user_id": "2059930058555637760",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072520708266336297",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yeeezike 幸福"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072520696073510912"
+          ]
+        },
+        "author_id": "2059930058555637760",
+        "conversation_id": "2072520708266336297",
+        "created_at": "2026-07-02T03:20:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T04:20:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072520708266336297"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/H5PGM1L6fr",
+              "end": 118,
+              "expanded_url": "https://x.com/yeeezike/status/2072520708266336297/photo/1",
+              "media_key": "3_2072520696073510912",
+              "start": 95,
+              "url": "https://t.co/H5PGM1L6fr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072520708266336297",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1319,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "至今不理解嫉妒心这种东西😂那种莫名其妙诋毁别人的都死了 嘴上爱女姐姐妹妹的 实则人更漂亮更优秀找到好男朋友了 反手就是一巴掌 全是坏心眼\n把他人之得视为自己之失 只会跟怨妇一样过得越来越惨 https://t.co/H5PGM1L6fr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "让我成为我，让一座山并存着嶙峋和肥沃",
+        "id": "2004619896630788096",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2070530833434476867",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2679,
+          "following_count": 82,
+          "like_count": 23677,
+          "listed_count": 2,
+          "media_count": 142,
+          "tweet_count": 3785
+        },
+        "url": "",
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-28T09:32:27.000Z",
+        "description": "想发什么发什么 我乱说的",
+        "id": "2059930058555637760",
+        "location": "喵",
+        "name": "满电椰子壳",
+        "pinned_tweet_id": "2068249860537794735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067947868842000384/MyXSMQ2t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1429,
+          "following_count": 69,
+          "like_count": 779,
+          "listed_count": 7,
+          "media_count": 47,
+          "tweet_count": 461
+        },
+        "url": "",
+        "username": "yeeezike",
+        "verified": false
+      }
+    ]
+  }
+}

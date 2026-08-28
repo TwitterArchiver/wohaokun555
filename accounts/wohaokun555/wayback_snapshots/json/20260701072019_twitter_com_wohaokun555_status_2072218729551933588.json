@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2072217141655556370",
+    "created_at": "2026-07-01T07:20:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T08:20:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072218729551933588"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2000060779056492544",
+          "start": 0,
+          "username": "kakou0026"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072218729551933588",
+    "in_reply_to_user_id": "2000060779056492544",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072218317134381346",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@kakou0026 我舒服死了呀好爽…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2072217141655556370",
+        "created_at": "2026-07-01T07:20:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T08:20:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072218729551933588"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2000060779056492544",
+              "start": 0,
+              "username": "kakou0026"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072218729551933588",
+        "in_reply_to_user_id": "2000060779056492544",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072218317134381346",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@kakou0026 我舒服死了呀好爽…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000060779056492544",
+        "conversation_id": "2072217141655556370",
+        "created_at": "2026-07-01T07:18:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T08:18:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072218317134381346"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072218317134381346",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072217141655556370",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@wohaokun555 好舒服"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "让我成为我，让一座山并存着嶙峋和肥沃",
+        "id": "2004619896630788096",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2070530833434476867",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2660,
+          "following_count": 82,
+          "like_count": 23570,
+          "listed_count": 2,
+          "media_count": 144,
+          "tweet_count": 3770
+        },
+        "url": "",
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-14T04:30:32.000Z",
+        "description": "匿名💬 https://t.co/5EKyiiCQQf\n小可可豆在这里@Cocoa_0v0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 35,
+                "username": "Cocoa_0v0"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "tellonym.me/Kakou0026",
+                "end": 27,
+                "expanded_url": "https://tellonym.me/Kakou0026",
+                "start": 4,
+                "url": "https://t.co/5EKyiiCQQf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kakou36409",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kakou36409",
+                "start": 0,
+                "url": "https://t.co/HmMHXfIDkT"
+              }
+            ]
+          }
+        },
+        "id": "2000060779056492544",
+        "location": "这里是Kakou 喜欢你来＞_＜",
+        "name": "Kakou",
+        "pinned_tweet_id": "2063090616226168997",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066913704390930432/ZSCvVdr5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5352,
+          "following_count": 192,
+          "like_count": 5834,
+          "listed_count": 12,
+          "media_count": 289,
+          "tweet_count": 4598
+        },
+        "url": "https://t.co/HmMHXfIDkT",
+        "username": "kakou0026",
+        "verified": false
+      }
+    ]
+  }
+}

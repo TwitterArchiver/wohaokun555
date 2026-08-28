@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2034503376302682574",
+    "created_at": "2026-03-19T11:16:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T12:16:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034589707628397043"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1919363955929362432",
+          "start": 0,
+          "username": "xiaomingmumu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034589707628397043",
+    "in_reply_to_user_id": "1919363955929362432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034503376302682574",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaomingmumu 看起来好美味啊好想吃"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2034503365884080128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDwCCDHbcAA8TX2.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2034503376302682574",
+        "created_at": "2026-03-19T11:16:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T12:16:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034589707628397043"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1919363955929362432",
+              "start": 0,
+              "username": "xiaomingmumu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034589707628397043",
+        "in_reply_to_user_id": "1919363955929362432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034503376302682574",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaomingmumu 看起来好美味啊好想吃"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034503365884080128"
+          ]
+        },
+        "author_id": "1919363955929362432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2034503376302682574",
+        "created_at": "2026-03-19T05:32:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T06:32:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034503376302682574"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4jUla5GwKb",
+              "end": 65,
+              "expanded_url": "https://x.com/xiaomingmumu/status/2034503376302682574/photo/1",
+              "media_key": "3_2034503365884080128",
+              "start": 42,
+              "url": "https://t.co/4jUla5GwKb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034503376302682574",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2112,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "点了一个卖轻食的，本来觉得半个吃不完就要了一整个，结果发现吃了半个我就撑死了。。。 https://t.co/4jUla5GwKb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "🚪",
+        "id": "2004619896630788096",
+        "location": "三体",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2008543541979738501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1307,
+          "following_count": 99,
+          "like_count": 12039,
+          "listed_count": 1,
+          "media_count": 108,
+          "tweet_count": 2218
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-05T12:10:10.000Z",
+        "description": "操死全世界｜匿名https://t.co/NXKVyy5G1i",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/inridscent",
+                "end": 31,
+                "expanded_url": "https://ngl.link/inridscent",
+                "start": 8,
+                "url": "https://t.co/NXKVyy5G1i"
+              }
+            ]
+          }
+        },
+        "id": "1919363955929362432",
+        "name": "一根烂棉签",
+        "pinned_tweet_id": "2007795599199142093",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007490886444429315/VErpiYVW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1786,
+          "following_count": 339,
+          "like_count": 14153,
+          "listed_count": 4,
+          "media_count": 340,
+          "tweet_count": 7300
+        },
+        "username": "xiaomingmumu",
+        "verified": false
+      }
+    ]
+  }
+}

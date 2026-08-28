@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2059978942464094714",
+    "created_at": "2026-05-28T15:17:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T16:17:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060017612910891508"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1918664114186096640",
+          "start": 0,
+          "username": "be6b1143"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060017612910891508",
+    "in_reply_to_user_id": "1918664114186096640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059978942464094714",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@be6b1143 都让让！波点女王来了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2059978927473651712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJaD65jbcAAq2NI.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2059978942464094714",
+        "created_at": "2026-05-28T15:17:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T16:17:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060017612910891508"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1918664114186096640",
+              "start": 0,
+              "username": "be6b1143"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060017612910891508",
+        "in_reply_to_user_id": "1918664114186096640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059978942464094714",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@be6b1143 都让让！波点女王来了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059978927473651712"
+          ]
+        },
+        "author_id": "1918664114186096640",
+        "conversation_id": "2059978942464094714",
+        "created_at": "2026-05-28T12:43:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T13:43:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059978942464094714"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IrYbhrqRs9",
+              "end": 35,
+              "expanded_url": "https://x.com/be6b1143/status/2059978942464094714/photo/1",
+              "media_key": "3_2059978927473651712",
+              "start": 12,
+              "url": "https://t.co/IrYbhrqRs9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059978942464094714",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1294,
+          "like_count": 85,
+          "quote_count": 0,
+          "reply_count": 41,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "还是比较喜欢这个比例🥰 https://t.co/IrYbhrqRs9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "🚪不入勿扰",
+        "id": "2004619896630788096",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2036315164098830372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2136,
+          "following_count": 78,
+          "like_count": 20490,
+          "listed_count": 2,
+          "media_count": 238,
+          "tweet_count": 3343
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-03T13:49:19.000Z",
+        "description": "爱是世界上最伟大的魔法@aumileude",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 11,
+                "username": "aumileude"
+              }
+            ]
+          }
+        },
+        "id": "1918664114186096640",
+        "name": "马奎斯",
+        "pinned_tweet_id": "2005142406526874072",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918665181972082688/met7_bU9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6458,
+          "following_count": 137,
+          "like_count": 8650,
+          "listed_count": 26,
+          "media_count": 57,
+          "tweet_count": 3111
+        },
+        "username": "be6b1143",
+        "verified": false
+      }
+    ]
+  }
+}

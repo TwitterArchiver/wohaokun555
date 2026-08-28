@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058195212959383552",
+        "3_2058195212963659777"
+      ]
+    },
+    "author_id": "2004619896630788096",
+    "conversation_id": "2058195223944302959",
+    "created_at": "2026-05-23T14:35:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T15:35:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058195223944302959"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/BJfA8bVFQf",
+          "end": 34,
+          "expanded_url": "https://x.com/wohaokun555/status/2058195223944302959/photo/1",
+          "media_key": "3_2058195212959383552",
+          "start": 11,
+          "url": "https://t.co/BJfA8bVFQf"
+        },
+        {
+          "display_url": "pic.x.com/BJfA8bVFQf",
+          "end": 34,
+          "expanded_url": "https://x.com/wohaokun555/status/2058195223944302959/photo/1",
+          "media_key": "3_2058195212963659777",
+          "start": 11,
+          "url": "https://t.co/BJfA8bVFQf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058195223944302959",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有人懂第二张的视角吗 https://t.co/BJfA8bVFQf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 992,
+        "media_key": "3_2058195212959383552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJAtpDLagAAG7Si.jpg",
+        "width": 992
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2058195212963659777",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJAtpDMbwAElOvz.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058195212959383552",
+            "3_2058195212963659777"
+          ]
+        },
+        "author_id": "2004619896630788096",
+        "conversation_id": "2058195223944302959",
+        "created_at": "2026-05-23T14:35:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T15:35:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058195223944302959"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BJfA8bVFQf",
+              "end": 34,
+              "expanded_url": "https://x.com/wohaokun555/status/2058195223944302959/photo/1",
+              "media_key": "3_2058195212959383552",
+              "start": 11,
+              "url": "https://t.co/BJfA8bVFQf"
+            },
+            {
+              "display_url": "pic.x.com/BJfA8bVFQf",
+              "end": 34,
+              "expanded_url": "https://x.com/wohaokun555/status/2058195223944302959/photo/1",
+              "media_key": "3_2058195212963659777",
+              "start": 11,
+              "url": "https://t.co/BJfA8bVFQf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058195223944302959",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有人懂第二张的视角吗 https://t.co/BJfA8bVFQf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "🚪（纯绿 不入勿扰",
+        "id": "2004619896630788096",
+        "location": "没义务陪聊 别问我乱七八糟的",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2036315164098830372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2050,
+          "following_count": 78,
+          "like_count": 19734,
+          "listed_count": 1,
+          "media_count": 242,
+          "tweet_count": 3263
+        },
+        "username": "wohaokun555",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2004938318279311811",
+    "created_at": "2025-12-28T06:57:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-28T07:57:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005171108564402308"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1909266536604512256",
+          "start": 0,
+          "username": "xun404214"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005171108564402308",
+    "in_reply_to_user_id": "1909266536604512256",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004938318279311811",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xun404214 我也是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2004938318279311811",
+        "created_at": "2025-12-28T06:57:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T07:57:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005171108564402308"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1909266536604512256",
+              "start": 0,
+              "username": "xun404214"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005171108564402308",
+        "in_reply_to_user_id": "1909266536604512256",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004938318279311811",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xun404214 我也是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1909266536604512256",
+        "conversation_id": "2004938318279311811",
+        "created_at": "2025-12-27T15:31:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T16:31:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004938318279311811"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2004938318279311811",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 28636,
+          "like_count": 236,
+          "quote_count": 0,
+          "reply_count": 23,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为啥我老是暧昧到回避型。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "🚪66",
+        "id": "2004619896630788096",
+        "location": "Hong Kong",
+        "name": "鱼虾一整碗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004620653153189888/VWgYLNYv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 13,
+          "like_count": 103,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 75
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-07T15:26:40.000Z",
+        "description": "🌈|les|dom                                                                                         \n✉️：https://t.co/BwKNjBbg24",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xun40421453166",
+                "end": 125,
+                "expanded_url": "https://ngl.link/xun40421453166",
+                "start": 102,
+                "url": "https://t.co/BwKNjBbg24"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "vpn1.fnvpn1.top/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://vpn1.fnvpn1.top/#/register?code=Aq98OCSn",
+                "start": 0,
+                "url": "https://t.co/gSP4f1P1e2"
+              }
+            ]
+          }
+        },
+        "id": "1909266536604512256",
+        "location": "ip重庆  自用蜂鸟VPN↓",
+        "name": "玄",
+        "pinned_tweet_id": "1970108852780900765",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001553818753138688/jFpJlD47_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10932,
+          "following_count": 296,
+          "like_count": 5225,
+          "listed_count": 6,
+          "media_count": 880,
+          "tweet_count": 9900
+        },
+        "url": "https://t.co/gSP4f1P1e2",
+        "username": "xun404214",
+        "verified": false
+      }
+    ]
+  }
+}

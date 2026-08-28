@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2009630777378746368"
+      ]
+    },
+    "author_id": "2004619896630788096",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2009630787067678922",
+    "created_at": "2026-01-09T14:18:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-09T15:18:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2009630787067678922"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/cK7hFBQTZL",
+          "end": 30,
+          "expanded_url": "https://x.com/wohaokun555/status/2009630787067678922/photo/1",
+          "media_key": "3_2009630777378746368",
+          "start": 7,
+          "url": "https://t.co/cK7hFBQTZL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009630787067678922",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "火鸡面我爱你 https://t.co/cK7hFBQTZL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2009630777378746368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-Oki2daMAAX6Cs.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009630777378746368"
+          ]
+        },
+        "author_id": "2004619896630788096",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2009630787067678922",
+        "created_at": "2026-01-09T14:18:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T15:18:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009630787067678922"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cK7hFBQTZL",
+              "end": 30,
+              "expanded_url": "https://x.com/wohaokun555/status/2009630787067678922/photo/1",
+              "media_key": "3_2009630777378746368",
+              "start": 7,
+              "url": "https://t.co/cK7hFBQTZL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009630787067678922",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "火鸡面我爱你 https://t.co/cK7hFBQTZL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "@lei_meng123",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 0,
+                "username": "lei_meng123"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "三体星球",
+        "name": "鱼虾一整碗",
+        "pinned_tweet_id": "2007765884035813533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004620653153189888/VWgYLNYv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 295,
+          "following_count": 63,
+          "like_count": 1990,
+          "listed_count": 1,
+          "media_count": 45,
+          "tweet_count": 658
+        },
+        "username": "wohaokun555",
+        "verified": false
+      }
+    ]
+  }
+}

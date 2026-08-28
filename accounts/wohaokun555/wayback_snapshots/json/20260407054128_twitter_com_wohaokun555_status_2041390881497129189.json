@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2041342228849889314",
+    "created_at": "2026-04-07T05:41:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T06:41:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041390881497129189"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2028879153437831168",
+          "start": 0,
+          "username": "Lanan0609"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041390881497129189",
+    "in_reply_to_user_id": "2028879153437831168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041390226954924353",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lanan0609 卧槽一模一样……一模一样…………………………………………"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2041342228849889314",
+        "created_at": "2026-04-07T05:41:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T06:41:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041390881497129189"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2028879153437831168",
+              "start": 0,
+              "username": "Lanan0609"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041390881497129189",
+        "in_reply_to_user_id": "2028879153437831168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041390226954924353",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lanan0609 卧槽一模一样……一模一样…………………………………………"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028879153437831168",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1364667946291798017",
+              "name": "Study abroad"
+            }
+          }
+        ],
+        "conversation_id": "2041342228849889314",
+        "created_at": "2026-04-07T05:38:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T06:38:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041390226954924353"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041390226954924353",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041342228849889314",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 是马院是留学是丈夫是儿子是自己的当年怎样被两个男的同时追求是自己最后怎样坚定的选择了自己的丈夫是自己的儿子多么像自己的丈夫一样优秀是自己当年留学时多么的鲜活是不理解为何现在的年轻人都死气沉沉是自己留学时周末疯狂的party是现在周末和好姐妹一起在咖啡馆约下午茶"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "",
+        "id": "2004619896630788096",
+        "location": "🚪520",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2040741237666533734",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1551,
+          "following_count": 98,
+          "like_count": 14507,
+          "listed_count": 1,
+          "media_count": 169,
+          "tweet_count": 2693
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-03T17:04:28.000Z",
+        "description": "好困……不想上课……",
+        "id": "2028879153437831168",
+        "name": "小番茄🍅",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 14,
+          "like_count": 365,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 58
+        },
+        "username": "Lanan0609",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-03T17:04:28.000Z",
+        "description": "好困……不想上课……",
+        "id": "2028879153437831168",
+        "name": "小番茄🍅",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 14,
+          "like_count": 365,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 58
+        },
+        "username": "Lanan0609",
+        "verified": true
+      }
+    ]
+  }
+}

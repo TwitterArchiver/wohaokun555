@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2024720784204472419",
+    "created_at": "2026-02-20T12:28:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T13:28:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024823581331640441"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1993529370422788105",
+          "start": 0,
+          "username": "yn5025054837629"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024823581331640441",
+    "in_reply_to_user_id": "1993529370422788105",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024823156008251625",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yn5025054837629 补药啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2024720784204472419",
+        "created_at": "2026-02-20T12:28:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T13:28:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024823581331640441"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1993529370422788105",
+              "start": 0,
+              "username": "yn5025054837629"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024823581331640441",
+        "in_reply_to_user_id": "1993529370422788105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024823156008251625",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yn5025054837629 补药啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993529370422788105",
+        "conversation_id": "2024720784204472419",
+        "created_at": "2026-02-20T12:27:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T13:27:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024823156008251625"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024823156008251625",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024720784204472419",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 我靠真牛逼，我要偷你文案了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2JlN5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2JlN5"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "除了口令和正常问题别的私信不回",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2016792238060421479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 893,
+          "following_count": 92,
+          "like_count": 8888,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 1650
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-26T03:57:05.000Z",
+        "description": "⦮_   _⦯06年大一生/当🔞朋友圈发/少萝音的皇/看到请关注吧，欢迎私信",
+        "id": "1993529370422788105",
+        "location": "🚪168",
+        "name": "拔丝蛋黄酥",
+        "pinned_tweet_id": "2023288755663348209",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005502732690673665/M9FWHdFF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 562,
+          "following_count": 10,
+          "like_count": 36,
+          "listed_count": 0,
+          "media_count": 146,
+          "tweet_count": 404
+        },
+        "username": "yn5025054837629",
+        "verified": false
+      }
+    ]
+  }
+}

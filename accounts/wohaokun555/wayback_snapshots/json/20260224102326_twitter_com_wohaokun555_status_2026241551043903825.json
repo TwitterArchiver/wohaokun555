@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2026197757388853269",
+    "created_at": "2026-02-24T10:23:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T11:23:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026241551043903825"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1773926837888208896",
+          "start": 0,
+          "username": "crybabyloveme0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026241551043903825",
+    "in_reply_to_user_id": "1773926837888208896",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026197757388853269",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@crybabyloveme0 线下店吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2026197757388853269",
+        "created_at": "2026-02-24T10:23:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T11:23:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026241551043903825"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1773926837888208896",
+              "start": 0,
+              "username": "crybabyloveme0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026241551043903825",
+        "in_reply_to_user_id": "1773926837888208896",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026197757388853269",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@crybabyloveme0 线下店吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1773926837888208896",
+        "conversation_id": "2026197757388853269",
+        "created_at": "2026-02-24T07:29:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T08:29:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026197757388853269"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2026197757388853269",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1601,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想买个石头岛的外套但是我找不到哪个平台有卖的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2JlN5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2JlN5"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "除了口令和正常问题别的私信不回",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2016792238060421479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 923,
+          "following_count": 95,
+          "like_count": 9355,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 1727
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-30T04:15:13.000Z",
+        "description": "🚪666vx/1888/5200",
+        "id": "1773926837888208896",
+        "name": "0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025891458734252032/ex0ckypv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52975,
+          "following_count": 33,
+          "like_count": 187,
+          "listed_count": 233,
+          "media_count": 383,
+          "tweet_count": 1162
+        },
+        "username": "crybabyloveme0",
+        "verified": false
+      }
+    ]
+  }
+}

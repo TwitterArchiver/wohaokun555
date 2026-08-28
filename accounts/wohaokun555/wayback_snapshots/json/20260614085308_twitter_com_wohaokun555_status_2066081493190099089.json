@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2066067455437668578",
+    "created_at": "2026-06-14T08:53:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T09:53:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066081493190099089"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2036346188061089792",
+          "start": 0,
+          "username": "Res1st_4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066081493190099089",
+    "in_reply_to_user_id": "2036346188061089792",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066067455437668578",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Res1st_4 我绷住了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2066067447481065472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKwlZaEbYAAzEOD.jpg",
+        "width": 471
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2066067455437668578",
+        "created_at": "2026-06-14T08:53:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T09:53:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066081493190099089"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2036346188061089792",
+              "start": 0,
+              "username": "Res1st_4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066081493190099089",
+        "in_reply_to_user_id": "2036346188061089792",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066067455437668578",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Res1st_4 我绷住了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066067447481065472"
+          ]
+        },
+        "author_id": "2036346188061089792",
+        "conversation_id": "2066067455437668578",
+        "created_at": "2026-06-14T07:57:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T08:57:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066067455437668578"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yFjBpcKGIW",
+              "end": 51,
+              "expanded_url": "https://x.com/Res1st_4/status/2066067455437668578/photo/1",
+              "media_key": "3_2066067447481065472",
+              "start": 28,
+              "url": "https://t.co/yFjBpcKGIW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066067455437668578",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 5149,
+          "like_count": 113,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "今日最招，笑点解析：偷我图复制到抖音然后文案用别偷好吗 https://t.co/yFjBpcKGIW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "@lei_meng123（随缘过\n这是一个女孩的内心世界🌍",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 0,
+                "username": "lei_meng123"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "私信只回口令过门 其他勿扰…",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2062769965330227585",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2302,
+          "following_count": 77,
+          "like_count": 22001,
+          "listed_count": 2,
+          "media_count": 145,
+          "tweet_count": 3526
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-24T07:36:39.000Z",
+        "description": "186/82 我是直男，就上来发发照片，本人挺装的，但是不卖，谢谢大家",
+        "id": "2036346188061089792",
+        "location": "杭州",
+        "name": "年轻的丈夫",
+        "pinned_tweet_id": "2053321304569491764",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036350278639960064/59nN_f4Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51123,
+          "following_count": 17,
+          "like_count": 1415,
+          "listed_count": 72,
+          "media_count": 184,
+          "tweet_count": 1085
+        },
+        "username": "Res1st_4",
+        "verified": false
+      }
+    ]
+  }
+}

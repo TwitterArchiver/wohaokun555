@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2007673584723104101",
+    "created_at": "2026-01-04T04:40:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-04T05:40:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2007673584723104101"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/buffys/status/…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/buffys/status/2007541729151402093",
+          "start": 15,
+          "url": "https://t.co/AQz6bXhbYU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007673584723104101",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007541729151402093",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我听我歌单be like⬇️ https://t.co/AQz6bXhbYU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1320,
+        "media_key": "3_2007541725909151744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9w4kDSW8AAoKGc.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2007673584723104101",
+        "created_at": "2026-01-04T04:40:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T05:40:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007673584723104101"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/buffys/status/…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/buffys/status/2007541729151402093",
+              "start": 15,
+              "url": "https://t.co/AQz6bXhbYU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007673584723104101",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007541729151402093",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我听我歌单be like⬇️ https://t.co/AQz6bXhbYU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007541725909151744"
+          ]
+        },
+        "author_id": "1430412014036426753",
+        "conversation_id": "2007541729151402093",
+        "created_at": "2026-01-03T19:57:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T20:57:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007541729151402093"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CkLVcM6SBp",
+              "end": 37,
+              "expanded_url": "https://x.com/buffys/status/2007541729151402093/photo/1",
+              "media_key": "3_2007541725909151744",
+              "start": 14,
+              "url": "https://t.co/CkLVcM6SBp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007541729151402093",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 170,
+          "impression_count": 140410,
+          "like_count": 1365,
+          "quote_count": 324,
+          "reply_count": 267,
+          "retweet_count": 95
+        },
+        "reply_settings": "everyone",
+        "text": "name the song https://t.co/CkLVcM6SBp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "天天开心o^^o",
+        "id": "2004619896630788096",
+        "location": "三体星球",
+        "name": "鱼虾一整碗",
+        "pinned_tweet_id": "2005582001685012508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004620653153189888/VWgYLNYv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 36,
+          "like_count": 930,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 384
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-25T06:09:40.000Z",
+        "description": "enhypen comeback january 16",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/arianagrande",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/arianagrande",
+                "start": 0,
+                "url": "https://t.co/f9sRWuBpRP"
+              }
+            ]
+          }
+        },
+        "id": "1430412014036426753",
+        "location": "Content Page/DM For Promo ♡",
+        "name": "໊",
+        "pinned_tweet_id": "1965557890313588918",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1666990480935059457/XZM1G72W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 401000,
+          "following_count": 6544,
+          "like_count": 557313,
+          "listed_count": 550,
+          "media_count": 9972,
+          "tweet_count": 44982
+        },
+        "url": "https://t.co/f9sRWuBpRP",
+        "username": "buffys",
+        "verified": true
+      }
+    ]
+  }
+}

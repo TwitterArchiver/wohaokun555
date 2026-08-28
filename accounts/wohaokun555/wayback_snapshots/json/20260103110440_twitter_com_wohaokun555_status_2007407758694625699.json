@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2007405055197299031",
+    "created_at": "2026-01-03T11:04:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-03T12:04:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007407758694625699"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1912112307691474944",
+          "start": 0,
+          "username": "liu1348678"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007407758694625699",
+    "in_reply_to_user_id": "1912112307691474944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007407216807292943",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liu1348678 这是我🚪哥(o^^o)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2007405055197299031",
+        "created_at": "2026-01-03T11:04:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T12:04:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007407758694625699"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1912112307691474944",
+              "start": 0,
+              "username": "liu1348678"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007407758694625699",
+        "in_reply_to_user_id": "1912112307691474944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007407216807292943",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liu1348678 这是我🚪哥(o^^o)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912112307691474944",
+        "conversation_id": "2007405055197299031",
+        "created_at": "2026-01-03T11:02:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T12:02:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007407216807292943"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007407216807292943",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007405055197299031",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 我也想要这种哥哥"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "天天开心o^^o",
+        "id": "2004619896630788096",
+        "location": "三体星球",
+        "name": "鱼虾一整碗",
+        "pinned_tweet_id": "2005582001685012508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004620653153189888/VWgYLNYv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 35,
+          "like_count": 789,
+          "listed_count": 1,
+          "media_count": 26,
+          "tweet_count": 362
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-15T11:54:45.000Z",
+        "description": "07男高/分享日常/ SW/交友/🚪姐勿扰——欢迎互关/",
+        "id": "1912112307691474944",
+        "location": "Los Angeles, CA",
+        "name": "悲伤蛙的哲学（开学版）",
+        "pinned_tweet_id": "2004126712792261005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000932086526697479/h-pcvyNt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 81,
+          "like_count": 1261,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 518
+        },
+        "username": "liu1348678",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2008923858687201554",
+    "created_at": "2026-01-07T16:35:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-07T17:35:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008940634468700277"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1982331713188732930",
+          "start": 0,
+          "username": "chenwu52099"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008940634468700277",
+    "in_reply_to_user_id": "1982331713188732930",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008923858687201554",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chenwu52099 谁来看我挖耳屎"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2008923858687201554",
+        "created_at": "2026-01-07T16:35:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T17:35:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008940634468700277"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1982331713188732930",
+              "start": 0,
+              "username": "chenwu52099"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008940634468700277",
+        "in_reply_to_user_id": "1982331713188732930",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008923858687201554",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chenwu52099 谁来看我挖耳屎"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1982331713188732930",
+        "conversation_id": "2008923858687201554",
+        "created_at": "2026-01-07T15:29:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T16:29:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008923858687201554"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2008923858687201554",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 570,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真没招了，我俩🚪姐。一个给我看她拉的粑粑，一个给我看满血的姨妈巾，停停停，等我联系精神科给你们抓去看看病。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "天天开心o^^o",
+        "id": "2004619896630788096",
+        "location": "三体星球",
+        "name": "鱼虾一整碗",
+        "pinned_tweet_id": "2008798162614640930",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004620653153189888/VWgYLNYv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 51,
+          "like_count": 1464,
+          "listed_count": 1,
+          "media_count": 32,
+          "tweet_count": 484
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-26T06:22:00.000Z",
+        "description": "我将视奸每一个点赞我的人",
+        "id": "1982331713188732930",
+        "name": "瑞幸咖啡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982365458570334208/btjrEdOj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 224,
+          "like_count": 796,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 222
+        },
+        "username": "chenwu52099",
+        "verified": false
+      }
+    ]
+  }
+}

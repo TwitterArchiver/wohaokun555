@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2040062782746571090",
+    "created_at": "2026-04-03T13:44:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T14:44:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040062782746571090"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2040062782746571090",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "文字有时候太贫瘠 有些感情太浓太重 像一团棉花堵在胸口 你问我想要说什么 我不知道 于是我看着你 突然好想叹口气"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2040062782746571090",
+        "created_at": "2026-04-03T13:44:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T14:44:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040062782746571090"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040062782746571090",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "文字有时候太贫瘠 有些感情太浓太重 像一团棉花堵在胸口 你问我想要说什么 我不知道 于是我看着你 突然好想叹口气"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "",
+        "id": "2004619896630788096",
+        "location": "🚪520",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2007765884035813533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1535,
+          "following_count": 98,
+          "like_count": 14092,
+          "listed_count": 1,
+          "media_count": 153,
+          "tweet_count": 2586
+        },
+        "username": "wohaokun555",
+        "verified": false
+      }
+    ]
+  }
+}

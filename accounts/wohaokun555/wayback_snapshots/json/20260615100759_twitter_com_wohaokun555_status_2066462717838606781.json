@@ -1,0 +1,449 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2066461656511570084",
+    "created_at": "2026-06-15T10:07:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T11:07:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066462717838606781"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1901287406919360512",
+          "start": 0,
+          "username": "4ever_keep_move"
+        },
+        {
+          "end": 29,
+          "id": "1647385389785841664",
+          "start": 17,
+          "username": "Raffaele042"
+        },
+        {
+          "end": 42,
+          "id": "2009538345274425344",
+          "start": 30,
+          "username": "lei_meng123"
+        },
+        {
+          "end": 53,
+          "id": "1883889657320247296",
+          "start": 43,
+          "username": "i7uu12yy7"
+        },
+        {
+          "end": 68,
+          "id": "1811351392180944896",
+          "start": 54,
+          "username": "1297074057bzk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066462717838606781",
+    "in_reply_to_user_id": "1901287406919360512",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066462311259500568",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@4ever_keep_move @Raffaele042 @lei_meng123 @i7uu12yy7 @1297074057bzk 笑死我了孩子"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2066461656511570084",
+        "created_at": "2026-06-15T10:07:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T11:07:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066462717838606781"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1901287406919360512",
+              "start": 0,
+              "username": "4ever_keep_move"
+            },
+            {
+              "end": 29,
+              "id": "1647385389785841664",
+              "start": 17,
+              "username": "Raffaele042"
+            },
+            {
+              "end": 42,
+              "id": "2009538345274425344",
+              "start": 30,
+              "username": "lei_meng123"
+            },
+            {
+              "end": 53,
+              "id": "1883889657320247296",
+              "start": 43,
+              "username": "i7uu12yy7"
+            },
+            {
+              "end": 68,
+              "id": "1811351392180944896",
+              "start": 54,
+              "username": "1297074057bzk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066462717838606781",
+        "in_reply_to_user_id": "1901287406919360512",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066462311259500568",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@4ever_keep_move @Raffaele042 @lei_meng123 @i7uu12yy7 @1297074057bzk 笑死我了孩子"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1901287406919360512",
+        "conversation_id": "2066461656511570084",
+        "created_at": "2026-06-15T10:06:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T11:06:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066462311259500568"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            },
+            {
+              "end": 25,
+              "id": "1647385389785841664",
+              "start": 13,
+              "username": "Raffaele042"
+            },
+            {
+              "end": 38,
+              "id": "2009538345274425344",
+              "start": 26,
+              "username": "lei_meng123"
+            },
+            {
+              "end": 49,
+              "id": "1883889657320247296",
+              "start": 39,
+              "username": "i7uu12yy7"
+            },
+            {
+              "end": 64,
+              "id": "1811351392180944896",
+              "start": 50,
+              "username": "1297074057bzk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066462311259500568",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066461656511570084",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 @Raffaele042 @lei_meng123 @i7uu12yy7 @1297074057bzk 还有我的事呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "@lei_meng123（随缘过\n这是一个女孩的内心世界🌍",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 0,
+                "username": "lei_meng123"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "私信只回口令过门 其他勿扰…",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2062769965330227585",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2379,
+          "following_count": 78,
+          "like_count": 22190,
+          "listed_count": 2,
+          "media_count": 143,
+          "tweet_count": 3541
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-16T15:00:26.000Z",
+        "description": "不聊骚不线下纯当朋友圈发丨05 直男 男同放过我谢谢",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%AA%9D%E5%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%AA%9D%E5%94%89%E8%82%A0%E7%B2%89",
+                "start": 0,
+                "url": "https://t.co/W4kfcgBEBv"
+              }
+            ]
+          }
+        },
+        "id": "1901287406919360512",
+        "name": "Nam_",
+        "pinned_tweet_id": "1980821798678937639",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048123461718130688/QXFGUnsE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2206,
+          "following_count": 297,
+          "like_count": 25477,
+          "listed_count": 4,
+          "media_count": 276,
+          "tweet_count": 6562
+        },
+        "url": "https://t.co/W4kfcgBEBv",
+        "username": "4ever_keep_move",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-15T23:44:56.000Z",
+        "description": "Bishop takes Knight’s Pawn\n#电子食堂 #赛博厨子 #盗图转帖动物园 #阳痿文学大文豪 #悲观丧文化代表性传承人 #推特第一丑男 #油腻屌丝 #超龄男大\n博士在读，研究方向主攻吃喝玩乐，珠三角挂不起玉牌的憋佬仔。发表主观自我言论，记录生活，骂赞关取ban随意。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 32,
+                "start": 27,
+                "tag": "电子食堂"
+              },
+              {
+                "end": 38,
+                "start": 33,
+                "tag": "赛博厨子"
+              },
+              {
+                "end": 47,
+                "start": 39,
+                "tag": "盗图转帖动物园"
+              },
+              {
+                "end": 56,
+                "start": 48,
+                "tag": "阳痿文学大文豪"
+              },
+              {
+                "end": 69,
+                "start": 57,
+                "tag": "悲观丧文化代表性传承人"
+              },
+              {
+                "end": 77,
+                "start": 70,
+                "tag": "推特第一丑男"
+              },
+              {
+                "end": 83,
+                "start": 78,
+                "tag": "油腻屌丝"
+              },
+              {
+                "end": 89,
+                "start": 84,
+                "tag": "超龄男大"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/raffele0421",
+                "end": 23,
+                "expanded_url": "https://ngl.link/raffele0421",
+                "start": 0,
+                "url": "https://t.co/3xlSSWfRn8"
+              }
+            ]
+          }
+        },
+        "id": "1647385389785841664",
+        "location": "梦在木星！",
+        "name": "HAL-9000 ⁺✞ʚClaude重度依赖ɞ✟₊",
+        "pinned_tweet_id": "1741351717218959835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778670379588026368/vD2DxYk8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2245,
+          "following_count": 600,
+          "like_count": 152450,
+          "listed_count": 9,
+          "media_count": 2115,
+          "tweet_count": 19485
+        },
+        "url": "https://t.co/3xlSSWfRn8",
+        "username": "Raffaele042",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-09T08:10:58.000Z",
+        "description": "thoughts…",
+        "id": "2009538345274425344",
+        "name": "神",
+        "pinned_tweet_id": "2012395239319691340",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059650467194712064/NIMNPll8_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 12,
+          "like_count": 1536,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 233
+        },
+        "username": "lei_meng123",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-27T14:48:00.000Z",
+        "description": "漂泊在那平庸之海   坏情绪@maxwell_an59209",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 14,
+                "username": "maxwell_an59209"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/qm84069",
+                "end": 23,
+                "expanded_url": "https://ngl.link/qm84069",
+                "start": 0,
+                "url": "https://t.co/AO8DeIdV8p"
+              }
+            ]
+          }
+        },
+        "id": "1883889657320247296",
+        "location": "我想你",
+        "name": "FF77",
+        "pinned_tweet_id": "2065820970498068780",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064209358574264320/L6_3DOcv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2662,
+          "following_count": 182,
+          "like_count": 19532,
+          "listed_count": 2,
+          "media_count": 262,
+          "tweet_count": 2977
+        },
+        "url": "https://t.co/AO8DeIdV8p",
+        "username": "i7uu12yy7",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-11T10:46:55.000Z",
+        "description": "",
+        "id": "1811351392180944896",
+        "name": "空条承太郎",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847702664605552641/oOi5HIyd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 78,
+          "like_count": 365,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 495
+        },
+        "username": "1297074057bzk",
+        "verified": false
+      }
+    ]
+  }
+}

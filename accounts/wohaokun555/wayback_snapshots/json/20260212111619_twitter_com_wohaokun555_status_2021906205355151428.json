@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2021888715392791018",
+    "created_at": "2026-02-12T11:16:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T12:16:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021906205355151428"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1761655410820579328",
+          "start": 0,
+          "username": "luckykt17"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021906205355151428",
+    "in_reply_to_user_id": "1761655410820579328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021888715392791018",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@luckykt17 妈妈"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2021888706056269835",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA8xENPbsAsPS3x.jpg",
+        "width": 1428
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2021888715392791018",
+        "created_at": "2026-02-12T11:16:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T12:16:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021906205355151428"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1761655410820579328",
+              "start": 0,
+              "username": "luckykt17"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021906205355151428",
+        "in_reply_to_user_id": "1761655410820579328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021888715392791018",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luckykt17 妈妈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021888706056269835"
+          ]
+        },
+        "author_id": "1761655410820579328",
+        "conversation_id": "2021888715392791018",
+        "created_at": "2026-02-12T10:06:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T11:06:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021888715392791018"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1p8hGZhmxq",
+              "end": 39,
+              "expanded_url": "https://x.com/luckykt17/status/2021888715392791018/photo/1",
+              "media_key": "3_2021888706056269835",
+              "start": 16,
+              "url": "https://t.co/1p8hGZhmxq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021888715392791018",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 499,
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "金巴兰𓇼 ⋆｡˚ 🐋⋆｡˚ 𓇼 https://t.co/1p8hGZhmxq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2JlN5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2JlN5"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "🚪188（纯绿纯绿纯绿纯绿（别的私信不回",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2019333252520321256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014313058978406400/yLC08oHO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 689,
+          "following_count": 76,
+          "like_count": 6962,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 1327
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-25T07:32:50.000Z",
+        "description": "167cm 万事如意｜女孩子回关。@xiaying1117仅过互关。骂我的4000+",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 17,
+                "username": "xiaying1117"
+              }
+            ]
+          }
+        },
+        "id": "1761655410820579328",
+        "location": "爱己者风生水起",
+        "name": "恋绘兔",
+        "pinned_tweet_id": "2020877340218450149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002632185489338373/yn0gPdxk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2353,
+          "following_count": 156,
+          "like_count": 2048,
+          "listed_count": 4,
+          "media_count": 104,
+          "tweet_count": 1038
+        },
+        "username": "luckykt17",
+        "verified": false
+      }
+    ]
+  }
+}

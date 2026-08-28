@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2009305094513115608",
+    "created_at": "2026-01-09T04:27:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-09T05:27:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009482074198270264"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1912326279468122112",
+          "start": 0,
+          "username": "opitia255274"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009482074198270264",
+    "in_reply_to_user_id": "1912326279468122112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009305094513115608",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@opitia255274 还没我扮男装帅…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2009305081968250884",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-J8U4ga0AQ-R0J.jpg",
+        "width": 1159
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2009305094513115608",
+        "created_at": "2026-01-09T04:27:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T05:27:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009482074198270264"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1912326279468122112",
+              "start": 0,
+              "username": "opitia255274"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009482074198270264",
+        "in_reply_to_user_id": "1912326279468122112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009305094513115608",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@opitia255274 还没我扮男装帅…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009305081968250884"
+          ]
+        },
+        "author_id": "1912326279468122112",
+        "conversation_id": "2009305094513115608",
+        "created_at": "2026-01-08T16:44:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T17:44:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009305094513115608"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ac4Iuv3lzm",
+              "end": 35,
+              "expanded_url": "https://x.com/opitia255274/status/2009305094513115608/photo/1",
+              "media_key": "3_2009305081968250884",
+              "start": 12,
+              "url": "https://t.co/Ac4Iuv3lzm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009305094513115608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 84960,
+          "like_count": 170,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "各位洗洗脸准备出道吧。 https://t.co/Ac4Iuv3lzm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "天天开心o^^o",
+        "id": "2004619896630788096",
+        "location": "三体星球",
+        "name": "鱼虾一整碗",
+        "pinned_tweet_id": "2007765884035813533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004620653153189888/VWgYLNYv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 267,
+          "following_count": 57,
+          "like_count": 1734,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 591
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-16T02:05:00.000Z",
+        "description": "小奴@mm111111_媳妇@givemeyea 自用蜂鸟vpn：https://t.co/1didLcIaDO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "mm111111_"
+              },
+              {
+                "end": 24,
+                "start": 14,
+                "username": "givemeyea"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "sachlife.com/#/register?cod…",
+                "end": 56,
+                "expanded_url": "https://www.sachlife.com/#/register?code=nnoM5r5C",
+                "start": 33,
+                "url": "https://t.co/1didLcIaDO"
+              }
+            ]
+          }
+        },
+        "id": "1912326279468122112",
+        "location": "天堂",
+        "name": "戒撸的仙人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003063143376007168/RzIA3g3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2557,
+          "following_count": 371,
+          "like_count": 4559,
+          "listed_count": 2,
+          "media_count": 120,
+          "tweet_count": 1785
+        },
+        "username": "opitia255274",
+        "verified": false
+      }
+    ]
+  }
+}

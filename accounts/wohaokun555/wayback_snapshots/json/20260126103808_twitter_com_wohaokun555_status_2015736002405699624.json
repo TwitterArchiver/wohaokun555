@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2015454412031057999",
+    "created_at": "2026-01-26T10:38:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T11:38:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015736002405699624"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1911754182035644416",
+          "start": 0,
+          "username": "kittovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015736002405699624",
+    "in_reply_to_user_id": "1911754182035644416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015454412031057999",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kittovo 屁股放这里了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2015454412031057999",
+        "created_at": "2026-01-26T10:38:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T11:38:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015736002405699624"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1911754182035644416",
+              "start": 0,
+              "username": "kittovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015736002405699624",
+        "in_reply_to_user_id": "1911754182035644416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015454412031057999",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kittovo 屁股放这里了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1911754182035644416",
+        "conversation_id": "2015454412031057999",
+        "created_at": "2026-01-25T15:59:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T16:59:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015454412031057999"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2015454412031057999",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5966,
+          "like_count": 39,
+          "quote_count": 0,
+          "reply_count": 74,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "【6000粉感恩】📣\n\n❕此条评论抽10人18.8🧧\n\n*必须是关注了我的同志！\n*最终解释权归kitto\n\n感谢有你🐾"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2JlN5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2JlN5"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "🤔",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2007765884035813533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014313058978406400/yLC08oHO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 459,
+          "following_count": 70,
+          "like_count": 3139,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 815
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-14T12:11:51.000Z",
+        "description": "175/49｜可以叫我吉豆｜碎碎念｜不线下｜私信只回有趣的和口令｜无原味｜brat｜Viva la vida 🐾₊⁺｜提问箱https://t.co/tjoxi7MfWl｜自用vpn⬇️",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kitto34732",
+                "end": 85,
+                "expanded_url": "https://ngl.link/kitto34732",
+                "start": 62,
+                "url": "https://t.co/tjoxi7MfWl"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pilot.damoplane.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://pilot.damoplane.com/#/register?code=x3R719WD",
+                "start": 0,
+                "url": "https://t.co/X9sFhUsVEL"
+              }
+            ]
+          }
+        },
+        "id": "1911754182035644416",
+        "location": "🚪188/520",
+        "name": "kitto_0",
+        "pinned_tweet_id": "1988289089184166253",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964370018906624002/I5UqAazg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7265,
+          "following_count": 40,
+          "like_count": 278,
+          "listed_count": 33,
+          "media_count": 59,
+          "tweet_count": 357
+        },
+        "url": "https://t.co/X9sFhUsVEL",
+        "username": "kittovo",
+        "verified": false
+      }
+    ]
+  }
+}

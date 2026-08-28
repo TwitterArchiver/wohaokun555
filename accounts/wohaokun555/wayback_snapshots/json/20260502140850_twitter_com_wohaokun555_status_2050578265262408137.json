@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2050151206623056090",
+    "created_at": "2026-05-02T14:08:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T15:08:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050578265262408137"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1276925683445501954",
+          "start": 0,
+          "username": "wcnmnmsl250"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050578265262408137",
+    "in_reply_to_user_id": "1276925683445501954",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050577582052253711",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wcnmnmsl250 卧槽可以"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2050151206623056090",
+        "created_at": "2026-05-02T14:08:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T15:08:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050578265262408137"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1276925683445501954",
+              "start": 0,
+              "username": "wcnmnmsl250"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050578265262408137",
+        "in_reply_to_user_id": "1276925683445501954",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050577582052253711",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wcnmnmsl250 卧槽可以"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1276925683445501954",
+        "conversation_id": "2050151206623056090",
+        "created_at": "2026-05-02T14:06:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T15:06:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050577582052253711"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050577582052253711",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050151206623056090",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 这个大赛我支持，还有游戏大赛，电子阳痿不知道玩什么的时候可以找游戏或者游戏搭子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "",
+        "id": "2004619896630788096",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2007765884035813533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1945,
+          "following_count": 99,
+          "like_count": 17943,
+          "listed_count": 1,
+          "media_count": 209,
+          "tweet_count": 3037
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-27T17:09:54.000Z",
+        "description": "贫乳是神！",
+        "id": "1276925683445501954",
+        "location": "理塘",
+        "name": "无敌土豆大王33",
+        "pinned_tweet_id": "1937412400472629513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958199669873618945/w1rc8Lvf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 1152,
+          "like_count": 10631,
+          "listed_count": 1,
+          "media_count": 206,
+          "tweet_count": 1829
+        },
+        "username": "wcnmnmsl250",
+        "verified": false
+      }
+    ]
+  }
+}

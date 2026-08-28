@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2007462566369604010",
+    "created_at": "2026-01-04T03:47:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-04T04:47:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007660122575909153"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1505436578553860097",
+          "start": 0,
+          "username": "Yu_5970"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007660122575909153",
+    "in_reply_to_user_id": "1505436578553860097",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007659821483676070",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yu_5970 只是想补一下门槛 因为刚开始说是纯绿 但是聊到一点h了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2007462566369604010",
+        "created_at": "2026-01-04T03:47:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T04:47:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007660122575909153"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1505436578553860097",
+              "start": 0,
+              "username": "Yu_5970"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007660122575909153",
+        "in_reply_to_user_id": "1505436578553860097",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007659821483676070",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yu_5970 只是想补一下门槛 因为刚开始说是纯绿 但是聊到一点h了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1505436578553860097",
+        "conversation_id": "2007462566369604010",
+        "created_at": "2026-01-04T03:46:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T04:46:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007659821483676070"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007659821483676070",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007462566369604010",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 才520就要买断吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "天天开心o^^o",
+        "id": "2004619896630788096",
+        "location": "三体星球",
+        "name": "鱼虾一整碗",
+        "pinned_tweet_id": "2005582001685012508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004620653153189888/VWgYLNYv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 35,
+          "like_count": 923,
+          "listed_count": 1,
+          "media_count": 29,
+          "tweet_count": 384
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-20T06:50:41.000Z",
+        "description": "🚪288/520不线下不接11不闲聊 喜欢我就给我转钱 我爱钱",
+        "id": "1505436578553860097",
+        "name": "乖乖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001693498567987202/m4qcGzZA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62070,
+          "following_count": 21,
+          "like_count": 101,
+          "listed_count": 131,
+          "media_count": 117,
+          "tweet_count": 5307
+        },
+        "username": "Yu_5970",
+        "verified": false
+      }
+    ]
+  }
+}

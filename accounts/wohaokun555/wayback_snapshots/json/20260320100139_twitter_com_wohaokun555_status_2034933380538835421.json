@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2034889711194677489",
+    "created_at": "2026-03-20T10:01:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T11:01:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034933380538835421"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1952302490218831872",
+          "start": 0,
+          "username": "cooulaaa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034933380538835421",
+    "in_reply_to_user_id": "1952302490218831872",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034932068896108913",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cooulaaa 俺也是～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2034889711194677489",
+        "created_at": "2026-03-20T10:01:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T11:01:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034933380538835421"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1952302490218831872",
+              "start": 0,
+              "username": "cooulaaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034933380538835421",
+        "in_reply_to_user_id": "1952302490218831872",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034932068896108913",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cooulaaa 俺也是～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1952302490218831872",
+        "conversation_id": "2034889711194677489",
+        "created_at": "2026-03-20T09:56:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T10:56:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034932068896108913"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034932068896108913",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034889711194677489",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 好美呀…我爱你呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "🚪",
+        "id": "2004619896630788096",
+        "location": "三体",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2008543541979738501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1298,
+          "following_count": 99,
+          "like_count": 12164,
+          "listed_count": 1,
+          "media_count": 112,
+          "tweet_count": 2242
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-04T09:36:11.000Z",
+        "description": "我只是个懵逼的单细胞生物草履虫呀。                                   08高二在读｜暴露癖小号@chng1089971 只过互关or🚪（谨慎关注 目前里面只有色图。｜提问箱👉https://t.co/RBn9R5a4wy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 64,
+                "username": "chng1089971"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%8D%89%E5%B…",
+                "end": 127,
+                "expanded_url": "https://ngl.link/%E8%8D%89%E5%B1%A5%E8%99%AB",
+                "start": 104,
+                "url": "https://t.co/RBn9R5a4wy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tz86.vip/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.tz86.vip/#/register?code=4nDoXVYO",
+                "start": 0,
+                "url": "https://t.co/fplUYhn3rj"
+              }
+            ]
+          }
+        },
+        "id": "1952302490218831872",
+        "location": "有🚪",
+        "name": "忧郁萌神草履虫",
+        "pinned_tweet_id": "2027423487170916519",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028332698625003521/i3elCBTB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3534,
+          "following_count": 294,
+          "like_count": 601,
+          "listed_count": 9,
+          "media_count": 165,
+          "tweet_count": 920
+        },
+        "url": "https://t.co/fplUYhn3rj",
+        "username": "cooulaaa",
+        "verified": false
+      }
+    ]
+  }
+}

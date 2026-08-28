@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1364667946291798017",
+          "name": "Study abroad"
+        }
+      }
+    ],
+    "conversation_id": "2019248873668243480",
+    "created_at": "2026-02-05T03:17:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-05T04:17:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2019248873668243480"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2019248873668243480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你就不能一手抓考公，一手抓选调，一手抓国考，一手抓省考，一手抓军考，一手抓文考，一手抓教资，一手抓考研，一手抓复试，一手抓留学，一手抓雅思，一手抓托福，一手抓作品，一手抓实习，一手抓面试，一手抓秋招，一手抓春招，一手抓创业，一手抓毕设，一手抓恋爱吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1364667946291798017",
+              "name": "Study abroad"
+            }
+          }
+        ],
+        "conversation_id": "2019248873668243480",
+        "created_at": "2026-02-05T03:17:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T04:17:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019248873668243480"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2019248873668243480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你就不能一手抓考公，一手抓选调，一手抓国考，一手抓省考，一手抓军考，一手抓文考，一手抓教资，一手抓考研，一手抓复试，一手抓留学，一手抓雅思，一手抓托福，一手抓作品，一手抓实习，一手抓面试，一手抓秋招，一手抓春招，一手抓创业，一手抓毕设，一手抓恋爱吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2JlN5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2JlN5"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "🚪188（别的私信不回",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2008543541979738501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014313058978406400/yLC08oHO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 572,
+          "following_count": 71,
+          "like_count": 5347,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 1007
+        },
+        "username": "wohaokun555",
+        "verified": false
+      }
+    ]
+  }
+}

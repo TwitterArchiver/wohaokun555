@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2070467150964482549",
+    "created_at": "2026-06-27T06:46:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T07:46:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070760665615421478"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1622587760514158593",
+          "start": 0,
+          "username": "ForlikOOO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070760665615421478",
+    "in_reply_to_user_id": "1622587760514158593",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070467150964482549",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ForlikOOO 既要又要的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2070467150964482549",
+        "created_at": "2026-06-27T06:46:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T07:46:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070760665615421478"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1622587760514158593",
+              "start": 0,
+              "username": "ForlikOOO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070760665615421478",
+        "in_reply_to_user_id": "1622587760514158593",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070467150964482549",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ForlikOOO 既要又要的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622587760514158593",
+        "conversation_id": "2070467150964482549",
+        "created_at": "2026-06-26T11:20:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T12:20:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070467150964482549"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070467150964482549",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 130521,
+          "like_count": 2574,
+          "quote_count": 6,
+          "reply_count": 164,
+          "retweet_count": 116
+        },
+        "reply_settings": "everyone",
+        "text": "真心觉得出国玩穿和服/琉球服/朝鲜服/韩服之类的东西然后还要说什么是“爷爷穿孙子衣服”值得被人家一个拉黑永不准入境"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "让我成为我，让一座山并存着嶙峋和肥沃",
+        "id": "2004619896630788096",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2070530833434476867",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2559,
+          "following_count": 81,
+          "like_count": 22985,
+          "listed_count": 2,
+          "media_count": 140,
+          "tweet_count": 3683
+        },
+        "url": "",
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-06T13:27:34.000Z",
+        "description": "我是cyclo，中文/English/Deutsch，she/her，bi。有对象感情非常好。不厌男不厌女，厌脑残。incel/terf/pinky/反lfbtq都滚。互关可以来：@smolc123 提问箱：https://t.co/WNwv3YVZzj",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 90,
+                "username": "smolc123"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/cyclo86441",
+                "end": 127,
+                "expanded_url": "https://ngl.link/cyclo86441",
+                "start": 104,
+                "url": "https://t.co/WNwv3YVZzj"
+              }
+            ]
+          }
+        },
+        "id": "1622587760514158593",
+        "location": "München, Bayern",
+        "name": "皱巴巴的肠粉最好吃了",
+        "pinned_tweet_id": "2057500065078595596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064747339034894336/BvxBM4bw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2391,
+          "following_count": 283,
+          "like_count": 54097,
+          "listed_count": 3,
+          "media_count": 619,
+          "tweet_count": 12291
+        },
+        "url": "",
+        "username": "ForlikOOO",
+        "verified": false
+      }
+    ]
+  }
+}

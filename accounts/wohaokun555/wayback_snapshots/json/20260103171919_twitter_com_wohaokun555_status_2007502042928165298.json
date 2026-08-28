@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2007462566369604010",
+    "created_at": "2026-01-03T17:19:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-03T18:19:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007502042928165298"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1869423363258724352",
+          "start": 0,
+          "username": "ChinaTafeei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007502042928165298",
+    "in_reply_to_user_id": "1869423363258724352",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007501841719001224",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChinaTafeei ？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2007462566369604010",
+        "created_at": "2026-01-03T17:19:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T18:19:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007502042928165298"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1869423363258724352",
+              "start": 0,
+              "username": "ChinaTafeei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007502042928165298",
+        "in_reply_to_user_id": "1869423363258724352",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007501841719001224",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChinaTafeei ？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1869423363258724352",
+        "conversation_id": "2007462566369604010",
+        "created_at": "2026-01-03T17:18:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T18:18:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007501841719001224"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007501841719001224",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007462566369604010",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 🐢完了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "天天开心o^^o",
+        "id": "2004619896630788096",
+        "location": "三体星球",
+        "name": "鱼虾一整碗",
+        "pinned_tweet_id": "2005582001685012508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004620653153189888/VWgYLNYv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 35,
+          "like_count": 897,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 375
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-18T16:44:20.000Z",
+        "description": "",
+        "id": "1869423363258724352",
+        "name": "塔菲",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869423464798736384/xApH3W3t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 71,
+          "like_count": 99,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 31
+        },
+        "username": "ChinaTafeei",
+        "verified": false
+      }
+    ]
+  }
+}

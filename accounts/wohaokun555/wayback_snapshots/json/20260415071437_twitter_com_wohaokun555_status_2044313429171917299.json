@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2044298505746035100",
+    "created_at": "2026-04-15T07:14:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T08:14:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044313429171917299"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1898460414100602880",
+          "start": 0,
+          "username": "z4460614195842"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044313429171917299",
+    "in_reply_to_user_id": "1898460414100602880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044298505746035100",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@z4460614195842 我哭了小calpol你咋这么聪明"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2044298505746035100",
+        "created_at": "2026-04-15T07:14:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T08:14:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044313429171917299"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1898460414100602880",
+              "start": 0,
+              "username": "z4460614195842"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044313429171917299",
+        "in_reply_to_user_id": "1898460414100602880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044298505746035100",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@z4460614195842 我哭了小calpol你咋这么聪明"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898460414100602880",
+        "conversation_id": "2044298505746035100",
+        "created_at": "2026-04-15T06:15:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T07:15:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044298505746035100"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044298505746035100",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "都说信息差能赚钱，有一个例子，就是我从大二开始就在尝试给一些留学生辅导，主要是用英语教他们写微积分概率论微分方程等数学课程，富哥们通常给的很高，虽然需要给中介一部分费用，但最后剩的数字也要比广州这里平均家教薪资高不少。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "每天发些乱七八糟的碎碎念 和一些自认为很好看的自拍照 分享号主的忧郁极品生活",
+        "id": "2004619896630788096",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2036315164098830372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1585,
+          "following_count": 98,
+          "like_count": 15646,
+          "listed_count": 1,
+          "media_count": 185,
+          "tweet_count": 2861
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-08T19:47:00.000Z",
+        "description": "泛知爱好者～亚文化观察者～攻读数学科学与社会学～来推上是为了寻找同频～无恋爱向交友打算～可以做你的闲谈与倾听者～私信前请先关注～定期删闲聊回复只是为了保证时间线清爽",
+        "id": "1898460414100602880",
+        "location": "广州/香港",
+        "name": "Calpol",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921196297861685248/pnn7m4QX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 252,
+          "like_count": 2408,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 762
+        },
+        "username": "z4460614195842",
+        "verified": true
+      }
+    ]
+  }
+}

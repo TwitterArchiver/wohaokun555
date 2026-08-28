@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2028820633581445121"
+      ]
+    },
+    "author_id": "2004619896630788096",
+    "conversation_id": "2028820640279806155",
+    "created_at": "2026-03-03T13:11:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T14:11:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2028820640279806155"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/5YYzTjZPRY",
+          "end": 28,
+          "expanded_url": "https://x.com/wohaokun555/status/2028820640279806155/photo/1",
+          "media_key": "3_2028820633581445121",
+          "start": 5,
+          "url": "https://t.co/5YYzTjZPRY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028820640279806155",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好可爱吧 https://t.co/5YYzTjZPRY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2028820633581445121",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCfRnfma4AEMzTx.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028820633581445121"
+          ]
+        },
+        "author_id": "2004619896630788096",
+        "conversation_id": "2028820640279806155",
+        "created_at": "2026-03-03T13:11:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T14:11:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028820640279806155"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5YYzTjZPRY",
+              "end": 28,
+              "expanded_url": "https://x.com/wohaokun555/status/2028820640279806155/photo/1",
+              "media_key": "3_2028820633581445121",
+              "start": 5,
+              "url": "https://t.co/5YYzTjZPRY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028820640279806155",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好可爱吧 https://t.co/5YYzTjZPRY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2JlN5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2JlN5"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "除了口令和正常问题别的私信不回",
+        "name": "中推忧郁神",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1053,
+          "following_count": 94,
+          "like_count": 10041,
+          "listed_count": 1,
+          "media_count": 66,
+          "tweet_count": 1825
+        },
+        "username": "wohaokun555",
+        "verified": false
+      }
+    ]
+  }
+}

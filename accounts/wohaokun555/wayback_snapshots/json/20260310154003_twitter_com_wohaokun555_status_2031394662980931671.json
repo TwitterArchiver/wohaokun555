@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2031378240343044415",
+    "created_at": "2026-03-10T15:40:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T16:40:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031394662980931671"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1174571362620514306",
+          "start": 0,
+          "username": "HolsonChuang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031394662980931671",
+    "in_reply_to_user_id": "1174571362620514306",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031394493564596627",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HolsonChuang 说到这里 我现在要睡觉了！晚安💤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2031378240343044415",
+        "created_at": "2026-03-10T15:40:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T16:40:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031394662980931671"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1174571362620514306",
+              "start": 0,
+              "username": "HolsonChuang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031394662980931671",
+        "in_reply_to_user_id": "1174571362620514306",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031394493564596627",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HolsonChuang 说到这里 我现在要睡觉了！晚安💤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1174571362620514306",
+        "conversation_id": "2031378240343044415",
+        "created_at": "2026-03-10T15:39:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T16:39:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031394493564596627"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031394493564596627",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031378240343044415",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 好助眠"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2JlN5\n🚪（勿扰",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2JlN5"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "除了口令别的不回！没有陪聊的义务",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2008543541979738501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1177,
+          "following_count": 97,
+          "like_count": 10670,
+          "listed_count": 1,
+          "media_count": 86,
+          "tweet_count": 1968
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2019-09-19T06:30:22.000Z",
+        "description": "Bonjour Tristesse",
+        "id": "1174571362620514306",
+        "location": "约克纳帕塔法",
+        "name": "Faulkner",
+        "pinned_tweet_id": "2015079789208727750",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009608221368221696/WQtxRtmS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 241,
+          "like_count": 408,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 312
+        },
+        "username": "HolsonChuang",
+        "verified": false
+      }
+    ]
+  }
+}

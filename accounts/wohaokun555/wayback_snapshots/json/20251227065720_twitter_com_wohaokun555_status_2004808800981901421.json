@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2004789295459283429",
+    "created_at": "2025-12-27T06:57:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-27T07:57:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004808800981901421"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1814014190539149312",
+          "start": 0,
+          "username": "quan_ai10965"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004808800981901421",
+    "in_reply_to_user_id": "1814014190539149312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004797187293913265",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@quan_ai10965 从现在开始！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2004789295459283429",
+        "created_at": "2025-12-27T06:57:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T07:57:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004808800981901421"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1814014190539149312",
+              "start": 0,
+              "username": "quan_ai10965"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004808800981901421",
+        "in_reply_to_user_id": "1814014190539149312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004797187293913265",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@quan_ai10965 从现在开始！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1814014190539149312",
+        "conversation_id": "2004789295459283429",
+        "created_at": "2025-12-27T06:11:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T07:11:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004797187293913265"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004797187293913265",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004789295459283429",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 我也买了一堆 啥时候我也能轻松啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "🚪52",
+        "id": "2004619896630788096",
+        "location": "Hong Kong",
+        "name": "鱼虾一整碗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004620653153189888/VWgYLNYv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 6,
+          "like_count": 41,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 35
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-18T19:07:47.000Z",
+        "description": "什么时候才能解脱",
+        "id": "1814014190539149312",
+        "location": "山东",
+        "name": "今晚不下雨",
+        "pinned_tweet_id": "1956229219777962472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1814332730580324352/nW3TRiTs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 23,
+          "like_count": 29,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 38
+        },
+        "username": "quan_ai10965",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059746529066295296"
+      ],
+      "media_source_tweet_id": [
+        "2059779935938719922"
+      ]
+    },
+    "author_id": "2004619896630788096",
+    "conversation_id": "2060214665943318572",
+    "created_at": "2026-05-29T04:20:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T05:20:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060214665943318572"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1387779928507273226",
+          "start": 3,
+          "username": "sevdaloji"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XOVrA01JzW",
+          "end": 101,
+          "expanded_url": "https://x.com/sevdaloji/status/2059779935938719922/photo/1",
+          "media_key": "3_2059746529066295296",
+          "start": 78,
+          "url": "https://t.co/XOVrA01JzW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060214665943318572",
+    "lang": "tr",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 426
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059779935938719922",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sevdaloji: Kedim Buffy'e merhaba demeyenler için HAZİRAN AYINDA KÖTÜ ŞANS https://t.co/XOVrA01JzW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1122,
+        "media_key": "3_2059746529066295296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJWwjiBXIAAt2ZW.jpg",
+        "width": 944
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059746529066295296"
+          ],
+          "media_source_tweet_id": [
+            "2059779935938719922"
+          ]
+        },
+        "author_id": "2004619896630788096",
+        "conversation_id": "2060214665943318572",
+        "created_at": "2026-05-29T04:20:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T05:20:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060214665943318572"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1387779928507273226",
+              "start": 3,
+              "username": "sevdaloji"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XOVrA01JzW",
+              "end": 101,
+              "expanded_url": "https://x.com/sevdaloji/status/2059779935938719922/photo/1",
+              "media_key": "3_2059746529066295296",
+              "start": 78,
+              "url": "https://t.co/XOVrA01JzW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060214665943318572",
+        "lang": "tr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 426
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059779935938719922",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sevdaloji: Kedim Buffy'e merhaba demeyenler için HAZİRAN AYINDA KÖTÜ ŞANS https://t.co/XOVrA01JzW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059746529066295296"
+          ]
+        },
+        "author_id": "1387779928507273226",
+        "conversation_id": "2059779935938719922",
+        "created_at": "2026-05-27T23:33:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T00:33:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059779935938719922"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XOVrA01JzW",
+              "end": 86,
+              "expanded_url": "https://x.com/sevdaloji/status/2059779935938719922/photo/1",
+              "media_key": "3_2059746529066295296",
+              "start": 63,
+              "url": "https://t.co/XOVrA01JzW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059779935938719922",
+        "lang": "tr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 190,
+          "impression_count": 128809,
+          "like_count": 10322,
+          "quote_count": 55,
+          "reply_count": 1535,
+          "retweet_count": 426
+        },
+        "reply_settings": "everyone",
+        "text": "Kedim Buffy'e merhaba demeyenler için HAZİRAN AYINDA KÖTÜ ŞANS https://t.co/XOVrA01JzW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "🚪不入勿扰",
+        "id": "2004619896630788096",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2036315164098830372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2148,
+          "following_count": 77,
+          "like_count": 20503,
+          "listed_count": 2,
+          "media_count": 237,
+          "tweet_count": 3345
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-29T14:45:08.000Z",
+        "description": "ücretli rt reklam ve iş birliği için DM📩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/sevdalojim",
+                "end": 23,
+                "expanded_url": "http://instagram.com/sevdalojim",
+                "start": 0,
+                "url": "https://t.co/PNqIQthSQ5"
+              }
+            ]
+          }
+        },
+        "id": "1387779928507273226",
+        "location": "İstanbul, Türkiye",
+        "name": "Sevda",
+        "pinned_tweet_id": "1954629293373640910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756750369332346880/TmOzTWg0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169985,
+          "following_count": 64338,
+          "like_count": 716668,
+          "listed_count": 67,
+          "media_count": 549,
+          "tweet_count": 3888
+        },
+        "url": "https://t.co/PNqIQthSQ5",
+        "username": "sevdaloji",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2040503148595511354",
+    "created_at": "2026-04-05T01:59:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T02:59:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040610186902356122"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1676300586676027392",
+          "start": 0,
+          "username": "Mengchen_11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040610186902356122",
+    "in_reply_to_user_id": "1676300586676027392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040503148595511354",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mengchen_11 卧槽好贵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2040503136209784832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFFSypTa0AA3GzY.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2040503148595511354",
+        "created_at": "2026-04-05T01:59:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T02:59:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040610186902356122"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1676300586676027392",
+              "start": 0,
+              "username": "Mengchen_11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040610186902356122",
+        "in_reply_to_user_id": "1676300586676027392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040503148595511354",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mengchen_11 卧槽好贵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040503136209784832"
+          ]
+        },
+        "author_id": "1676300586676027392",
+        "conversation_id": "2040503148595511354",
+        "created_at": "2026-04-04T18:53:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T19:53:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040503148595511354"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3VXUxdq0Fq",
+              "end": 52,
+              "expanded_url": "https://x.com/Mengchen_11/status/2040503148595511354/photo/1",
+              "media_key": "3_2040503136209784832",
+              "start": 29,
+              "url": "https://t.co/3VXUxdq0Fq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040503148595511354",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 907,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "操操操这一套快四百 破聚酯纤维预售15天 女装真的好赚钱 https://t.co/3VXUxdq0Fq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "",
+        "id": "2004619896630788096",
+        "location": "🚪520",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2007765884035813533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1538,
+          "following_count": 98,
+          "like_count": 14122,
+          "listed_count": 1,
+          "media_count": 155,
+          "tweet_count": 2603
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-04T18:43:05.000Z",
+        "description": "骂我的人看到我长这样还舍得骂我吗？",
+        "id": "1676300586676027392",
+        "location": "两颗心的距离是5.2km ⁺ ♡̴.⋆｜🚪128纯绿",
+        "name": "橙橙",
+        "pinned_tweet_id": "2032427601017626626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036479624176336896/TvgUzybf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 976,
+          "following_count": 71,
+          "like_count": 7883,
+          "listed_count": 6,
+          "media_count": 498,
+          "tweet_count": 2982
+        },
+        "username": "Mengchen_11",
+        "verified": false
+      }
+    ]
+  }
+}

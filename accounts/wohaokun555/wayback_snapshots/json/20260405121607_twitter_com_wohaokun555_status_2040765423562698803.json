@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2040564961219678283",
+    "created_at": "2026-04-05T12:16:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T13:16:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040765423562698803"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1930223249532882944",
+          "start": 0,
+          "username": "GSjYSelynt35322"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040765423562698803",
+    "in_reply_to_user_id": "1930223249532882944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040758709631287672",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GSjYSelynt35322 🤦男优女优已经是职业了 完全不一个性质"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2040564961219678283",
+        "created_at": "2026-04-05T12:16:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T13:16:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040765423562698803"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1930223249532882944",
+              "start": 0,
+              "username": "GSjYSelynt35322"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040765423562698803",
+        "in_reply_to_user_id": "1930223249532882944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040758709631287672",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GSjYSelynt35322 🤦男优女优已经是职业了 完全不一个性质"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1930223249532882944",
+        "conversation_id": "2040564961219678283",
+        "created_at": "2026-04-05T11:49:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T12:49:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040758709631287672"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040758709631287672",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040564961219678283",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 还有些傻逼，妈的这种事情动不动就扯人家男优女优谈恋爱，给我整的无语了，我无语到发了条帖子，我他妈真的好无语，就他妈这4个人的傻逼事情跟男优女优谈恋爱有个屌毛关系啊，男优女优我觉得doi的比他们好多了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "",
+        "id": "2004619896630788096",
+        "location": "🚪520",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2007765884035813533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1546,
+          "following_count": 98,
+          "like_count": 14229,
+          "listed_count": 1,
+          "media_count": 161,
+          "tweet_count": 2629
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-04T11:21:35.000Z",
+        "description": "",
+        "id": "1930223249532882944",
+        "name": "jjjjjj",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934252937439838208/7Ieq4U8e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 3,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 64
+        },
+        "username": "GSjYSelynt35322",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-04T11:21:35.000Z",
+        "description": "",
+        "id": "1930223249532882944",
+        "name": "jjjjjj",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934252937439838208/7Ieq4U8e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 3,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 64
+        },
+        "username": "GSjYSelynt35322",
+        "verified": true
+      }
+    ]
+  }
+}

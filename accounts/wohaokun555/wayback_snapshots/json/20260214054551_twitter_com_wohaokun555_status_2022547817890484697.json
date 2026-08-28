@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2022269789167813115",
+    "created_at": "2026-02-14T05:45:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T06:45:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022547817890484697"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1450006797041868802",
+          "start": 0,
+          "username": "ljy2701219119"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022547817890484697",
+    "in_reply_to_user_id": "1450006797041868802",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022521703491080459",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ljy2701219119 加油"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2022269789167813115",
+        "created_at": "2026-02-14T05:45:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T06:45:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022547817890484697"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1450006797041868802",
+              "start": 0,
+              "username": "ljy2701219119"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022547817890484697",
+        "in_reply_to_user_id": "1450006797041868802",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022521703491080459",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ljy2701219119 加油"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1450006797041868802",
+        "conversation_id": "2022269789167813115",
+        "created_at": "2026-02-14T04:02:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T05:02:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022521703491080459"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022521703491080459",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022269789167813115",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 我正在学习如何吃饭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2JlN5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2JlN5"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "🚪188（纯绿纯绿（除了口令和门槛别的私信不回",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2016792238060421479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 719,
+          "following_count": 78,
+          "like_count": 7531,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 1447
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-18T07:52:30.000Z",
+        "description": "我就只想睡着了不醒过来.\n88🚪好友位\n288绿可聊天看感情\n520女友位\n58888888女王位\n交朋友免费私信",
+        "id": "1450006797041868802",
+        "location": "Kyoto-shi Kita, Kyoto",
+        "name": "迷登岛.",
+        "pinned_tweet_id": "1559207234261110784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022516401077178368/yz50VVJ5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 698,
+          "like_count": 9068,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 334
+        },
+        "username": "ljy2701219119",
+        "verified": false
+      }
+    ]
+  }
+}

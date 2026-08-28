@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2034957346494193853",
+    "created_at": "2026-03-20T11:59:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T12:59:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034963118947000490"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1544141280401412097",
+          "start": 0,
+          "username": "Tifrty"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034963118947000490",
+    "in_reply_to_user_id": "1544141280401412097",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034962359933137300",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tifrty 盗版电脑有点卡总感觉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2034957346494193853",
+        "created_at": "2026-03-20T11:59:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T12:59:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034963118947000490"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1544141280401412097",
+              "start": 0,
+              "username": "Tifrty"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034963118947000490",
+        "in_reply_to_user_id": "1544141280401412097",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034962359933137300",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tifrty 盗版电脑有点卡总感觉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1544141280401412097",
+        "conversation_id": "2034957346494193853",
+        "created_at": "2026-03-20T11:56:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T12:56:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034962359933137300"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034962359933137300",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034957346494193853",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 不考虑看盗版吗😁"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "🚪",
+        "id": "2004619896630788096",
+        "location": "三体",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2008543541979738501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1304,
+          "following_count": 99,
+          "like_count": 12190,
+          "listed_count": 1,
+          "media_count": 113,
+          "tweet_count": 2247
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-05T02:09:39.000Z",
+        "description": "",
+        "id": "1544141280401412097",
+        "name": "CoiR*",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018897477772902400/eNc8EQOd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 125,
+          "like_count": 18556,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 408
+        },
+        "username": "Tifrty",
+        "verified": false
+      }
+    ]
+  }
+}

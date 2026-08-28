@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2056776409196933619",
+    "created_at": "2026-05-20T01:27:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T02:27:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056909688764346730"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1253051303653068802",
+          "start": 0,
+          "username": "ene85655468"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056909688764346730",
+    "in_reply_to_user_id": "1253051303653068802",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056843171565600803",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ene85655468 哼"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2056843171565600803].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2056843171565600803",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2056843171565600803"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2056776409196933619",
+        "created_at": "2026-05-20T01:27:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T02:27:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056909688764346730"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1253051303653068802",
+              "start": 0,
+              "username": "ene85655468"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056909688764346730",
+        "in_reply_to_user_id": "1253051303653068802",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056843171565600803",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ene85655468 哼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "🚪（纯绿 不入勿扰",
+        "id": "2004619896630788096",
+        "location": "没义务陪聊 别问我乱七八糟的",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2036315164098830372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2060,
+          "following_count": 101,
+          "like_count": 19490,
+          "listed_count": 1,
+          "media_count": 234,
+          "tweet_count": 3228
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-22T20:01:34.000Z",
+        "description": "",
+        "id": "1253051303653068802",
+        "name": "ene",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046992233627516928/p3mqTJoT_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 211,
+          "like_count": 3,
+          "listed_count": 1,
+          "media_count": 1,
+          "tweet_count": 8
+        },
+        "username": "ene85655468",
+        "verified": false
+      }
+    ]
+  }
+}

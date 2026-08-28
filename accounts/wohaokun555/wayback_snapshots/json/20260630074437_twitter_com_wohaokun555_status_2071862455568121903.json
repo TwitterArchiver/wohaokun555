@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2071745040909578310",
+    "created_at": "2026-06-30T07:44:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T08:44:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071862455568121903"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1388202412977147904",
+          "start": 0,
+          "username": "Ai_Auroveil"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071862455568121903",
+    "in_reply_to_user_id": "1388202412977147904",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071745040909578310",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ai_Auroveil 严肃同意"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 771,
+        "media_key": "3_2071745037482835969",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMBRIpBXwAEQX4U.jpg",
+        "width": 524
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2071745040909578310",
+        "created_at": "2026-06-30T07:44:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T08:44:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071862455568121903"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1388202412977147904",
+              "start": 0,
+              "username": "Ai_Auroveil"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071862455568121903",
+        "in_reply_to_user_id": "1388202412977147904",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071745040909578310",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ai_Auroveil 严肃同意"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071745037482835969"
+          ]
+        },
+        "author_id": "1388202412977147904",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1256236649253449729",
+              "name": "Fashion & beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Fragrances",
+              "id": "856559465000091648",
+              "name": "Perfumes & fragrances"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Perfumes",
+              "id": "855110667916918784",
+              "name": "Perfumes"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Perfumes",
+              "id": "855110667916918784",
+              "name": "Perfumes"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Fragrances",
+              "id": "856559465000091648",
+              "name": "Perfumes & fragrances"
+            }
+          }
+        ],
+        "conversation_id": "2071745040909578310",
+        "created_at": "2026-06-29T23:58:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T00:58:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071745040909578310"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0lTMmmybzF",
+              "end": 167,
+              "expanded_url": "https://x.com/Ai_Auroveil/status/2071745040909578310/photo/1",
+              "media_key": "3_2071745037482835969",
+              "start": 144,
+              "url": "https://t.co/0lTMmmybzF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071745040909578310",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 437,
+          "like_count": 13,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得如果有能力的话，\n男孩子有必要在见自己心选姐的时候（特别是第一次！），打理好自己画个淡妆喷点香水\n\n因为对一般来说会画全妆出门的女生来说\n这其实是一种等价的尊重和对对方的重视\n\n女生画全妆至少要两三个小时，那么身为男生如果也做点力所能及的事情，让自己更体面\n\n女孩子一般会很开心的 https://t.co/0lTMmmybzF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "让我成为我，让一座山并存着嶙峋和肥沃",
+        "id": "2004619896630788096",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2070530833434476867",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2653,
+          "following_count": 81,
+          "like_count": 23450,
+          "listed_count": 2,
+          "media_count": 144,
+          "tweet_count": 3747
+        },
+        "url": "",
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-30T18:43:56.000Z",
+        "description": "Exploring all sorts of art before creating my own (CN/EN/DE)",
+        "id": "1388202412977147904",
+        "name": "Auroveil",
+        "pinned_tweet_id": "2046638262899331379",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962190135371448320/3MVdTr0H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 342,
+          "following_count": 526,
+          "like_count": 26572,
+          "listed_count": 1,
+          "media_count": 2033,
+          "tweet_count": 7658
+        },
+        "url": "",
+        "username": "Ai_Auroveil",
+        "verified": true
+      }
+    ]
+  }
+}

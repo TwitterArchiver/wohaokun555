@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2004613935732064430",
+    "created_at": "2025-12-26T18:52:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-26T19:52:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004626384698872042"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1682778677912965121",
+          "start": 0,
+          "username": "may7lucky"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004626384698872042",
+    "in_reply_to_user_id": "1682778677912965121",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004613935732064430",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@may7lucky 这个点已经没有人和我聊天和我玩了！我只能打开推特找亲友了！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2004613935732064430",
+        "created_at": "2025-12-26T18:52:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T19:52:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004626384698872042"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1682778677912965121",
+              "start": 0,
+              "username": "may7lucky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004626384698872042",
+        "in_reply_to_user_id": "1682778677912965121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004613935732064430",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@may7lucky 这个点已经没有人和我聊天和我玩了！我只能打开推特找亲友了！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682778677912965121",
+        "conversation_id": "2004613935732064430",
+        "created_at": "2025-12-26T18:03:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T19:03:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004613935732064430"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2004613935732064430",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 162,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个点已经没有人和我聊天和我玩了！我只能冲杯酸枣仁然后睡觉😴"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "🚪52",
+        "id": "2004619896630788096",
+        "location": "香港",
+        "name": "鱼虾一整碗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004620653153189888/VWgYLNYv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 3,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 9
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-22T15:44:45.000Z",
+        "description": "可以叫我蛋蛋/溏心蛋 发点杂七杂八的 ^^不礼貌回关 眼熟的感兴趣的就回了\n喜欢看点肌肉男小猫小狗小女孩的碎碎念",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chicken666ovo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/chicken666ovo",
+                "start": 0,
+                "url": "https://t.co/prO8MJKDRP"
+              }
+            ]
+          }
+        },
+        "id": "1682778677912965121",
+        "location": "infp",
+        "name": "我喜欢男妈妈",
+        "pinned_tweet_id": "2003741738150822223",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004225501393833984/36YHHpRc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 56,
+          "like_count": 4363,
+          "listed_count": 1,
+          "media_count": 70,
+          "tweet_count": 958
+        },
+        "url": "https://t.co/prO8MJKDRP",
+        "username": "may7lucky",
+        "verified": false
+      }
+    ]
+  }
+}

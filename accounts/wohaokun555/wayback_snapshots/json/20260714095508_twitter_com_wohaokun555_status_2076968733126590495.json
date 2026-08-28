@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2076954941319746008",
+    "created_at": "2026-07-14T09:55:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T10:55:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076968733126590495"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1522094329954652161",
+          "start": 0,
+          "username": "0xo_snow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076968733126590495",
+    "in_reply_to_user_id": "1522094329954652161",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076954941319746008",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0xo_snow 我捏"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2076954923422662656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNLTf6kbQAAkUTr.jpg",
+        "width": 1010
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2076954941319746008",
+        "created_at": "2026-07-14T09:55:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T10:55:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076968733126590495"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1522094329954652161",
+              "start": 0,
+              "username": "0xo_snow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076968733126590495",
+        "in_reply_to_user_id": "1522094329954652161",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076954941319746008",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0xo_snow 我捏"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076954923422662656"
+          ]
+        },
+        "author_id": "1522094329954652161",
+        "conversation_id": "2076954941319746008",
+        "created_at": "2026-07-14T09:00:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T10:00:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076954941319746008"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Jmcu8Ocaay",
+              "end": 33,
+              "expanded_url": "https://x.com/0xo_snow/status/2076954941319746008/photo/1",
+              "media_key": "3_2076954923422662656",
+              "start": 10,
+              "url": "https://t.co/Jmcu8Ocaay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076954941319746008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 180,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "一个赞捏一下！🥰🤏 https://t.co/Jmcu8Ocaay"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "＞𐋣＜！🚪1314（闲聊勿扰🐈‍⬛",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pilot.damoplane.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://pilot.damoplane.com/#/register?code=kIfji62G",
+                "start": 0,
+                "url": "https://t.co/bFxvQiBB8B"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "自用vpn⬇️",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2075230890876452974",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2853,
+          "following_count": 82,
+          "like_count": 24466,
+          "listed_count": 2,
+          "media_count": 149,
+          "tweet_count": 3917
+        },
+        "url": "https://t.co/bFxvQiBB8B",
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-05T06:02:50.000Z",
+        "description": "=恋 🎀 ip北京 我在接线下\n可爱是唯一追求 ！\n爱好是唱歌与美少女。主页有好多唱歌视频\n投喂or入门请扫背景赞赏码感谢！⸝⸝⸝ ╸▵╺⸝⸝⸝",
+        "id": "1522094329954652161",
+        "location": "🚪88回讯息/解锁线下",
+        "name": "🐰れん⊹",
+        "pinned_tweet_id": "2072033535909851233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017787889955098624/u0R2iAGA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18139,
+          "following_count": 424,
+          "like_count": 17374,
+          "listed_count": 34,
+          "media_count": 1421,
+          "tweet_count": 14776
+        },
+        "url": "",
+        "username": "0xo_snow",
+        "verified": true
+      }
+    ]
+  }
+}

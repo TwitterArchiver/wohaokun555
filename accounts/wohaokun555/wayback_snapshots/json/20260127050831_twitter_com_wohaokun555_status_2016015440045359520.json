@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2015782791779418559",
+    "created_at": "2026-01-27T05:08:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T06:08:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016015440045359520"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1291988176496545792",
+          "start": 0,
+          "username": "Vox35112635"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016015440045359520",
+    "in_reply_to_user_id": "1291988176496545792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015782791779418559",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Vox35112635 肯德基我来了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 855,
+        "media_key": "3_2015782764134727680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_l_vnCbAAAC_SZ.jpg",
+        "width": 1284
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2015782791779418559",
+        "created_at": "2026-01-27T05:08:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T06:08:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016015440045359520"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1291988176496545792",
+              "start": 0,
+              "username": "Vox35112635"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016015440045359520",
+        "in_reply_to_user_id": "1291988176496545792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015782791779418559",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Vox35112635 肯德基我来了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015782764134727680"
+          ]
+        },
+        "author_id": "1291988176496545792",
+        "conversation_id": "2015782791779418559",
+        "created_at": "2026-01-26T13:44:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T14:44:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015782791779418559"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Gqm7da7jry",
+              "end": 23,
+              "expanded_url": "https://x.com/Vox35112635/status/2015782791779418559/photo/1",
+              "media_key": "3_2015782764134727680",
+              "start": 0,
+              "url": "https://t.co/Gqm7da7jry"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015782791779418559",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 29160,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 165,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Gqm7da7jry"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2JlN5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2JlN5"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "三体",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2007765884035813533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014313058978406400/yLC08oHO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 459,
+          "following_count": 70,
+          "like_count": 3277,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 836
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-08T06:42:48.000Z",
+        "description": "抖音号：32625516049/现在会接一点有偿转发/付费线上纯绿色交友委托/如果谎称投稿人私下联系你们请找我确认防止被骗/广告正规推以外的其他投稿均为免费/加vx随缘给门槛就好了/算卦找@minglishii",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 94,
+                "username": "minglishii"
+              }
+            ]
+          }
+        },
+        "id": "1291988176496545792",
+        "location": "沙发床上",
+        "name": "跑调的毕加索",
+        "pinned_tweet_id": "2003364757957673187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1523690111569117190/MeBry_Ku_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281250,
+          "following_count": 532,
+          "like_count": 484,
+          "listed_count": 321,
+          "media_count": 11243,
+          "tweet_count": 16305
+        },
+        "username": "Vox35112635",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Family and Life Stages",
+          "id": "864925500627484672",
+          "name": "Family and life stages"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Caregiving",
+          "id": "1092545020932976640",
+          "name": "Caregiving"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2058893121992479189",
+    "created_at": "2026-05-25T12:49:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T13:49:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058893121992479189"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/zippedzoo/stat…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/zippedzoo/status/2058840431165939865",
+          "start": 8,
+          "url": "https://t.co/lg2NzNKpOi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058893121992479189",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058840431165939865",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我就喜欢这种… https://t.co/lg2NzNKpOi"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Family and Life Stages",
+              "id": "864925500627484672",
+              "name": "Family and life stages"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Caregiving",
+              "id": "1092545020932976640",
+              "name": "Caregiving"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2058893121992479189",
+        "created_at": "2026-05-25T12:49:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T13:49:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058893121992479189"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zippedzoo/stat…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/zippedzoo/status/2058840431165939865",
+              "start": 8,
+              "url": "https://t.co/lg2NzNKpOi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058893121992479189",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058840431165939865",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我就喜欢这种… https://t.co/lg2NzNKpOi"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "127416347",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Family and Life Stages",
+              "id": "864925500627484672",
+              "name": "Family and life stages"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Caregiving",
+              "id": "1092545020932976640",
+              "name": "Caregiving"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2058839941220897247",
+        "created_at": "2026-05-25T09:19:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T10:19:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058840431165939865"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058840431165939865",
+        "in_reply_to_user_id": "127416347",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 516,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058840129645809950",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "2. 照顾者 / 保护者 (The Caregiver / Daddy Dom)\n核心是极致的保护欲和生活上的指引。这种属性常常出现在有着一定阅历积淀、或者年龄跨度较大的关系中。\n\n行为特质： 他们享受为 sub 遮风挡雨的过程，乐于传授人生经验、指导 sub 的成长。他们看重 sub 的安全和健康，往制定关于作息、饮食等生活习惯"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "🚪（纯绿 不入勿扰\n@lei_meng123 随缘过",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 10,
+                "username": "lei_meng123"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2036315164098830372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2058,
+          "following_count": 79,
+          "like_count": 19915,
+          "listed_count": 1,
+          "media_count": 244,
+          "tweet_count": 3286
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2010-03-29T03:54:56.000Z",
+        "description": "🎄主人的快樂小狗。皮一下最開心！！",
+        "id": "127416347",
+        "location": "earth",
+        "name": "富貴坛子狗🐩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057118952728535040/kfo4ng8d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 683,
+          "following_count": 572,
+          "like_count": 18722,
+          "listed_count": 3,
+          "media_count": 593,
+          "tweet_count": 10651
+        },
+        "username": "zippedzoo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2059779935938719922",
+    "created_at": "2026-05-29T07:16:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T08:16:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060258916991459412"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1852390818390450176",
+          "start": 0,
+          "username": "Lrmc4e"
+        },
+        {
+          "end": 18,
+          "id": "1387779928507273226",
+          "start": 8,
+          "username": "sevdaloji"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060258916991459412",
+    "in_reply_to_user_id": "1852390818390450176",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060247664558817724",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lrmc4e @sevdaloji ＞𐋣＜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2059779935938719922",
+        "created_at": "2026-05-29T07:16:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T08:16:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060258916991459412"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1852390818390450176",
+              "start": 0,
+              "username": "Lrmc4e"
+            },
+            {
+              "end": 18,
+              "id": "1387779928507273226",
+              "start": 8,
+              "username": "sevdaloji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060258916991459412",
+        "in_reply_to_user_id": "1852390818390450176",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060247664558817724",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lrmc4e @sevdaloji ＞𐋣＜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852390818390450176",
+        "conversation_id": "2059779935938719922",
+        "created_at": "2026-05-29T06:31:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T07:31:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060247664558817724"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1387779928507273226",
+              "start": 0,
+              "username": "sevdaloji"
+            },
+            {
+              "end": 23,
+              "id": "2004619896630788096",
+              "start": 11,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060247664558817724",
+        "in_reply_to_user_id": "1387779928507273226",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 74,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059779935938719922",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sevdaloji @wohaokun555 cialloε-(´∀｀; )"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "🚪不入勿扰",
+        "id": "2004619896630788096",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2036315164098830372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2146,
+          "following_count": 77,
+          "like_count": 20504,
+          "listed_count": 2,
+          "media_count": 237,
+          "tweet_count": 3347
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-01T16:42:50.000Z",
+        "description": "这个账号只是为了满足自己的分享欲 @ditchn2c",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 17,
+                "username": "ditchn2c"
+              }
+            ]
+          }
+        },
+        "id": "1852390818390450176",
+        "name": "Looe",
+        "pinned_tweet_id": "2029190752761463130",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852391001618612224/yosj9UJd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13979,
+          "following_count": 99,
+          "like_count": 21143,
+          "listed_count": 31,
+          "media_count": 245,
+          "tweet_count": 5541
+        },
+        "username": "Lrmc4e",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-29T14:45:08.000Z",
+        "description": "ücretli rt reklam ve iş birliği için DM📩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/sevdalojim",
+                "end": 23,
+                "expanded_url": "http://instagram.com/sevdalojim",
+                "start": 0,
+                "url": "https://t.co/PNqIQthSQ5"
+              }
+            ]
+          }
+        },
+        "id": "1387779928507273226",
+        "location": "İstanbul, Türkiye",
+        "name": "Sevda",
+        "pinned_tweet_id": "1954629293373640910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756750369332346880/TmOzTWg0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170019,
+          "following_count": 64336,
+          "like_count": 716656,
+          "listed_count": 67,
+          "media_count": 549,
+          "tweet_count": 3872
+        },
+        "url": "https://t.co/PNqIQthSQ5",
+        "username": "sevdaloji",
+        "verified": true
+      }
+    ]
+  }
+}

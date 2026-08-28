@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2083152045901811871",
+    "created_at": "2026-08-01T00:36:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T01:36:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083351142306853138"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1852390818390450176",
+          "start": 0,
+          "username": "Lrmc4e"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083351142306853138",
+    "in_reply_to_user_id": "1852390818390450176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083152045901811871",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lrmc4e 高光微喇真是顺直最爱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2083152045901811871",
+        "created_at": "2026-08-01T00:36:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T01:36:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083351142306853138"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1852390818390450176",
+              "start": 0,
+              "username": "Lrmc4e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083351142306853138",
+        "in_reply_to_user_id": "1852390818390450176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083152045901811871",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lrmc4e 高光微喇真是顺直最爱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852390818390450176",
+        "conversation_id": "2083152045901811871",
+        "created_at": "2026-07-31T11:25:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T12:25:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083152045901811871"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083152045901811871",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5286,
+          "like_count": 65,
+          "quote_count": 0,
+          "reply_count": 45,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "一些海外女装牌子开不到国内的原因就是因为那群基本盘土顺直，但凡露个背都是擦边软色情 情趣内衣，这边建议还是穿高光微喇牛仔裤吧👍"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "＞𐋣＜\n私信只回口令 闲聊勿扰",
+        "id": "2004619896630788096",
+        "location": "🚪（绿",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2036315164098830372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2873,
+          "following_count": 80,
+          "like_count": 25850,
+          "listed_count": 3,
+          "media_count": 155,
+          "tweet_count": 4108
+        },
+        "url": "",
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-01T16:42:50.000Z",
+        "description": "这个账号只是为了满足自己的分享欲 @ditchn2c",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 17,
+                "username": "ditchn2c"
+              }
+            ]
+          }
+        },
+        "id": "1852390818390450176",
+        "name": "Looe",
+        "pinned_tweet_id": "2029190752761463130",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852391001618612224/yosj9UJd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13884,
+          "following_count": 100,
+          "like_count": 22515,
+          "listed_count": 32,
+          "media_count": 261,
+          "tweet_count": 5821
+        },
+        "url": "",
+        "username": "Lrmc4e",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2058732674131603800",
+    "created_at": "2026-05-25T02:11:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T03:11:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058732674131603800"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2058732674131603800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我看到好多人遇难就哭的不行 一直在哭一直在哭 刷到一个小女孩发他爸爸在工作前给他发了宝贝我爱你 可是他爸爸没从矿下上来 好难受好难受 可偏偏就在这种视频评论区居然有人对生命是漠视的 我不理解 我只觉得好悲痛好沉重"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2058732674131603800",
+        "created_at": "2026-05-25T02:11:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T03:11:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058732674131603800"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058732674131603800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我看到好多人遇难就哭的不行 一直在哭一直在哭 刷到一个小女孩发他爸爸在工作前给他发了宝贝我爱你 可是他爸爸没从矿下上来 好难受好难受 可偏偏就在这种视频评论区居然有人对生命是漠视的 我不理解 我只觉得好悲痛好沉重"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "🚪（纯绿 不入勿扰\n@lei_meng123 随缘过",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 10,
+                "username": "lei_meng123"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2036315164098830372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2057,
+          "following_count": 79,
+          "like_count": 19853,
+          "listed_count": 1,
+          "media_count": 242,
+          "tweet_count": 3273
+        },
+        "username": "wohaokun555",
+        "verified": false
+      }
+    ]
+  }
+}

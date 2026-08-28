@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2030663077876858965",
+    "created_at": "2026-03-08T15:13:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T16:13:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030663077876858965"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1482254045679349769",
+          "start": 3,
+          "username": "maeilcrypto"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030663077876858965",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 54
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030586561876898231",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @maeilcrypto: 给大家发个红包  点赞转发✅ 支付宝口令20*188"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2030663077876858965",
+        "created_at": "2026-03-08T15:13:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T16:13:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030663077876858965"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1482254045679349769",
+              "start": 3,
+              "username": "maeilcrypto"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030663077876858965",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 54
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030586561876898231",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @maeilcrypto: 给大家发个红包  点赞转发✅ 支付宝口令20*188"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1482254045679349769",
+        "conversation_id": "2030586561876898231",
+        "created_at": "2026-03-08T10:08:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T11:08:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030586561876898231"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2030586561876898231",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 7075,
+          "like_count": 75,
+          "quote_count": 0,
+          "reply_count": 39,
+          "retweet_count": 54
+        },
+        "reply_settings": "everyone",
+        "text": "给大家发个红包  点赞转发✅ 支付宝口令20*188"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2JlN5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2JlN5"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "除了口令和正常问题别的私信不回",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2007765884035813533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1093,
+          "following_count": 96,
+          "like_count": 10491,
+          "listed_count": 1,
+          "media_count": 79,
+          "tweet_count": 1908
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-15T07:31:32.000Z",
+        "description": "撸毛/交易/工具脚本研究\n资讯站，绝对信息差～ 趋势分析\n直接私信我（闲聊勿扰）\n小心仿号",
+        "id": "1482254045679349769",
+        "name": "Maeil",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939182920998232066/cKm_K6dG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9778,
+          "following_count": 882,
+          "like_count": 49,
+          "listed_count": 8,
+          "media_count": 17,
+          "tweet_count": 114
+        },
+        "username": "maeilcrypto",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2051750507396702512",
+    "created_at": "2026-05-06T07:02:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T08:02:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051920580065333721"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1901339878966636544",
+          "start": 0,
+          "username": "tteokki9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051920580065333721",
+    "in_reply_to_user_id": "1901339878966636544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051750507396702512",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tteokki9 我完全是这样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2051750507396702512",
+        "created_at": "2026-05-06T07:02:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T08:02:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051920580065333721"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1901339878966636544",
+              "start": 0,
+              "username": "tteokki9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051920580065333721",
+        "in_reply_to_user_id": "1901339878966636544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051750507396702512",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tteokki9 我完全是这样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1901339878966636544",
+        "conversation_id": "2051750507396702512",
+        "created_at": "2026-05-05T19:46:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T20:46:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051750507396702512"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051750507396702512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1982,
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 23,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有蜜儿跟我一样明明手头有足够的钱买想要的大件东西但是就是不舍得买 因为一买就没钱了然后就会很没安全感…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "",
+        "id": "2004619896630788096",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2007765884035813533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2020,
+          "following_count": 100,
+          "like_count": 18343,
+          "listed_count": 2,
+          "media_count": 214,
+          "tweet_count": 3076
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-16T18:28:59.000Z",
+        "description": "可以叫我小叽叽^o^ 随便发着玩@yokyo7lly",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "yokyo7lly"
+              }
+            ]
+          }
+        },
+        "id": "1901339878966636544",
+        "name": "椰叽",
+        "pinned_tweet_id": "1984659027478102138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005152049189797889/D1ONNjj1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5393,
+          "following_count": 85,
+          "like_count": 4130,
+          "listed_count": 6,
+          "media_count": 224,
+          "tweet_count": 2560
+        },
+        "username": "tteokki9",
+        "verified": false
+      }
+    ]
+  }
+}

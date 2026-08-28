@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2061726012808048922",
+    "created_at": "2026-06-02T08:52:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T09:52:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061732628827676850"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1597960858436599811",
+          "start": 0,
+          "username": "wngzhrn52523637"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061732628827676850",
+    "in_reply_to_user_id": "1597960858436599811",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061732198643028034",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wngzhrn52523637 啊啊啊啊啊好难受吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2061726012808048922",
+        "created_at": "2026-06-02T08:52:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T09:52:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061732628827676850"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1597960858436599811",
+              "start": 0,
+              "username": "wngzhrn52523637"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061732628827676850",
+        "in_reply_to_user_id": "1597960858436599811",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061732198643028034",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wngzhrn52523637 啊啊啊啊啊好难受吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597960858436599811",
+        "conversation_id": "2061726012808048922",
+        "created_at": "2026-06-02T08:50:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T09:50:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061732198643028034"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061732198643028034",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061726012808048922",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 学校没有空调俺要哭了！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "🚪（520",
+        "id": "2004619896630788096",
+        "location": "口令➕姓",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2060575687279567255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2183,
+          "following_count": 79,
+          "like_count": 21019,
+          "listed_count": 2,
+          "media_count": 247,
+          "tweet_count": 3419
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-30T14:29:03.000Z",
+        "description": "春日青的碎碎念 ^_^",
+        "id": "1597960858436599811",
+        "name": "10086",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057405306666455040/hPaNqCO2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 47,
+          "like_count": 193,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 166
+        },
+        "username": "wngzhrn52523637",
+        "verified": false
+      }
+    ]
+  }
+}

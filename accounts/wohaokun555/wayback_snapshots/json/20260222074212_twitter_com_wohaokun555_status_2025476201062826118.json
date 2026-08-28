@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2025470004184195389",
+    "created_at": "2026-02-22T07:42:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T08:42:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025476201062826118"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1627905232125693952",
+          "start": 0,
+          "username": "DongSpirits"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025476201062826118",
+    "in_reply_to_user_id": "1627905232125693952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025470004184195389",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DongSpirits 卧槽咋这么美！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1557,
+        "media_key": "3_2025469991316062212",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBvqOcebgAQW5jR.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2025470004184195389",
+        "created_at": "2026-02-22T07:42:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T08:42:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025476201062826118"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1627905232125693952",
+              "start": 0,
+              "username": "DongSpirits"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025476201062826118",
+        "in_reply_to_user_id": "1627905232125693952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025470004184195389",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DongSpirits 卧槽咋这么美！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025469991316062212"
+          ]
+        },
+        "author_id": "1627905232125693952",
+        "conversation_id": "2025470004184195389",
+        "created_at": "2026-02-22T07:17:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T08:17:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025470004184195389"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VDhJZNGhmz",
+              "end": 28,
+              "expanded_url": "https://x.com/DongSpirits/status/2025470004184195389/photo/1",
+              "media_key": "3_2025469991316062212",
+              "start": 5,
+              "url": "https://t.co/VDhJZNGhmz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025470004184195389",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "热死啦！ https://t.co/VDhJZNGhmz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2JlN5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2JlN5"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "除了口令和正常问题别的私信不回",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2016792238060421479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 919,
+          "following_count": 95,
+          "like_count": 9144,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 1683
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-21T05:37:26.000Z",
+        "description": "lmtired",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "4399.com",
+                "end": 23,
+                "expanded_url": "http://www.4399.com",
+                "start": 0,
+                "url": "https://t.co/O4IDXKthNu"
+              }
+            ]
+          }
+        },
+        "id": "1627905232125693952",
+        "name": "雪绪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019014788299304960/8bDsOUeb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 15,
+          "like_count": 7095,
+          "listed_count": 1,
+          "media_count": 19,
+          "tweet_count": 362
+        },
+        "url": "https://t.co/O4IDXKthNu",
+        "username": "DongSpirits",
+        "verified": true
+      }
+    ]
+  }
+}

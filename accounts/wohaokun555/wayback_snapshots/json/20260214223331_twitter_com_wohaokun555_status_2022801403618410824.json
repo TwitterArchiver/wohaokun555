@@ -1,0 +1,107 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2022801403618410824",
+    "created_at": "2026-02-14T22:33:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T23:33:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2022801403618410824"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2022801403618410824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "通过赞赏码骂我的你得有多无聊啊。你说我圈你也开赞赏码啊，你长得多丑陋你才会去攻击我的长相，我长什么样关你屁事，你妈咋生你个傻逼玩意😂😂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2022801403618410824",
+        "created_at": "2026-02-14T22:33:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T23:33:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022801403618410824"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2022801403618410824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "通过赞赏码骂我的你得有多无聊啊。你说我圈你也开赞赏码啊，你长得多丑陋你才会去攻击我的长相，我长什么样关你屁事，你妈咋生你个傻逼玩意😂😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2JlN5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2JlN5"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "🚪188（纯绿纯绿（除了口令和门槛别的私信不回",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2022490598272627167",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 729,
+          "following_count": 78,
+          "like_count": 7702,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 1472
+        },
+        "username": "wohaokun555",
+        "verified": false
+      }
+    ]
+  }
+}

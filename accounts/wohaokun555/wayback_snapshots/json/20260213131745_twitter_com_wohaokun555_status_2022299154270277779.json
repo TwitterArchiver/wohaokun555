@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2021960803084361862",
+    "created_at": "2026-02-13T13:17:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T14:17:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022299154270277779"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1762719461658841088",
+          "start": 0,
+          "username": "joe36404557735"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022299154270277779",
+    "in_reply_to_user_id": "1762719461658841088",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022291491180442074",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@joe36404557735 口令红包嘿嘿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2021960803084361862",
+        "created_at": "2026-02-13T13:17:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T14:17:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022299154270277779"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1762719461658841088",
+              "start": 0,
+              "username": "joe36404557735"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022299154270277779",
+        "in_reply_to_user_id": "1762719461658841088",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022291491180442074",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@joe36404557735 口令红包嘿嘿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1762719461658841088",
+        "conversation_id": "2021960803084361862",
+        "created_at": "2026-02-13T12:47:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T13:47:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022291491180442074"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022291491180442074",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021960803084361862",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 神秘数字是什么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2JlN5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2JlN5"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "🚪188（纯绿纯绿（除了口令和门槛别的私信不回",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2016792238060421479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 715,
+          "following_count": 78,
+          "like_count": 7395,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 1426
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-28T06:00:56.000Z",
+        "description": "16/自残/碎碎念/情绪不稳/我喜欢萌妹子，萌妹子请和我互动私信找我聊天可以有礼貌一点!无门不加好友!请和我互动好吗",
+        "id": "1762719461658841088",
+        "name": "小女孩有什么坏心思",
+        "pinned_tweet_id": "2021287699819458968",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022007352824934401/n_925Yyi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 34,
+          "like_count": 405,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 167
+        },
+        "username": "joe36404557735",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2043235401704563189",
+    "created_at": "2026-04-13T02:24:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T03:24:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043515722832486541"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1993224784336048128",
+          "start": 0,
+          "username": "XixiYyybuu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043515722832486541",
+    "in_reply_to_user_id": "1993224784336048128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043367563757793547",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XixiYyybuu 老辈子来了"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2043367563757793547].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2043367563757793547",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2043367563757793547"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2043235401704563189",
+        "created_at": "2026-04-13T02:24:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T03:24:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043515722832486541"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1993224784336048128",
+              "start": 0,
+              "username": "XixiYyybuu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043515722832486541",
+        "in_reply_to_user_id": "1993224784336048128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043367563757793547",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XixiYyybuu 老辈子来了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "每天发些乱七八糟的碎碎念 和一些自认为很好看的自拍照 分享号主的忧郁极品生活",
+        "id": "2004619896630788096",
+        "location": "🚪520",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2040741237666533734",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1542,
+          "following_count": 97,
+          "like_count": 15493,
+          "listed_count": 1,
+          "media_count": 183,
+          "tweet_count": 2841
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-25T07:49:05.000Z",
+        "description": "废话大王 |不网恋 不约炮 不线下 不聊骚 | 有偿约拍摄私信| 接瓦陪玩（60/h）| 没边界感的衮 | 不是你的电子女友，但可以成为你的好朋友 |置顶关评自辨\n提问箱https://t.co/flHaPtz50i",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/user.40850188",
+                "end": 108,
+                "expanded_url": "https://tellonym.me/user.40850188",
+                "start": 85,
+                "url": "https://t.co/flHaPtz50i"
+              }
+            ]
+          }
+        },
+        "id": "1993224784336048128",
+        "location": "🚪388/520/1314➕姓 纯绿",
+        "name": "‎₊˚꩜ XiXi酱 ✮˚₊",
+        "pinned_tweet_id": "2042857172468371799",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033555208249528320/dVcmTeU__normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 21949,
+          "following_count": 118,
+          "like_count": 1509,
+          "listed_count": 34,
+          "media_count": 77,
+          "tweet_count": 1505
+        },
+        "username": "XixiYyybuu",
+        "verified": true
+      }
+    ]
+  }
+}

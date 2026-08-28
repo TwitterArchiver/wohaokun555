@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2031324013679751170"
+      ]
+    },
+    "author_id": "2004619896630788096",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2031324026178773089",
+    "created_at": "2026-03-10T10:59:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T11:59:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2031324026178773089"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Qn6Ol4GEJH",
+          "end": 49,
+          "expanded_url": "https://x.com/wohaokun555/status/2031324026178773089/photo/1",
+          "media_key": "3_2031324013679751170",
+          "start": 26,
+          "url": "https://t.co/Qn6Ol4GEJH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031324026178773089",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "啊啊啊啊啊就这一点点居然收了我10块钱。超级少一点 https://t.co/Qn6Ol4GEJH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2031324013679751170",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDC2bZMaMAIMZHf.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031324013679751170"
+          ]
+        },
+        "author_id": "2004619896630788096",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2031324026178773089",
+        "created_at": "2026-03-10T10:59:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T11:59:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031324026178773089"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Qn6Ol4GEJH",
+              "end": 49,
+              "expanded_url": "https://x.com/wohaokun555/status/2031324026178773089/photo/1",
+              "media_key": "3_2031324013679751170",
+              "start": 26,
+              "url": "https://t.co/Qn6Ol4GEJH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031324026178773089",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "啊啊啊啊啊就这一点点居然收了我10块钱。超级少一点 https://t.co/Qn6Ol4GEJH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2JlN5\n🚪（勿扰",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2JlN5"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "除了口令别的不回！没有陪聊的义务",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2007765884035813533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1165,
+          "following_count": 97,
+          "like_count": 10579,
+          "listed_count": 1,
+          "media_count": 84,
+          "tweet_count": 1947
+        },
+        "username": "wohaokun555",
+        "verified": false
+      }
+    ]
+  }
+}

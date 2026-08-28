@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078837750082760704"
+      ]
+    },
+    "author_id": "2004619896630788096",
+    "conversation_id": "2078837760744706380",
+    "created_at": "2026-07-19T13:41:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T14:41:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078837760744706380"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/WTh7ap9ocR",
+          "end": 34,
+          "expanded_url": "https://x.com/wohaokun555/status/2078837760744706380/photo/1",
+          "media_key": "3_2078837750082760704",
+          "start": 11,
+          "url": "https://t.co/WTh7ap9ocR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078837760744706380",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "ⓘ该文案涉神已被处理 https://t.co/WTh7ap9ocR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1892,
+        "media_key": "3_2078837750082760704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNmD62da8AAQTh0.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078837750082760704"
+          ]
+        },
+        "author_id": "2004619896630788096",
+        "conversation_id": "2078837760744706380",
+        "created_at": "2026-07-19T13:41:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T14:41:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078837760744706380"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WTh7ap9ocR",
+              "end": 34,
+              "expanded_url": "https://x.com/wohaokun555/status/2078837760744706380/photo/1",
+              "media_key": "3_2078837750082760704",
+              "start": 11,
+              "url": "https://t.co/WTh7ap9ocR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078837760744706380",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "ⓘ该文案涉神已被处理 https://t.co/WTh7ap9ocR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "＞𐋣＜！🚪1314（闲聊勿扰🐈‍⬛",
+        "id": "2004619896630788096",
+        "location": "置顶推广自辨",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2078469858631749749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2860,
+          "following_count": 82,
+          "like_count": 24735,
+          "listed_count": 2,
+          "media_count": 151,
+          "tweet_count": 3955
+        },
+        "url": "",
+        "username": "wohaokun555",
+        "verified": false
+      }
+    ]
+  }
+}

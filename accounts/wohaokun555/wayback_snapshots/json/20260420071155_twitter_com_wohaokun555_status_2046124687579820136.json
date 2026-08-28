@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2046124687579820136",
+    "created_at": "2026-04-20T07:11:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T08:11:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046124687579820136"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/samchuru/statu…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/samchuru/status/2045781647556288878",
+          "start": 3,
+          "url": "https://t.co/FX3kZKUSKR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046124687579820136",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045781647556288878",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "梦屋 https://t.co/FX3kZKUSKR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2045781641214484480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGQTkEya4AAoWNJ.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2046124687579820136",
+        "created_at": "2026-04-20T07:11:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T08:11:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046124687579820136"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/samchuru/statu…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/samchuru/status/2045781647556288878",
+              "start": 3,
+              "url": "https://t.co/FX3kZKUSKR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046124687579820136",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045781647556288878",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "梦屋 https://t.co/FX3kZKUSKR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045781641214484480"
+          ]
+        },
+        "author_id": "2265860203",
+        "conversation_id": "2045781647556288878",
+        "created_at": "2026-04-19T08:28:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T09:28:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045781647556288878"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Rk58TIg64d",
+              "end": 25,
+              "expanded_url": "https://x.com/samchuru/status/2045781647556288878/photo/1",
+              "media_key": "3_2045781641214484480",
+              "start": 2,
+              "url": "https://t.co/Rk58TIg64d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045781647556288878",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2271,
+          "impression_count": 873618,
+          "like_count": 18421,
+          "quote_count": 404,
+          "reply_count": 3,
+          "retweet_count": 1606
+        },
+        "reply_settings": "following",
+        "text": "🏠 https://t.co/Rk58TIg64d"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "",
+        "id": "2004619896630788096",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2036315164098830372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1919,
+          "following_count": 99,
+          "like_count": 15975,
+          "listed_count": 1,
+          "media_count": 191,
+          "tweet_count": 2910
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2013-12-28T12:43:00.000Z",
+        "description": "✩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "link.inpock.co.kr/samchuru",
+                "end": 23,
+                "expanded_url": "https://link.inpock.co.kr/samchuru",
+                "start": 0,
+                "url": "https://t.co/8CIfVbbsL0"
+              }
+            ]
+          }
+        },
+        "id": "2265860203",
+        "name": "삼추",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1620659462070743040/kl0hD-Y5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6852,
+          "following_count": 97,
+          "like_count": 37290,
+          "listed_count": 25,
+          "media_count": 153,
+          "tweet_count": 2540
+        },
+        "url": "https://t.co/8CIfVbbsL0",
+        "username": "samchuru",
+        "verified": false
+      }
+    ]
+  }
+}

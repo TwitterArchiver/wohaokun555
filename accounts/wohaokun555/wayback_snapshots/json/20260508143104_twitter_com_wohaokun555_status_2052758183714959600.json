@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2052617337959047558",
+    "created_at": "2026-05-08T14:31:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T15:31:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052758183714959600"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1819737862251970560",
+          "start": 0,
+          "username": "NextThe5995"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052758183714959600",
+    "in_reply_to_user_id": "1819737862251970560",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052755458046218400",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NextThe5995 娘你妹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2052617337959047558",
+        "created_at": "2026-05-08T14:31:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T15:31:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052758183714959600"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1819737862251970560",
+              "start": 0,
+              "username": "NextThe5995"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052758183714959600",
+        "in_reply_to_user_id": "1819737862251970560",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052755458046218400",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NextThe5995 娘你妹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1819737862251970560",
+        "conversation_id": "2052617337959047558",
+        "created_at": "2026-05-08T14:20:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T15:20:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052755458046218400"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052755458046218400",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052617337959047558",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 你是男娘吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "没义务陪聊 都是礼貌回复",
+        "id": "2004619896630788096",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2052293259586924701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2043,
+          "following_count": 98,
+          "like_count": 18578,
+          "listed_count": 2,
+          "media_count": 217,
+          "tweet_count": 3120
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-03T14:11:50.000Z",
+        "description": "",
+        "id": "1819737862251970560",
+        "name": "夏天的风shy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996981508234723328/FF0Z1a_C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 36,
+          "like_count": 2451,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 206
+        },
+        "username": "NextThe5995",
+        "verified": false
+      }
+    ]
+  }
+}

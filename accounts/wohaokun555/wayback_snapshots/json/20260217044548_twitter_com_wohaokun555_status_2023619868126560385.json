@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2023362945032520028",
+    "created_at": "2026-02-17T04:45:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T05:45:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023619868126560385"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1507587547370770432",
+          "start": 0,
+          "username": "iPhone1988_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023619868126560385",
+    "in_reply_to_user_id": "1507587547370770432",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023362945032520028",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iPhone1988_ 接吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1191,
+        "media_key": "3_2023362933632425984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBRt3i7aYAAul2w.jpg",
+        "width": 1242
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2023362933628280832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBRt3i6bIAAHz7D.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2023362945032520028",
+        "created_at": "2026-02-17T04:45:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T05:45:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023619868126560385"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1507587547370770432",
+              "start": 0,
+              "username": "iPhone1988_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023619868126560385",
+        "in_reply_to_user_id": "1507587547370770432",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023362945032520028",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iPhone1988_ 接吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023362933632425984",
+            "3_2023362933628280832"
+          ]
+        },
+        "author_id": "1507587547370770432",
+        "conversation_id": "2023362945032520028",
+        "created_at": "2026-02-16T11:44:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T12:44:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023362945032520028"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XfDzRTJ9lv",
+              "end": 29,
+              "expanded_url": "https://x.com/iPhone1988_/status/2023362945032520028/photo/1",
+              "media_key": "3_2023362933632425984",
+              "start": 6,
+              "url": "https://t.co/XfDzRTJ9lv"
+            },
+            {
+              "display_url": "pic.x.com/XfDzRTJ9lv",
+              "end": 29,
+              "expanded_url": "https://x.com/iPhone1988_/status/2023362945032520028/photo/1",
+              "media_key": "3_2023362933628280832",
+              "start": 6,
+              "url": "https://t.co/XfDzRTJ9lv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023362945032520028",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3363,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "就这样幸福 https://t.co/XfDzRTJ9lv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2JlN5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2JlN5"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "🚪188（纯绿纯绿（除了口令和门槛别的私信不回",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2016792238060421479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 849,
+          "following_count": 84,
+          "like_count": 8329,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 1577
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-26T05:17:48.000Z",
+        "description": "喜欢可爱事物爱搞点涩涩的普通胖女孩 现生刷到请当做没看到 阿里嘎多 小女孩互关请私 喜欢的话请投喂 有🚪 喜欢有礼貌的人 纯享版@rachelgill27209",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 64,
+                "username": "rachelgill27209"
+              }
+            ]
+          }
+        },
+        "id": "1507587547370770432",
+        "location": "上海",
+        "name": "盐焗蟑螂脆片（不入门别私信我",
+        "pinned_tweet_id": "2015916612407496888",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011426507688996865/2sPPzwVB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5798,
+          "following_count": 104,
+          "like_count": 1008,
+          "listed_count": 13,
+          "media_count": 66,
+          "tweet_count": 504
+        },
+        "username": "iPhone1988_",
+        "verified": false
+      }
+    ]
+  }
+}

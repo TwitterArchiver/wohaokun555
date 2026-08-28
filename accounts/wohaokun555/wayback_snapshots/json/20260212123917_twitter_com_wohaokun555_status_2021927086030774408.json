@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2021882980655149231",
+    "created_at": "2026-02-12T12:39:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T13:39:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021927086030774408"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1413042565960503296",
+          "start": 0,
+          "username": "Eyesouo2b"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021927086030774408",
+    "in_reply_to_user_id": "1413042565960503296",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021882980655149231",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Eyesouo2b 老婆你好美"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1943,
+        "media_key": "3_2021882821665525760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA8rtsLWkAAHa1I.jpg",
+        "width": 1026
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2021882980655149231",
+        "created_at": "2026-02-12T12:39:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T13:39:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021927086030774408"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1413042565960503296",
+              "start": 0,
+              "username": "Eyesouo2b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021927086030774408",
+        "in_reply_to_user_id": "1413042565960503296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021882980655149231",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Eyesouo2b 老婆你好美"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021882821665525760"
+          ]
+        },
+        "author_id": "1413042565960503296",
+        "conversation_id": "2021882980655149231",
+        "created_at": "2026-02-12T09:44:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T10:44:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021882980655149231"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1muSmEnU5H",
+              "end": 41,
+              "expanded_url": "https://x.com/Eyesouo2b/status/2021882980655149231/photo/1",
+              "media_key": "3_2021882821665525760",
+              "start": 18,
+              "url": "https://t.co/1muSmEnU5H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021882980655149231",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1231,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "每天就这样学完个抖舞发给门哥要夸夸 https://t.co/1muSmEnU5H"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2JlN5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2JlN5"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "🚪188（纯绿纯绿纯绿纯绿（别的私信不回",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2019333252520321256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014313058978406400/yLC08oHO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 692,
+          "following_count": 78,
+          "like_count": 7042,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 1349
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-08T07:49:49.000Z",
+        "description": "因为我想一直看着你幸福的表情｜接付费委托转推置顶｜ 情绪时常不稳定所以发的内容会有很强的切割感大家别介意🚪私",
+        "id": "1413042565960503296",
+        "location": "🚪",
+        "name": "休克的羔羊",
+        "pinned_tweet_id": "1954600869221347354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900425950724321280/cchWJJby_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9277,
+          "following_count": 159,
+          "like_count": 1807,
+          "listed_count": 21,
+          "media_count": 122,
+          "tweet_count": 738
+        },
+        "username": "Eyesouo2b",
+        "verified": false
+      }
+    ]
+  }
+}

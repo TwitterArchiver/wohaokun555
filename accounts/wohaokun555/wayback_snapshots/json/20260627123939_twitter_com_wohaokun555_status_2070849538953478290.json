@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2070515368720994722",
+    "created_at": "2026-06-27T12:39:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T13:39:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070849538953478290"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1216734406087520256",
+          "start": 0,
+          "username": "SeanQ81715949"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070849538953478290",
+    "in_reply_to_user_id": "1216734406087520256",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070515368720994722",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SeanQ81715949 恭喜"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1118,
+        "media_key": "3_2070515304170721280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLvysvcbEAArabl.jpg",
+        "width": 832
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2070515368720994722",
+        "created_at": "2026-06-27T12:39:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T13:39:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070849538953478290"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1216734406087520256",
+              "start": 0,
+              "username": "SeanQ81715949"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070849538953478290",
+        "in_reply_to_user_id": "1216734406087520256",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070515368720994722",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SeanQ81715949 恭喜"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070515304170721280"
+          ]
+        },
+        "author_id": "1216734406087520256",
+        "conversation_id": "2070515368720994722",
+        "created_at": "2026-06-26T14:31:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T15:31:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070515368720994722"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fSx2LzG223",
+              "end": 52,
+              "expanded_url": "https://x.com/SeanQ81715949/status/2070515368720994722/photo/1",
+              "media_key": "3_2070515304170721280",
+              "start": 29,
+              "url": "https://t.co/fSx2LzG223"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070515368720994722",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 15794,
+          "like_count": 205,
+          "quote_count": 0,
+          "reply_count": 38,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "访问学者的申请批下来了，明年去德国做实验的钱有啦，撒花。 https://t.co/fSx2LzG223"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "让我成为我，让一座山并存着嶙峋和肥沃",
+        "id": "2004619896630788096",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2070530833434476867",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2561,
+          "following_count": 81,
+          "like_count": 23073,
+          "listed_count": 2,
+          "media_count": 140,
+          "tweet_count": 3693
+        },
+        "url": "",
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-13T14:51:09.000Z",
+        "description": "Male;Human; Peace &Love; PhD \n分享家庭日常生活，业余爱好非盈利，偶尔摄妻分享美照，私信会看，不一定回，欢迎叨唠。",
+        "id": "1216734406087520256",
+        "location": "Toronto；Prison somewhere",
+        "name": "Dr. Sean",
+        "pinned_tweet_id": "2054370304785567824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023913569767849984/0DfmGoZw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8272,
+          "following_count": 1043,
+          "like_count": 23077,
+          "listed_count": 21,
+          "media_count": 741,
+          "tweet_count": 9270
+        },
+        "url": "",
+        "username": "SeanQ81715949",
+        "verified": false
+      }
+    ]
+  }
+}

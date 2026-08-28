@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2029935388094255292",
+    "created_at": "2026-03-07T05:27:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T06:27:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030153343776215112"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1858928423256944640",
+          "start": 0,
+          "username": "jingjing139174"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030153343776215112",
+    "in_reply_to_user_id": "1858928423256944640",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029935388094255292",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jingjing139174 我去我接接接"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2029935388094255292",
+        "created_at": "2026-03-07T05:27:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T06:27:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030153343776215112"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1858928423256944640",
+              "start": 0,
+              "username": "jingjing139174"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030153343776215112",
+        "in_reply_to_user_id": "1858928423256944640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029935388094255292",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jingjing139174 我去我接接接"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858928423256944640",
+        "conversation_id": "2029935388094255292",
+        "created_at": "2026-03-06T15:01:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T16:01:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029935388094255292"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2029935388094255292",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12497,
+          "like_count": 165,
+          "quote_count": 0,
+          "reply_count": 124,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "我操了 虽然今天遇到了很傻逼的人\n但是玩刮刮乐刮出两张1000。\n评论区抽两个疯狂星期四一下😋\n同喜同喜 揣着现金爽爽的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2JlN5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2JlN5"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "除了口令和正常问题别的私信不回",
+        "name": "中推忧郁神",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1090,
+          "following_count": 94,
+          "like_count": 10298,
+          "listed_count": 1,
+          "media_count": 71,
+          "tweet_count": 1872
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-19T17:40:56.000Z",
+        "description": "丑人不准私我❌不线下不闲聊不搞门槛不是黄推不接转帖不卖号不置顶不接推广❗️❗️❗️普普通通的恋爱人类🧸日常存档🎀",
+        "id": "1858928423256944640",
+        "name": "酱酱",
+        "pinned_tweet_id": "1884998584900448340",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864737285092368384/kqJkE6f5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15373,
+          "following_count": 274,
+          "like_count": 209,
+          "listed_count": 25,
+          "media_count": 378,
+          "tweet_count": 1592
+        },
+        "username": "jingjing139174",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2009248008949649768",
+    "created_at": "2026-01-08T14:04:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-08T15:04:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009264876309414156"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1947628495896477696",
+          "start": 0,
+          "username": "Resfeber0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009264876309414156",
+    "in_reply_to_user_id": "1947628495896477696",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009248008949649768",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Resfeber0 我也！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2009248008949649768",
+        "created_at": "2026-01-08T14:04:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T15:04:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009264876309414156"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1947628495896477696",
+              "start": 0,
+              "username": "Resfeber0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009264876309414156",
+        "in_reply_to_user_id": "1947628495896477696",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009248008949649768",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Resfeber0 我也！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1947628495896477696",
+        "conversation_id": "2009248008949649768",
+        "created_at": "2026-01-08T12:57:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T13:57:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009248008949649768"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2009248008949649768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1800,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我！圈！不！到！钱！！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "天天开心o^^o",
+        "id": "2004619896630788096",
+        "location": "三体星球",
+        "name": "鱼虾一整碗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004620653153189888/VWgYLNYv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 253,
+          "following_count": 54,
+          "like_count": 1620,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 543
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-22T12:03:21.000Z",
+        "description": "人好 我是屁",
+        "id": "1947628495896477696",
+        "location": "🚪520",
+        "name": "Utopia",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005641663503556608/nkntROV1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15401,
+          "following_count": 141,
+          "like_count": 325,
+          "listed_count": 31,
+          "media_count": 114,
+          "tweet_count": 1094
+        },
+        "username": "Resfeber0",
+        "verified": false
+      }
+    ]
+  }
+}

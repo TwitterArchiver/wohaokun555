@@ -1,0 +1,152 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2065455070838468825",
+    "created_at": "2026-06-12T16:13:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T17:13:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065467530505052653"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2065467530505052653",
+    "in_reply_to_user_id": "2004619896630788096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065455070838468825",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "谢谢你！我会继续努力的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2065455070838468825",
+        "created_at": "2026-06-12T16:13:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T17:13:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065467530505052653"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065467530505052653",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065455070838468825",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "谢谢你！我会继续努力的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2065455070838468825",
+        "created_at": "2026-06-12T15:23:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T16:23:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065455070838468825"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065455070838468825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 200,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "我自卑的心理什么时候可以减弱 全方位自卑 然后定期还要复盘自己 然后批判自己 再继续走一段时间 再反复 我的18岁一直这样子 也可以说我高一到现在都是这样子 我不知道怎么办了有点 每次只能强迫自己坚持下吧 再走下去 还是我自己不够好 所有我羡慕的我仰望的都是相应的努力所带来的 我也只能继续走了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "@lei_meng123（随缘过\n这是一个女孩的内心世界🌍",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 0,
+                "username": "lei_meng123"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "私信只回口令过门 其他勿扰…",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2062769965330227585",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2285,
+          "following_count": 78,
+          "like_count": 21908,
+          "listed_count": 2,
+          "media_count": 145,
+          "tweet_count": 3502
+        },
+        "username": "wohaokun555",
+        "verified": false
+      }
+    ]
+  }
+}

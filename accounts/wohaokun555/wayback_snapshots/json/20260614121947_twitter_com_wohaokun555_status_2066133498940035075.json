@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2066079875925225933",
+    "created_at": "2026-06-14T12:19:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T13:19:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066133498940035075"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1597960858436599811",
+          "start": 0,
+          "username": "wngzhrn52523637"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066133498940035075",
+    "in_reply_to_user_id": "1597960858436599811",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066125242511335823",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wngzhrn52523637 哎呀亲亲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2066079875925225933",
+        "created_at": "2026-06-14T12:19:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T13:19:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066133498940035075"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1597960858436599811",
+              "start": 0,
+              "username": "wngzhrn52523637"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066133498940035075",
+        "in_reply_to_user_id": "1597960858436599811",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066125242511335823",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wngzhrn52523637 哎呀亲亲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597960858436599811",
+        "conversation_id": "2066079875925225933",
+        "created_at": "2026-06-14T11:46:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T12:46:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066125242511335823"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066125242511335823",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066079875925225933",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 好萌！！老婆你跟你头像长得好像！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "@lei_meng123（随缘过\n这是一个女孩的内心世界🌍",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 0,
+                "username": "lei_meng123"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "私信只回口令过门 其他勿扰…",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2062769965330227585",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2313,
+          "following_count": 77,
+          "like_count": 22041,
+          "listed_count": 2,
+          "media_count": 145,
+          "tweet_count": 3528
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-30T14:29:03.000Z",
+        "description": "Qq的电子日记",
+        "id": "1597960858436599811",
+        "name": "10086",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057405306666455040/hPaNqCO2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 75,
+          "like_count": 745,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 307
+        },
+        "username": "wngzhrn52523637",
+        "verified": false
+      }
+    ]
+  }
+}

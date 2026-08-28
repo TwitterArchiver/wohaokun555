@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2004438112706215976",
+    "created_at": "2025-12-27T11:01:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-27T12:01:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004870144737362424"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1796434354492903425",
+          "start": 0,
+          "username": "xiaocaihhhh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004870144737362424",
+    "in_reply_to_user_id": "1796434354492903425",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004438112706215976",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaocaihhhh 下次小心点！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2004438086600871938",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9Ex0d4b0AImulV.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2004438112706215976",
+        "created_at": "2025-12-27T11:01:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T12:01:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004870144737362424"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1796434354492903425",
+              "start": 0,
+              "username": "xiaocaihhhh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004870144737362424",
+        "in_reply_to_user_id": "1796434354492903425",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004438112706215976",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaocaihhhh 下次小心点！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2004438086600871938"
+          ]
+        },
+        "author_id": "1796434354492903425",
+        "conversation_id": "2004438112706215976",
+        "created_at": "2025-12-26T06:24:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T07:24:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004438112706215976"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 13,
+              "start": 9,
+              "tag": "男妈妈"
+            },
+            {
+              "end": 17,
+              "start": 14,
+              "tag": "胸肌"
+            },
+            {
+              "end": 21,
+              "start": 18,
+              "tag": "男高"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8Er1qlhN0x",
+              "end": 45,
+              "expanded_url": "https://x.com/xiaocaihhhh/status/2004438112706215976/photo/1",
+              "media_key": "3_2004438086600871938",
+              "start": 22,
+              "url": "https://t.co/8Er1qlhN0x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004438112706215976",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 10248,
+          "like_count": 353,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "不小心漏出了咪咪 #男妈妈 #胸肌 #男高 https://t.co/8Er1qlhN0x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "🚪52",
+        "id": "2004619896630788096",
+        "location": "Hong Kong",
+        "name": "鱼虾一整碗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004620653153189888/VWgYLNYv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 8,
+          "like_count": 57,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 47
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-31T06:51:51.000Z",
+        "description": "三无青年 没钱没颜没身高",
+        "id": "1796434354492903425",
+        "name": "菜要不要",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953494470156226560/a541Tm8X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 432,
+          "following_count": 95,
+          "like_count": 101,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 42
+        },
+        "username": "xiaocaihhhh",
+        "verified": false
+      }
+    ]
+  }
+}

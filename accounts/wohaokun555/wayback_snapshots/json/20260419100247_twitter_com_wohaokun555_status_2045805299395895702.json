@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2045805285177221120",
+        "3_2045805285231771648",
+        "3_2045805285189746688"
+      ]
+    },
+    "author_id": "2004619896630788096",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2045805299395895702",
+    "created_at": "2026-04-19T10:02:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T11:02:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045805299395895702"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/kwWExMTYJR",
+          "end": 25,
+          "expanded_url": "https://x.com/wohaokun555/status/2045805299395895702/photo/1",
+          "media_key": "3_2045805285177221120",
+          "start": 2,
+          "url": "https://t.co/kwWExMTYJR"
+        },
+        {
+          "display_url": "pic.x.com/kwWExMTYJR",
+          "end": 25,
+          "expanded_url": "https://x.com/wohaokun555/status/2045805299395895702/photo/1",
+          "media_key": "3_2045805285231771648",
+          "start": 2,
+          "url": "https://t.co/kwWExMTYJR"
+        },
+        {
+          "display_url": "pic.x.com/kwWExMTYJR",
+          "end": 25,
+          "expanded_url": "https://x.com/wohaokun555/status/2045805299395895702/photo/1",
+          "media_key": "3_2045805285189746688",
+          "start": 2,
+          "url": "https://t.co/kwWExMTYJR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045805299395895702",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "🤔 https://t.co/kwWExMTYJR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1685,
+        "media_key": "3_2045805285177221120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGQpEVaa4AAjvnr.jpg",
+        "width": 1206
+      },
+      {
+        "height": 2008,
+        "media_key": "3_2045805285231771648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGQpEVnbQAAFGor.jpg",
+        "width": 1206
+      },
+      {
+        "height": 2006,
+        "media_key": "3_2045805285189746688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGQpEVdaAAAvR4h.jpg",
+        "width": 1039
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045805285177221120",
+            "3_2045805285231771648",
+            "3_2045805285189746688"
+          ]
+        },
+        "author_id": "2004619896630788096",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2045805299395895702",
+        "created_at": "2026-04-19T10:02:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T11:02:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045805299395895702"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kwWExMTYJR",
+              "end": 25,
+              "expanded_url": "https://x.com/wohaokun555/status/2045805299395895702/photo/1",
+              "media_key": "3_2045805285177221120",
+              "start": 2,
+              "url": "https://t.co/kwWExMTYJR"
+            },
+            {
+              "display_url": "pic.x.com/kwWExMTYJR",
+              "end": 25,
+              "expanded_url": "https://x.com/wohaokun555/status/2045805299395895702/photo/1",
+              "media_key": "3_2045805285231771648",
+              "start": 2,
+              "url": "https://t.co/kwWExMTYJR"
+            },
+            {
+              "display_url": "pic.x.com/kwWExMTYJR",
+              "end": 25,
+              "expanded_url": "https://x.com/wohaokun555/status/2045805299395895702/photo/1",
+              "media_key": "3_2045805285189746688",
+              "start": 2,
+              "url": "https://t.co/kwWExMTYJR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045805299395895702",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🤔 https://t.co/kwWExMTYJR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "",
+        "id": "2004619896630788096",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2036315164098830372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1916,
+          "following_count": 99,
+          "like_count": 15882,
+          "listed_count": 1,
+          "media_count": 191,
+          "tweet_count": 2901
+        },
+        "username": "wohaokun555",
+        "verified": false
+      }
+    ]
+  }
+}

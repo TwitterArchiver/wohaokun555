@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2056311464848441502",
+    "created_at": "2026-05-18T09:50:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T10:50:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056311464848441502"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2056311464848441502",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "其实我已经不希望将来有什么高薪工作了我就想让我自己可以每天没那么多事情轻轻松松地活着…我想我开心"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2056311464848441502",
+        "created_at": "2026-05-18T09:50:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T10:50:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056311464848441502"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056311464848441502",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实我已经不希望将来有什么高薪工作了我就想让我自己可以每天没那么多事情轻轻松松地活着…我想我开心"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "🚪（纯绿 不入勿扰",
+        "id": "2004619896630788096",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2036315164098830372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2063,
+          "following_count": 100,
+          "like_count": 19326,
+          "listed_count": 1,
+          "media_count": 230,
+          "tweet_count": 3206
+        },
+        "username": "wohaokun555",
+        "verified": false
+      }
+    ]
+  }
+}

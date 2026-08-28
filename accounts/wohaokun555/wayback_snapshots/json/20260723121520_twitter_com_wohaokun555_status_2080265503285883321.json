@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2080155924833149043",
+    "created_at": "2026-07-23T12:15:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T13:15:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080265503285883321"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1877402179499339780",
+          "start": 0,
+          "username": "zh0998483853317"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080265503285883321",
+    "in_reply_to_user_id": "1877402179499339780",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080204721495970072",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zh0998483853317 别招笑了🤭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2080155924833149043",
+        "created_at": "2026-07-23T12:15:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T13:15:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080265503285883321"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1877402179499339780",
+              "start": 0,
+              "username": "zh0998483853317"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080265503285883321",
+        "in_reply_to_user_id": "1877402179499339780",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080204721495970072",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zh0998483853317 别招笑了🤭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877402179499339780",
+        "conversation_id": "2080155924833149043",
+        "created_at": "2026-07-23T08:13:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T09:13:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080204721495970072"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080204721495970072",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080155924833149043",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 哪里来的大妈😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "＞𐋣＜",
+        "id": "2004619896630788096",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2073747405099659747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2857,
+          "following_count": 82,
+          "like_count": 24907,
+          "listed_count": 2,
+          "media_count": 150,
+          "tweet_count": 3974
+        },
+        "url": "",
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-09T17:09:35.000Z",
+        "description": "一朵鲜艳的花，一颗枝叶繁茂的树……任何良性的成长都需要用心血浇灌",
+        "id": "1877402179499339780",
+        "name": "解x=∞",
+        "pinned_tweet_id": "2042331855543026139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034745108705456128/rB22Qqim_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 2,
+          "media_count": 17,
+          "tweet_count": 1624
+        },
+        "url": "",
+        "username": "zh0998483853317",
+        "verified": false
+      }
+    ]
+  }
+}

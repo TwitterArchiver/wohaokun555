@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2015450486217023813",
+    "created_at": "2026-01-26T02:10:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T03:10:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015608260620062724"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1814014190539149312",
+          "start": 0,
+          "username": "quan_ai10965"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015608260620062724",
+    "in_reply_to_user_id": "1814014190539149312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015599670995910686",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@quan_ai10965 可恶的选修课老师"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2015450486217023813",
+        "created_at": "2026-01-26T02:10:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T03:10:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015608260620062724"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1814014190539149312",
+              "start": 0,
+              "username": "quan_ai10965"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015608260620062724",
+        "in_reply_to_user_id": "1814014190539149312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015599670995910686",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@quan_ai10965 可恶的选修课老师"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1814014190539149312",
+        "conversation_id": "2015450486217023813",
+        "created_at": "2026-01-26T01:36:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T02:36:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015599670995910686"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015599670995910686",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015450486217023813",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 我延毕两年了 就是因为和选修课老师骂起来了 现在还不给我合格"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "",
+        "id": "2004619896630788096",
+        "location": "🤔",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2007765884035813533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014313058978406400/yLC08oHO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 458,
+          "following_count": 69,
+          "like_count": 3043,
+          "listed_count": 1,
+          "media_count": 50,
+          "tweet_count": 839
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-18T19:07:47.000Z",
+        "description": "什么时候才能解脱",
+        "id": "1814014190539149312",
+        "location": "山东",
+        "name": "今晚不下雨",
+        "pinned_tweet_id": "1956229219777962472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1814332730580324352/nW3TRiTs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 16,
+          "like_count": 59,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 46
+        },
+        "username": "quan_ai10965",
+        "verified": false
+      }
+    ]
+  }
+}

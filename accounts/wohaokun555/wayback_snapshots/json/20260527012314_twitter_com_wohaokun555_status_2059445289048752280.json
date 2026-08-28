@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2059281929435025760",
+    "created_at": "2026-05-27T01:23:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T02:23:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059445289048752280"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1724765359209951232",
+          "start": 0,
+          "username": "enoch4306"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059445289048752280",
+    "in_reply_to_user_id": "1724765359209951232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059342091634032682",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@enoch4306 谢谢你🙏"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 673,
+        "media_key": "3_2059342064643719168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJRAsmobwAArccO.jpg",
+        "width": 921
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2059281929435025760",
+        "created_at": "2026-05-27T01:23:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T02:23:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059445289048752280"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1724765359209951232",
+              "start": 0,
+              "username": "enoch4306"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059445289048752280",
+        "in_reply_to_user_id": "1724765359209951232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059342091634032682",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@enoch4306 谢谢你🙏"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059342064643719168"
+          ]
+        },
+        "author_id": "1724765359209951232",
+        "conversation_id": "2059281929435025760",
+        "created_at": "2026-05-26T18:33:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T19:33:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059342091634032682"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pan.quark.cn/s/883373cb2821",
+              "end": 101,
+              "expanded_url": "http://pan.quark.cn/s/883373cb2821",
+              "start": 78,
+              "unwound_url": "http://pan.quark.cn/s/883373cb2821",
+              "url": "https://t.co/HS3yhXHyAp"
+            },
+            {
+              "display_url": "pic.x.com/DXXwBzsnhe",
+              "end": 125,
+              "expanded_url": "https://x.com/enoch4306/status/2059342091634032682/photo/1",
+              "media_key": "3_2059342064643719168",
+              "start": 102,
+              "url": "https://t.co/DXXwBzsnhe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059342091634032682",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 260,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059281929435025760",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 啊！自己不要轻易刷酸唉，轻者敏感肌，重者毁容。有基础皮肤课程，咱先了解一下，属于什么皮肤和应对办法。\n\n《皮肤科医生的高效护肤术》https://t.co/HS3yhXHyAp https://t.co/DXXwBzsnhe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "🚪（纯绿 不入勿扰\n@lei_meng123 随缘过",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 10,
+                "username": "lei_meng123"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2036315164098830372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2082,
+          "following_count": 78,
+          "like_count": 20123,
+          "listed_count": 1,
+          "media_count": 244,
+          "tweet_count": 3316
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-15T12:24:53.000Z",
+        "description": "打破信息茧房，扩张知识边界。\n\n互联网精神，人人为我，我为人人。\n\n金融 ‖ 科技 ‖ 软件 ‖ 书籍 ‖ 视频 ‖\n\n备份学习资料，以免下一秒失联。\n\n@我代找资源，节省你的时间。",
+        "id": "1724765359209951232",
+        "name": "喜羊羊（资源分享）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997196017272606725/o6aqk_E6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6240,
+          "following_count": 1358,
+          "like_count": 496,
+          "listed_count": 21,
+          "media_count": 586,
+          "tweet_count": 1417
+        },
+        "username": "enoch4306",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2068303501529358670",
+    "created_at": "2026-06-20T12:28:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T13:28:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068310097944838334"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1933366802593251328",
+          "start": 0,
+          "username": "ovozZQaQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068310097944838334",
+    "in_reply_to_user_id": "1933366802593251328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068303501529358670",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ovozZQaQ 被萌晕了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1402,
+        "media_key": "3_2068303492566208512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLQXEXIb0AAPzX6.jpg",
+        "width": 1052
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2068303501529358670",
+        "created_at": "2026-06-20T12:28:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T13:28:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068310097944838334"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1933366802593251328",
+              "start": 0,
+              "username": "ovozZQaQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068310097944838334",
+        "in_reply_to_user_id": "1933366802593251328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068303501529358670",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ovozZQaQ 被萌晕了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068303492566208512"
+          ]
+        },
+        "author_id": "1933366802593251328",
+        "conversation_id": "2068303501529358670",
+        "created_at": "2026-06-20T12:02:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T13:02:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068303501529358670"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nArdacK6R8",
+              "end": 31,
+              "expanded_url": "https://x.com/ovozZQaQ/status/2068303501529358670/photo/1",
+              "media_key": "3_2068303492566208512",
+              "start": 8,
+              "url": "https://t.co/nArdacK6R8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068303501529358670",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 162,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🌿(´ᴥ`)🌿 https://t.co/nArdacK6R8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "🌍",
+        "id": "2004619896630788096",
+        "location": "置顶是广告 非本人 请自辨",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2067618656885125585",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2446,
+          "following_count": 79,
+          "like_count": 22646,
+          "listed_count": 2,
+          "media_count": 135,
+          "tweet_count": 3617
+        },
+        "url": "",
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-13T03:32:29.000Z",
+        "description": "一起去屋顶看星星",
+        "id": "1933366802593251328",
+        "name": "蛋挞般脆弱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067961268963840000/d_8cObuk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1453,
+          "following_count": 127,
+          "like_count": 13848,
+          "listed_count": 6,
+          "media_count": 753,
+          "tweet_count": 5987
+        },
+        "url": "",
+        "username": "ovozZQaQ",
+        "verified": false
+      }
+    ]
+  }
+}

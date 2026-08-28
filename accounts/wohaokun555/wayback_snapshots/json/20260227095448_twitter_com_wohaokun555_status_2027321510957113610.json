@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2027258724784721994",
+    "created_at": "2026-02-27T09:54:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T10:54:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027321510957113610"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "410856662",
+          "start": 0,
+          "username": "mydream2025"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027321510957113610",
+    "in_reply_to_user_id": "410856662",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027321196627534334",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mydream2025 谢谢你～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2027258724784721994",
+        "created_at": "2026-02-27T09:54:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T10:54:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027321510957113610"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "410856662",
+              "start": 0,
+              "username": "mydream2025"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027321510957113610",
+        "in_reply_to_user_id": "410856662",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027321196627534334",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mydream2025 谢谢你～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "410856662",
+        "conversation_id": "2027258724784721994",
+        "created_at": "2026-02-27T09:53:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T10:53:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027321196627534334"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027321196627534334",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027258724784721994",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 但凡你犹豫需不需要考研的，那么都是没必要去考研的。尤其是找到合适的工作之后，就更没必要了。\n换句话说，你一定有你一定要做某事的感觉，但是考研没给你这种感觉，那么考研就不是必须的，合适工作优先级更高。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2JlN5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2JlN5"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "除了口令和正常问题别的私信不回",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2016792238060421479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 935,
+          "following_count": 94,
+          "like_count": 9595,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 1753
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2011-11-12T17:25:02.000Z",
+        "description": "怪叔叔一个，哈哈哈哈哈哈",
+        "id": "410856662",
+        "name": "mydream2025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1635514576/u_1859023631_728900639_fm_0_gp_0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1938,
+          "following_count": 1668,
+          "like_count": 17519,
+          "listed_count": 20,
+          "media_count": 163,
+          "tweet_count": 64983
+        },
+        "username": "mydream2025",
+        "verified": false
+      }
+    ]
+  }
+}

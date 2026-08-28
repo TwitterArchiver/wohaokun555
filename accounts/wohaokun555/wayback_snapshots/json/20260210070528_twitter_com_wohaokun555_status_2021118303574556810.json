@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2021100838266270205",
+    "created_at": "2026-02-10T07:05:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-10T08:05:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021118303574556810"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1687988648627834880",
+          "start": 0,
+          "username": "kawcpx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021118303574556810",
+    "in_reply_to_user_id": "1687988648627834880",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021100838266270205",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kawcpx 我一直在蹲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2021100838266270205",
+        "created_at": "2026-02-10T07:05:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T08:05:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021118303574556810"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1687988648627834880",
+              "start": 0,
+              "username": "kawcpx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021118303574556810",
+        "in_reply_to_user_id": "1687988648627834880",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021100838266270205",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kawcpx 我一直在蹲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687988648627834880",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2021100838266270205",
+        "created_at": "2026-02-10T05:56:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T06:56:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021100838266270205"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2021100838266270205",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1032,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 38,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "私信炸了 晚点 grok 随机吧然后再多挑几个小宝宝额外抽"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2JlN5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2JlN5"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "🚪188（绿（别的私信不回",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2019333252520321256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014313058978406400/yLC08oHO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 667,
+          "following_count": 74,
+          "like_count": 6475,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 1240
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-06T00:47:19.000Z",
+        "description": "随便",
+        "id": "1687988648627834880",
+        "name": "kaw",
+        "pinned_tweet_id": "2020492015830778166",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1730203704920596480/5fxr_IIu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2662,
+          "following_count": 19,
+          "like_count": 567,
+          "listed_count": 1,
+          "media_count": 50,
+          "tweet_count": 196
+        },
+        "username": "kawcpx",
+        "verified": true
+      }
+    ]
+  }
+}

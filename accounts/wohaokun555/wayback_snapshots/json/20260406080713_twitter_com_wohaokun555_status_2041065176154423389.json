@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2041065165081522176"
+      ]
+    },
+    "author_id": "2004619896630788096",
+    "conversation_id": "2041065176154423389",
+    "created_at": "2026-04-06T08:07:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T09:07:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041065176154423389"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/AL7l7VTY6r",
+          "end": 33,
+          "expanded_url": "https://x.com/wohaokun555/status/2041065176154423389/photo/1",
+          "media_key": "3_2041065165081522176",
+          "start": 10,
+          "url": "https://t.co/AL7l7VTY6r"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041065176154423389",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "卧槽老子爱这个特效 https://t.co/AL7l7VTY6r"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1053,
+        "media_key": "3_2041065165081522176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFNR9CAbsAAXTKf.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041065165081522176"
+          ]
+        },
+        "author_id": "2004619896630788096",
+        "conversation_id": "2041065176154423389",
+        "created_at": "2026-04-06T08:07:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T09:07:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041065176154423389"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AL7l7VTY6r",
+              "end": 33,
+              "expanded_url": "https://x.com/wohaokun555/status/2041065176154423389/photo/1",
+              "media_key": "3_2041065165081522176",
+              "start": 10,
+              "url": "https://t.co/AL7l7VTY6r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041065176154423389",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "卧槽老子爱这个特效 https://t.co/AL7l7VTY6r"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "",
+        "id": "2004619896630788096",
+        "location": "🚪520",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2040741237666533734",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1551,
+          "following_count": 98,
+          "like_count": 14372,
+          "listed_count": 1,
+          "media_count": 165,
+          "tweet_count": 2659
+        },
+        "username": "wohaokun555",
+        "verified": false
+      }
+    ]
+  }
+}

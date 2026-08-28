@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2005527560470638891",
+    "created_at": "2025-12-29T07:31:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-29T08:31:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005542207844188271"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1978751417100976128",
+          "start": 0,
+          "username": "TDaidai_T"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005542207844188271",
+    "in_reply_to_user_id": "1978751417100976128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005537363909587387",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TDaidai_T 嘻嘻(o^^o)我以后要多发！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2005527560470638891",
+        "created_at": "2025-12-29T07:31:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-29T08:31:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005542207844188271"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1978751417100976128",
+              "start": 0,
+              "username": "TDaidai_T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005542207844188271",
+        "in_reply_to_user_id": "1978751417100976128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005537363909587387",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TDaidai_T 嘻嘻(o^^o)我以后要多发！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1978751417100976128",
+        "conversation_id": "2005527560470638891",
+        "created_at": "2025-12-29T07:12:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-29T08:12:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005537363909587387"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005537363909587387",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005527560470638891",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 我也爱看"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "🚪66",
+        "id": "2004619896630788096",
+        "location": "Hong Kong",
+        "name": "鱼虾一整碗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004620653153189888/VWgYLNYv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 25,
+          "like_count": 195,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 123
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-16T09:14:54.000Z",
+        "description": "不是陪聊工具 不聊骚 请保持礼貌。",
+        "id": "1978751417100976128",
+        "name": "代代听",
+        "pinned_tweet_id": "1991862425088590302",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999883763271286784/BKLVUH7M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 33,
+          "like_count": 1060,
+          "listed_count": 2,
+          "media_count": 72,
+          "tweet_count": 495
+        },
+        "username": "TDaidai_T",
+        "verified": false
+      }
+    ]
+  }
+}

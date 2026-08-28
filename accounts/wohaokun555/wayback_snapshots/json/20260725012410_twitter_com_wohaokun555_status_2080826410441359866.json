@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2080512164935368708",
+    "created_at": "2026-07-25T01:24:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T02:24:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080826410441359866"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1709527622349209600",
+          "start": 0,
+          "username": "Dodoubleg12321L"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080826410441359866",
+    "in_reply_to_user_id": "1709527622349209600",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080725082654244948",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Dodoubleg12321L 好嘟呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2080512164935368708",
+        "created_at": "2026-07-25T01:24:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T02:24:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080826410441359866"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1709527622349209600",
+              "start": 0,
+              "username": "Dodoubleg12321L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080826410441359866",
+        "in_reply_to_user_id": "1709527622349209600",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080725082654244948",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dodoubleg12321L 好嘟呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1709527622349209600",
+        "conversation_id": "2080512164935368708",
+        "created_at": "2026-07-24T18:41:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T19:41:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080725082654244948"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080725082654244948",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080512164935368708",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 马道街章云板鸭 全南京最好吃的烤鸭 南京大排档说实话一般 属于是每个地方的那种网红景点 如果打卡的话可以去尝尝 奔着味道的话就别去了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "＞𐋣＜",
+        "id": "2004619896630788096",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2073747405099659747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2867,
+          "following_count": 83,
+          "like_count": 25021,
+          "listed_count": 2,
+          "media_count": 150,
+          "tweet_count": 3998
+        },
+        "url": "",
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-04T11:15:31.000Z",
+        "description": "本质碎碎念 私信看不见 有问题直接留言",
+        "id": "1709527622349209600",
+        "name": "坐着不如躺着",
+        "pinned_tweet_id": "2071332561851465960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080020447761248256/K4Wq1q7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 25,
+          "like_count": 275,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 75
+        },
+        "url": "",
+        "username": "Dodoubleg12321L",
+        "verified": false
+      }
+    ]
+  }
+}

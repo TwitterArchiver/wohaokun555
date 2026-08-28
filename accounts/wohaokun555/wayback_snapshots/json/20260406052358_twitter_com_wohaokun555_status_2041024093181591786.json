@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2041010596808933399",
+    "created_at": "2026-04-06T05:23:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T06:23:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041024093181591786"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1761655410820579328",
+          "start": 0,
+          "username": "luckykt17"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041024093181591786",
+    "in_reply_to_user_id": "1761655410820579328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041010596808933399",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@luckykt17 这我真要求教程了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2041010588995010561",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFMgUSPbwAEs2IT.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2041010596808933399",
+        "created_at": "2026-04-06T05:23:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T06:23:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041024093181591786"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1761655410820579328",
+              "start": 0,
+              "username": "luckykt17"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041024093181591786",
+        "in_reply_to_user_id": "1761655410820579328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041010596808933399",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luckykt17 这我真要求教程了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041010588995010561"
+          ]
+        },
+        "author_id": "1761655410820579328",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2041010596808933399",
+        "created_at": "2026-04-06T04:30:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T05:30:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041010596808933399"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LIU7zpCvDI",
+              "end": 62,
+              "expanded_url": "https://x.com/luckykt17/status/2041010596808933399/photo/1",
+              "media_key": "3_2041010588995010561",
+              "start": 39,
+              "url": "https://t.co/LIU7zpCvDI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041010596808933399",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 166,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你吃多贵的饭我都不在乎，但当我拿出0.1买的10寸必胜客披萨阁下能如何呢💅🏻 https://t.co/LIU7zpCvDI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "",
+        "id": "2004619896630788096",
+        "location": "🚪520",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2007765884035813533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1553,
+          "following_count": 98,
+          "like_count": 14333,
+          "listed_count": 1,
+          "media_count": 164,
+          "tweet_count": 2649
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-25T07:32:50.000Z",
+        "description": "用微小的事情去感受幸福 @xiaying1117仅过互关",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "xiaying1117"
+              }
+            ]
+          }
+        },
+        "id": "1761655410820579328",
+        "location": "无🚪",
+        "name": "恋绘兔",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002632185489338373/yn0gPdxk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2739,
+          "following_count": 179,
+          "like_count": 3260,
+          "listed_count": 4,
+          "media_count": 130,
+          "tweet_count": 1363
+        },
+        "username": "luckykt17",
+        "verified": false
+      }
+    ]
+  }
+}

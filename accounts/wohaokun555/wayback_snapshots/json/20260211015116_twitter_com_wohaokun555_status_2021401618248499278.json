@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2021190093042491852",
+    "created_at": "2026-02-11T01:51:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-11T02:51:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021401618248499278"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1847910028520673281",
+          "start": 0,
+          "username": "m1Rh5IBxSn56736"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021401618248499278",
+    "in_reply_to_user_id": "1847910028520673281",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021399075879596193",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@m1Rh5IBxSn56736 因为她做错了哈哈哈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2021190093042491852",
+        "created_at": "2026-02-11T01:51:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T02:51:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021401618248499278"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1847910028520673281",
+              "start": 0,
+              "username": "m1Rh5IBxSn56736"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021401618248499278",
+        "in_reply_to_user_id": "1847910028520673281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021399075879596193",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@m1Rh5IBxSn56736 因为她做错了哈哈哈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1847910028520673281",
+        "conversation_id": "2021190093042491852",
+        "created_at": "2026-02-11T01:41:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T02:41:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021399075879596193"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021399075879596193",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021190093042491852",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 为什么会这么干呀，蒸出来的不应该挺饱满吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2JlN5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2JlN5"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "🚪188（绿（别的私信不回",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2009534874970145039",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014313058978406400/yLC08oHO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 669,
+          "following_count": 73,
+          "like_count": 6597,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 1257
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-20T07:57:52.000Z",
+        "description": "09学生，欢迎同我聊天",
+        "id": "1847910028520673281",
+        "name": "～～～",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932316174865637376/Mcp4tyZx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 19,
+          "like_count": 29,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 223
+        },
+        "username": "m1Rh5IBxSn56736",
+        "verified": false
+      }
+    ]
+  }
+}

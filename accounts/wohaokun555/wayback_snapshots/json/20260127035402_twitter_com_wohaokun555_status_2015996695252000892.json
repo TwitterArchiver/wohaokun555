@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2015777214227431606",
+    "created_at": "2026-01-27T03:54:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T04:54:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015996695252000892"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1722890300757291008",
+          "start": 0,
+          "username": "baisechenyi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015996695252000892",
+    "in_reply_to_user_id": "1722890300757291008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015777214227431606",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@baisechenyi 你也很可爱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2015777104806248448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_l6mMZXgAAAPk7.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2015777104638701568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_l6mLxa8AASEEB.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1869,
+        "media_key": "3_2015776878230151168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_l6ZAVaoAA2Cma.jpg",
+        "width": 1869
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2015776877865299968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_l6Y--bcAAuBOA.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2015777214227431606",
+        "created_at": "2026-01-27T03:54:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T04:54:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015996695252000892"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1722890300757291008",
+              "start": 0,
+              "username": "baisechenyi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015996695252000892",
+        "in_reply_to_user_id": "1722890300757291008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015777214227431606",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@baisechenyi 你也很可爱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015777104806248448",
+            "3_2015777104638701568",
+            "3_2015776878230151168",
+            "3_2015776877865299968"
+          ]
+        },
+        "author_id": "1722890300757291008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2015777214227431606",
+        "created_at": "2026-01-26T13:21:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T14:21:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015777214227431606"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/L6ZFhXjYMj",
+              "end": 56,
+              "expanded_url": "https://x.com/baisechenyi/status/2015777214227431606/photo/1",
+              "media_key": "3_2015777104806248448",
+              "start": 33,
+              "url": "https://t.co/L6ZFhXjYMj"
+            },
+            {
+              "display_url": "pic.x.com/L6ZFhXjYMj",
+              "end": 56,
+              "expanded_url": "https://x.com/baisechenyi/status/2015777214227431606/photo/1",
+              "media_key": "3_2015777104638701568",
+              "start": 33,
+              "url": "https://t.co/L6ZFhXjYMj"
+            },
+            {
+              "display_url": "pic.x.com/L6ZFhXjYMj",
+              "end": 56,
+              "expanded_url": "https://x.com/baisechenyi/status/2015777214227431606/photo/1",
+              "media_key": "3_2015776878230151168",
+              "start": 33,
+              "url": "https://t.co/L6ZFhXjYMj"
+            },
+            {
+              "display_url": "pic.x.com/L6ZFhXjYMj",
+              "end": 56,
+              "expanded_url": "https://x.com/baisechenyi/status/2015777214227431606/photo/1",
+              "media_key": "3_2015776877865299968",
+              "start": 33,
+              "url": "https://t.co/L6ZFhXjYMj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015777214227431606",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 10415,
+          "like_count": 99,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天和朋友在江汉路吃漂亮饭！遇到了可爱的小猫咪 一直在蹭我的腿！ https://t.co/L6ZFhXjYMj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2JlN5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2JlN5"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "三体",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2007765884035813533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014313058978406400/yLC08oHO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 459,
+          "following_count": 70,
+          "like_count": 3234,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 834
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-10T08:14:01.000Z",
+        "description": "清水清水清水 | 06 | 177 | esfp | 喜欢发碎碎念和自拍| 私信只回礼貌的和大奶照",
+        "id": "1722890300757291008",
+        "location": "不闲聊 不是4i/s",
+        "name": "Nn",
+        "pinned_tweet_id": "1985721628446375960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010679849787244544/wrrOmXPL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11054,
+          "following_count": 452,
+          "like_count": 21652,
+          "listed_count": 14,
+          "media_count": 137,
+          "tweet_count": 6380
+        },
+        "username": "baisechenyi",
+        "verified": false
+      }
+    ]
+  }
+}

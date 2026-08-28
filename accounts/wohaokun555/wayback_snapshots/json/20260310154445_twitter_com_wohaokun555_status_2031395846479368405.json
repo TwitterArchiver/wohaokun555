@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2031393833418961083",
+    "created_at": "2026-03-10T15:44:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T16:44:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031395846479368405"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1984629468410101764",
+          "start": 0,
+          "username": "twntyfour7svn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031395846479368405",
+    "in_reply_to_user_id": "1984629468410101764",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031395614408454617",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@twntyfour7svn 👄"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2031393833418961083",
+        "created_at": "2026-03-10T15:44:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T16:44:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031395846479368405"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1984629468410101764",
+              "start": 0,
+              "username": "twntyfour7svn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031395846479368405",
+        "in_reply_to_user_id": "1984629468410101764",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031395614408454617",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@twntyfour7svn 👄"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984629468410101764",
+        "conversation_id": "2031393833418961083",
+        "created_at": "2026-03-10T15:43:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T16:43:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031395614408454617"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031395614408454617",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031393833418961083",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 来嘴一个"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2JlN5\n🚪（勿扰",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2JlN5"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "除了口令别的不回！没有陪聊的义务",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2008543541979738501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1177,
+          "following_count": 97,
+          "like_count": 10677,
+          "listed_count": 1,
+          "media_count": 86,
+          "tweet_count": 1969
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-01T14:32:12.000Z",
+        "description": "我提前说一下 我是文盲 和我家小狗共用一个账号 如果这个账号发了不好的言论 那都是小狗发的对不起 我家小狗没上过学 刚学会上网三个月 请大家谅解 骂人的都是小狗 狗四个爪子比我打字快🫶🏻",
+        "id": "1984629468410101764",
+        "name": "屁屁",
+        "pinned_tweet_id": "2010053247202169223",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010030643103838209/nLSjDjZP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 910,
+          "following_count": 60,
+          "like_count": 1810,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 985
+        },
+        "username": "twntyfour7svn",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2006238854991470991",
+    "created_at": "2025-12-31T05:43:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-31T06:43:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006239753545601346"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1852390818390450176",
+          "start": 0,
+          "username": "Lrmc4e"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006239753545601346",
+    "in_reply_to_user_id": "1852390818390450176",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006238854991470991",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lrmc4e 好萌！！！！！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2800,
+        "height": 1280,
+        "media_key": "13_2006238796166361088",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2006238796166361088/img/2Vp_5Uzs2Bxf-R6s.jpg",
+        "public_metrics": {
+          "view_count": 6
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2006238796166361088/vid/avc1/320x568/epIiH5GTh0D4JBdB.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2006238796166361088/vid/avc1/480x852/GgFNx_j7_zznu0wH.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2006238796166361088/vid/avc1/720x1280/5TkWd4NOKywiimdH.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2006238796166361088/pl/Gvb6_cPEBGNnWnbT.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2006238854991470991",
+        "created_at": "2025-12-31T05:43:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T06:43:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006239753545601346"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1852390818390450176",
+              "start": 0,
+              "username": "Lrmc4e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006239753545601346",
+        "in_reply_to_user_id": "1852390818390450176",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006238854991470991",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lrmc4e 好萌！！！！！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2006238796166361088"
+          ]
+        },
+        "author_id": "1852390818390450176",
+        "conversation_id": "2006238854991470991",
+        "created_at": "2025-12-31T05:39:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T06:39:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006238854991470991"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ul66TrI0Bv",
+              "end": 26,
+              "expanded_url": "https://x.com/Lrmc4e/status/2006238854991470991/video/1",
+              "media_key": "13_2006238796166361088",
+              "start": 3,
+              "url": "https://t.co/ul66TrI0Bv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006238854991470991",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "纯良 https://t.co/ul66TrI0Bv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "天天开心o^^o",
+        "id": "2004619896630788096",
+        "location": "三体星球",
+        "name": "鱼虾一整碗",
+        "pinned_tweet_id": "2005582001685012508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004620653153189888/VWgYLNYv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 30,
+          "like_count": 471,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 239
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-01T16:42:50.000Z",
+        "description": "玩x只是满足自己的分享欲｜ig: lrmc4e",
+        "id": "1852390818390450176",
+        "location": "🚪口令1314仅朋友圈闲聊",
+        "name": "Looe",
+        "pinned_tweet_id": "2003482005892399608",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852391001618612224/yosj9UJd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12836,
+          "following_count": 92,
+          "like_count": 17203,
+          "listed_count": 27,
+          "media_count": 209,
+          "tweet_count": 4735
+        },
+        "username": "Lrmc4e",
+        "verified": false
+      }
+    ]
+  }
+}

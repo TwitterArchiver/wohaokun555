@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063271167985917952"
+      ]
+    },
+    "author_id": "2004619896630788096",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1364667946291798017",
+          "name": "Study abroad"
+        }
+      }
+    ],
+    "conversation_id": "2063271177997684764",
+    "created_at": "2026-06-06T14:45:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T15:45:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063271177997684764"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/nMfEA3LWpS",
+          "end": 151,
+          "expanded_url": "https://x.com/wohaokun555/status/2063271177997684764/photo/1",
+          "media_key": "3_2063271167985917952",
+          "start": 128,
+          "url": "https://t.co/nMfEA3LWpS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063271177997684764",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "高中的时候和他特别暧昧 他去留学后还会经常回来找我玩 然后每次都给我带那个jelly cat 我都存下来放在一块 高三好几次崩溃都是他安慰走出来的 每次都和他deep talk好久 是一个特别有内涵且特别温柔的人…而且他对我完全完全了解 有点想他了居然… https://t.co/nMfEA3LWpS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1443,
+        "media_key": "3_2063271167985917952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKI2MhMbIAAqfVt.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063271167985917952"
+          ]
+        },
+        "author_id": "2004619896630788096",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1364667946291798017",
+              "name": "Study abroad"
+            }
+          }
+        ],
+        "conversation_id": "2063271177997684764",
+        "created_at": "2026-06-06T14:45:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T15:45:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063271177997684764"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nMfEA3LWpS",
+              "end": 151,
+              "expanded_url": "https://x.com/wohaokun555/status/2063271177997684764/photo/1",
+              "media_key": "3_2063271167985917952",
+              "start": 128,
+              "url": "https://t.co/nMfEA3LWpS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063271177997684764",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "高中的时候和他特别暧昧 他去留学后还会经常回来找我玩 然后每次都给我带那个jelly cat 我都存下来放在一块 高三好几次崩溃都是他安慰走出来的 每次都和他deep talk好久 是一个特别有内涵且特别温柔的人…而且他对我完全完全了解 有点想他了居然… https://t.co/nMfEA3LWpS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "",
+        "id": "2004619896630788096",
+        "location": "私信只回口令过门 其他勿扰…",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2062769965330227585",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2244,
+          "following_count": 76,
+          "like_count": 21400,
+          "listed_count": 2,
+          "media_count": 141,
+          "tweet_count": 3396
+        },
+        "username": "wohaokun555",
+        "verified": false
+      }
+    ]
+  }
+}

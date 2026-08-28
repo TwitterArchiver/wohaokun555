@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2015743997181059539",
+    "created_at": "2026-01-26T11:35:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T12:35:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015750526395469887"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1959674017373462528",
+          "start": 0,
+          "username": "Alicemimimiao11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015750526395469887",
+    "in_reply_to_user_id": "1959674017373462528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015743997181059539",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Alicemimimiao11 我晕了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 362,
+        "media_key": "3_2015743981926469634",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_lceMDb0AIHGZA.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2015743997181059539",
+        "created_at": "2026-01-26T11:35:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T12:35:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015750526395469887"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1959674017373462528",
+              "start": 0,
+              "username": "Alicemimimiao11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015750526395469887",
+        "in_reply_to_user_id": "1959674017373462528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015743997181059539",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Alicemimimiao11 我晕了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015743981926469634"
+          ]
+        },
+        "author_id": "1959674017373462528",
+        "conversation_id": "2015743997181059539",
+        "created_at": "2026-01-26T11:09:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T12:09:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015743997181059539"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/c8LZxgEUyg",
+              "end": 28,
+              "expanded_url": "https://x.com/Alicemimimiao11/status/2015743997181059539/photo/1",
+              "media_key": "3_2015743981926469634",
+              "start": 5,
+              "url": "https://t.co/c8LZxgEUyg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015743997181059539",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 224,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不哭了 https://t.co/c8LZxgEUyg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2JlN5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2JlN5"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "🤔",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2007765884035813533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014313058978406400/yLC08oHO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 459,
+          "following_count": 70,
+          "like_count": 3141,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 817
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-24T17:47:59.000Z",
+        "description": "碎碎念专用号｜废话很多 喜欢女宝｜不定时删帖｜不约不加联系方式｜私信看心情回｜没有陪聊的义务 陪聊打钱谢谢｜骂我的没妈｜另一个我@Wendyyyy_awo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 64,
+                "username": "Wendyyyy_awo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/alice51462",
+                "end": 23,
+                "expanded_url": "https://ngl.link/alice51462",
+                "start": 0,
+                "url": "https://t.co/Py9CPZxB06"
+              }
+            ]
+          }
+        },
+        "id": "1959674017373462528",
+        "location": "🚪88/288/520/1314 匿名➡️",
+        "name": "Alice",
+        "pinned_tweet_id": "2006335726410183054",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010237010825392128/cuiFSv0w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2314,
+          "following_count": 105,
+          "like_count": 4444,
+          "listed_count": 13,
+          "media_count": 96,
+          "tweet_count": 1755
+        },
+        "url": "https://t.co/Py9CPZxB06",
+        "username": "Alicemimimiao11",
+        "verified": false
+      }
+    ]
+  }
+}

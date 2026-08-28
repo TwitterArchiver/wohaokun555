@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2067838405355135176",
+    "created_at": "2026-06-19T05:51:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T06:51:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067847710556967169"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1883889657320247296",
+          "start": 0,
+          "username": "i7uu12yy7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067847710556967169",
+    "in_reply_to_user_id": "1883889657320247296",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067843107991810209",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@i7uu12yy7 🥵🥵💋💋💋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2067838405355135176",
+        "created_at": "2026-06-19T05:51:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T06:51:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067847710556967169"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1883889657320247296",
+              "start": 0,
+              "username": "i7uu12yy7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067847710556967169",
+        "in_reply_to_user_id": "1883889657320247296",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067843107991810209",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@i7uu12yy7 🥵🥵💋💋💋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883889657320247296",
+        "conversation_id": "2067838405355135176",
+        "created_at": "2026-06-19T05:33:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T06:33:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067843107991810209"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067843107991810209",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067838405355135176",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 👅👅👅"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "🌍",
+        "id": "2004619896630788096",
+        "location": "置顶是广告 非本人 请自辨",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2067618656885125585",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2438,
+          "following_count": 79,
+          "like_count": 22584,
+          "listed_count": 2,
+          "media_count": 134,
+          "tweet_count": 3595
+        },
+        "url": "",
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-27T14:48:00.000Z",
+        "description": "漂泊在那平庸之海   坏情绪@maxwell_an59209",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 14,
+                "username": "maxwell_an59209"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/qm84069",
+                "end": 23,
+                "expanded_url": "https://ngl.link/qm84069",
+                "start": 0,
+                "url": "https://t.co/AO8DeIdV8p"
+              }
+            ]
+          }
+        },
+        "id": "1883889657320247296",
+        "location": "💤",
+        "name": "FF77",
+        "pinned_tweet_id": "2065820970498068780",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067620716540022784/T6z15DcQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2681,
+          "following_count": 188,
+          "like_count": 19856,
+          "listed_count": 2,
+          "media_count": 252,
+          "tweet_count": 3009
+        },
+        "url": "https://t.co/AO8DeIdV8p",
+        "username": "i7uu12yy7",
+        "verified": false
+      }
+    ]
+  }
+}

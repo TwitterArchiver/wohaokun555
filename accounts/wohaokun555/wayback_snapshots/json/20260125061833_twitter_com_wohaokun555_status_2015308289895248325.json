@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2015308281733124096"
+      ]
+    },
+    "author_id": "2004619896630788096",
+    "conversation_id": "2015308289895248325",
+    "created_at": "2026-01-25T06:18:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-25T07:18:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2015308289895248325"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/tupgNv5Rf3",
+          "end": 31,
+          "expanded_url": "https://x.com/wohaokun555/status/2015308289895248325/photo/1",
+          "media_key": "3_2015308281733124096",
+          "start": 8,
+          "url": "https://t.co/tupgNv5Rf3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015308289895248325",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这特效好有意思 https://t.co/tupgNv5Rf3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2015308281733124096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_fQNGWbEAAxiRB.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015308281733124096"
+          ]
+        },
+        "author_id": "2004619896630788096",
+        "conversation_id": "2015308289895248325",
+        "created_at": "2026-01-25T06:18:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T07:18:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015308289895248325"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tupgNv5Rf3",
+              "end": 31,
+              "expanded_url": "https://x.com/wohaokun555/status/2015308289895248325/photo/1",
+              "media_key": "3_2015308281733124096",
+              "start": 8,
+              "url": "https://t.co/tupgNv5Rf3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015308289895248325",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这特效好有意思 https://t.co/tupgNv5Rf3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "",
+        "id": "2004619896630788096",
+        "location": "🤔",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2007765884035813533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014313058978406400/yLC08oHO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 447,
+          "following_count": 68,
+          "like_count": 2888,
+          "listed_count": 1,
+          "media_count": 50,
+          "tweet_count": 814
+        },
+        "username": "wohaokun555",
+        "verified": false
+      }
+    ]
+  }
+}

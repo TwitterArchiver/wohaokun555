@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2041056314424746049",
+    "created_at": "2026-04-06T13:47:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T14:47:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041150834910896574"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1932109867852156928",
+          "start": 0,
+          "username": "Joyce_cy8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041150834910896574",
+    "in_reply_to_user_id": "1932109867852156928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041150612931506364",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Joyce_cy8 这种傻逼一律屏蔽"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2041056314424746049",
+        "created_at": "2026-04-06T13:47:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T14:47:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041150834910896574"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1932109867852156928",
+              "start": 0,
+              "username": "Joyce_cy8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041150834910896574",
+        "in_reply_to_user_id": "1932109867852156928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041150612931506364",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Joyce_cy8 这种傻逼一律屏蔽"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932109867852156928",
+        "conversation_id": "2041056314424746049",
+        "created_at": "2026-04-06T13:46:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T14:46:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041150612931506364"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041150612931506364",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041056314424746049",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 还有就回复人家不回复你的….🙄"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "",
+        "id": "2004619896630788096",
+        "location": "🚪520",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2040741237666533734",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1551,
+          "following_count": 98,
+          "like_count": 14449,
+          "listed_count": 1,
+          "media_count": 168,
+          "tweet_count": 2680
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-09T16:18:29.000Z",
+        "description": "多多每天都要心情好",
+        "id": "1932109867852156928",
+        "location": "请唔打扰",
+        "name": "Joyce",
+        "pinned_tweet_id": "2035624797347229993",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034641485967368192/Gzl7WqQj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 19,
+          "like_count": 5506,
+          "listed_count": 0,
+          "media_count": 113,
+          "tweet_count": 996
+        },
+        "username": "Joyce_cy8",
+        "verified": false
+      }
+    ]
+  }
+}

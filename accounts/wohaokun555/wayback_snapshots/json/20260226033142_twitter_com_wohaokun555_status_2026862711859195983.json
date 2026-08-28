@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2026621621679829269",
+    "created_at": "2026-02-26T03:31:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T04:31:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026862711859195983"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 15,
+          "normalized_text": "恭喜",
+          "probability": 0.5125,
+          "start": 14,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1913919537373925376",
+          "start": 0,
+          "username": "kkkxxxuuuuuu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026862711859195983",
+    "in_reply_to_user_id": "1913919537373925376",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026621621679829269",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kkkxxxuuuuuu 恭喜！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2026621621679829269",
+        "created_at": "2026-02-26T03:31:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T04:31:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026862711859195983"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 15,
+              "normalized_text": "恭喜",
+              "probability": 0.5125,
+              "start": 14,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1913919537373925376",
+              "start": 0,
+              "username": "kkkxxxuuuuuu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026862711859195983",
+        "in_reply_to_user_id": "1913919537373925376",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026621621679829269",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kkkxxxuuuuuu 恭喜！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913919537373925376",
+        "conversation_id": "2026621621679829269",
+        "created_at": "2026-02-25T11:33:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T12:33:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026621621679829269"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2026621621679829269",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1481,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "妈呀好恍惚...昨天还是前天投的简历，下午面试，然后几小时后就收到offer了，连笔试都没让我做，顺利的太过分了吧！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2JlN5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2JlN5"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "除了口令和正常问题别的私信不回",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2016792238060421479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 923,
+          "following_count": 96,
+          "like_count": 9438,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 1724
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-20T11:36:06.000Z",
+        "description": "说点心里话 现实朋友认出勿扰🤐",
+        "id": "1913919537373925376",
+        "name": "叨叨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015803979729719296/cr36l-Ym_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 82,
+          "like_count": 315,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 84
+        },
+        "username": "kkkxxxuuuuuu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2024804907271033098",
+    "created_at": "2026-02-20T11:24:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T12:24:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024807414470721766"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1687988648627834880",
+          "start": 0,
+          "username": "kawcpx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024807414470721766",
+    "in_reply_to_user_id": "1687988648627834880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024804907271033098",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kawcpx 妈呀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2024804900300058624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBmNVDXa8AAZsaP.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2024804907271033098",
+        "created_at": "2026-02-20T11:24:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T12:24:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024807414470721766"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1687988648627834880",
+              "start": 0,
+              "username": "kawcpx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024807414470721766",
+        "in_reply_to_user_id": "1687988648627834880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024804907271033098",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kawcpx 妈呀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024804900300058624"
+          ]
+        },
+        "author_id": "1687988648627834880",
+        "conversation_id": "2024804907271033098",
+        "created_at": "2026-02-20T11:14:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T12:14:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024804907271033098"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GyPoHx3MiK",
+              "end": 37,
+              "expanded_url": "https://x.com/kawcpx/status/2024804907271033098/photo/1",
+              "media_key": "3_2024804900300058624",
+              "start": 14,
+              "url": "https://t.co/GyPoHx3MiK"
+            },
+            {
+              "display_url": "x.com/kawcpx/status/…",
+              "end": 61,
+              "expanded_url": "https://twitter.com/kawcpx/status/2024732669750497534",
+              "start": 38,
+              "url": "https://t.co/rgXCDbghtY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024804907271033098",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 154,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024732669750497534",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "中奖的 24h 内私信我下 https://t.co/GyPoHx3MiK https://t.co/rgXCDbghtY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2JlN5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2JlN5"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "除了口令和正常问题别的私信不回",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2016792238060421479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 890,
+          "following_count": 93,
+          "like_count": 8837,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 1640
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-06T00:47:19.000Z",
+        "description": "随便",
+        "id": "1687988648627834880",
+        "name": "kaw",
+        "pinned_tweet_id": "2020492015830778166",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1730203704920596480/5fxr_IIu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2967,
+          "following_count": 22,
+          "like_count": 659,
+          "listed_count": 1,
+          "media_count": 56,
+          "tweet_count": 244
+        },
+        "username": "kawcpx",
+        "verified": true
+      }
+    ]
+  }
+}

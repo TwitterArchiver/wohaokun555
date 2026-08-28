@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2081716569978351757",
+    "created_at": "2026-07-27T13:21:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T14:21:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081731811315724345"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1413042565960503296",
+          "start": 0,
+          "username": "Eyesouo2b"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081731811315724345",
+    "in_reply_to_user_id": "1413042565960503296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081725473525289298",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Eyesouo2b 我亲亲！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2081716569978351757",
+        "created_at": "2026-07-27T13:21:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T14:21:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081731811315724345"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1413042565960503296",
+              "start": 0,
+              "username": "Eyesouo2b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081731811315724345",
+        "in_reply_to_user_id": "1413042565960503296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081725473525289298",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Eyesouo2b 我亲亲！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1413042565960503296",
+        "conversation_id": "2081716569978351757",
+        "created_at": "2026-07-27T12:56:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T13:56:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081725473525289298"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081725473525289298",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081716569978351757",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 完全妹宝吧！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "＞𐋣＜\n私信只回口令 闲聊勿扰",
+        "id": "2004619896630788096",
+        "location": "🚪（绿",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2073747405099659747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2870,
+          "following_count": 82,
+          "like_count": 25443,
+          "listed_count": 2,
+          "media_count": 154,
+          "tweet_count": 4061
+        },
+        "url": "",
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-08T07:49:49.000Z",
+        "description": "私信会看骚扰拉黑/推广自辨",
+        "id": "1413042565960503296",
+        "location": "🚪",
+        "name": "休克的羔羊",
+        "pinned_tweet_id": "2081690821766922382",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900425950724321280/cchWJJby_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10510,
+          "following_count": 182,
+          "like_count": 2036,
+          "listed_count": 22,
+          "media_count": 138,
+          "tweet_count": 898
+        },
+        "url": "",
+        "username": "Eyesouo2b",
+        "verified": false
+      }
+    ]
+  }
+}

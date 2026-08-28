@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2059281929435025760",
+    "created_at": "2026-05-28T02:47:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T03:47:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059828919633928572"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1819024660329295872",
+          "start": 0,
+          "username": "JY8575991048394"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059828919633928572",
+    "in_reply_to_user_id": "1819024660329295872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059825241938133398",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JY8575991048394 好滴～本来还打算中午吃麻辣米线"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2059281929435025760",
+        "created_at": "2026-05-28T02:47:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T03:47:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059828919633928572"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1819024660329295872",
+              "start": 0,
+              "username": "JY8575991048394"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059828919633928572",
+        "in_reply_to_user_id": "1819024660329295872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059825241938133398",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JY8575991048394 好滴～本来还打算中午吃麻辣米线"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1819024660329295872",
+        "conversation_id": "2059281929435025760",
+        "created_at": "2026-05-28T02:33:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T03:33:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059825241938133398"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059825241938133398",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059281929435025760",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 是敏感肌吗？因为我是敏感肌，刷酸过但是皮肤会变的很紧绷，屏障受损…你要是在北方的话我感觉要做好保湿和防晒，长痘痘了就用壬二酸，然后主要是饮食方面注意一下，我是油炸的乳制品这些几乎不碰，早睡早起适当运动，还会吃一些内服的东西…有一个好皮肤真的好难🥲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "🚪（纯绿 不入勿扰\n@lei_meng123 随缘过",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 10,
+                "username": "lei_meng123"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2036315164098830372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2122,
+          "following_count": 78,
+          "like_count": 20365,
+          "listed_count": 2,
+          "media_count": 240,
+          "tweet_count": 3327
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-01T14:57:38.000Z",
+        "description": "05女大",
+        "id": "1819024660329295872",
+        "name": "寂寞的小鱼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855514042003259393/NaqPmUwj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 15,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 2
+        },
+        "username": "JY8575991048394",
+        "verified": false
+      }
+    ]
+  }
+}

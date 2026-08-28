@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2064647335821414820",
+    "created_at": "2026-06-10T10:37:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T11:37:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064658255733981673"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1553278286796451840",
+          "start": 0,
+          "username": "XuanZai12138"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064658255733981673",
+    "in_reply_to_user_id": "1553278286796451840",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064647335821414820",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XuanZai12138 平均智商"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2064647325700558848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKcZzcLXkAAxrXe.jpg",
+        "width": 1128
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2064647326631677952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKcZzfpXUAAYxc_.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2064647325713063936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKcZzcOWYAAFGhe.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2064647335821414820",
+        "created_at": "2026-06-10T10:37:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T11:37:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064658255733981673"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1553278286796451840",
+              "start": 0,
+              "username": "XuanZai12138"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064658255733981673",
+        "in_reply_to_user_id": "1553278286796451840",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064647335821414820",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XuanZai12138 平均智商"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064647325700558848",
+            "3_2064647326631677952",
+            "3_2064647325713063936"
+          ]
+        },
+        "author_id": "1553278286796451840",
+        "conversation_id": "2064647335821414820",
+        "created_at": "2026-06-10T09:54:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T10:54:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064647335821414820"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JQZq0jUu13",
+              "end": 30,
+              "expanded_url": "https://x.com/XuanZai12138/status/2064647335821414820/photo/1",
+              "media_key": "3_2064647325700558848",
+              "start": 7,
+              "url": "https://t.co/JQZq0jUu13"
+            },
+            {
+              "display_url": "pic.x.com/JQZq0jUu13",
+              "end": 30,
+              "expanded_url": "https://x.com/XuanZai12138/status/2064647335821414820/photo/1",
+              "media_key": "3_2064647326631677952",
+              "start": 7,
+              "url": "https://t.co/JQZq0jUu13"
+            },
+            {
+              "display_url": "pic.x.com/JQZq0jUu13",
+              "end": 30,
+              "expanded_url": "https://x.com/XuanZai12138/status/2064647335821414820/photo/1",
+              "media_key": "3_2064647325713063936",
+              "start": 7,
+              "url": "https://t.co/JQZq0jUu13"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064647335821414820",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 410,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真不行了呀 https://t.co/JQZq0jUu13"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "",
+        "id": "2004619896630788096",
+        "location": "私信只回口令过门 其他勿扰…",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2062769965330227585",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2254,
+          "following_count": 76,
+          "like_count": 21660,
+          "listed_count": 2,
+          "media_count": 144,
+          "tweet_count": 3459
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-30T07:16:29.000Z",
+        "description": "此账号皮下是一个有躯体化的活珠子丨性别男 取向男\n接占卜烧香点蜡法事 塔罗师从龙女 家是出马的\n⬆️广告营业发在：@LeviCha61174973",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 57,
+                "username": "LeviCha61174973"
+              }
+            ]
+          }
+        },
+        "id": "1553278286796451840",
+        "location": "碎碎念的地方 别骂我",
+        "name": "十九岁帅到邻居想报警",
+        "pinned_tweet_id": "2039733988387139754",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064539358628052992/X3RQ0DMn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1507,
+          "following_count": 120,
+          "like_count": 10796,
+          "listed_count": 8,
+          "media_count": 312,
+          "tweet_count": 4062
+        },
+        "username": "XuanZai12138",
+        "verified": false
+      }
+    ]
+  }
+}

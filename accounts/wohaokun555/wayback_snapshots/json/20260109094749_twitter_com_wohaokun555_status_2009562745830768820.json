@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2009241504603369716",
+    "created_at": "2026-01-09T09:47:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-09T10:47:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009562745830768820"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1750922170329669632",
+          "start": 0,
+          "username": "WHY761595083014"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009562745830768820",
+    "in_reply_to_user_id": "1750922170329669632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009560577467937153",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WHY761595083014 唉我都撕烂了 我要控制自己"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2009241504603369716",
+        "created_at": "2026-01-09T09:47:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T10:47:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009562745830768820"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1750922170329669632",
+              "start": 0,
+              "username": "WHY761595083014"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009562745830768820",
+        "in_reply_to_user_id": "1750922170329669632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009560577467937153",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WHY761595083014 唉我都撕烂了 我要控制自己"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1750922170329669632",
+        "conversation_id": "2009241504603369716",
+        "created_at": "2026-01-09T09:39:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T10:39:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009560577467937153"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009560577467937153",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009241504603369716",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 可以涂一点润唇膏 尽量少撕嘴皮吧 感觉痛痛的 虽然我一做题就咬手也没好到哪去吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "@lei_meng123 只过互关和打赏188(o^^o)        祝你们天天开心！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 0,
+                "username": "lei_meng123"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "三体星球",
+        "name": "鱼虾一整碗",
+        "pinned_tweet_id": "2007765884035813533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004620653153189888/VWgYLNYv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 276,
+          "following_count": 65,
+          "like_count": 1937,
+          "listed_count": 1,
+          "media_count": 45,
+          "tweet_count": 643
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-26T16:42:43.000Z",
+        "description": "",
+        "id": "1750922170329669632",
+        "name": "WHY",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999537984933363712/873OZpgp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 71,
+          "like_count": 1218,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 77
+        },
+        "username": "WHY761595083014",
+        "verified": false
+      }
+    ]
+  }
+}

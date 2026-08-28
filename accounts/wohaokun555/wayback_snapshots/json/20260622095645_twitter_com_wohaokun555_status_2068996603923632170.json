@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068996590325645312"
+      ]
+    },
+    "author_id": "2004619896630788096",
+    "conversation_id": "2068996603923632170",
+    "created_at": "2026-06-22T09:56:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T10:56:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068996603923632170"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/e2mQpEBSmm",
+          "end": 65,
+          "expanded_url": "https://x.com/wohaokun555/status/2068996603923632170/photo/1",
+          "media_key": "3_2068996590325645312",
+          "start": 42,
+          "url": "https://t.co/e2mQpEBSmm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068996603923632170",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "一个水课你搞什么手势签到 还有一堆课堂提问 然后整一堆加权分…😂😂别刷存在感了老师 https://t.co/e2mQpEBSmm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2068996590325645312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLaNb9fawAAP_uV.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068996590325645312"
+          ]
+        },
+        "author_id": "2004619896630788096",
+        "conversation_id": "2068996603923632170",
+        "created_at": "2026-06-22T09:56:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T10:56:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068996603923632170"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/e2mQpEBSmm",
+              "end": 65,
+              "expanded_url": "https://x.com/wohaokun555/status/2068996603923632170/photo/1",
+              "media_key": "3_2068996590325645312",
+              "start": 42,
+              "url": "https://t.co/e2mQpEBSmm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068996603923632170",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一个水课你搞什么手势签到 还有一堆课堂提问 然后整一堆加权分…😂😂别刷存在感了老师 https://t.co/e2mQpEBSmm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "好好睡一觉呀",
+        "id": "2004619896630788096",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2067618656885125585",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2465,
+          "following_count": 80,
+          "like_count": 22729,
+          "listed_count": 2,
+          "media_count": 136,
+          "tweet_count": 3627
+        },
+        "url": "",
+        "username": "wohaokun555",
+        "verified": false
+      }
+    ]
+  }
+}

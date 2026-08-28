@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2036849798410613098",
+    "created_at": "2026-03-26T06:55:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T07:55:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037060800431743387"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1859467793500078080",
+          "start": 0,
+          "username": "DoneEither1989"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037060800431743387",
+    "in_reply_to_user_id": "1859467793500078080",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036849798410613098",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DoneEither1989 我蹲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2036849798410613098",
+        "created_at": "2026-03-26T06:55:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T07:55:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037060800431743387"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1859467793500078080",
+              "start": 0,
+              "username": "DoneEither1989"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037060800431743387",
+        "in_reply_to_user_id": "1859467793500078080",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036849798410613098",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DoneEither1989 我蹲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1859467793500078080",
+        "conversation_id": "2036849798410613098",
+        "created_at": "2026-03-25T16:56:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T17:56:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036849798410613098"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036849798410613098",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 4965,
+          "like_count": 66,
+          "quote_count": 0,
+          "reply_count": 82,
+          "retweet_count": 71
+        },
+        "reply_settings": "everyone",
+        "text": "很久没搞抽奖活动了\n那就等到300 Fo\n开一个288红包➕三个奶茶\n转发评论参与哦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "🚪🫶🏻🫰🏻🩶",
+        "id": "2004619896630788096",
+        "location": "三体（私信只回复口令和🚪",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2035966922010087790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1427,
+          "following_count": 99,
+          "like_count": 13022,
+          "listed_count": 1,
+          "media_count": 125,
+          "tweet_count": 2404
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-21T05:24:20.000Z",
+        "description": "大猫猫是一个很脆弱的人，在🇨🇦渡劫ing。会回关真人。无聊的时候会给大家抽奖，会陪伴大家，但是请不要带着恶意来揣测大猫猫，很易碎。希望你们喜欢大猫猫。可以找大猫猫聊化妆/讨论摄影/打游戏。欢迎私信我https://t.co/TH0qdpP8rf",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/donee84491",
+                "end": 122,
+                "expanded_url": "https://ngl.link/donee84491",
+                "start": 99,
+                "url": "https://t.co/TH0qdpP8rf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mrtpro.shop/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://mrtpro.shop/#/register?code=1Zw6wEdq",
+                "start": 0,
+                "url": "https://t.co/iuf6g2CF6v"
+              }
+            ]
+          }
+        },
+        "id": "1859467793500078080",
+        "location": "自己的梯子",
+        "name": "光痞不帅丢了半条命大猫猫",
+        "pinned_tweet_id": "2027594989476155465",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028312019623944192/Os92QgeD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 312,
+          "following_count": 22,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 140
+        },
+        "url": "https://t.co/iuf6g2CF6v",
+        "username": "DoneEither1989",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2070872709949718601",
+    "created_at": "2026-06-28T06:35:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T07:35:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071120408825520405"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1733766679690440704",
+          "start": 0,
+          "username": "imkidoya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071120408825520405",
+    "in_reply_to_user_id": "1733766679690440704",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070872709949718601",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@imkidoya fighting✊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2070872694460186624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL03vmBbAAAKncq.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2070872694472740864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL03vmEakAARaPI.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2070872694460166146",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL03vmBasAIlGIA.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2070872694481174528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL03vmGbQAA4NGr.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2070872709949718601",
+        "created_at": "2026-06-28T06:35:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T07:35:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071120408825520405"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1733766679690440704",
+              "start": 0,
+              "username": "imkidoya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071120408825520405",
+        "in_reply_to_user_id": "1733766679690440704",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070872709949718601",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@imkidoya fighting✊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070872694460186624",
+            "3_2070872694472740864",
+            "3_2070872694460166146",
+            "3_2070872694481174528"
+          ]
+        },
+        "author_id": "1733766679690440704",
+        "conversation_id": "2070872709949718601",
+        "created_at": "2026-06-27T14:11:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T15:11:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070872709949718601"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GP8tMnJi2B",
+              "end": 39,
+              "expanded_url": "https://x.com/imkidoya/status/2070872709949718601/photo/1",
+              "media_key": "3_2070872694460186624",
+              "start": 16,
+              "url": "https://t.co/GP8tMnJi2B"
+            },
+            {
+              "display_url": "pic.x.com/GP8tMnJi2B",
+              "end": 39,
+              "expanded_url": "https://x.com/imkidoya/status/2070872709949718601/photo/1",
+              "media_key": "3_2070872694472740864",
+              "start": 16,
+              "url": "https://t.co/GP8tMnJi2B"
+            },
+            {
+              "display_url": "pic.x.com/GP8tMnJi2B",
+              "end": 39,
+              "expanded_url": "https://x.com/imkidoya/status/2070872709949718601/photo/1",
+              "media_key": "3_2070872694460166146",
+              "start": 16,
+              "url": "https://t.co/GP8tMnJi2B"
+            },
+            {
+              "display_url": "pic.x.com/GP8tMnJi2B",
+              "end": 39,
+              "expanded_url": "https://x.com/imkidoya/status/2070872709949718601/photo/1",
+              "media_key": "3_2070872694481174528",
+              "start": 16,
+              "url": "https://t.co/GP8tMnJi2B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070872709949718601",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 270,
+          "impression_count": 107735,
+          "like_count": 2759,
+          "quote_count": 99,
+          "reply_count": 3,
+          "retweet_count": 116
+        },
+        "reply_settings": "everyone",
+        "text": "시험기간자습너무좋은데너무힘듦 https://t.co/GP8tMnJi2B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "让我成为我，让一座山并存着嶙峋和肥沃",
+        "id": "2004619896630788096",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2070530833434476867",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2563,
+          "following_count": 81,
+          "like_count": 23182,
+          "listed_count": 2,
+          "media_count": 140,
+          "tweet_count": 3709
+        },
+        "url": "",
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-10T08:32:49.000Z",
+        "description": "일상냐웅이",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "spin-spin.com/imkidoya",
+                "end": 23,
+                "expanded_url": "https://spin-spin.com/imkidoya",
+                "start": 0,
+                "url": "https://t.co/3ToQyCFbMw"
+              }
+            ]
+          }
+        },
+        "id": "1733766679690440704",
+        "name": "k!do",
+        "pinned_tweet_id": "1946906334366232646",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016140373765046273/1YvH-cGz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 431,
+          "following_count": 184,
+          "like_count": 1096,
+          "listed_count": 0,
+          "media_count": 375,
+          "tweet_count": 571
+        },
+        "url": "https://t.co/3ToQyCFbMw",
+        "username": "imkidoya",
+        "verified": false
+      }
+    ]
+  }
+}

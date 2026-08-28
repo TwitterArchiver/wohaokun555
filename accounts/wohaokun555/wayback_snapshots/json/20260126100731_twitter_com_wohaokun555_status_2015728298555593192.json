@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2015632534344712350",
+    "created_at": "2026-01-26T10:07:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T11:07:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015728298555593192"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1823767829465980931",
+          "start": 0,
+          "username": "CaoYu61579"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015728298555593192",
+    "in_reply_to_user_id": "1823767829465980931",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015632534344712350",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CaoYu61579 我刚才看见了，笑的我"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2015632522416148480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_j3GZBW0AAnwYe.jpg",
+        "width": 950
+      },
+      {
+        "height": 1201,
+        "media_key": "3_2015632522281918464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_j3GYhWoAAboZE.jpg",
+        "width": 1259
+      },
+      {
+        "height": 1209,
+        "media_key": "3_2015632522646818816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_j3GZ4WkAAu6Oq.jpg",
+        "width": 1259
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2015632534344712350",
+        "created_at": "2026-01-26T10:07:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T11:07:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015728298555593192"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1823767829465980931",
+              "start": 0,
+              "username": "CaoYu61579"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015728298555593192",
+        "in_reply_to_user_id": "1823767829465980931",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015632534344712350",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CaoYu61579 我刚才看见了，笑的我"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015632522416148480",
+            "3_2015632522281918464",
+            "3_2015632522646818816"
+          ]
+        },
+        "author_id": "1823767829465980931",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2015632534344712350",
+        "created_at": "2026-01-26T03:46:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T04:46:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015632534344712350"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rRB9wPaT92",
+              "end": 44,
+              "expanded_url": "https://x.com/CaoYu61579/status/2015632534344712350/photo/1",
+              "media_key": "3_2015632522416148480",
+              "start": 21,
+              "url": "https://t.co/rRB9wPaT92"
+            },
+            {
+              "display_url": "pic.x.com/rRB9wPaT92",
+              "end": 44,
+              "expanded_url": "https://x.com/CaoYu61579/status/2015632534344712350/photo/1",
+              "media_key": "3_2015632522281918464",
+              "start": 21,
+              "url": "https://t.co/rRB9wPaT92"
+            },
+            {
+              "display_url": "pic.x.com/rRB9wPaT92",
+              "end": 44,
+              "expanded_url": "https://x.com/CaoYu61579/status/2015632534344712350/photo/1",
+              "media_key": "3_2015632522646818816",
+              "start": 21,
+              "url": "https://t.co/rRB9wPaT92"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015632534344712350",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1914,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "都嫌弃我的头像都不跟我用情头。哪里丑了。 https://t.co/rRB9wPaT92"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2JlN5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2JlN5"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "🤔",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2007765884035813533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014313058978406400/yLC08oHO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 459,
+          "following_count": 69,
+          "like_count": 3116,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 812
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-14T17:05:21.000Z",
+        "description": "你像世界为了我活着抛出的诱饵┋有对象 回关只回互动多的┋小号@imnotoven只过互关┋取关随意┋没有义务陪聊！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 30,
+                "username": "imnotoven"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/binyeon_yu",
+                "end": 23,
+                "expanded_url": "http://ngl.link/binyeon_yu",
+                "start": 0,
+                "url": "https://t.co/EiqXcqLYjB"
+              }
+            ]
+          }
+        },
+        "id": "1823767829465980931",
+        "location": "讨厌你 每个小猫你都想摸˃ ˄ ˂",
+        "name": "我烤箱咋滴",
+        "pinned_tweet_id": "2015267232566419931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007159379410464768/ObpktCDK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2127,
+          "following_count": 141,
+          "like_count": 6427,
+          "listed_count": 6,
+          "media_count": 151,
+          "tweet_count": 2643
+        },
+        "url": "https://t.co/EiqXcqLYjB",
+        "username": "CaoYu61579",
+        "verified": false
+      }
+    ]
+  }
+}

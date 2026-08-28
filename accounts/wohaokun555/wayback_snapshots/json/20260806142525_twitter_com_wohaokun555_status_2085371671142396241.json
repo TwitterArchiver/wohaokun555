@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2085347851887055077",
+    "created_at": "2026-08-06T14:25:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T15:25:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085371671142396241"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1462008003759161344",
+          "start": 0,
+          "username": "chord244"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085371671142396241",
+    "in_reply_to_user_id": "1462008003759161344",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085352743737409954",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chord244 🧎"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2085347851887055077",
+        "created_at": "2026-08-06T14:25:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T15:25:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085371671142396241"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1462008003759161344",
+              "start": 0,
+              "username": "chord244"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085371671142396241",
+        "in_reply_to_user_id": "1462008003759161344",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085352743737409954",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chord244 🧎"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462008003759161344",
+        "conversation_id": "2085347851887055077",
+        "created_at": "2026-08-06T13:10:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T14:10:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085352743737409954"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085352743737409954",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085347851887055077",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 你为什么发鬼图吓人！！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "",
+        "id": "2004619896630788096",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2036315164098830372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2848,
+          "following_count": 77,
+          "like_count": 25860,
+          "listed_count": 3,
+          "media_count": 157,
+          "tweet_count": 4123
+        },
+        "url": "",
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-20T10:40:59.000Z",
+        "description": "he/him/他 泛性恋（大概）ENTP ADHD 高敏HSP \n大体善良比格，偶尔邪恶比格（真的是偶尔）\n也许你不相信，我喜欢有厚度的灵魂\n对精神的迷恋超过对肉体的迷恋\n欢迎来到我的自留地 有趣人类观察\n🚪一颗真心or超多的碎碎念",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chord88751",
+                "end": 23,
+                "expanded_url": "https://ngl.link/chord88751",
+                "start": 0,
+                "url": "https://t.co/JBFE0eK8Kr"
+              }
+            ]
+          }
+        },
+        "id": "1462008003759161344",
+        "location": "孤魂野鬼飘来飘去",
+        "name": "chord（减脂版）",
+        "pinned_tweet_id": "2082287796480528750",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1705505496491610112/IAtZgrae_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 413,
+          "like_count": 5623,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 1154
+        },
+        "url": "https://t.co/JBFE0eK8Kr",
+        "username": "chord244",
+        "verified": false
+      }
+    ]
+  }
+}

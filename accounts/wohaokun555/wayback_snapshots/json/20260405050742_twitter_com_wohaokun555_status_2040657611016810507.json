@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2040564961219678283",
+    "created_at": "2026-04-05T05:07:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T06:07:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040657611016810507"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2039740387070455808",
+          "start": 0,
+          "username": "BucketName"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040657611016810507",
+    "in_reply_to_user_id": "2039740387070455808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040656027851669868",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BucketName 笑死我了 是🐟🐱🍚三个人的故事 哈哈哈哈哈哈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2040564961219678283",
+        "created_at": "2026-04-05T05:07:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T06:07:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040657611016810507"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2039740387070455808",
+              "start": 0,
+              "username": "BucketName"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040657611016810507",
+        "in_reply_to_user_id": "2039740387070455808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040656027851669868",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BucketName 笑死我了 是🐟🐱🍚三个人的故事 哈哈哈哈哈哈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039740387070455808",
+        "conversation_id": "2040564961219678283",
+        "created_at": "2026-04-05T05:01:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T06:01:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040656027851669868"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040656027851669868",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040564961219678283",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 到底哪几个人 怎么几天没上推和变了一样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "",
+        "id": "2004619896630788096",
+        "location": "🚪520",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2007765884035813533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1537,
+          "following_count": 98,
+          "like_count": 14152,
+          "listed_count": 1,
+          "media_count": 157,
+          "tweet_count": 2611
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-02T16:23:55.000Z",
+        "description": "",
+        "id": "2039740387070455808",
+        "name": "Bucket",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040656373411975168/JFX46JYp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 7,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 3
+        },
+        "username": "BucketName",
+        "verified": false
+      }
+    ]
+  }
+}

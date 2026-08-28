@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2074121896774468086",
+    "created_at": "2026-07-06T16:19:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T17:19:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074166312885186840"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1544492485707431937",
+          "start": 0,
+          "username": "Snn0yyg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074166312885186840",
+    "in_reply_to_user_id": "1544492485707431937",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074165511634489739",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Snn0yyg 女的脸被她们丢尽了😂😂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2074121896774468086",
+        "created_at": "2026-07-06T16:19:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T17:19:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074166312885186840"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1544492485707431937",
+              "start": 0,
+              "username": "Snn0yyg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074166312885186840",
+        "in_reply_to_user_id": "1544492485707431937",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074165511634489739",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Snn0yyg 女的脸被她们丢尽了😂😂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1544492485707431937",
+        "conversation_id": "2074121896774468086",
+        "created_at": "2026-07-06T16:16:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T17:16:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074165511634489739"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074165511634489739",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074121896774468086",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 只要在评论区说一句即可触发：女性穿衣自由，你是女的吗等回答。也是无敌了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "让我成为我，让一座山并存着嶙峋和肥沃",
+        "id": "2004619896630788096",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2073747405099659747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2753,
+          "following_count": 81,
+          "like_count": 24059,
+          "listed_count": 2,
+          "media_count": 146,
+          "tweet_count": 3855
+        },
+        "url": "",
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-06T01:24:50.000Z",
+        "description": "",
+        "id": "1544492485707431937",
+        "name": "S1nn0ggy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041025731199963136/nuDoybH4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 17,
+          "like_count": 171,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 8
+        },
+        "url": "",
+        "username": "Snn0yyg",
+        "verified": false
+      }
+    ]
+  }
+}

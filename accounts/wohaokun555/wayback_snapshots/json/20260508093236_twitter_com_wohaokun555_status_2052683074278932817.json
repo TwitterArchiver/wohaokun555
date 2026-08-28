@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2052617337959047558",
+    "created_at": "2026-05-08T09:32:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T10:32:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052683074278932817"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1525159164795920386",
+          "start": 0,
+          "username": "chaoyangliuxin1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052683074278932817",
+    "in_reply_to_user_id": "1525159164795920386",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052681203485188201",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chaoyangliuxin1 去年高考…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2052617337959047558",
+        "created_at": "2026-05-08T09:32:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T10:32:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052683074278932817"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1525159164795920386",
+              "start": 0,
+              "username": "chaoyangliuxin1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052683074278932817",
+        "in_reply_to_user_id": "1525159164795920386",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052681203485188201",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chaoyangliuxin1 去年高考…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1525159164795920386",
+        "conversation_id": "2052617337959047558",
+        "created_at": "2026-05-08T09:25:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T10:25:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052681203485188201"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052681203485188201",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052617337959047558",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 单招完？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "没义务陪聊 都是礼貌回复",
+        "id": "2004619896630788096",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2052293259586924701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2037,
+          "following_count": 99,
+          "like_count": 18584,
+          "listed_count": 2,
+          "media_count": 217,
+          "tweet_count": 3115
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-13T17:01:25.000Z",
+        "description": "404",
+        "id": "1525159164795920386",
+        "location": "宜宾",
+        "name": "朝阳流星",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1573014129270398976/zvcn3Gl2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 104,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 100
+        },
+        "username": "chaoyangliuxin1",
+        "verified": false
+      }
+    ]
+  }
+}

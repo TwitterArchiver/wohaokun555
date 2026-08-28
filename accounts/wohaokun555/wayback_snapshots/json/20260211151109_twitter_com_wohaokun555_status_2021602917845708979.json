@@ -1,0 +1,107 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2021602917845708979",
+    "created_at": "2026-02-11T15:11:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-11T16:11:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2021602917845708979"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2021602917845708979",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "通知:\n14号晚会有轻微地震，震中位置大约为:酒店、草坪、车内、床上等。震感不是特别强烈，并伴随轻微尖叫声,请大家不必惊慌\n地震防控中心 \n2026年02月11号"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2021602917845708979",
+        "created_at": "2026-02-11T15:11:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T16:11:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021602917845708979"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2021602917845708979",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "通知:\n14号晚会有轻微地震，震中位置大约为:酒店、草坪、车内、床上等。震感不是特别强烈，并伴随轻微尖叫声,请大家不必惊慌\n地震防控中心 \n2026年02月11号"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2JlN5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2JlN5"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "🚪188（纯绿纯绿纯绿纯绿（别的私信不回",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2019333252520321256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014313058978406400/yLC08oHO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 673,
+          "following_count": 76,
+          "like_count": 6841,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 1285
+        },
+        "username": "wohaokun555",
+        "verified": false
+      }
+    ]
+  }
+}

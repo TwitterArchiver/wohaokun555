@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2059608490801512732",
+    "created_at": "2026-05-28T15:16:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T16:16:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060017452613009614"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2046970565546962944",
+          "start": 0,
+          "username": "thevirginalpha"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060017452613009614",
+    "in_reply_to_user_id": "2046970565546962944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060013662631526633",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@thevirginalpha 这个我认可"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2059608490801512732",
+        "created_at": "2026-05-28T15:16:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T16:16:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060017452613009614"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2046970565546962944",
+              "start": 0,
+              "username": "thevirginalpha"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060017452613009614",
+        "in_reply_to_user_id": "2046970565546962944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060013662631526633",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@thevirginalpha 这个我认可"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046970565546962944",
+        "conversation_id": "2059608490801512732",
+        "created_at": "2026-05-28T15:01:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T16:01:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060013662631526633"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060013662631526633",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059608490801512732",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 音乐与书籍"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "🚪不入勿扰",
+        "id": "2004619896630788096",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2036315164098830372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2136,
+          "following_count": 78,
+          "like_count": 20487,
+          "listed_count": 2,
+          "media_count": 238,
+          "tweet_count": 3342
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-22T15:14:22.000Z",
+        "description": "温柔暖男小哥哥，分享音乐 独立思考（阅专量3000左右）爱好：装逼，友善上网，不想冒犯任何人",
+        "id": "2046970565546962944",
+        "name": "thevirginalpha",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051257308865572864/N0dPUna6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 47,
+          "like_count": 268,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 81
+        },
+        "username": "thevirginalpha",
+        "verified": false
+      }
+    ]
+  }
+}

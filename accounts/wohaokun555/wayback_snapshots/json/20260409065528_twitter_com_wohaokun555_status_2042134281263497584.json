@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2042133211669766624",
+    "created_at": "2026-04-09T06:55:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T07:55:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042134281263497584"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2031242535306448896",
+          "start": 0,
+          "username": "Martini31003"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042134281263497584",
+    "in_reply_to_user_id": "2031242535306448896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042133211669766624",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Martini31003 糙汉音咋办…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2042133211669766624",
+        "created_at": "2026-04-09T06:55:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T07:55:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042134281263497584"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2031242535306448896",
+              "start": 0,
+              "username": "Martini31003"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042134281263497584",
+        "in_reply_to_user_id": "2031242535306448896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042133211669766624",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Martini31003 糙汉音咋办…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2031242535306448896",
+        "conversation_id": "2042133211669766624",
+        "created_at": "2026-04-09T06:51:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T07:51:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042133211669766624"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042133211669766624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "御姐音萌妹音可以给我发语音了😋😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "",
+        "id": "2004619896630788096",
+        "location": "🚪520",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2036315164098830372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1539,
+          "following_count": 99,
+          "like_count": 14821,
+          "listed_count": 1,
+          "media_count": 172,
+          "tweet_count": 2750
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-10T05:35:48.000Z",
+        "description": "05 数学｜enfj｜ 1i ｜switch偏s 单身 更新一些小擦边和调酒日常，偶尔可能掉落钢琴片段？请来私信我！另外我不发牛啊！别问我。防走丢qq3431763318 互关可＋v！我爱萌妹。另一个我：@Andyxu112",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 102,
+                "username": "Andyxu112"
+              }
+            ]
+          }
+        },
+        "id": "2031242535306448896",
+        "location": "🚪52/88/188",
+        "name": "Martini",
+        "pinned_tweet_id": "2033533655373828434",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031242743616516103/fLcgTeQq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 561,
+          "following_count": 264,
+          "like_count": 2120,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 1074
+        },
+        "username": "Martini31003",
+        "verified": false
+      }
+    ]
+  }
+}

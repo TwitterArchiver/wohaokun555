@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2056592771612602635",
+    "created_at": "2026-05-19T16:07:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T17:07:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056768840101687535"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2041255863336198144",
+          "start": 0,
+          "username": "srymybadqaq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056768840101687535",
+    "in_reply_to_user_id": "2041255863336198144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056592771612602635",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@srymybadqaq 支持了这波"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2056592771612602635",
+        "created_at": "2026-05-19T16:07:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T17:07:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056768840101687535"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2041255863336198144",
+              "start": 0,
+              "username": "srymybadqaq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056768840101687535",
+        "in_reply_to_user_id": "2041255863336198144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056592771612602635",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@srymybadqaq 支持了这波"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041255863336198144",
+        "conversation_id": "2056592771612602635",
+        "created_at": "2026-05-19T04:28:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T05:28:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056592771612602635"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056592771612602635",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2529,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我即将去看africakid南京站和asen上海站！！哈哈哈哈哈哈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "🚪（纯绿 不入勿扰",
+        "id": "2004619896630788096",
+        "location": "没义务陪聊 别问我乱七八糟的",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2036315164098830372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2064,
+          "following_count": 101,
+          "like_count": 19481,
+          "listed_count": 1,
+          "media_count": 233,
+          "tweet_count": 3224
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-06T20:45:08.000Z",
+        "description": "08/180 65kg switch直男\n树洞随便发发 喜欢会点赞回关",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sidexnjay",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sidexnjay",
+                "start": 0,
+                "url": "https://t.co/4KeexpZBSM"
+              }
+            ]
+          }
+        },
+        "id": "2041255863336198144",
+        "name": "kkkkkay",
+        "pinned_tweet_id": "2047696719769723362",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047354225689260032/6P1dEzn2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 51,
+          "like_count": 939,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 209
+        },
+        "url": "https://t.co/4KeexpZBSM",
+        "username": "srymybadqaq",
+        "verified": false
+      }
+    ]
+  }
+}

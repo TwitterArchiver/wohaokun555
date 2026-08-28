@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2062807900595298646",
+    "created_at": "2026-06-05T08:09:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T09:09:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062808987582779784"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2036346188061089792",
+          "start": 0,
+          "username": "Res1st_4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062808987582779784",
+    "in_reply_to_user_id": "2036346188061089792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062807900595298646",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Res1st_4 晚饭来了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8533,
+        "height": 720,
+        "media_key": "13_2062807666729406464",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2062807666729406464/img/ED0yDV3myKmC-50l.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062807666729406464/vid/avc1/480x270/l_RUgdMkrAxD5FYf.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062807666729406464/vid/avc1/640x360/TeINKrrlyST-z8Ct.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062807666729406464/vid/avc1/1280x720/gU69IosEqciDNLbq.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2062807666729406464/pl/G6C8OjOZXPCUrchx.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2062807900595298646",
+        "created_at": "2026-06-05T08:09:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T09:09:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062808987582779784"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2036346188061089792",
+              "start": 0,
+              "username": "Res1st_4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062808987582779784",
+        "in_reply_to_user_id": "2036346188061089792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062807900595298646",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Res1st_4 晚饭来了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2062807666729406464"
+          ]
+        },
+        "author_id": "2036346188061089792",
+        "conversation_id": "2062807900595298646",
+        "created_at": "2026-06-05T08:05:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T09:05:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062807900595298646"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2J8LcmlhEU",
+              "end": 38,
+              "expanded_url": "https://x.com/Res1st_4/status/2062807900595298646/video/1",
+              "media_key": "13_2062807666729406464",
+              "start": 15,
+              "url": "https://t.co/2J8LcmlhEU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062807900595298646",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 139,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "上次那个不是充血的，这个才是 https://t.co/2J8LcmlhEU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "🚪（520",
+        "id": "2004619896630788096",
+        "location": "口令➕姓",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2036315164098830372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2226,
+          "following_count": 76,
+          "like_count": 21339,
+          "listed_count": 2,
+          "media_count": 138,
+          "tweet_count": 3369
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-24T07:36:39.000Z",
+        "description": "186/82 我是直男，就上来发发照片，本人挺装的，但是不卖，谢谢大家",
+        "id": "2036346188061089792",
+        "location": "杭州",
+        "name": "年轻的丈夫",
+        "pinned_tweet_id": "2053321304569491764",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036350278639960064/59nN_f4Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47710,
+          "following_count": 17,
+          "like_count": 1405,
+          "listed_count": 67,
+          "media_count": 168,
+          "tweet_count": 1024
+        },
+        "username": "Res1st_4",
+        "verified": false
+      }
+    ]
+  }
+}

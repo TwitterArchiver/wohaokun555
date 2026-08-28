@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2028086683779146068",
+    "created_at": "2026-03-01T15:31:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T16:31:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028131102347674095"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2012898835513913344",
+          "start": 0,
+          "username": "5cyyyyyy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028131102347674095",
+    "in_reply_to_user_id": "2012898835513913344",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028130278602846627",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@5cyyyyyy 😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2028086683779146068",
+        "created_at": "2026-03-01T15:31:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T16:31:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028131102347674095"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012898835513913344",
+              "start": 0,
+              "username": "5cyyyyyy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028131102347674095",
+        "in_reply_to_user_id": "2012898835513913344",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028130278602846627",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@5cyyyyyy 😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012898835513913344",
+        "conversation_id": "2028086683779146068",
+        "created_at": "2026-03-01T15:28:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T16:28:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028130278602846627"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028130278602846627",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028086683779146068",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 专门的，谁家吃完能记不住给钱啊😅"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2JlN5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2JlN5"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "除了口令和正常问题别的私信不回",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2016792238060421479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 950,
+          "following_count": 95,
+          "like_count": 9854,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 1795
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-18T14:44:25.000Z",
+        "description": "coys",
+        "id": "2012898835513913344",
+        "location": "06 187 160",
+        "name": "5cyyyyyyyyyyyyyyyy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018539311600160768/ADJGk4p-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 58,
+          "like_count": 215,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 237
+        },
+        "username": "5cyyyyyy",
+        "verified": false
+      }
+    ]
+  }
+}

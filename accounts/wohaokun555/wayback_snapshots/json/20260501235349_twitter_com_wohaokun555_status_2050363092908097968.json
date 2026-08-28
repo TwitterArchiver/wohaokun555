@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2050151206623056090",
+    "created_at": "2026-05-01T23:53:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T00:53:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050363092908097968"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1892611167765549056",
+          "start": 0,
+          "username": "n3930921692709"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050363092908097968",
+    "in_reply_to_user_id": "1892611167765549056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050320683880837166",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@n3930921692709 卧槽我也想"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2050151206623056090",
+        "created_at": "2026-05-01T23:53:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T00:53:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050363092908097968"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1892611167765549056",
+              "start": 0,
+              "username": "n3930921692709"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050363092908097968",
+        "in_reply_to_user_id": "1892611167765549056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050320683880837166",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@n3930921692709 卧槽我也想"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892611167765549056",
+        "conversation_id": "2050151206623056090",
+        "created_at": "2026-05-01T21:05:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T22:05:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050320683880837166"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050320683880837166",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050151206623056090",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 举办一个最控油洗发水大赛…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "",
+        "id": "2004619896630788096",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2007765884035813533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1933,
+          "following_count": 99,
+          "like_count": 17728,
+          "listed_count": 1,
+          "media_count": 209,
+          "tweet_count": 3024
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-20T16:24:12.000Z",
+        "description": "碎碎念而已",
+        "id": "1892611167765549056",
+        "name": "n",
+        "pinned_tweet_id": "2047200384360525852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020312475997229056/cZ_i-idx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 62,
+          "like_count": 288,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 328
+        },
+        "username": "n3930921692709",
+        "verified": false
+      }
+    ]
+  }
+}

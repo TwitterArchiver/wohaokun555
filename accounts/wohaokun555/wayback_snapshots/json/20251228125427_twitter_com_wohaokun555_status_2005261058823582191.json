@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2005243522451185955",
+    "created_at": "2025-12-28T12:54:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-28T13:54:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005261058823582191"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1863041923604180992",
+          "start": 0,
+          "username": "leow_0508"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005261058823582191",
+    "in_reply_to_user_id": "1863041923604180992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005260934537961699",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@leow_0508 我去怎么说"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2005243522451185955",
+        "created_at": "2025-12-28T12:54:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T13:54:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005261058823582191"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1863041923604180992",
+              "start": 0,
+              "username": "leow_0508"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005261058823582191",
+        "in_reply_to_user_id": "1863041923604180992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005260934537961699",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@leow_0508 我去怎么说"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1863041923604180992",
+        "conversation_id": "2005243522451185955",
+        "created_at": "2025-12-28T12:53:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T13:53:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005260934537961699"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005260934537961699",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005258653159542897",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 没有怎么看！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "🚪66",
+        "id": "2004619896630788096",
+        "location": "Hong Kong",
+        "name": "鱼虾一整碗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004620653153189888/VWgYLNYv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 16,
+          "like_count": 142,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 96
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-01T02:06:44.000Z",
+        "description": "准高中老师，性别男，爱好女，直男。小号@kikikiw0320",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 19,
+                "username": "kikikiw0320"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=ghdd8He6",
+                "start": 0,
+                "url": "https://t.co/Xw6PlaQkvI"
+              }
+            ]
+          }
+        },
+        "id": "1863041923604180992",
+        "location": "天天开心",
+        "name": "Leo",
+        "pinned_tweet_id": "2000249230217400738",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997656823822946304/6nUUE3RL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2555,
+          "following_count": 4293,
+          "like_count": 36030,
+          "listed_count": 5,
+          "media_count": 320,
+          "tweet_count": 5832
+        },
+        "url": "https://t.co/Xw6PlaQkvI",
+        "username": "leow_0508",
+        "verified": false
+      }
+    ]
+  }
+}

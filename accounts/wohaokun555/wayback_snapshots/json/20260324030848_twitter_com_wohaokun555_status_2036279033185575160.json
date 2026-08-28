@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2036072085752361172",
+    "created_at": "2026-03-24T03:08:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T04:08:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036279033185575160"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2036219850226536448",
+          "start": 0,
+          "username": "zzzzzzzzzzrx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036279033185575160",
+    "in_reply_to_user_id": "2036219850226536448",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 3,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036277159422206125",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zzzzzzzzzzrx 知豆了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2036072085752361172",
+        "created_at": "2026-03-24T03:08:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T04:08:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036279033185575160"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2036219850226536448",
+              "start": 0,
+              "username": "zzzzzzzzzzrx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036279033185575160",
+        "in_reply_to_user_id": "2036219850226536448",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036277159422206125",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zzzzzzzzzzrx 知豆了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2036219850226536448",
+        "conversation_id": "2036072085752361172",
+        "created_at": "2026-03-24T03:01:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T04:01:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036277159422206125"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036277159422206125",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036072085752361172",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 不要啊啊啊啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "🚪🫶🏻🫰🏻🩶",
+        "id": "2004619896630788096",
+        "location": "三体（私信只回复口令和🚪",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2035966922010087790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1425,
+          "following_count": 99,
+          "like_count": 12747,
+          "listed_count": 1,
+          "media_count": 115,
+          "tweet_count": 2347
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-23T23:14:38.000Z",
+        "description": "",
+        "id": "2036219850226536448",
+        "name": "阴郁不堪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036220264128954368/A7COWXG2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 1,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 153
+        },
+        "username": "zzzzzzzzzzrx",
+        "verified": false
+      }
+    ]
+  }
+}

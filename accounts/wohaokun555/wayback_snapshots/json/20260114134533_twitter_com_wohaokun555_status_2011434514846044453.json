@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2011434505232674816"
+      ]
+    },
+    "author_id": "2004619896630788096",
+    "conversation_id": "2011434514846044453",
+    "created_at": "2026-01-14T13:45:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-14T14:45:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2011434514846044453"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/NdVueJ6O4c",
+          "end": 104,
+          "expanded_url": "https://x.com/wohaokun555/status/2011434514846044453/photo/1",
+          "media_key": "3_2011434505232674816",
+          "start": 81,
+          "url": "https://t.co/NdVueJ6O4c"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011434514846044453",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "他还是会帮我很多忙   甚至说不放心我一个人 但是如果我再问他还爱不爱 他就又开始回避这个问题 我感觉很奇怪 为什么他要照顾我…为什么说他有这个责任 明明分开了 https://t.co/NdVueJ6O4c"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1973,
+        "media_key": "3_2011434505232674816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-oNBoVbcAAwAws.jpg",
+        "width": 984
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2011434505232674816"
+          ]
+        },
+        "author_id": "2004619896630788096",
+        "conversation_id": "2011434514846044453",
+        "created_at": "2026-01-14T13:45:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-14T14:45:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2011434514846044453"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NdVueJ6O4c",
+              "end": 104,
+              "expanded_url": "https://x.com/wohaokun555/status/2011434514846044453/photo/1",
+              "media_key": "3_2011434505232674816",
+              "start": 81,
+              "url": "https://t.co/NdVueJ6O4c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011434514846044453",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "他还是会帮我很多忙   甚至说不放心我一个人 但是如果我再问他还爱不爱 他就又开始回避这个问题 我感觉很奇怪 为什么他要照顾我…为什么说他有这个责任 明明分开了 https://t.co/NdVueJ6O4c"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "",
+        "id": "2004619896630788096",
+        "location": "？！",
+        "name": "鱼虾一整碗",
+        "pinned_tweet_id": "2009185555268112534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004620653153189888/VWgYLNYv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 452,
+          "following_count": 67,
+          "like_count": 2437,
+          "listed_count": 1,
+          "media_count": 44,
+          "tweet_count": 752
+        },
+        "username": "wohaokun555",
+        "verified": false
+      }
+    ]
+  }
+}

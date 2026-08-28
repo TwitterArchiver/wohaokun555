@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2008483850931081694",
+    "created_at": "2026-01-06T12:18:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-06T13:18:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008513424125554767"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1697158457450012672",
+          "start": 0,
+          "username": "ayawo11_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008513424125554767",
+    "in_reply_to_user_id": "1697158457450012672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008483850931081694",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ayawo11_ 卧槽我要试一试了！感谢老吃家"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2008483838360788992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9-RaNqboAAqERG.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2008483850931081694",
+        "created_at": "2026-01-06T12:18:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T13:18:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008513424125554767"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1697158457450012672",
+              "start": 0,
+              "username": "ayawo11_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008513424125554767",
+        "in_reply_to_user_id": "1697158457450012672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008483850931081694",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayawo11_ 卧槽我要试一试了！感谢老吃家"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2008483838360788992"
+          ]
+        },
+        "author_id": "1697158457450012672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2008483850931081694",
+        "created_at": "2026-01-06T10:20:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T11:20:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008483850931081694"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WmqnLEFuh5",
+              "end": 41,
+              "expanded_url": "https://x.com/ayawo11_/status/2008483850931081694/photo/1",
+              "media_key": "3_2008483838360788992",
+              "start": 18,
+              "url": "https://t.co/WmqnLEFuh5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008483850931081694",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 567,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "袁记云饺+汤达人你们知道多美味不😋 https://t.co/WmqnLEFuh5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "天天开心o^^o",
+        "id": "2004619896630788096",
+        "location": "三体星球",
+        "name": "鱼虾一整碗",
+        "pinned_tweet_id": "2008218066103238856",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004620653153189888/VWgYLNYv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 40,
+          "like_count": 1238,
+          "listed_count": 1,
+          "media_count": 27,
+          "tweet_count": 430
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-31T08:04:48.000Z",
+        "description": "当朋友圈玩 看到有趣的碎碎念都会关注喵不聊骚不约｜本人素质低下^ ^｜有喜欢的小男生了所以不看私信咪｜置顶推广转发推广自辨",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aya1136304",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aya1136304",
+                "start": 0,
+                "url": "https://t.co/l517hVsKSx"
+              }
+            ]
+          }
+        },
+        "id": "1697158457450012672",
+        "name": "小夜",
+        "pinned_tweet_id": "2002667928836341925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976204301942083584/u2mumVAj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2868,
+          "following_count": 136,
+          "like_count": 4222,
+          "listed_count": 6,
+          "media_count": 229,
+          "tweet_count": 2901
+        },
+        "url": "https://t.co/l517hVsKSx",
+        "username": "ayawo11_",
+        "verified": false
+      }
+    ]
+  }
+}

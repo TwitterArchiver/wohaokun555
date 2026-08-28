@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2038450057981411790",
+    "created_at": "2026-03-30T08:20:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T09:20:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038531775350415870"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1745378463303831552",
+          "start": 0,
+          "username": "chnyng280950"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038531775350415870",
+    "in_reply_to_user_id": "1745378463303831552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038530242655199432",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chnyng280950 谢谢☺️我将选择霸王茶姬！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2038450057981411790",
+        "created_at": "2026-03-30T08:20:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T09:20:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038531775350415870"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1745378463303831552",
+              "start": 0,
+              "username": "chnyng280950"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038531775350415870",
+        "in_reply_to_user_id": "1745378463303831552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038530242655199432",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chnyng280950 谢谢☺️我将选择霸王茶姬！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1745378463303831552",
+        "conversation_id": "2038450057981411790",
+        "created_at": "2026-03-30T08:14:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T09:14:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038530242655199432"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038530242655199432",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038450057981411790",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 严格来说 高糖饮品都会发胖长痘 无非就是含糖量的多少 目前市面上还没有用代糖的奶茶 有些所谓的中药茶饮也跑不掉为了普适性所加入的糖分 所以真想喝 不额外加糖别加多余配料的霸王茶姬我个人推荐 因为其他奶茶还是没有糖好像没什么味了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "🫶🏻🫰🏻🩶",
+        "id": "2004619896630788096",
+        "location": "三体",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2035966922010087790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1470,
+          "following_count": 99,
+          "like_count": 13526,
+          "listed_count": 1,
+          "media_count": 139,
+          "tweet_count": 2491
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-11T09:34:04.000Z",
+        "description": "只在这里发疯和ghs 我是男的 男的 直男！gay子勿扰 不是真要当鸭 只想要好身材当男菩萨",
+        "id": "1745378463303831552",
+        "location": "Anywhere",
+        "name": "前妻是男娘欠一屁股债努力减肥当鸭赚钱还债",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036728857127206913/ZUwUhJRV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 13,
+          "like_count": 458,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 426
+        },
+        "username": "chnyng280950",
+        "verified": false
+      }
+    ]
+  }
+}

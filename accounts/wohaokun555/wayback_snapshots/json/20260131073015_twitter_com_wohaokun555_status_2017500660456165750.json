@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2017419183546380572",
+    "created_at": "2026-01-31T07:30:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T08:30:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017500660456165750"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1558483143828578304",
+          "start": 0,
+          "username": "xiaoyoumanbu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017500660456165750",
+    "in_reply_to_user_id": "1558483143828578304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017419183546380572",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoyoumanbu 正确的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2017419183546380572",
+        "created_at": "2026-01-31T07:30:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T08:30:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017500660456165750"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1558483143828578304",
+              "start": 0,
+              "username": "xiaoyoumanbu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017500660456165750",
+        "in_reply_to_user_id": "1558483143828578304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017419183546380572",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoyoumanbu 正确的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1558483143828578304",
+        "conversation_id": "2017419183546380572",
+        "created_at": "2026-01-31T02:06:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T03:06:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017419183546380572"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2017419183546380572",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8703,
+          "like_count": 47,
+          "quote_count": 1,
+          "reply_count": 24,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我感觉叫哥哥比叫爸爸还要骚......."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2JlN5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2JlN5"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "发生殖器死妈！",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2016072861732212867",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014313058978406400/yLC08oHO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 538,
+          "following_count": 74,
+          "like_count": 4376,
+          "listed_count": 1,
+          "media_count": 49,
+          "tweet_count": 969
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-13T15:58:46.000Z",
+        "description": "随便发发/研一/碎碎念/无门槛/不接推广/",
+        "id": "1558483143828578304",
+        "name": "小尤漫步",
+        "pinned_tweet_id": "2017183576895246433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988998064061747200/a9cdMUJc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18176,
+          "following_count": 156,
+          "like_count": 2387,
+          "listed_count": 20,
+          "media_count": 113,
+          "tweet_count": 1400
+        },
+        "username": "xiaoyoumanbu",
+        "verified": false
+      }
+    ]
+  }
+}

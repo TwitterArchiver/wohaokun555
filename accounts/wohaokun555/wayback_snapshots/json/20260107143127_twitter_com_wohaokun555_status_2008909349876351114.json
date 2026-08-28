@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2008827931129512219",
+    "created_at": "2026-01-07T14:31:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-07T15:31:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008909349876351114"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1622226629136367674",
+          "start": 0,
+          "username": "kexuejiazhuang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008909349876351114",
+    "in_reply_to_user_id": "1622226629136367674",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 20,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008827931129512219",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kexuejiazhuang 接"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1078,
+        "media_key": "3_2008827923353255937",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-DKWmJbQAEE97K.jpg",
+        "width": 1242
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2008827931129512219",
+        "created_at": "2026-01-07T14:31:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T15:31:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008909349876351114"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1622226629136367674",
+              "start": 0,
+              "username": "kexuejiazhuang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008909349876351114",
+        "in_reply_to_user_id": "1622226629136367674",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008827931129512219",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kexuejiazhuang 接"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2008827923353255937"
+          ]
+        },
+        "author_id": "1622226629136367674",
+        "conversation_id": "2008827931129512219",
+        "created_at": "2026-01-07T09:07:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T10:07:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008827931129512219"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VHH3QYNEZr",
+              "end": 63,
+              "expanded_url": "https://x.com/kexuejiazhuang/status/2008827931129512219/photo/1",
+              "media_key": "3_2008827923353255937",
+              "start": 40,
+              "url": "https://t.co/VHH3QYNEZr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008827931129512219",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 302,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "？！宝我看到这条发出爆鸣了你知道吗，我天。谢谢宝宝觉得我可爱(՞•Ꙫ•՞)❤️ https://t.co/VHH3QYNEZr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "天天开心o^^o",
+        "id": "2004619896630788096",
+        "location": "三体星球",
+        "name": "鱼虾一整碗",
+        "pinned_tweet_id": "2008798162614640930",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004620653153189888/VWgYLNYv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 215,
+          "following_count": 50,
+          "like_count": 1425,
+          "listed_count": 1,
+          "media_count": 31,
+          "tweet_count": 469
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-05T13:32:39.000Z",
+        "description": "此号起到一个墓碑的作用，不安会双取，匿名提问： https://t.co/qXcDn5CuS4",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kexuejiazhuang",
+                "end": 47,
+                "expanded_url": "https://ngl.link/kexuejiazhuang",
+                "start": 24,
+                "url": "https://t.co/qXcDn5CuS4"
+              }
+            ]
+          }
+        },
+        "id": "1622226629136367674",
+        "location": "🚪5.2",
+        "name": "给我寿司吧🍣",
+        "pinned_tweet_id": "2007050446779859050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004605957251461120/N8tiWvTf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 131,
+          "like_count": 24590,
+          "listed_count": 0,
+          "media_count": 174,
+          "tweet_count": 2655
+        },
+        "username": "kexuejiazhuang",
+        "verified": false
+      }
+    ]
+  }
+}

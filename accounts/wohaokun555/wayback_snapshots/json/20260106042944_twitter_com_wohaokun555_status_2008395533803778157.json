@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2007759565174300826",
+    "created_at": "2026-01-06T04:29:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-06T05:29:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008395533803778157"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1558346182316896256",
+          "start": 0,
+          "username": "hoxer15"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008395533803778157",
+    "in_reply_to_user_id": "1558346182316896256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007759565174300826",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hoxer15 感觉挺喜欢她早期的就是演陈芊芊那个时候 现在不知道为什么变成这个样子 每次直播说的话我都大吃一惊 太给自己招黑了吧 粉丝还在洗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2007759565174300826",
+        "created_at": "2026-01-06T04:29:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T05:29:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008395533803778157"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1558346182316896256",
+              "start": 0,
+              "username": "hoxer15"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008395533803778157",
+        "in_reply_to_user_id": "1558346182316896256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007759565174300826",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoxer15 感觉挺喜欢她早期的就是演陈芊芊那个时候 现在不知道为什么变成这个样子 每次直播说的话我都大吃一惊 太给自己招黑了吧 粉丝还在洗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1558346182316896256",
+        "conversation_id": "2007759565174300826",
+        "created_at": "2026-01-04T10:22:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T11:22:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007759565174300826"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2007759565174300826",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 15392,
+          "like_count": 496,
+          "quote_count": 0,
+          "reply_count": 31,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "zls究竟要作妖到什么程度……天天装疯卖傻靠蹭热度博流量。丑人多作怪。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "天天开心o^^o",
+        "id": "2004619896630788096",
+        "location": "三体星球",
+        "name": "鱼虾一整碗",
+        "pinned_tweet_id": "2008218066103238856",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004620653153189888/VWgYLNYv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 39,
+          "like_count": 1188,
+          "listed_count": 1,
+          "media_count": 29,
+          "tweet_count": 427
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-13T06:54:23.000Z",
+        "description": "可以叫我小物/4i /ENTP/摩羯/头像是本人/没门",
+        "id": "1558346182316896256",
+        "location": "就那个哪呗",
+        "name": "人类是我的兼职",
+        "pinned_tweet_id": "1999519374462288156",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004719214347911168/iAYCnxEi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 959,
+          "following_count": 210,
+          "like_count": 15222,
+          "listed_count": 2,
+          "media_count": 273,
+          "tweet_count": 8012
+        },
+        "username": "hoxer15",
+        "verified": false
+      }
+    ]
+  }
+}

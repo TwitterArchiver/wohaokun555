@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2066079875925225933",
+    "created_at": "2026-06-14T16:20:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T17:20:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066194167999631395"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1871406845946146816",
+          "start": 0,
+          "username": "coconutpuppy037"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066194167999631395",
+    "in_reply_to_user_id": "1871406845946146816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066193948779946292",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@coconutpuppy037 亲亲小椰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2066079875925225933",
+        "created_at": "2026-06-14T16:20:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T17:20:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066194167999631395"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1871406845946146816",
+              "start": 0,
+              "username": "coconutpuppy037"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066194167999631395",
+        "in_reply_to_user_id": "1871406845946146816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066193948779946292",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@coconutpuppy037 亲亲小椰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1871406845946146816",
+        "conversation_id": "2066079875925225933",
+        "created_at": "2026-06-14T16:20:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T17:20:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066193948779946292"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066193948779946292",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066079875925225933",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 这张太美力！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "@lei_meng123（随缘过\n这是一个女孩的内心世界🌍",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 0,
+                "username": "lei_meng123"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "私信只回口令过门 其他勿扰…",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2062769965330227585",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2335,
+          "following_count": 77,
+          "like_count": 22112,
+          "listed_count": 2,
+          "media_count": 142,
+          "tweet_count": 3532
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-24T04:05:46.000Z",
+        "description": "这就是你想要的吗？欺负一个脑残",
+        "id": "1871406845946146816",
+        "name": "香菜小椰",
+        "pinned_tweet_id": "2033245533750345728",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871409045581549568/0gL4C18B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2737,
+          "following_count": 59,
+          "like_count": 3197,
+          "listed_count": 7,
+          "media_count": 174,
+          "tweet_count": 3053
+        },
+        "username": "coconutpuppy037",
+        "verified": false
+      }
+    ]
+  }
+}

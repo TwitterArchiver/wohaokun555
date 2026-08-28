@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2062533078808215673",
+    "created_at": "2026-06-04T14:12:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T15:12:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062538070445215916"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1750564848096731136",
+          "start": 0,
+          "username": "yydwzzz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062538070445215916",
+    "in_reply_to_user_id": "1750564848096731136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062533078808215673",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yydwzzz 我高中同学就这样 号成功了 变帅了 而且自己还贼有钱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2062533050714693633",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ-W4cFaIAE7bR9.jpg",
+        "width": 944
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2062533078808215673",
+        "created_at": "2026-06-04T14:12:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T15:12:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062538070445215916"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1750564848096731136",
+              "start": 0,
+              "username": "yydwzzz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062538070445215916",
+        "in_reply_to_user_id": "1750564848096731136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062533078808215673",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yydwzzz 我高中同学就这样 号成功了 变帅了 而且自己还贼有钱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062533050714693633"
+          ]
+        },
+        "author_id": "1750564848096731136",
+        "conversation_id": "2062533078808215673",
+        "created_at": "2026-06-04T13:53:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T14:53:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062533078808215673"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gpIQRzpbjI",
+              "end": 88,
+              "expanded_url": "https://x.com/yydwzzz/status/2062533078808215673/photo/1",
+              "media_key": "3_2062533050714693633",
+              "start": 65,
+              "url": "https://t.co/gpIQRzpbjI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062533078808215673",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 138,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真的觉得他好牛逼，我之前一直以为他只是一个拍寄拍的穿搭博主😰直到有一天他开出来一辆scoupe才发现他有自己的品牌，才25岁😳 https://t.co/gpIQRzpbjI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "🚪（520",
+        "id": "2004619896630788096",
+        "location": "口令➕姓",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2036315164098830372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2218,
+          "following_count": 79,
+          "like_count": 21243,
+          "listed_count": 2,
+          "media_count": 137,
+          "tweet_count": 3352
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-25T17:02:44.000Z",
+        "description": "我素直男",
+        "id": "1750564848096731136",
+        "location": "B612",
+        "name": "阿比",
+        "pinned_tweet_id": "2020996566312800412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040594545772310528/obFLBqd0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6725,
+          "following_count": 35,
+          "like_count": 414,
+          "listed_count": 11,
+          "media_count": 54,
+          "tweet_count": 1513
+        },
+        "username": "yydwzzz",
+        "verified": false
+      }
+    ]
+  }
+}

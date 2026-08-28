@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2073974824628891693",
+    "created_at": "2026-07-07T10:33:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T11:33:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074441780398018865"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1952193966822318080",
+          "start": 0,
+          "username": "hahamuffinin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074441780398018865",
+    "in_reply_to_user_id": "1952193966822318080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074424570120192309",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hahamuffinin 你看谁都像卖"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2073974824628891693",
+        "created_at": "2026-07-07T10:33:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T11:33:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074441780398018865"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1952193966822318080",
+              "start": 0,
+              "username": "hahamuffinin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074441780398018865",
+        "in_reply_to_user_id": "1952193966822318080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074424570120192309",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hahamuffinin 你看谁都像卖"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1952193966822318080",
+        "conversation_id": "2073974824628891693",
+        "created_at": "2026-07-07T09:25:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T10:25:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074424570120192309"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074424570120192309",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 305,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073974824628891693",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 说得好像sys没卖过一样，袜子是一对缺一只都不行呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "让我成为我，让一座山并存着嶙峋和肥沃",
+        "id": "2004619896630788096",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2073747405099659747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2758,
+          "following_count": 81,
+          "like_count": 24134,
+          "listed_count": 2,
+          "media_count": 147,
+          "tweet_count": 3866
+        },
+        "url": "",
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-04T02:24:54.000Z",
+        "description": "",
+        "id": "1952193966822318080",
+        "name": "ha ha",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022277686207680512/Lx1v6D4E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 33,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 13
+        },
+        "url": "",
+        "username": "hahamuffinin",
+        "verified": false
+      }
+    ]
+  }
+}

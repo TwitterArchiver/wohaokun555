@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2017218369033048106",
+    "created_at": "2026-01-30T17:20:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T18:20:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017286857156137620"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2011662700892602375",
+          "start": 0,
+          "username": "vsbns1hhhh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017286857156137620",
+    "in_reply_to_user_id": "2011662700892602375",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017286418926866720",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@vsbns1hhhh 神经病"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2017218369033048106",
+        "created_at": "2026-01-30T17:20:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T18:20:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017286857156137620"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2011662700892602375",
+              "start": 0,
+              "username": "vsbns1hhhh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017286857156137620",
+        "in_reply_to_user_id": "2011662700892602375",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017286418926866720",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vsbns1hhhh 神经病"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2011662700892602375",
+        "conversation_id": "2017218369033048106",
+        "created_at": "2026-01-30T17:18:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T18:18:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017286418926866720"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017286418926866720",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017218369033048106",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 给我草一下"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2JlN5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2JlN5"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "发生殖器死妈！",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2016072861732212867",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014313058978406400/yLC08oHO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 512,
+          "following_count": 73,
+          "like_count": 4252,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 952
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-15T04:52:26.000Z",
+        "description": "精神異常",
+        "id": "2011662700892602375",
+        "name": "ame",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011663197900849154/11YhDAfb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 3,
+          "like_count": 28,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 21
+        },
+        "username": "vsbns1hhhh",
+        "verified": false
+      }
+    ]
+  }
+}

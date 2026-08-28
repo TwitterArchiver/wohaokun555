@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2061384396205433037",
+    "created_at": "2026-06-01T10:25:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T11:25:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061393573241925945"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1750564848096731136",
+          "start": 0,
+          "username": "yydwzzz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061393573241925945",
+    "in_reply_to_user_id": "1750564848096731136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061384396205433037",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yydwzzz 他们怎么都叫你爸爸呀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1948,
+        "media_key": "3_2061384384738131968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJuCLR3agAAl-yM.jpg",
+        "width": 1037
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2061384396205433037",
+        "created_at": "2026-06-01T10:25:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T11:25:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061393573241925945"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1750564848096731136",
+              "start": 0,
+              "username": "yydwzzz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061393573241925945",
+        "in_reply_to_user_id": "1750564848096731136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061384396205433037",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yydwzzz 他们怎么都叫你爸爸呀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061384384738131968"
+          ]
+        },
+        "author_id": "1750564848096731136",
+        "conversation_id": "2061384396205433037",
+        "created_at": "2026-06-01T09:48:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T10:48:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061384396205433037"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yqeu9SPqow",
+              "end": 40,
+              "expanded_url": "https://x.com/yydwzzz/status/2061384396205433037/photo/1",
+              "media_key": "3_2061384384738131968",
+              "start": 17,
+              "url": "https://t.co/yqeu9SPqow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061384396205433037",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 233,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "下次换个搭讪的方式行不行。。。😓 https://t.co/yqeu9SPqow"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "🚪（520",
+        "id": "2004619896630788096",
+        "location": "口令➕姓",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2060575687279567255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2178,
+          "following_count": 79,
+          "like_count": 20861,
+          "listed_count": 2,
+          "media_count": 246,
+          "tweet_count": 3403
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-25T17:02:44.000Z",
+        "description": "我素直男",
+        "id": "1750564848096731136",
+        "location": "B612",
+        "name": "阿比",
+        "pinned_tweet_id": "2020996566312800412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040594545772310528/obFLBqd0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6681,
+          "following_count": 36,
+          "like_count": 413,
+          "listed_count": 12,
+          "media_count": 52,
+          "tweet_count": 1499
+        },
+        "username": "yydwzzz",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2024475542804922577",
+    "created_at": "2026-02-20T12:01:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T13:01:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024816774731214991"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1728755176331161600",
+          "start": 0,
+          "username": "britelitesli"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024816774731214991",
+    "in_reply_to_user_id": "1728755176331161600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024475542804922577",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@britelitesli 这个拍出来特别好看"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2024475534982598659",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBhhxd8bUAMqWIz.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2024475542804922577",
+        "created_at": "2026-02-20T12:01:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T13:01:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024816774731214991"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1728755176331161600",
+              "start": 0,
+              "username": "britelitesli"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024816774731214991",
+        "in_reply_to_user_id": "1728755176331161600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024475542804922577",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@britelitesli 这个拍出来特别好看"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024475534982598659"
+          ]
+        },
+        "author_id": "1728755176331161600",
+        "conversation_id": "2024475542804922577",
+        "created_at": "2026-02-19T13:25:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T14:25:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024475542804922577"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sAyTlb1sYn",
+              "end": 61,
+              "expanded_url": "https://x.com/britelitesli/status/2024475542804922577/photo/1",
+              "media_key": "3_2024475534982598659",
+              "start": 38,
+              "url": "https://t.co/sAyTlb1sYn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024475542804922577",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5433,
+          "like_count": 64,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁懂准备买一个ccd，突然发现家里有一个现成的，我小时候妈妈买的，爽哉爽哉 https://t.co/sAyTlb1sYn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2JlN5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2JlN5"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "除了口令和正常问题别的私信不回",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2016792238060421479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 892,
+          "following_count": 93,
+          "like_count": 8860,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 1649
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-26T12:39:04.000Z",
+        "description": "不要来烦我",
+        "id": "1728755176331161600",
+        "location": "🚪888",
+        "name": "Honeymoon",
+        "pinned_tweet_id": "1917512561169424740",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888452781490786304/Vkh16oL5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27771,
+          "following_count": 81,
+          "like_count": 4474,
+          "listed_count": 127,
+          "media_count": 97,
+          "tweet_count": 1182
+        },
+        "username": "britelitesli",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2006029488270848269",
+    "created_at": "2025-12-30T16:20:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-30T17:20:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006037652118655382"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1753320910655016960",
+          "start": 0,
+          "username": "Rye1848"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006037652118655382",
+    "in_reply_to_user_id": "1753320910655016960",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006037452541088248",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rye1848 ？！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2006029488270848269",
+        "created_at": "2025-12-30T16:20:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T17:20:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006037652118655382"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1753320910655016960",
+              "start": 0,
+              "username": "Rye1848"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006037652118655382",
+        "in_reply_to_user_id": "1753320910655016960",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006037452541088248",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rye1848 ？！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753320910655016960",
+        "conversation_id": "2006029488270848269",
+        "created_at": "2025-12-30T16:19:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T17:19:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006037452541088248"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006037452541088248",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006029488270848269",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 怎么跟你说的不一样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "天天开心o^^o🚪66（纯绿！",
+        "id": "2004619896630788096",
+        "location": "Hong Kong",
+        "name": "鱼虾一整碗",
+        "pinned_tweet_id": "2005582001685012508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004620653153189888/VWgYLNYv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 27,
+          "like_count": 414,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 218
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-02T07:34:24.000Z",
+        "description": "不了解不明白不清楚",
+        "id": "1753320910655016960",
+        "name": "Rye",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753846024827727872/ELKaskOz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 50,
+          "like_count": 101,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 193
+        },
+        "username": "Rye1848",
+        "verified": false
+      }
+    ]
+  }
+}

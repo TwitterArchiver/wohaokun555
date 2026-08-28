@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2073974824628891693",
+    "created_at": "2026-07-07T03:12:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T04:12:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074330676472799520"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1781482423496167424",
+          "start": 0,
+          "username": "Slepills_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074330676472799520",
+    "in_reply_to_user_id": "1781482423496167424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074295882917540086",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Slepills_ 我笑飞了 sys无妄之灾"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2073974824628891693",
+        "created_at": "2026-07-07T03:12:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T04:12:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074330676472799520"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1781482423496167424",
+              "start": 0,
+              "username": "Slepills_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074330676472799520",
+        "in_reply_to_user_id": "1781482423496167424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074295882917540086",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Slepills_ 我笑飞了 sys无妄之灾"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781482423496167424",
+        "conversation_id": "2073974824628891693",
+        "created_at": "2026-07-07T00:54:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T01:54:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074295882917540086"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074295882917540086",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 684,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073974824628891693",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 之前还刷到说什么拍到他俩私下领证…歪歪啥呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "让我成为我，让一座山并存着嶙峋和肥沃",
+        "id": "2004619896630788096",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2073747405099659747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2753,
+          "following_count": 81,
+          "like_count": 24079,
+          "listed_count": 2,
+          "media_count": 146,
+          "tweet_count": 3860
+        },
+        "url": "",
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-20T00:38:20.000Z",
+        "description": "",
+        "id": "1781482423496167424",
+        "name": "Slepills",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1781483524932976640/M7YHr_3n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 196,
+          "like_count": 4097,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 78
+        },
+        "url": "",
+        "username": "Slepills_",
+        "verified": false
+      }
+    ]
+  }
+}

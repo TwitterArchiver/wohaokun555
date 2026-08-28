@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2070744073108169112",
+    "created_at": "2026-06-28T02:31:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T03:31:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071058770466423012"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1549432033440858113",
+          "start": 0,
+          "username": "jx09697132"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071058770466423012",
+    "in_reply_to_user_id": "1549432033440858113",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071053692971938142",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jx09697132 你去找个鸡娶了吧😂哦对你可能没有那个经济能力 公狗🥵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2070744073108169112",
+        "created_at": "2026-06-28T02:31:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T03:31:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071058770466423012"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1549432033440858113",
+              "start": 0,
+              "username": "jx09697132"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071058770466423012",
+        "in_reply_to_user_id": "1549432033440858113",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071053692971938142",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jx09697132 你去找个鸡娶了吧😂哦对你可能没有那个经济能力 公狗🥵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1549432033440858113",
+        "conversation_id": "2070744073108169112",
+        "created_at": "2026-06-28T02:10:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T03:10:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071053692971938142"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071053692971938142",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070744073108169112",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 这种人找到你真是到了八辈子霉了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "让我成为我，让一座山并存着嶙峋和肥沃",
+        "id": "2004619896630788096",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2070530833434476867",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2562,
+          "following_count": 81,
+          "like_count": 23137,
+          "listed_count": 2,
+          "media_count": 140,
+          "tweet_count": 3700
+        },
+        "url": "",
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-19T16:33:08.000Z",
+        "description": "",
+        "id": "1549432033440858113",
+        "name": "郑jx",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060451852739878912/r_X3_o7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 59,
+          "like_count": 98,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 230
+        },
+        "url": "",
+        "username": "jx09697132",
+        "verified": false
+      }
+    ]
+  }
+}

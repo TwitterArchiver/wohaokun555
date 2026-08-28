@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2075909360417636844",
+    "created_at": "2026-07-12T06:35:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T07:35:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076193740038025596"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1871406845946146816",
+          "start": 0,
+          "username": "coconutpuppy037"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076193740038025596",
+    "in_reply_to_user_id": "1871406845946146816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076187232923205835",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@coconutpuppy037 我昨晚去看了 确实"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2075909360417636844",
+        "created_at": "2026-07-12T06:35:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T07:35:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076193740038025596"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1871406845946146816",
+              "start": 0,
+              "username": "coconutpuppy037"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076193740038025596",
+        "in_reply_to_user_id": "1871406845946146816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076187232923205835",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@coconutpuppy037 我昨晚去看了 确实"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1871406845946146816",
+        "conversation_id": "2075909360417636844",
+        "created_at": "2026-07-12T06:09:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T07:09:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076187232923205835"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076187232923205835",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075909360417636844",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 我朋友说很难看"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "让我成为我，让一座山并存着嶙峋和肥沃",
+        "id": "2004619896630788096",
+        "location": "置顶推广自辨",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2075862358107587032",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2833,
+          "following_count": 82,
+          "like_count": 24284,
+          "listed_count": 2,
+          "media_count": 153,
+          "tweet_count": 3909
+        },
+        "url": "",
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-24T04:05:46.000Z",
+        "description": "这就是你想要的吗？欺负一个脑残",
+        "id": "1871406845946146816",
+        "name": "香菜小椰",
+        "pinned_tweet_id": "2033245533750345728",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871409045581549568/0gL4C18B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2889,
+          "following_count": 59,
+          "like_count": 3284,
+          "listed_count": 7,
+          "media_count": 178,
+          "tweet_count": 3159
+        },
+        "url": "",
+        "username": "coconutpuppy037",
+        "verified": false
+      }
+    ]
+  }
+}

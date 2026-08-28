@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2073044818503360979",
+    "created_at": "2026-07-04T02:17:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T03:17:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073229702983258158"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1829513058747559937",
+          "start": 0,
+          "username": "nnfng1791031"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073229702983258158",
+    "in_reply_to_user_id": "1829513058747559937",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073173228999299553",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nnfng1791031 我服了呀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1032,
+        "media_key": "3_2073173205909716992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMVkC_AbQAARlGr.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2073044818503360979",
+        "created_at": "2026-07-04T02:17:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T03:17:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073229702983258158"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1829513058747559937",
+              "start": 0,
+              "username": "nnfng1791031"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073229702983258158",
+        "in_reply_to_user_id": "1829513058747559937",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073173228999299553",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nnfng1791031 我服了呀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073173205909716992"
+          ]
+        },
+        "author_id": "1829513058747559937",
+        "conversation_id": "2073044818503360979",
+        "created_at": "2026-07-03T22:33:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T23:33:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073173228999299553"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ACJZyqWiFU",
+              "end": 40,
+              "expanded_url": "https://x.com/nnfng1791031/status/2073173228999299553/photo/1",
+              "media_key": "3_2073173205909716992",
+              "start": 17,
+              "url": "https://t.co/ACJZyqWiFU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073173228999299553",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073044818503360979",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 喜欢么 https://t.co/ACJZyqWiFU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "让我成为我，让一座山并存着嶙峋和肥沃",
+        "id": "2004619896630788096",
+        "location": "置顶推广自辨（520🚪",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2073042783791886494",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2729,
+          "following_count": 81,
+          "like_count": 23860,
+          "listed_count": 2,
+          "media_count": 146,
+          "tweet_count": 3823
+        },
+        "url": "",
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-30T13:34:51.000Z",
+        "description": "利己主义",
+        "id": "1829513058747559937",
+        "name": "小北北",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073208107954782208/Uu3PEL5J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 8,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 34
+        },
+        "url": "",
+        "username": "nnfng1791031",
+        "verified": false
+      }
+    ]
+  }
+}

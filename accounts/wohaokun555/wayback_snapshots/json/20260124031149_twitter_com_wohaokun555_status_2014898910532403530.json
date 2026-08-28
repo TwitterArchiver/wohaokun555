@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2014737364476891141",
+    "created_at": "2026-01-24T03:11:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-24T04:11:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014898910532403530"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1980682684985921536",
+          "start": 0,
+          "username": "linovo33"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014898910532403530",
+    "in_reply_to_user_id": "1980682684985921536",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014737364476891141",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@linovo33 我支持。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2014737364476891141",
+        "created_at": "2026-01-24T03:11:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T04:11:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014898910532403530"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1980682684985921536",
+              "start": 0,
+              "username": "linovo33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014898910532403530",
+        "in_reply_to_user_id": "1980682684985921536",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014737364476891141",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@linovo33 我支持。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980682684985921536",
+        "conversation_id": "2014737364476891141",
+        "created_at": "2026-01-23T16:29:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T17:29:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014737364476891141"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2014737364476891141",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 23437,
+          "like_count": 382,
+          "quote_count": 2,
+          "reply_count": 28,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "卧槽你们八九十斤别减肥了好吗，制造焦虑有啥意思"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "",
+        "id": "2004619896630788096",
+        "location": "？！",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2014617927212007465",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014313058978406400/yLC08oHO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 441,
+          "following_count": 63,
+          "like_count": 2639,
+          "listed_count": 1,
+          "media_count": 50,
+          "tweet_count": 796
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-21T17:09:11.000Z",
+        "description": "不收门不加任何联系方式不下海不线下别私信我｜防走丢小号@linovo332 ｜我很敏感请不要对我有恶意不喜欢我拉黑就好",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "linovo332"
+              }
+            ]
+          }
+        },
+        "id": "1980682684985921536",
+        "location": "Amoy",
+        "name": "檩",
+        "pinned_tweet_id": "2012461133769105826",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010005579511803909/rdE55MHV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 728,
+          "following_count": 55,
+          "like_count": 2040,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 1120
+        },
+        "username": "linovo33",
+        "verified": false
+      }
+    ]
+  }
+}

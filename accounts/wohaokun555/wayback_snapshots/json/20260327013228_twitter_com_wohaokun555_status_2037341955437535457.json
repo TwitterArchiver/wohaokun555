@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2037341955437535457",
+    "created_at": "2026-03-27T01:32:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T02:32:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037341955437535457"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2037341955437535457",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我同学追时团特地登录x来看严浩翔的瓜…截屏了一堆发到朋友圈。截到我互关了还不打码。我好崩溃吧…能不能打个码以后🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2037341955437535457",
+        "created_at": "2026-03-27T01:32:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T02:32:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037341955437535457"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037341955437535457",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我同学追时团特地登录x来看严浩翔的瓜…截屏了一堆发到朋友圈。截到我互关了还不打码。我好崩溃吧…能不能打个码以后🥹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "🚪🫶🏻🫰🏻🩶",
+        "id": "2004619896630788096",
+        "location": "三体（私信只回复口令和🚪",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2035966922010087790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1443,
+          "following_count": 99,
+          "like_count": 13125,
+          "listed_count": 1,
+          "media_count": 131,
+          "tweet_count": 2426
+        },
+        "username": "wohaokun555",
+        "verified": false
+      }
+    ]
+  }
+}

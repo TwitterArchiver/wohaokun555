@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2015803710719607088",
+    "created_at": "2026-01-26T15:15:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T16:15:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015805720353198164"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1174571362620514306",
+          "start": 0,
+          "username": "HolsonChuang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015805720353198164",
+    "in_reply_to_user_id": "1174571362620514306",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015805344719749258",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HolsonChuang 你咋这么聪明！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2015803710719607088",
+        "created_at": "2026-01-26T15:15:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T16:15:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015805720353198164"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1174571362620514306",
+              "start": 0,
+              "username": "HolsonChuang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015805720353198164",
+        "in_reply_to_user_id": "1174571362620514306",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015805344719749258",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HolsonChuang 你咋这么聪明！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1174571362620514306",
+        "conversation_id": "2015803710719607088",
+        "created_at": "2026-01-26T15:13:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T16:13:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015805344719749258"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015805344719749258",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015803710719607088",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 让自己不在家"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2JlN5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2JlN5"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "三体",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2007765884035813533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014313058978406400/yLC08oHO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 456,
+          "following_count": 70,
+          "like_count": 3171,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 823
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2019-09-19T06:30:22.000Z",
+        "description": "Bonjour Tristesse",
+        "id": "1174571362620514306",
+        "location": "约克纳帕塔法",
+        "name": "Faulkner",
+        "pinned_tweet_id": "2015079789208727750",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009608221368221696/WQtxRtmS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 223,
+          "like_count": 328,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 229
+        },
+        "username": "HolsonChuang",
+        "verified": false
+      }
+    ]
+  }
+}

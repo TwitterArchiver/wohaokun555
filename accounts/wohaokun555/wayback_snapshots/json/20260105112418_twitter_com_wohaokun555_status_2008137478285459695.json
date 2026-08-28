@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2008118630207381988",
+    "created_at": "2026-01-05T11:24:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-05T12:24:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008137478285459695"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2000060779056492544",
+          "start": 0,
+          "username": "kakou0026"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008137478285459695",
+    "in_reply_to_user_id": "2000060779056492544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008118630207381988",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kakou0026 绿色的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2008118614554210304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G95FPY9acAAQ1m0.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2008118630207381988",
+        "created_at": "2026-01-05T11:24:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T12:24:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008137478285459695"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2000060779056492544",
+              "start": 0,
+              "username": "kakou0026"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008137478285459695",
+        "in_reply_to_user_id": "2000060779056492544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008118630207381988",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kakou0026 绿色的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2008118614554210304"
+          ]
+        },
+        "author_id": "2000060779056492544",
+        "conversation_id": "2008118630207381988",
+        "created_at": "2026-01-05T10:09:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T11:09:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008118630207381988"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hpdhiZF1iQ",
+              "end": 36,
+              "expanded_url": "https://x.com/kakou0026/status/2008118630207381988/photo/1",
+              "media_key": "3_2008118614554210304",
+              "start": 13,
+              "url": "https://t.co/hpdhiZF1iQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008118630207381988",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1018,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "龟龟们二选一 我只买一个 https://t.co/hpdhiZF1iQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "天天开心o^^o",
+        "id": "2004619896630788096",
+        "location": "三体星球",
+        "name": "鱼虾一整碗",
+        "pinned_tweet_id": "2005582001685012508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004620653153189888/VWgYLNYv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 40,
+          "like_count": 1125,
+          "listed_count": 1,
+          "media_count": 29,
+          "tweet_count": 409
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-14T04:30:32.000Z",
+        "description": "07｜女｜switch｜双｜单身｜ 我会回关所有的女孩^ ^｜防走丢1579218791",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kakou36409",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kakou36409",
+                "start": 0,
+                "url": "https://t.co/HmMHXfI5vl"
+              }
+            ]
+          }
+        },
+        "id": "2000060779056492544",
+        "location": "这里是Kakou 喜欢你来＞_＜",
+        "name": "Kakou",
+        "pinned_tweet_id": "2008049528918671858",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000061289511682048/wHjUAiK5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 486,
+          "following_count": 46,
+          "like_count": 310,
+          "listed_count": 2,
+          "media_count": 87,
+          "tweet_count": 656
+        },
+        "url": "https://t.co/HmMHXfI5vl",
+        "username": "kakou0026",
+        "verified": false
+      }
+    ]
+  }
+}

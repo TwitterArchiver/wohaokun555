@@ -1,0 +1,335 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "Bumble",
+          "id": "1091831512075358208",
+          "name": "Bumble"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1220824190619545601",
+          "name": "Tinder"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Bumble",
+          "id": "1091831512075358208",
+          "name": "Bumble"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1220824190619545601",
+          "name": "Tinder"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1433125517692002306",
+          "name": "Dating Apps"
+        }
+      }
+    ],
+    "conversation_id": "2072940053190562242",
+    "created_at": "2026-07-03T07:53:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T08:53:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072951932776599912"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1933852218505191424",
+          "start": 0,
+          "username": "xwhomi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072951932776599912",
+    "in_reply_to_user_id": "1933852218505191424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072951527757799839",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xwhomi bumble tinder soul 我下载这三个 想骂人的话可以去soul"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Bumble",
+              "id": "1091831512075358208",
+              "name": "Bumble"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1220824190619545601",
+              "name": "Tinder"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Bumble",
+              "id": "1091831512075358208",
+              "name": "Bumble"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1220824190619545601",
+              "name": "Tinder"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1433125517692002306",
+              "name": "Dating Apps"
+            }
+          }
+        ],
+        "conversation_id": "2072940053190562242",
+        "created_at": "2026-07-03T07:53:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T08:53:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072951932776599912"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1933852218505191424",
+              "start": 0,
+              "username": "xwhomi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072951932776599912",
+        "in_reply_to_user_id": "1933852218505191424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072951527757799839",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xwhomi bumble tinder soul 我下载这三个 想骂人的话可以去soul"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1933852218505191424",
+        "conversation_id": "2072940053190562242",
+        "created_at": "2026-07-03T07:52:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T08:52:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072951527757799839"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072951527757799839",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072940053190562242",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 有哪些推荐吗 太无聊llllll"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "让我成为我，让一座山并存着嶙峋和肥沃",
+        "id": "2004619896630788096",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2070530833434476867",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2703,
+          "following_count": 82,
+          "like_count": 23804,
+          "listed_count": 2,
+          "media_count": 144,
+          "tweet_count": 3809
+        },
+        "url": "",
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-14T11:41:27.000Z",
+        "description": "",
+        "id": "1933852218505191424",
+        "location": "比奇堡",
+        "name": "xin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991518774361767936/VypTOPCH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 1,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 22
+        },
+        "url": "",
+        "username": "xwhomi",
+        "verified": false
+      }
+    ]
+  }
+}

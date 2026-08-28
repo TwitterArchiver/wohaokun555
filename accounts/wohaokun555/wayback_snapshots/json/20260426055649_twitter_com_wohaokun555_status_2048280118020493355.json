@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2048280118020493355",
+    "created_at": "2026-04-26T05:56:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T06:56:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048280118020493355"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1716325928479903744",
+          "start": 3,
+          "username": "qiu_song60259"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048280118020493355",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 71
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047930345270735079",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @qiu_song60259: 精心构想的恋人原来是想要变成的自己"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2048280118020493355",
+        "created_at": "2026-04-26T05:56:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T06:56:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048280118020493355"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1716325928479903744",
+              "start": 3,
+              "username": "qiu_song60259"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048280118020493355",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 71
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047930345270735079",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @qiu_song60259: 精心构想的恋人原来是想要变成的自己"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1716325928479903744",
+        "conversation_id": "2047930345270735079",
+        "created_at": "2026-04-25T06:46:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T07:46:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047930345270735079"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047930345270735079",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 10521,
+          "like_count": 409,
+          "quote_count": 3,
+          "reply_count": 16,
+          "retweet_count": 71
+        },
+        "reply_settings": "everyone",
+        "text": "精心构想的恋人原来是想要变成的自己"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "",
+        "id": "2004619896630788096",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2036315164098830372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1916,
+          "following_count": 99,
+          "like_count": 16741,
+          "listed_count": 1,
+          "media_count": 201,
+          "tweet_count": 2966
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-23T05:29:38.000Z",
+        "description": "我只是在自说自话TvT丨09苦逼美术生丨hello你们好我是苦瓜/小咪咪（别忘记我我喜欢改头像和名字TωT）|小号闭关只过互关熟人@Kuguadawang6677 我只是个可怜的住宿生上学常驻小号@o65518kuguagua 每天给我发一百条匿名好不好(๑•̀ω•́๑)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 65,
+                "username": "Kuguadawang6677"
+              },
+              {
+                "end": 113,
+                "start": 98,
+                "username": "o65518kuguagua"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%8B%A6%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E8%8B%A6%E7%93%9C%E5%A4%A7%E7%8E%8B",
+                "start": 0,
+                "url": "https://t.co/YLzBwcv4VK"
+              }
+            ]
+          }
+        },
+        "id": "1716325928479903744",
+        "location": "该用户已关机     匿名→",
+        "name": "擦去你眼角的泪",
+        "pinned_tweet_id": "2047719676860624989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035213801264689152/oBVhKu4C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3873,
+          "following_count": 1462,
+          "like_count": 15529,
+          "listed_count": 6,
+          "media_count": 437,
+          "tweet_count": 8329
+        },
+        "url": "https://t.co/YLzBwcv4VK",
+        "username": "qiu_song60259",
+        "verified": false
+      }
+    ]
+  }
+}

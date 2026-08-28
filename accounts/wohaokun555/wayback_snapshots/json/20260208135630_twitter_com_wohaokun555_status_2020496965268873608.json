@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2020302742057791973",
+    "created_at": "2026-02-08T13:56:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-08T14:56:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020496965268873608"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1546702195709530112",
+          "start": 0,
+          "username": "ghkfjjdssfb6887"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020496965268873608",
+    "in_reply_to_user_id": "1546702195709530112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020496531447771480",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ghkfjjdssfb6887 说的好！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2020302742057791973",
+        "created_at": "2026-02-08T13:56:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T14:56:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020496965268873608"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1546702195709530112",
+              "start": 0,
+              "username": "ghkfjjdssfb6887"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020496965268873608",
+        "in_reply_to_user_id": "1546702195709530112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020496531447771480",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ghkfjjdssfb6887 说的好！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546702195709530112",
+        "conversation_id": "2020302742057791973",
+        "created_at": "2026-02-08T13:54:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T14:54:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020496531447771480"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020496531447771480",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020302742057791973",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 看不见绿，是红绿色盲吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2JlN5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2JlN5"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "🚪188（绿（别的私信不回",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2019333252520321256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014313058978406400/yLC08oHO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 624,
+          "following_count": 72,
+          "like_count": 6228,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 1198
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-12T03:45:34.000Z",
+        "description": "一直碎碎念到幸福尽头",
+        "id": "1546702195709530112",
+        "name": "点咽",
+        "pinned_tweet_id": "2011629272872657381",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016167323707535360/qGd2tKtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 620,
+          "following_count": 43,
+          "like_count": 4993,
+          "listed_count": 1,
+          "media_count": 152,
+          "tweet_count": 6724
+        },
+        "username": "ghkfjjdssfb6887",
+        "verified": false
+      }
+    ]
+  }
+}

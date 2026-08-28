@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2069974138014593052",
+    "created_at": "2026-06-26T00:39:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T01:39:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070305863315902487"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1826463370264162304",
+          "start": 0,
+          "username": "brisket116350"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070305863315902487",
+    "in_reply_to_user_id": "1826463370264162304",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070233073858535838",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@brisket116350 就是就是！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2069974138014593052",
+        "created_at": "2026-06-26T00:39:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T01:39:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070305863315902487"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1826463370264162304",
+              "start": 0,
+              "username": "brisket116350"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070305863315902487",
+        "in_reply_to_user_id": "1826463370264162304",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070233073858535838",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@brisket116350 就是就是！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826463370264162304",
+        "conversation_id": "2069974138014593052",
+        "created_at": "2026-06-25T19:50:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T20:50:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070233073858535838"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070233073858535838",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 203,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069974138014593052",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 知假买假来句真钱买的就是自己的宝宝，我去你的吧，还在那推店铺，买假的就给我放家里自己欣赏，拿出来秀挨骂了就给我受着"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "让我成为我，让一座山并存着嶙峋和肥沃",
+        "id": "2004619896630788096",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2067618656885125585",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2513,
+          "following_count": 80,
+          "like_count": 22904,
+          "listed_count": 2,
+          "media_count": 138,
+          "tweet_count": 3666
+        },
+        "url": "",
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-22T03:36:29.000Z",
+        "description": "世界上脾气最差之人",
+        "id": "1826463370264162304",
+        "name": "yeyeye",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070236944207155200/WidOuPC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 113,
+          "like_count": 487,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 64
+        },
+        "url": "",
+        "username": "brisket116350",
+        "verified": false
+      }
+    ]
+  }
+}

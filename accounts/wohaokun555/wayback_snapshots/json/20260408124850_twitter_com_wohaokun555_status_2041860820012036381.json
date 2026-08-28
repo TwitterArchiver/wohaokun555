@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2041799435810959744",
+    "created_at": "2026-04-08T12:48:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T13:48:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041860820012036381"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2013000409003315200",
+          "start": 0,
+          "username": "imyy1567"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041860820012036381",
+    "in_reply_to_user_id": "2013000409003315200",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041799435810959744",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@imyy1567 美死我了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2041799425170010114",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFXtwl_a8AI2Wu7.jpg",
+        "width": 1365
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2041799425174216705",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFXtwmAbIAEy5Aa.jpg",
+        "width": 1365
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2041799435810959744",
+        "created_at": "2026-04-08T12:48:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T13:48:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041860820012036381"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2013000409003315200",
+              "start": 0,
+              "username": "imyy1567"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041860820012036381",
+        "in_reply_to_user_id": "2013000409003315200",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041799435810959744",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@imyy1567 美死我了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041799425170010114",
+            "3_2041799425174216705"
+          ]
+        },
+        "author_id": "2013000409003315200",
+        "conversation_id": "2041799435810959744",
+        "created_at": "2026-04-08T08:44:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T09:44:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041799435810959744"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hjHzzG1HCE",
+              "end": 23,
+              "expanded_url": "https://x.com/imyy1567/status/2041799435810959744/photo/1",
+              "media_key": "3_2041799425170010114",
+              "start": 0,
+              "url": "https://t.co/hjHzzG1HCE"
+            },
+            {
+              "display_url": "pic.x.com/hjHzzG1HCE",
+              "end": 23,
+              "expanded_url": "https://x.com/imyy1567/status/2041799435810959744/photo/1",
+              "media_key": "3_2041799425174216705",
+              "start": 0,
+              "url": "https://t.co/hjHzzG1HCE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041799435810959744",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 958,
+          "like_count": 57,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/hjHzzG1HCE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "",
+        "id": "2004619896630788096",
+        "location": "🚪520",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2036315164098830372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1545,
+          "following_count": 98,
+          "like_count": 14744,
+          "listed_count": 1,
+          "media_count": 173,
+          "tweet_count": 2738
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-18T21:28:05.000Z",
+        "description": "非如此不可",
+        "id": "2013000409003315200",
+        "name": "川",
+        "pinned_tweet_id": "2034443289349562501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013000918875201536/zcutPwqg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1050,
+          "following_count": 35,
+          "like_count": 156,
+          "listed_count": 5,
+          "media_count": 87,
+          "tweet_count": 637
+        },
+        "username": "imyy1567",
+        "verified": false
+      }
+    ]
+  }
+}

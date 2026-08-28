@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2037082206603239702",
+    "created_at": "2026-03-26T08:39:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T09:39:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037087141109584021"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1750564848096731136",
+          "start": 0,
+          "username": "yydwzzz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037087141109584021",
+    "in_reply_to_user_id": "1750564848096731136",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037082206603239702",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yydwzzz 你要纹身！"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20853,
+        "height": 1280,
+        "media_key": "13_2037081985966125056",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2037081985966125056/img/HNFMvArZ0QP55Fpo.jpg",
+        "public_metrics": {
+          "view_count": 23
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2037081985966125056/vid/avc1/320x568/mmSPltp4CoPlAdoI.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2037081985966125056/vid/avc1/480x852/upCQV4afogNN6tpr.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2037081985966125056/vid/avc1/720x1280/hyrY5zjJnXZNyDv6.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2037081985966125056/pl/3CTGbnZ-SiYXTgNb.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2037082206603239702",
+        "created_at": "2026-03-26T08:39:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T09:39:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037087141109584021"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1750564848096731136",
+              "start": 0,
+              "username": "yydwzzz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037087141109584021",
+        "in_reply_to_user_id": "1750564848096731136",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037082206603239702",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yydwzzz 你要纹身！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2037081985966125056"
+          ]
+        },
+        "author_id": "1750564848096731136",
+        "conversation_id": "2037082206603239702",
+        "created_at": "2026-03-26T08:20:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T09:20:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037082206603239702"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mXKirYO6E8",
+              "end": 39,
+              "expanded_url": "https://x.com/yydwzzz/status/2037082206603239702/video/1",
+              "media_key": "13_2037081985966125056",
+              "start": 16,
+              "url": "https://t.co/mXKirYO6E8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037082206603239702",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 73,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁懂在纹身店看见假吧唧的救赎感 https://t.co/mXKirYO6E8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "🚪🫶🏻🫰🏻🩶",
+        "id": "2004619896630788096",
+        "location": "三体（私信只回复口令和🚪",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2035966922010087790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1427,
+          "following_count": 99,
+          "like_count": 13046,
+          "listed_count": 1,
+          "media_count": 126,
+          "tweet_count": 2408
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-25T17:02:44.000Z",
+        "description": "想和我聊天先给我转88💰\n不喜欢男的谢谢",
+        "id": "1750564848096731136",
+        "location": "Changsha",
+        "name": "阿比",
+        "pinned_tweet_id": "2020996566312800412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022917754865750018/xaQJONz3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5954,
+          "following_count": 40,
+          "like_count": 361,
+          "listed_count": 6,
+          "media_count": 97,
+          "tweet_count": 1466
+        },
+        "username": "yydwzzz",
+        "verified": false
+      }
+    ]
+  }
+}

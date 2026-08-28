@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2010339755406541150",
+    "created_at": "2026-01-11T23:38:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-12T00:38:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010496641070235679"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1379376022525775876",
+          "start": 0,
+          "username": "qvqooq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010496641070235679",
+    "in_reply_to_user_id": "1379376022525775876",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 12,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010363379291201728",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qvqooq 嗯嗯我联系客服了提供相关凭据 他们说会给我解决的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2010339755406541150",
+        "created_at": "2026-01-11T23:38:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T00:38:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010496641070235679"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1379376022525775876",
+              "start": 0,
+              "username": "qvqooq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010496641070235679",
+        "in_reply_to_user_id": "1379376022525775876",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010363379291201728",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qvqooq 嗯嗯我联系客服了提供相关凭据 他们说会给我解决的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1379376022525775876",
+        "conversation_id": "2010339755406541150",
+        "created_at": "2026-01-11T14:49:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T15:49:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010363379291201728"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010363379291201728",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010339755406541150",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 id只能在商店登，如果你自己有发票，可以去当地苹果店让他帮你解开，最好是直营"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "",
+        "id": "2004619896630788096",
+        "location": "发生殖器官司马",
+        "name": "鱼虾一整碗",
+        "pinned_tweet_id": "2009185555268112534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004620653153189888/VWgYLNYv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 430,
+          "following_count": 65,
+          "like_count": 2243,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 702
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-06T10:10:55.000Z",
+        "description": "prprpr🤤",
+        "id": "1379376022525775876",
+        "location": "chengdu",
+        "name": "Lucid",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1418772372312797186/RgH8kDGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 38,
+          "like_count": 44,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 36
+        },
+        "username": "qvqooq",
+        "verified": false
+      }
+    ]
+  }
+}

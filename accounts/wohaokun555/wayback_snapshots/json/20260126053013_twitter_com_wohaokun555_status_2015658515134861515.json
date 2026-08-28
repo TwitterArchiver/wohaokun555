@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2015658452396261376"
+      ]
+    },
+    "author_id": "2004619896630788096",
+    "conversation_id": "2015658515134861515",
+    "created_at": "2026-01-26T05:30:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T06:30:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2015658515134861515"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/3QRm6bqWrj",
+          "end": 30,
+          "expanded_url": "https://x.com/wohaokun555/status/2015658515134861515/video/1",
+          "media_key": "13_2015658452396261376",
+          "start": 7,
+          "url": "https://t.co/3QRm6bqWrj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015658515134861515",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我好喜欢这套 https://t.co/3QRm6bqWrj"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14833,
+        "height": 1280,
+        "media_key": "13_2015658452396261376",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2015658452396261376/img/1na7qRZMYc6u5hAw.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2015658452396261376/vid/avc1/320x568/uCAUvnirCOB4Jaff.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2015658452396261376/vid/avc1/480x852/zpWGhOKLIPVepX4m.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2015658452396261376/vid/avc1/720x1280/3t8pGpfKhR1BnMa-.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2015658452396261376/pl/xqs0GbnS0bc5Ewk-.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2015658452396261376"
+          ]
+        },
+        "author_id": "2004619896630788096",
+        "conversation_id": "2015658515134861515",
+        "created_at": "2026-01-26T05:30:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T06:30:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015658515134861515"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3QRm6bqWrj",
+              "end": 30,
+              "expanded_url": "https://x.com/wohaokun555/status/2015658515134861515/video/1",
+              "media_key": "13_2015658452396261376",
+              "start": 7,
+              "url": "https://t.co/3QRm6bqWrj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015658515134861515",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我好喜欢这套 https://t.co/3QRm6bqWrj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "",
+        "id": "2004619896630788096",
+        "location": "🤔",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2007765884035813533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014313058978406400/yLC08oHO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 458,
+          "following_count": 69,
+          "like_count": 3040,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 804
+        },
+        "username": "wohaokun555",
+        "verified": false
+      }
+    ]
+  }
+}

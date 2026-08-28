@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2048250457081135546",
+    "created_at": "2026-04-26T15:04:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T16:04:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048417874570776655"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1842415074922938368",
+          "start": 0,
+          "username": "YKravec51629"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048417874570776655",
+    "in_reply_to_user_id": "1842415074922938368",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048415806648881599",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YKravec51629 我才是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2048250457081135546",
+        "created_at": "2026-04-26T15:04:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T16:04:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048417874570776655"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1842415074922938368",
+              "start": 0,
+              "username": "YKravec51629"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048417874570776655",
+        "in_reply_to_user_id": "1842415074922938368",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048415806648881599",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YKravec51629 我才是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842415074922938368",
+        "conversation_id": "2048250457081135546",
+        "created_at": "2026-04-26T14:56:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T15:56:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048415806648881599"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048415806648881599",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048250457081135546",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 豆包豆包告诉我，我是不是世界最忧郁之人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "",
+        "id": "2004619896630788096",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2036315164098830372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1918,
+          "following_count": 99,
+          "like_count": 16938,
+          "listed_count": 1,
+          "media_count": 203,
+          "tweet_count": 2977
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-05T04:03:05.000Z",
+        "description": "自己的赛博史官，致力于每天看看网友的构思。嘻嘻，我一定要活下去口牙😋\n\n纸飞机：https://t.co/VwoV25zHKy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "telegram.org/dlx",
+                "end": 63,
+                "expanded_url": "https://telegram.org/dlx",
+                "start": 40,
+                "url": "https://t.co/VwoV25zHKy"
+              }
+            ]
+          }
+        },
+        "id": "1842415074922938368",
+        "name": "想要成为糕手",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047290258933604352/Iyl4y646_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 11,
+          "like_count": 208,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 160
+        },
+        "username": "YKravec51629",
+        "verified": false
+      }
+    ]
+  }
+}

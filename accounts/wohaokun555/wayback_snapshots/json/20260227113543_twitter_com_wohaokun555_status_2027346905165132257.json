@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2027330201361818057",
+    "created_at": "2026-02-27T11:35:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T12:35:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027346905165132257"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1859467793500078080",
+          "start": 0,
+          "username": "DoneEither1989"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027346905165132257",
+    "in_reply_to_user_id": "1859467793500078080",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027330201361818057",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DoneEither1989 那我蹲一下～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2027330201361818057",
+        "created_at": "2026-02-27T11:35:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T12:35:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027346905165132257"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1859467793500078080",
+              "start": 0,
+              "username": "DoneEither1989"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027346905165132257",
+        "in_reply_to_user_id": "1859467793500078080",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027330201361818057",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DoneEither1989 那我蹲一下～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1859467793500078080",
+        "conversation_id": "2027330201361818057",
+        "created_at": "2026-02-27T10:29:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T11:29:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027330201361818057"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2027330201361818057",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1069,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 48,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好吧抽奖人人太多了，就在抽一个188现金红包吧，从评论里面抽。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2JlN5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2JlN5"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "除了口令和正常问题别的私信不回",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2016792238060421479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 940,
+          "following_count": 94,
+          "like_count": 9610,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 1756
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-21T05:24:20.000Z",
+        "description": "Boring Life, interesting mind.",
+        "id": "1859467793500078080",
+        "name": "Either Me done",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027201979760750592/zBvst1qG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 6,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 30
+        },
+        "username": "DoneEither1989",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2061044151861600483",
+    "created_at": "2026-05-31T11:31:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T12:31:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061047935706845307"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1601088109839806464",
+          "start": 0,
+          "username": "991Otis"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061047935706845307",
+    "in_reply_to_user_id": "1601088109839806464",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061046105887199723",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@991Otis 😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2061044151861600483",
+        "created_at": "2026-05-31T11:31:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T12:31:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061047935706845307"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1601088109839806464",
+              "start": 0,
+              "username": "991Otis"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061047935706845307",
+        "in_reply_to_user_id": "1601088109839806464",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061046105887199723",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@991Otis 😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1601088109839806464",
+        "conversation_id": "2061044151861600483",
+        "created_at": "2026-05-31T11:24:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T12:24:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061046105887199723"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061046105887199723",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061044151861600483",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 我靠我也想吃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "🚪（520",
+        "id": "2004619896630788096",
+        "location": "口令➕姓",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2036315164098830372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2177,
+          "following_count": 78,
+          "like_count": 20666,
+          "listed_count": 2,
+          "media_count": 242,
+          "tweet_count": 3382
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-09T05:35:34.000Z",
+        "description": "infj｜心理脆弱者｜绳缚学习中｜黄文编写体验者｜性爱探索勇士｜健身老炮儿｜泳池饮水冠军｜擦边笨蛋｜吸流浪猫体质｜推坡高手",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%8C%95%E7%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%8C%95%E7%8C%B4%E6%A1%83",
+                "start": 0,
+                "url": "https://t.co/zQUOwXISb8"
+              }
+            ]
+          }
+        },
+        "id": "1601088109839806464",
+        "location": "提问箱👉",
+        "name": "猕猴桃（邪恶版）",
+        "pinned_tweet_id": "1988604583841780214",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855658067511361536/Ge-vivg8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1658,
+          "following_count": 62,
+          "like_count": 34,
+          "listed_count": 7,
+          "media_count": 84,
+          "tweet_count": 699
+        },
+        "url": "https://t.co/zQUOwXISb8",
+        "username": "991Otis",
+        "verified": false
+      }
+    ]
+  }
+}

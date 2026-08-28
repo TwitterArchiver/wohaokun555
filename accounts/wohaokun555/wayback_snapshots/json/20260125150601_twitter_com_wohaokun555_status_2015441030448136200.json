@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2015365818872427001",
+    "created_at": "2026-01-25T15:06:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-25T16:06:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015441030448136200"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1970457934212841472",
+          "start": 0,
+          "username": "ttBratOvO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015441030448136200",
+    "in_reply_to_user_id": "1970457934212841472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015365818872427001",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ttBratOvO 我感觉他家首饰买平替就好，我买感觉真的质量也一般般"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2015365805320663040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_gEhaabcAA5Ux6.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2015365805488136193",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_gEhbCW4AE47J1.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2015365805320642560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_gEhaabIAA3H7P.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2015365805337403392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_gEhaea4AAK-iH.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2015365818872427001",
+        "created_at": "2026-01-25T15:06:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T16:06:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015441030448136200"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1970457934212841472",
+              "start": 0,
+              "username": "ttBratOvO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015441030448136200",
+        "in_reply_to_user_id": "1970457934212841472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015365818872427001",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ttBratOvO 我感觉他家首饰买平替就好，我买感觉真的质量也一般般"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015365805320663040",
+            "3_2015365805488136193",
+            "3_2015365805320642560",
+            "3_2015365805337403392"
+          ]
+        },
+        "author_id": "1970457934212841472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2015365818872427001",
+        "created_at": "2026-01-25T10:07:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T11:07:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015365818872427001"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/J2a1VuhR0V",
+              "end": 53,
+              "expanded_url": "https://x.com/ttBratOvO/status/2015365818872427001/photo/1",
+              "media_key": "3_2015365805320663040",
+              "start": 30,
+              "url": "https://t.co/J2a1VuhR0V"
+            },
+            {
+              "display_url": "pic.x.com/J2a1VuhR0V",
+              "end": 53,
+              "expanded_url": "https://x.com/ttBratOvO/status/2015365818872427001/photo/1",
+              "media_key": "3_2015365805488136193",
+              "start": 30,
+              "url": "https://t.co/J2a1VuhR0V"
+            },
+            {
+              "display_url": "pic.x.com/J2a1VuhR0V",
+              "end": 53,
+              "expanded_url": "https://x.com/ttBratOvO/status/2015365818872427001/photo/1",
+              "media_key": "3_2015365805320642560",
+              "start": 30,
+              "url": "https://t.co/J2a1VuhR0V"
+            },
+            {
+              "display_url": "pic.x.com/J2a1VuhR0V",
+              "end": 53,
+              "expanded_url": "https://x.com/ttBratOvO/status/2015365818872427001/photo/1",
+              "media_key": "3_2015365805337403392",
+              "start": 30,
+              "url": "https://t.co/J2a1VuhR0V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015365818872427001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 958,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "之前逛商场去看西太后，真的好美。今年争取存钱给自己买一个🥰 https://t.co/J2a1VuhR0V"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "",
+        "id": "2004619896630788096",
+        "location": "🤔",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2007765884035813533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014313058978406400/yLC08oHO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 452,
+          "following_count": 69,
+          "like_count": 2996,
+          "listed_count": 1,
+          "media_count": 50,
+          "tweet_count": 830
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-23T11:59:29.000Z",
+        "description": "另一个我@weibaweiba123不礼貌回关，有个人一直偷我图，偷图的死母死爹死全家了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 4,
+                "username": "weibaweiba123"
+              }
+            ]
+          }
+        },
+        "id": "1970457934212841472",
+        "location": "🚪",
+        "name": "kitten",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003484819775504385/Yz4yrj-D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1620,
+          "following_count": 93,
+          "like_count": 1263,
+          "listed_count": 2,
+          "media_count": 79,
+          "tweet_count": 504
+        },
+        "username": "ttBratOvO",
+        "verified": false
+      }
+    ]
+  }
+}

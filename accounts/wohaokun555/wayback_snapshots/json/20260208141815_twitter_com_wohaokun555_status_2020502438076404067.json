@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2020499702089953595",
+    "created_at": "2026-02-08T14:18:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-08T15:18:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020502438076404067"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1695215138813743106",
+          "start": 0,
+          "username": "HowardTravd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020502438076404067",
+    "in_reply_to_user_id": "1695215138813743106",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020499702089953595",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HowardTravd 我也干过。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2020499702089953595",
+        "created_at": "2026-02-08T14:18:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T15:18:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020502438076404067"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1695215138813743106",
+              "start": 0,
+              "username": "HowardTravd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020502438076404067",
+        "in_reply_to_user_id": "1695215138813743106",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020499702089953595",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HowardTravd 我也干过。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695215138813743106",
+        "conversation_id": "2020499702089953595",
+        "created_at": "2026-02-08T14:07:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T15:07:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020499702089953595"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/loverp1cs/stat…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/loverp1cs/status/2020304499316036048",
+              "start": 22,
+              "url": "https://t.co/Df9wVwEHa4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020499702089953595",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020304499316036048",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "事实上我有过此类的体验，就是事后有些狼狈🫢 https://t.co/Df9wVwEHa4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2JlN5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2JlN5"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "🚪188（绿（别的私信不回",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2019333252520321256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014313058978406400/yLC08oHO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 627,
+          "following_count": 73,
+          "like_count": 6240,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 1202
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-25T23:22:53.000Z",
+        "description": "活的男的 | 科技民工 | 厌恶上班 | 不爱说話\n\n任何問題📪 https://t.co/tz5wqZ9YaD",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/skin43500",
+                "end": 56,
+                "expanded_url": "https://ngl.link/skin43500",
+                "start": 33,
+                "url": "https://t.co/tz5wqZ9YaD"
+              }
+            ]
+          }
+        },
+        "id": "1695215138813743106",
+        "name": "给窝擦皮鞋（旅行家版",
+        "pinned_tweet_id": "2020382813846175888",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020131425979342848/BD17TLHN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 43,
+          "like_count": 123,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 92
+        },
+        "username": "HowardTravd",
+        "verified": false
+      }
+    ]
+  }
+}

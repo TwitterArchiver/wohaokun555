@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2020850172868051134",
+    "created_at": "2026-02-09T16:11:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T17:11:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020893290774876459"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1761601564962426880",
+          "start": 0,
+          "username": "2828yy123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020893290774876459",
+    "in_reply_to_user_id": "1761601564962426880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020850172868051134",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2828yy123 好事成双再来一个"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2020850165876461570",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAuAhNlbEAIrpNU.jpg",
+        "width": 634
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2020850172868051134",
+        "created_at": "2026-02-09T16:11:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T17:11:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020893290774876459"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1761601564962426880",
+              "start": 0,
+              "username": "2828yy123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020893290774876459",
+        "in_reply_to_user_id": "1761601564962426880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020850172868051134",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2828yy123 好事成双再来一个"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020850165876461570"
+          ]
+        },
+        "author_id": "1761601564962426880",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2020850172868051134",
+        "created_at": "2026-02-09T13:20:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T14:20:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020850172868051134"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VuLNfpQKMQ",
+              "end": 30,
+              "expanded_url": "https://x.com/2828yy123/status/2020850172868051134/photo/1",
+              "media_key": "3_2020850165876461570",
+              "start": 7,
+              "url": "https://t.co/VuLNfpQKMQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020850172868051134",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 666,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我就这么会哄 https://t.co/VuLNfpQKMQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2JlN5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2JlN5"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "🚪188（绿（别的私信不回",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2019333252520321256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014313058978406400/yLC08oHO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 669,
+          "following_count": 74,
+          "like_count": 6400,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 1222
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-25T03:58:46.000Z",
+        "description": "自用蜂鸟VPN：https://t.co/uM0GstQpnW  推广自辨",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "vpn1.fnvpn1.sbs/#/register?cod…",
+                "end": 31,
+                "expanded_url": "https://vpn1.fnvpn1.sbs/#/register?code=WOQXa1Vk",
+                "start": 8,
+                "url": "https://t.co/uM0GstQpnW"
+              }
+            ]
+          }
+        },
+        "id": "1761601564962426880",
+        "name": "布丁大炮",
+        "pinned_tweet_id": "1933161393060290795",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997712288418258944/Ezv73PhC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11494,
+          "following_count": 558,
+          "like_count": 35350,
+          "listed_count": 15,
+          "media_count": 1636,
+          "tweet_count": 18484
+        },
+        "username": "2828yy123",
+        "verified": false
+      }
+    ]
+  }
+}

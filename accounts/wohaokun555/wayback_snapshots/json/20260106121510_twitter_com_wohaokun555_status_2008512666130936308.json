@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2008202804448608541",
+    "created_at": "2026-01-06T12:15:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-06T13:15:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008512666130936308"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1966957265258430465",
+          "start": 0,
+          "username": "07axxxxxxx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008512666130936308",
+    "in_reply_to_user_id": "1966957265258430465",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008202804448608541",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@07axxxxxxx 我高中老和同桌聊这个聊得乐死了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2008202794298454016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G96RzS8bMAANoU3.jpg",
+        "width": 428
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2008202804448608541",
+        "created_at": "2026-01-06T12:15:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T13:15:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008512666130936308"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1966957265258430465",
+              "start": 0,
+              "username": "07axxxxxxx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008512666130936308",
+        "in_reply_to_user_id": "1966957265258430465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008202804448608541",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@07axxxxxxx 我高中老和同桌聊这个聊得乐死了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2008202794298454016"
+          ]
+        },
+        "author_id": "1966957265258430465",
+        "conversation_id": "2008202804448608541",
+        "created_at": "2026-01-05T15:43:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T16:43:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008202804448608541"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/13sFGxvomK",
+              "end": 33,
+              "expanded_url": "https://x.com/07axxxxxxx/status/2008202804448608541/photo/1",
+              "media_key": "3_2008202794298454016",
+              "start": 10,
+              "url": "https://t.co/13sFGxvomK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008202804448608541",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 9271,
+          "like_count": 51,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "跟诡秘就继续这样聊 https://t.co/13sFGxvomK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "天天开心o^^o",
+        "id": "2004619896630788096",
+        "location": "三体星球",
+        "name": "鱼虾一整碗",
+        "pinned_tweet_id": "2008218066103238856",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004620653153189888/VWgYLNYv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 40,
+          "like_count": 1230,
+          "listed_count": 1,
+          "media_count": 27,
+          "tweet_count": 429
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-13T20:08:57.000Z",
+        "description": "so girl 你讨厌我 因为我在emo",
+        "id": "1966957265258430465",
+        "location": "私信只回钱",
+        "name": "算了没事",
+        "pinned_tweet_id": "2003507559584698619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007146541774143488/6PMDVw8i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2183,
+          "following_count": 97,
+          "like_count": 4328,
+          "listed_count": 1,
+          "media_count": 65,
+          "tweet_count": 2571
+        },
+        "username": "07axxxxxxx",
+        "verified": false
+      }
+    ]
+  }
+}

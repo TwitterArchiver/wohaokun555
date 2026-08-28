@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2060574823680507995",
+    "created_at": "2026-05-30T04:45:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T05:45:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060583356337951048"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1883889657320247296",
+          "start": 0,
+          "username": "wyjmjq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060583356337951048",
+    "in_reply_to_user_id": "1883889657320247296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060574823680507995",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wyjmjq 在吗在吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2270,
+        "media_key": "3_2060574820677332995",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJih4cuWMAMKtzo.jpg",
+        "width": 1020
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2060574823680507995",
+        "created_at": "2026-05-30T04:45:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T05:45:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060583356337951048"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1883889657320247296",
+              "start": 0,
+              "username": "wyjmjq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060583356337951048",
+        "in_reply_to_user_id": "1883889657320247296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060574823680507995",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wyjmjq 在吗在吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060574820677332995"
+          ]
+        },
+        "author_id": "1883889657320247296",
+        "conversation_id": "2060574823680507995",
+        "created_at": "2026-05-30T04:11:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T05:11:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060574823680507995"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LOaABTgBXG",
+              "end": 26,
+              "expanded_url": "https://x.com/wyjmjq/status/2060574823680507995/photo/1",
+              "media_key": "3_2060574820677332995",
+              "start": 3,
+              "url": "https://t.co/LOaABTgBXG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060574823680507995",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 289,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "呃呃 https://t.co/LOaABTgBXG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "🚪（520",
+        "id": "2004619896630788096",
+        "location": "口令➕姓",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2036315164098830372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2159,
+          "following_count": 77,
+          "like_count": 20514,
+          "listed_count": 2,
+          "media_count": 241,
+          "tweet_count": 3371
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-27T14:48:00.000Z",
+        "description": "漂泊在那平庸之海   坏情绪@maxwell_an59209",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 14,
+                "username": "maxwell_an59209"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/qm84069",
+                "end": 23,
+                "expanded_url": "https://ngl.link/qm84069",
+                "start": 0,
+                "url": "https://t.co/AO8DeIdV8p"
+              }
+            ]
+          }
+        },
+        "id": "1883889657320247296",
+        "location": "我想你",
+        "name": "FF77",
+        "pinned_tweet_id": "2049846519671464271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989604267015962624/6cModk4U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2196,
+          "following_count": 160,
+          "like_count": 15541,
+          "listed_count": 2,
+          "media_count": 228,
+          "tweet_count": 2358
+        },
+        "url": "https://t.co/AO8DeIdV8p",
+        "username": "wyjmjq",
+        "verified": false
+      }
+    ]
+  }
+}

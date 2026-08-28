@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "description": "Apple iPad",
+          "id": "972153731067273222",
+          "name": "Apple iPad"
+        }
+      }
+    ],
+    "conversation_id": "2009431573440155917",
+    "created_at": "2026-01-09T05:29:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-09T06:29:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009497773390090549"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1971898933418070016",
+          "start": 0,
+          "username": "404fyp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009497773390090549",
+    "in_reply_to_user_id": "1971898933418070016",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009431573440155917",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@404fyp ipad"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Apple iPad",
+              "id": "972153731067273222",
+              "name": "Apple iPad"
+            }
+          }
+        ],
+        "conversation_id": "2009431573440155917",
+        "created_at": "2026-01-09T05:29:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T06:29:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009497773390090549"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1971898933418070016",
+              "start": 0,
+              "username": "404fyp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009497773390090549",
+        "in_reply_to_user_id": "1971898933418070016",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009431573440155917",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@404fyp ipad"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971898933418070016",
+        "conversation_id": "2009431573440155917",
+        "created_at": "2026-01-09T01:06:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T02:06:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009431573440155917"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2009431573440155917",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 13182,
+          "like_count": 49,
+          "quote_count": 0,
+          "reply_count": 89,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "分别推荐一下男生最有可能喜欢的3000元左右的礼物，以及女生最有可能喜欢的3000元左右的礼物吧。带图片更好👇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "天天开心o^^o",
+        "id": "2004619896630788096",
+        "location": "三体星球",
+        "name": "鱼虾一整碗",
+        "pinned_tweet_id": "2007765884035813533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004620653153189888/VWgYLNYv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 270,
+          "following_count": 58,
+          "like_count": 1791,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 599
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-27T11:26:19.000Z",
+        "description": "00后富一代，从事Web3行业至今已有5年目前处于半退休状态。个人单币A8成就已解锁，向着新目标再出发。情绪极其稳定，保持正能量，善语结善缘。跨圈交友，拓展新视野。不定期举办各类活动，只玩真实，随意验证。特此强调：支持言论自由，但不会回复任何没教养恶意抬杠爱乱喷的私信和评论，只会拉黑。",
+        "id": "1971898933418070016",
+        "name": "404豆豆豆豆",
+        "pinned_tweet_id": "2001966008249303216",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992296846996176898/dwfRFmXs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4307,
+          "following_count": 76,
+          "like_count": 191,
+          "listed_count": 8,
+          "media_count": 66,
+          "tweet_count": 324
+        },
+        "username": "404fyp",
+        "verified": true
+      }
+    ]
+  }
+}

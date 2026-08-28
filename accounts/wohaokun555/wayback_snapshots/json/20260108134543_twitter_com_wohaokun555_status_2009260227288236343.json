@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2009244917382725951",
+    "created_at": "2026-01-08T13:45:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-08T14:45:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009260227288236343"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1661373248821493760",
+          "start": 0,
+          "username": "KHikh09"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009260227288236343",
+    "in_reply_to_user_id": "1661373248821493760",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009259241505272096",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KHikh09 笑死我了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2009244917382725951",
+        "created_at": "2026-01-08T13:45:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T14:45:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009260227288236343"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1661373248821493760",
+              "start": 0,
+              "username": "KHikh09"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009260227288236343",
+        "in_reply_to_user_id": "1661373248821493760",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009259241505272096",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KHikh09 笑死我了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1661373248821493760",
+        "conversation_id": "2009244917382725951",
+        "created_at": "2026-01-08T13:41:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T14:41:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009259241505272096"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009259241505272096",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009244917382725951",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 坐在桌前一直玩手机一边焦虑🌚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "天天开心o^^o",
+        "id": "2004619896630788096",
+        "location": "三体星球",
+        "name": "鱼虾一整碗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004620653153189888/VWgYLNYv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 253,
+          "following_count": 54,
+          "like_count": 1615,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 541
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-24T14:07:12.000Z",
+        "description": "我不想上学（怨妇版",
+        "id": "1661373248821493760",
+        "name": "你讨厌我了吗",
+        "pinned_tweet_id": "2004226199225237546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008578699587973125/pZlsFcHa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 3,
+          "like_count": 229,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 163
+        },
+        "username": "KHikh09",
+        "verified": false
+      }
+    ]
+  }
+}

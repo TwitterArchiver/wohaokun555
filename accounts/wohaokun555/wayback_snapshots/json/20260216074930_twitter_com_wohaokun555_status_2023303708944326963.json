@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2023267800740237329",
+    "created_at": "2026-02-16T07:49:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T08:49:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023303708944326963"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1878799432956702720",
+          "start": 0,
+          "username": "x77227711"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023303708944326963",
+    "in_reply_to_user_id": "1878799432956702720",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023303193313300514",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@x77227711 嘿嘿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2023267800740237329",
+        "created_at": "2026-02-16T07:49:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T08:49:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023303708944326963"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1878799432956702720",
+              "start": 0,
+              "username": "x77227711"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023303708944326963",
+        "in_reply_to_user_id": "1878799432956702720",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023303193313300514",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@x77227711 嘿嘿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878799432956702720",
+        "conversation_id": "2023267800740237329",
+        "created_at": "2026-02-16T07:47:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T08:47:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023303193313300514"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023303193313300514",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023267800740237329",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 沙溢丝！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2JlN5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2JlN5"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "🚪188（纯绿纯绿（除了口令和门槛别的私信不回",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2016792238060421479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 798,
+          "following_count": 83,
+          "like_count": 8119,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 1540
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-13T13:41:18.000Z",
+        "description": "🩵 infp 金牛 祝你天天开心 如果被爱我就退推 碎碎念主播。纯绿！可以和我互动！私信有喜欢的会回！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/x772277112",
+                "end": 23,
+                "expanded_url": "https://ngl.link/x772277112",
+                "start": 0,
+                "url": "https://t.co/GszxkfN4UK"
+              }
+            ]
+          }
+        },
+        "id": "1878799432956702720",
+        "location": "匿名提问→",
+        "name": "饺子大王",
+        "pinned_tweet_id": "1999892326165209467",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016056645080543233/uA8tFDjE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 239,
+          "following_count": 81,
+          "like_count": 1277,
+          "listed_count": 1,
+          "media_count": 73,
+          "tweet_count": 895
+        },
+        "url": "https://t.co/GszxkfN4UK",
+        "username": "x77227711",
+        "verified": false
+      }
+    ]
+  }
+}

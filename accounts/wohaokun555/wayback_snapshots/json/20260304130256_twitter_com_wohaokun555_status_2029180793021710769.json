@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2028833141457060112",
+    "created_at": "2026-03-04T13:02:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T14:02:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029180793021710769"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1551968500209487873",
+          "start": 0,
+          "username": "hannibals4PLZ_r"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029180793021710769",
+    "in_reply_to_user_id": "1551968500209487873",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028833141457060112",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hannibals4PLZ_r 尤其是穿着stussy然后吊儿郎当的那种。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2028833141457060112",
+        "created_at": "2026-03-04T13:02:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T14:02:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029180793021710769"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1551968500209487873",
+              "start": 0,
+              "username": "hannibals4PLZ_r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029180793021710769",
+        "in_reply_to_user_id": "1551968500209487873",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028833141457060112",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hannibals4PLZ_r 尤其是穿着stussy然后吊儿郎当的那种。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1551968500209487873",
+        "conversation_id": "2028833141457060112",
+        "created_at": "2026-03-03T14:01:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T15:01:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028833141457060112"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2028833141457060112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 37301,
+          "like_count": 269,
+          "quote_count": 5,
+          "reply_count": 36,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "得了看见中国男小留就犯恶心的病怎么办"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2JlN5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2JlN5"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "除了口令和正常问题别的私信不回",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2016792238060421479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1073,
+          "following_count": 94,
+          "like_count": 10129,
+          "listed_count": 1,
+          "media_count": 67,
+          "tweet_count": 1841
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-26T16:31:47.000Z",
+        "description": "私密逃生舱@cookiessin1 画@RachieSAMA _ 性格很差劲 -现居🏴󠁧󠁢󠁥󠁮󠁧󠁿乡下- 对@RQu1etlyR萌生多余的情感中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 5,
+                "username": "cookiessin1"
+              },
+              {
+                "end": 30,
+                "start": 19,
+                "username": "RachieSAMA"
+              },
+              {
+                "end": 64,
+                "start": 54,
+                "username": "RQu1etlyR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pilot.damoplane.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://pilot.damoplane.com/#/register?code=Snq54E1T",
+                "start": 0,
+                "url": "https://t.co/6l4lAGbFMT"
+              }
+            ]
+          }
+        },
+        "id": "1551968500209487873",
+        "location": "NeverKnowsBest_ 自用vpn在这里喵⬇️",
+        "name": "RCat🐝",
+        "pinned_tweet_id": "1876508916680724885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876509215868727296/SBaoLmXo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7703,
+          "following_count": 1503,
+          "like_count": 23475,
+          "listed_count": 13,
+          "media_count": 138,
+          "tweet_count": 642
+        },
+        "url": "https://t.co/6l4lAGbFMT",
+        "username": "hannibals4PLZ_r",
+        "verified": false
+      }
+    ]
+  }
+}

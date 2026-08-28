@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2018724364976599408",
+    "created_at": "2026-02-05T11:14:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-05T12:14:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019368972832125320"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1977376387460935680",
+          "start": 0,
+          "username": "Martini33303"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019368972832125320",
+    "in_reply_to_user_id": "1977376387460935680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018724364976599408",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Martini33303 有没有不穿衣服的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2018724361847644160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAPzHIdbIAAbzuB.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2018724364976599408",
+        "created_at": "2026-02-05T11:14:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T12:14:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019368972832125320"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1977376387460935680",
+              "start": 0,
+              "username": "Martini33303"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019368972832125320",
+        "in_reply_to_user_id": "1977376387460935680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018724364976599408",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Martini33303 有没有不穿衣服的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018724361847644160"
+          ]
+        },
+        "author_id": "1977376387460935680",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2018724364976599408",
+        "created_at": "2026-02-03T16:32:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T17:32:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018724364976599408"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LsVxmsAwZu",
+              "end": 36,
+              "expanded_url": "https://x.com/Martini33303/status/2018724364976599408/photo/1",
+              "media_key": "3_2018724361847644160",
+              "start": 13,
+              "url": "https://t.co/LsVxmsAwZu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018724364976599408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4318,
+          "like_count": 83,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "朋友给我拍的说我有人夫感 https://t.co/LsVxmsAwZu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2JlN5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2JlN5"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "🚪188（别的私信不回",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2019333252520321256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014313058978406400/yLC08oHO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 579,
+          "following_count": 72,
+          "like_count": 5499,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 1027
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-12T14:10:50.000Z",
+        "description": "05 数学专业 enfj  1i 直男 swtich偏s/dom... 养成系擦边男 还会更新一些碎碎念 调酒照片 学习日常 健身日常 私信只会回关注我的  不礼貌回关，喜欢的会回关\n我不发牛！别问我要这个！喜欢萌妹 放个qq：3431763318 只过互关@Andyxu112",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 129,
+                "username": "Andyxu112"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gooda26296",
+                "end": 23,
+                "expanded_url": "https://ngl.link/gooda26296",
+                "start": 0,
+                "url": "https://t.co/m0tw8LYBAG"
+              }
+            ]
+          }
+        },
+        "id": "1977376387460935680",
+        "location": "🚪52/88/188 纯绿没什么区别",
+        "name": "Martini",
+        "pinned_tweet_id": "2017612756325962113",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004743951178518528/YatYuuZ0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1233,
+          "following_count": 522,
+          "like_count": 10755,
+          "listed_count": 0,
+          "media_count": 155,
+          "tweet_count": 4132
+        },
+        "url": "https://t.co/m0tw8LYBAG",
+        "username": "Martini33303",
+        "verified": false
+      }
+    ]
+  }
+}

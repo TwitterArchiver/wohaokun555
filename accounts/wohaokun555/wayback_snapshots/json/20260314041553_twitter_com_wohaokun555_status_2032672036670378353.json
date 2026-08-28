@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2032665516293370169",
+    "created_at": "2026-03-14T04:15:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T05:15:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032672036670378353"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2001536364685463552",
+          "start": 0,
+          "username": "catuuxu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032672036670378353",
+    "in_reply_to_user_id": "2001536364685463552",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032671164112449788",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@catuuxu 米兔米兔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2032665516293370169",
+        "created_at": "2026-03-14T04:15:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T05:15:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032672036670378353"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2001536364685463552",
+              "start": 0,
+              "username": "catuuxu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032672036670378353",
+        "in_reply_to_user_id": "2001536364685463552",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032671164112449788",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@catuuxu 米兔米兔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2001536364685463552",
+        "conversation_id": "2032665516293370169",
+        "created_at": "2026-03-14T04:12:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T05:12:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032671164112449788"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032671164112449788",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032665516293370169",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 我也是 我好烦 又怕很多人很尴尬"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2JlN5\n🚪（勿扰",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2JlN5"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "除了口令别的不回！没有陪聊的义务",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2008543541979738501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1235,
+          "following_count": 97,
+          "like_count": 11276,
+          "listed_count": 1,
+          "media_count": 97,
+          "tweet_count": 2094
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-18T06:14:00.000Z",
+        "description": "小学生TvT l 私信只回门 l 碎碎念/小号@UwUwU0U",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 23,
+                "username": "UwUwU0U"
+              }
+            ]
+          }
+        },
+        "id": "2001536364685463552",
+        "location": "距离你3.6公里",
+        "name": "小咬",
+        "pinned_tweet_id": "2005524058415440351",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001537879441575939/WB2pai3J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1968,
+          "following_count": 25,
+          "like_count": 278,
+          "listed_count": 1,
+          "media_count": 77,
+          "tweet_count": 516
+        },
+        "username": "catuuxu",
+        "verified": false
+      }
+    ]
+  }
+}

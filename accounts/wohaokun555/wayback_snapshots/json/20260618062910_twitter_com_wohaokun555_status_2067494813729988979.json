@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2067267190844530874",
+    "created_at": "2026-06-18T06:29:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T07:29:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067494813729988979"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1920132719088209920",
+          "start": 0,
+          "username": "IDIG0waIxJ64318"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067494813729988979",
+    "in_reply_to_user_id": "1920132719088209920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067494725217837266",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IDIG0waIxJ64318 谢谢你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2067267190844530874",
+        "created_at": "2026-06-18T06:29:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T07:29:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067494813729988979"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1920132719088209920",
+              "start": 0,
+              "username": "IDIG0waIxJ64318"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067494813729988979",
+        "in_reply_to_user_id": "1920132719088209920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067494725217837266",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IDIG0waIxJ64318 谢谢你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920132719088209920",
+        "conversation_id": "2067267190844530874",
+        "created_at": "2026-06-18T06:28:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T07:28:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067494725217837266"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067494725217837266",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067490074066087979",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 我以前靠这个一个月三千粉🌚但是后面拿去看语音厅的主播就全撤了最高播放量上百万🌚不急的话可以试试"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "@lei_meng123（随缘过\n这是一个女孩的内心世界🌍",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 0,
+                "username": "lei_meng123"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "私信只回口令过门 其他勿扰…",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2062769965330227585",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2410,
+          "following_count": 78,
+          "like_count": 22533,
+          "listed_count": 2,
+          "media_count": 134,
+          "tweet_count": 3579
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-07T15:05:01.000Z",
+        "description": "如果你讨厌我/看不惯我点那个拉黑我我就死了",
+        "id": "1920132719088209920",
+        "name": "普瑞巴林",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060153650912378880/5h7OLKaM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 84,
+          "like_count": 3722,
+          "listed_count": 1,
+          "media_count": 177,
+          "tweet_count": 1625
+        },
+        "username": "IDIG0waIxJ64318",
+        "verified": false
+      }
+    ]
+  }
+}

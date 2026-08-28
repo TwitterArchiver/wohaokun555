@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2032050082833666244",
+    "created_at": "2026-03-12T11:04:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T12:04:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2032050082833666244"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/its_snooki_/st…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/its_snooki_/status/2031411568714412319",
+          "start": 6,
+          "url": "https://t.co/o756aBj7af"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032050082833666244",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031411568714412319",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我真的馋了 https://t.co/o756aBj7af"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 981,
+        "media_key": "3_2031411565686034432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDEGDl1WEAAuhAB.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2032050082833666244",
+        "created_at": "2026-03-12T11:04:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T12:04:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032050082833666244"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/its_snooki_/st…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/its_snooki_/status/2031411568714412319",
+              "start": 6,
+              "url": "https://t.co/o756aBj7af"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032050082833666244",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031411568714412319",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我真的馋了 https://t.co/o756aBj7af"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031411565686034432"
+          ]
+        },
+        "author_id": "3483937474",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2031411568714412319",
+        "created_at": "2026-03-10T16:47:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T17:47:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031411568714412319"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6bo1QZ8wnu",
+              "end": 23,
+              "expanded_url": "https://x.com/its_snooki_/status/2031411568714412319/photo/1",
+              "media_key": "3_2031411565686034432",
+              "start": 0,
+              "url": "https://t.co/6bo1QZ8wnu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031411568714412319",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 352,
+          "impression_count": 650938,
+          "like_count": 25735,
+          "quote_count": 175,
+          "reply_count": 70,
+          "retweet_count": 1250
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/6bo1QZ8wnu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2JlN5\n🚪（勿扰",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2JlN5"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "除了口令别的不回！没有陪聊的义务",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2008543541979738501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1236,
+          "following_count": 95,
+          "like_count": 11101,
+          "listed_count": 1,
+          "media_count": 95,
+          "tweet_count": 2053
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2015-08-29T20:36:32.000Z",
+        "description": "SNOOKI ✨ Coffee • Chocolate • Cozy Moments ☕🍰🤍",
+        "id": "3483937474",
+        "name": "SNOOKI",
+        "pinned_tweet_id": "2006833294328082799",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965371348139507712/-IAPCACD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13140,
+          "following_count": 756,
+          "like_count": 1239,
+          "listed_count": 28,
+          "media_count": 1376,
+          "tweet_count": 2413
+        },
+        "username": "its_snooki_",
+        "verified": true
+      }
+    ]
+  }
+}

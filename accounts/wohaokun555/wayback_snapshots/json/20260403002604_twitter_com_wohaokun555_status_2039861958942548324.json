@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2039658868750668249",
+    "created_at": "2026-04-03T00:26:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T01:26:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039861958942548324"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2039696021903876096",
+          "start": 0,
+          "username": "Sjaadbwqp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039861958942548324",
+    "in_reply_to_user_id": "2039696021903876096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039758971175866729",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sjaadbwqp 这不都是提前约定好的吗🙂‍↕️我认知里感觉不管是谈恋爱还是炮友都是1v1呀 🤓"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2039658868750668249",
+        "created_at": "2026-04-03T00:26:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T01:26:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039861958942548324"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2039696021903876096",
+              "start": 0,
+              "username": "Sjaadbwqp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039861958942548324",
+        "in_reply_to_user_id": "2039696021903876096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039758971175866729",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sjaadbwqp 这不都是提前约定好的吗🙂‍↕️我认知里感觉不管是谈恋爱还是炮友都是1v1呀 🤓"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039696021903876096",
+        "conversation_id": "2039658868750668249",
+        "created_at": "2026-04-02T17:36:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T18:36:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039758971175866729"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039758971175866729",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1049,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039658868750668249",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 所以你出来约炮 还要要求人家对你专情 没谁欠谁的 各取所需 想谈爱就收心找个好男孩"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "",
+        "id": "2004619896630788096",
+        "location": "🚪520",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2007765884035813533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1528,
+          "following_count": 97,
+          "like_count": 13974,
+          "listed_count": 1,
+          "media_count": 151,
+          "tweet_count": 2570
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-02T13:27:22.000Z",
+        "description": "这个逼太几把懒了 什么都没有留下",
+        "id": "2039696021903876096",
+        "name": "什么博",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739662986838016/AqDb8D8m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 13,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 7
+        },
+        "username": "Sjaadbwqp",
+        "verified": false
+      }
+    ]
+  }
+}

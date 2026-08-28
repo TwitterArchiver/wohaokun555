@@ -1,0 +1,418 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for New Years Eve for all years.",
+          "id": "1319305164751163393",
+          "name": "New Years Eve"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for the New Year's day for all years. ",
+          "id": "1457786335108816904",
+          "name": "New Year's day"
+        }
+      },
+      {
+        "domain": {
+          "description": "Holidays like Christmas or Halloween",
+          "id": "119",
+          "name": "Holiday"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for New Years Eve for all years.",
+          "id": "1319305164751163393",
+          "name": "New Years Eve"
+        }
+      },
+      {
+        "domain": {
+          "description": "Holidays like Christmas or Halloween",
+          "id": "119",
+          "name": "Holiday"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for the New Year's day for all years. ",
+          "id": "1457786335108816904",
+          "name": "New Year's day"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Holidays",
+          "id": "847548225712119808",
+          "name": "Holidays"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291095284756357120",
+          "name": "Cultural events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1296381531510849536",
+          "name": "New Years Eve\t"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for the New Year's day for all years. ",
+          "id": "1457786335108816904",
+          "name": "New Year's day"
+        }
+      }
+    ],
+    "conversation_id": "2023245050554220809",
+    "created_at": "2026-02-16T03:56:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T04:56:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023245050554220809"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1298038130063208449",
+          "start": 3,
+          "username": "yayadezahuopu_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023245050554220809",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 375
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023031028546437554",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yayadezahuopu_: 提前祝大家新年快乐！\n转发➕评论➕关注\n抽一个人1888红包或包一年小玩具（2400元以内，一个月200✖️12）\n用那个抽号码的小程序抽，会发转账记录\n过年期间正常发货！（少数除外）\n店里玩具给大家优惠，有比我低的给大家改价格，和旗舰店…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2023245050554220809].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2023245050554220809",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2023245050554220809"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 765,
+        "media_key": "3_2023031010355707904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBM__EXaAAAbYXn.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023031010355707904"
+          ]
+        },
+        "author_id": "1298038130063208449",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the New Year's day for all years. ",
+              "id": "1457786335108816904",
+              "name": "New Year's day"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the New Year's day for all years. ",
+              "id": "1457786335108816904",
+              "name": "New Year's day"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1296381531510849536",
+              "name": "New Years Eve\t"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the New Year's day for all years. ",
+              "id": "1457786335108816904",
+              "name": "New Year's day"
+            }
+          }
+        ],
+        "conversation_id": "2023031028546437554",
+        "created_at": "2026-02-15T13:45:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T14:45:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023031028546437554"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HmEnTi2UCG",
+              "end": 172,
+              "expanded_url": "https://x.com/yayadezahuopu_/status/2023031028546437554/photo/1",
+              "media_key": "3_2023031010355707904",
+              "start": 149,
+              "url": "https://t.co/HmEnTi2UCG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023031028546437554",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 20505,
+          "like_count": 260,
+          "quote_count": 15,
+          "reply_count": 401,
+          "retweet_count": 375
+        },
+        "reply_settings": "everyone",
+        "text": "提前祝大家新年快乐！\n转发➕评论➕关注\n抽一个人1888红包或包一年小玩具（2400元以内，一个月200✖️12）\n用那个抽号码的小程序抽，会发转账记录\n过年期间正常发货！（少数除外）\n店里玩具给大家优惠，有比我低的给大家改价格，和旗舰店比买贵退差！\n可以私信问一下客服的！\n找我买吧！拜托拜托！ https://t.co/HmEnTi2UCG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2JlN5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2JlN5"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "🚪188（纯绿纯绿（除了口令和门槛别的私信不回",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2016792238060421479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 796,
+          "following_count": 83,
+          "like_count": 8044,
+          "listed_count": 0,
+          "media_count": 92,
+          "tweet_count": 1533
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-24T23:23:11.000Z",
+        "description": "小玩具淘宝店：鸭鸭的杂货铺，可以发全球🌍，可以微信购买，需要推荐请私信，找客服说推特来的给大家优惠！！！有比我便宜，我就改价格，找我买吧！拜托拜托",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.tb.cn/h.UuRchai",
+                "end": 23,
+                "expanded_url": "https://m.tb.cn/h.UuRchai",
+                "start": 0,
+                "url": "https://t.co/Ts2WoiNFHb"
+              }
+            ]
+          }
+        },
+        "id": "1298038130063208449",
+        "location": "一爱情侣，玩具由女朋友测评，说性骚扰请举证",
+        "name": "🍑：鸭鸭的杂货铺（送对象，送优惠）",
+        "pinned_tweet_id": "2023031028546437554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800053920905244672/fWXFshAL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31161,
+          "following_count": 4765,
+          "like_count": 94416,
+          "listed_count": 36,
+          "media_count": 1227,
+          "tweet_count": 45130
+        },
+        "url": "https://t.co/Ts2WoiNFHb",
+        "username": "yayadezahuopu_",
+        "verified": true
+      }
+    ]
+  }
+}

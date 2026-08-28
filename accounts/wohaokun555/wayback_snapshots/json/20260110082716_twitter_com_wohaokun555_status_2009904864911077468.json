@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2009887626850120033",
+    "created_at": "2026-01-10T08:27:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-10T09:27:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009904864911077468"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1993828454450778114",
+          "start": 0,
+          "username": "ht1213800"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009904864911077468",
+    "in_reply_to_user_id": "1993828454450778114",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009887626850120033",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ht1213800 笑死我了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 68707,
+        "height": 1278,
+        "media_key": "7_2009887584256987137",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2009887584256987137/pu/img/vlcojc08HL4-ZiCH.jpg",
+        "public_metrics": {
+          "view_count": 293
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2009887584256987137/pu/vid/avc1/320x710/4aldIeDHC3mvCqBG.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2009887584256987137/pu/vid/avc1/480x1064/lJ1uKj5CgsPUrN2U.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2009887584256987137/pu/vid/avc1/576x1278/BUG8gn9RFNi7gs2x.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2009887584256987137/pu/pl/dt-taiYIarDZs__K.m3u8?tag=12"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2009887626850120033",
+        "created_at": "2026-01-10T08:27:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T09:27:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009904864911077468"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1993828454450778114",
+              "start": 0,
+              "username": "ht1213800"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009904864911077468",
+        "in_reply_to_user_id": "1993828454450778114",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009887626850120033",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ht1213800 笑死我了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2009887584256987137"
+          ]
+        },
+        "author_id": "1993828454450778114",
+        "conversation_id": "2009887626850120033",
+        "created_at": "2026-01-10T07:18:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T08:18:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009887626850120033"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sxDnBgNobr",
+              "end": 34,
+              "expanded_url": "https://x.com/ht1213800/status/2009887626850120033/video/1",
+              "media_key": "7_2009887584256987137",
+              "start": 11,
+              "url": "https://t.co/sxDnBgNobr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009887626850120033",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 917,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "匿名回答第一期😌😌😌 https://t.co/sxDnBgNobr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "@lei_meng123 满足个人分享欲",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 0,
+                "username": "lei_meng123"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "有🚪 别来私信骚扰我 发生殖器官司马",
+        "name": "鱼虾一整碗",
+        "pinned_tweet_id": "2009185555268112534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004620653153189888/VWgYLNYv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 334,
+          "following_count": 64,
+          "like_count": 2200,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 734
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-26T23:45:39.000Z",
+        "description": "勾勾哒勾勾哒🤤🤤🤤勾勾哒勾勾哒😡😡😡勾勾哒勾勾哒😋😋😋勾勾哒勾勾哒🤤🤤🤤勾勾哒勾勾哒😡😡😡勾勾哒勾勾哒😋😋😋勾勾哒勾勾哒🤤🤤🤤",
+        "id": "1993828454450778114",
+        "name": "一只鸡",
+        "pinned_tweet_id": "2009800683390939163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994428840488337408/Xjtm0Je__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3002,
+          "following_count": 293,
+          "like_count": 12,
+          "listed_count": 1,
+          "media_count": 74,
+          "tweet_count": 216
+        },
+        "username": "ht1213800",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2073042783791886494",
+    "created_at": "2026-07-03T13:54:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T14:54:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073042783791886494"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "You can contact @juo7768 right away.",
+          "display_url": "t.me/juo7768",
+          "end": 62,
+          "expanded_url": "http://t.me/juo7768",
+          "images": [
+            {
+              "height": 320,
+              "url": "https://pbs.twimg.com/news_img/2072587584753348608/HmKFBg7S?format=jpg&name=orig",
+              "width": 320
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2072587584753348608/HmKFBg7S?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 39,
+          "status": 200,
+          "title": "美娇",
+          "unwound_url": "https://t.me/juo7768",
+          "url": "https://t.co/35a1VntULO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073042783791886494",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "私信频繁，电报已更新，月会一直点点    \n       本人唯一电报：   https://t.co/35a1VntULO"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2073042783791886494",
+        "created_at": "2026-07-03T13:54:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T14:54:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073042783791886494"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "You can contact @juo7768 right away.",
+              "display_url": "t.me/juo7768",
+              "end": 62,
+              "expanded_url": "http://t.me/juo7768",
+              "images": [
+                {
+                  "height": 320,
+                  "url": "https://pbs.twimg.com/news_img/2072587584753348608/HmKFBg7S?format=jpg&name=orig",
+                  "width": 320
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2072587584753348608/HmKFBg7S?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 39,
+              "status": 200,
+              "title": "美娇",
+              "unwound_url": "https://t.me/juo7768",
+              "url": "https://t.co/35a1VntULO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073042783791886494",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "私信频繁，电报已更新，月会一直点点    \n       本人唯一电报：   https://t.co/35a1VntULO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "让我成为我，让一座山并存着嶙峋和肥沃",
+        "id": "2004619896630788096",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2070530833434476867",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2715,
+          "following_count": 82,
+          "like_count": 23829,
+          "listed_count": 2,
+          "media_count": 144,
+          "tweet_count": 3817
+        },
+        "url": "",
+        "username": "wohaokun555",
+        "verified": false
+      }
+    ]
+  }
+}

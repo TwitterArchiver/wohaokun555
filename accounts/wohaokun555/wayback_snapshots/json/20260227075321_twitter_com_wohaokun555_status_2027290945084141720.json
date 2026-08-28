@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2027046313041264707",
+    "created_at": "2026-02-27T07:53:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T08:53:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027290945084141720"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1653490653840506882",
+          "start": 0,
+          "username": "xnnnnnnn17"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027290945084141720",
+    "in_reply_to_user_id": "1653490653840506882",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027046313041264707",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xnnnnnnn17 忧郁了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2027046307592880128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCGD4INXQAA7gDl.jpg",
+        "width": 1156
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2027046313041264707",
+        "created_at": "2026-02-27T07:53:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T08:53:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027290945084141720"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1653490653840506882",
+              "start": 0,
+              "username": "xnnnnnnn17"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027290945084141720",
+        "in_reply_to_user_id": "1653490653840506882",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027046313041264707",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xnnnnnnn17 忧郁了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027046307592880128"
+          ]
+        },
+        "author_id": "1653490653840506882",
+        "conversation_id": "2027046313041264707",
+        "created_at": "2026-02-26T15:41:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T16:41:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027046313041264707"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jSjYjtqdNl",
+              "end": 33,
+              "expanded_url": "https://x.com/xnnnnnnn17/status/2027046313041264707/photo/1",
+              "media_key": "3_2027046307592880128",
+              "start": 10,
+              "url": "https://t.co/jSjYjtqdNl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027046313041264707",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3422,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "英国你想我死直说吧 https://t.co/jSjYjtqdNl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2JlN5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2JlN5"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "除了口令和正常问题别的私信不回",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2016792238060421479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 933,
+          "following_count": 94,
+          "like_count": 9564,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 1745
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-02T20:04:37.000Z",
+        "description": "这是我们最后一次 在安全的雨中相见 私信过🚪 小号@hqf1076912",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 25,
+                "username": "hqf1076912"
+              }
+            ]
+          }
+        },
+        "id": "1653490653840506882",
+        "name": "17_",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1653491065981214720/b1SXZE-p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14662,
+          "following_count": 166,
+          "like_count": 190,
+          "listed_count": 32,
+          "media_count": 159,
+          "tweet_count": 694
+        },
+        "username": "xnnnnnnn17",
+        "verified": false
+      }
+    ]
+  }
+}

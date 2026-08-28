@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2009187049203786193",
+    "created_at": "2026-01-08T10:37:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-08T11:37:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009212778318582081"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1686259751225851905",
+          "start": 0,
+          "username": "liutong520453"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009212778318582081",
+    "in_reply_to_user_id": "1686259751225851905",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009187049203786193",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liutong520453 蹲蹲蹲我想喝一点点😿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2009187049203786193",
+        "created_at": "2026-01-08T10:37:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T11:37:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009212778318582081"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1686259751225851905",
+              "start": 0,
+              "username": "liutong520453"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009212778318582081",
+        "in_reply_to_user_id": "1686259751225851905",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009187049203786193",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liutong520453 蹲蹲蹲我想喝一点点😿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1686259751225851905",
+        "conversation_id": "2009187049203786193",
+        "created_at": "2026-01-08T08:54:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T09:54:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009187049203786193"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2009187049203786193",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 946,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 32,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天开心 抽10个奶茶 18.8 只有关注我才有 之前我给过的🚪姐 就别参与啦 给别人机会。晚上统一开奖"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "天天开心o^^o",
+        "id": "2004619896630788096",
+        "location": "三体星球",
+        "name": "鱼虾一整碗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004620653153189888/VWgYLNYv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 244,
+          "following_count": 53,
+          "like_count": 1573,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 523
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-01T06:17:18.000Z",
+        "description": "永远热恋18岁",
+        "id": "1686259751225851905",
+        "name": "毛野",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975846003841597441/1R2i87k-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 383,
+          "like_count": 100,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 30
+        },
+        "username": "liutong520453",
+        "verified": false
+      }
+    ]
+  }
+}

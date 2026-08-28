@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2038450057981411790",
+    "created_at": "2026-03-30T07:22:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T08:22:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038517257756926243"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "746705536024977408",
+          "start": 0,
+          "username": "lu8127"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038517257756926243",
+    "in_reply_to_user_id": "746705536024977408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038513566039281836",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lu8127 谢谢☺️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2038450057981411790",
+        "created_at": "2026-03-30T07:22:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T08:22:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038517257756926243"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "746705536024977408",
+              "start": 0,
+              "username": "lu8127"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038517257756926243",
+        "in_reply_to_user_id": "746705536024977408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038513566039281836",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu8127 谢谢☺️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "746705536024977408",
+        "conversation_id": "2038450057981411790",
+        "created_at": "2026-03-30T07:08:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T08:08:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038513566039281836"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038513566039281836",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038450057981411790",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 一周两三杯，每次最多三分糖或者无糖。做好皮肤清洁保湿，天热了注意去油，我是不怎么长。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "🫶🏻🫰🏻🩶",
+        "id": "2004619896630788096",
+        "location": "三体",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2035966922010087790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1470,
+          "following_count": 100,
+          "like_count": 13503,
+          "listed_count": 1,
+          "media_count": 139,
+          "tweet_count": 2489
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2016-06-25T14:04:07.000Z",
+        "description": "不回关/发些碎碎念或者矫情的东西",
+        "id": "746705536024977408",
+        "name": "路",
+        "pinned_tweet_id": "1152257884689960965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036112393269661696/dlh2SOV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 40,
+          "like_count": 68,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 237
+        },
+        "username": "lu8127",
+        "verified": false
+      }
+    ]
+  }
+}

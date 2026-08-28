@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2062541634735325412",
+    "created_at": "2026-06-04T14:40:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T15:40:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062545053705441612"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1903500786677739520",
+          "start": 0,
+          "username": "Gauss3133"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062545053705441612",
+    "in_reply_to_user_id": "1903500786677739520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062541634735325412",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Gauss3133 这个好美"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_2062541624274776064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ-erfFa8AAuPq0.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2062541634735325412",
+        "created_at": "2026-06-04T14:40:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T15:40:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062545053705441612"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1903500786677739520",
+              "start": 0,
+              "username": "Gauss3133"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062545053705441612",
+        "in_reply_to_user_id": "1903500786677739520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062541634735325412",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gauss3133 这个好美"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062541624274776064"
+          ]
+        },
+        "author_id": "1903500786677739520",
+        "conversation_id": "2062541634735325412",
+        "created_at": "2026-06-04T14:27:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T15:27:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062541634735325412"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Y4NFbmGFe5",
+              "end": 25,
+              "expanded_url": "https://x.com/Gauss3133/status/2062541634735325412/photo/1",
+              "media_key": "3_2062541624274776064",
+              "start": 2,
+              "url": "https://t.co/Y4NFbmGFe5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062541634735325412",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "😊 https://t.co/Y4NFbmGFe5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "🚪（520",
+        "id": "2004619896630788096",
+        "location": "口令➕姓",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2036315164098830372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2218,
+          "following_count": 79,
+          "like_count": 21260,
+          "listed_count": 2,
+          "media_count": 137,
+          "tweet_count": 3354
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-22T17:35:36.000Z",
+        "description": "养猫养狗｜吃喝玩乐｜有钱有闲｜四海踏破｜拍照健身｜偶尔躺平｜爱史努比｜汉奸勿扰｜同志远离",
+        "id": "1903500786677739520",
+        "location": "San Francisco, CA",
+        "name": "Bishop",
+        "pinned_tweet_id": "2024175315975856362",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062215412742520832/hxFhLVEB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1435,
+          "following_count": 16,
+          "like_count": 808,
+          "listed_count": 2,
+          "media_count": 97,
+          "tweet_count": 460
+        },
+        "username": "Gauss3133",
+        "verified": false
+      }
+    ]
+  }
+}

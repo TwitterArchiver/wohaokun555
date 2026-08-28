@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2071242478590820705",
+    "created_at": "2026-06-29T04:04:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T05:04:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071444563034870002"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2025673620849348608",
+          "start": 0,
+          "username": "shazhi731x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071444563034870002",
+    "in_reply_to_user_id": "2025673620849348608",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071330914328875385",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shazhi731x 傻逼公狗别叫了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2071242478590820705",
+        "created_at": "2026-06-29T04:04:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T05:04:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071444563034870002"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2025673620849348608",
+              "start": 0,
+              "username": "shazhi731x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071444563034870002",
+        "in_reply_to_user_id": "2025673620849348608",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071330914328875385",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shazhi731x 傻逼公狗别叫了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025673620849348608",
+        "conversation_id": "2071242478590820705",
+        "created_at": "2026-06-28T20:32:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T21:32:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071330914328875385"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071330914328875385",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071242478590820705",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 你拍你ma呢？支女"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "让我成为我，让一座山并存着嶙峋和肥沃",
+        "id": "2004619896630788096",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2070530833434476867",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2617,
+          "following_count": 81,
+          "like_count": 23372,
+          "listed_count": 2,
+          "media_count": 142,
+          "tweet_count": 3732
+        },
+        "url": "",
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-22T20:46:53.000Z",
+        "description": "中国人快跑啊，太君要来南京打猎了",
+        "id": "2025673620849348608",
+        "location": "支那南京市",
+        "name": "泽东近平刃支记",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050476908723445760/p2YTM0ty_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 62,
+          "like_count": 341,
+          "listed_count": 0,
+          "media_count": 311,
+          "tweet_count": 607
+        },
+        "url": "",
+        "username": "shazhi731x",
+        "verified": false
+      }
+    ]
+  }
+}

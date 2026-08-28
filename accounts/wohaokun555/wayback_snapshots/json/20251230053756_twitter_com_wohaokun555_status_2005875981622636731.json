@@ -1,0 +1,381 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "1846238307379970105",
+    "created_at": "2025-12-30T05:37:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-30T06:37:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005875981622636731"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1656291807674896384",
+          "start": 0,
+          "username": "ijubngqln13855"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005875981622636731",
+    "in_reply_to_user_id": "1656291807674896384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1846238307379970105",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ijubngqln13855 我以前老是看这个…3p神片！"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 139966,
+        "height": 704,
+        "media_key": "7_1846237887484026880",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1846237887484026880/pu/img/T16ipqCAl5zZvsd1.jpg",
+        "public_metrics": {
+          "view_count": 1814127
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1846237887484026880/pu/vid/avc1/490x270/6L21Vr4WZV7tVdfv.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1846237887484026880/pu/vid/avc1/654x360/rJXDxdN9oJkr3ljS.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1846237887484026880/pu/vid/avc1/1280x704/7IAxpqcbKZ0DNja5.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1846237887484026880/pu/pl/EMxUPI7wqvHR1YCK.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "duration_ms": 139366,
+        "height": 720,
+        "media_key": "7_1846237887484121091",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1846237887484121091/pu/img/54Yp0rGJcCb4tS2j.jpg",
+        "public_metrics": {
+          "view_count": 360231
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1846237887484121091/pu/vid/avc1/480x270/zk4ZpkJnjqzExhZI.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1846237887484121091/pu/vid/avc1/640x360/MJC52z13RCvu4TPG.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1846237887484121091/pu/vid/avc1/1280x720/PeG65b8jqPJFm9EY.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1846237887484121091/pu/pl/qoRKvNpnZwnbQwyj.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "duration_ms": 139133,
+        "height": 720,
+        "media_key": "7_1846237887479922689",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1846237887479922689/pu/img/LvxJ24Tpb56FRtsG.jpg",
+        "public_metrics": {
+          "view_count": 520820
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1846237887479922689/pu/vid/avc1/480x270/64_nLr6v8hT29dfI.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1846237887479922689/pu/vid/avc1/640x360/ae441d4MJrF-Aw34.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1846237887479922689/pu/vid/avc1/1280x720/L2LdIfYDpBhD2BvI.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1846237887479922689/pu/pl/sc8cghLLWDZ2RDuG.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "duration_ms": 139400,
+        "height": 712,
+        "media_key": "7_1846237887228268544",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1846237887228268544/pu/img/2V7M6LMOrG6WaKbx.jpg",
+        "public_metrics": {
+          "view_count": 420008
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1846237887228268544/pu/vid/avc1/484x270/5P8HMD3cIYEocViL.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1846237887228268544/pu/vid/avc1/646x360/YUWTaVgMfe7NzXbx.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1846237887228268544/pu/vid/avc1/1280x712/wKEOK5S5Yd-yqBrL.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1846237887228268544/pu/pl/F7Rij4YJDPOcxOs1.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "1846238307379970105",
+        "created_at": "2025-12-30T05:37:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T06:37:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005875981622636731"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1656291807674896384",
+              "start": 0,
+              "username": "ijubngqln13855"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005875981622636731",
+        "in_reply_to_user_id": "1656291807674896384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1846238307379970105",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ijubngqln13855 我以前老是看这个…3p神片！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1846237887484026880",
+            "7_1846237887484121091",
+            "7_1846237887479922689",
+            "7_1846237887228268544"
+          ]
+        },
+        "author_id": "1656291807674896384",
+        "conversation_id": "1846238307379970105",
+        "created_at": "2024-10-15T17:14:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-15T18:14:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1846238307379970105"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "女性向"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VBfQn88dPN",
+              "end": 179,
+              "expanded_url": "https://x.com/ijubngqln13855/status/1846238307379970105/video/1",
+              "media_key": "7_1846237887484026880",
+              "start": 156,
+              "url": "https://t.co/VBfQn88dPN"
+            },
+            {
+              "display_url": "pic.x.com/VBfQn88dPN",
+              "end": 179,
+              "expanded_url": "https://x.com/ijubngqln13855/status/1846238307379970105/video/1",
+              "media_key": "7_1846237887484121091",
+              "start": 156,
+              "url": "https://t.co/VBfQn88dPN"
+            },
+            {
+              "display_url": "pic.x.com/VBfQn88dPN",
+              "end": 179,
+              "expanded_url": "https://x.com/ijubngqln13855/status/1846238307379970105/video/1",
+              "media_key": "7_1846237887479922689",
+              "start": 156,
+              "url": "https://t.co/VBfQn88dPN"
+            },
+            {
+              "display_url": "pic.x.com/VBfQn88dPN",
+              "end": 179,
+              "expanded_url": "https://x.com/ijubngqln13855/status/1846238307379970105/video/1",
+              "media_key": "7_1846237887228268544",
+              "start": 156,
+              "url": "https://t.co/VBfQn88dPN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1846238307379970105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 15112,
+          "impression_count": 6681891,
+          "like_count": 32939,
+          "quote_count": 132,
+          "reply_count": 190,
+          "retweet_count": 2372
+        },
+        "reply_settings": "everyone",
+        "text": "#女性向\n3p 车牌号：TLDC-001\n\n设定是和魅魔哥哥们一起do爱 ，被哥哥们玩坏，无法自拔的陷入性爱中。\n\n女生肚子上和男生们胸上都有魅魔纹…看着好涩的设定\n\n内含调教，一个手指在嘴巴里画圈圈然后kiss，真的涩到爆了🥵🥵\n\n第一次看三个人一起接吻，最后一直喷💦\n\n身材还挺好的两个魅魔哥哥 哈哈哈哈哈 https://t.co/VBfQn88dPN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "我会尽量给大家传播积极情绪的！泥萌都要天天开心哦！(o^^o)   🚪66",
+        "id": "2004619896630788096",
+        "location": "Hong Kong",
+        "name": "鱼虾一整碗",
+        "pinned_tweet_id": "2005582001685012508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004620653153189888/VWgYLNYv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 23,
+          "like_count": 331,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 185
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-10T13:35:27.000Z",
+        "description": "不接推广｜女宝集合地｜爱推女性向｜希望能和宝宝们成为电子好朋友👭🫶🏻🩵｜分享的基本都有🔗小号🫶🏻@xwbzh5555‼️‼️禁止贩卖🔗｜只有这一个平台，无其他账号！！！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 48,
+                "username": "xwbzh5555"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ip.harmonylink.net/share/g6r8g3",
+                "end": 23,
+                "expanded_url": "http://ip.harmonylink.net/share/g6r8g3",
+                "start": 0,
+                "url": "https://t.co/430qcOTVZA"
+              }
+            ]
+          }
+        },
+        "id": "1656291807674896384",
+        "location": "自用vpn 👇🏻（我自己用了好久了，看个人需求使用）",
+        "name": "爱嚼冰淇淋🍦",
+        "pinned_tweet_id": "1838532188926808080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827588466437238784/iQ3x51NQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 966588,
+          "following_count": 4,
+          "like_count": 837,
+          "listed_count": 1343,
+          "media_count": 548,
+          "tweet_count": 2703
+        },
+        "url": "https://t.co/430qcOTVZA",
+        "username": "ijubngqln13855",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2022287508202267072",
+    "created_at": "2026-02-13T12:40:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T13:40:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022289839023157384"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1522094329954652161",
+          "start": 0,
+          "username": "0xo_snow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022289839023157384",
+    "in_reply_to_user_id": "1522094329954652161",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022287508202267072",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0xo_snow 我肚肚"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6546,
+        "height": 972,
+        "media_key": "13_2022287452279582720",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2022287452279582720/img/jv8ozcpyVv-2nvnY.jpg",
+        "public_metrics": {
+          "view_count": 9
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2022287452279582720/vid/avc1/320x576/1SPB9uOrN-E2crWW.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2022287452279582720/vid/avc1/480x864/oWyccIlV3jA4jMn3.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2022287452279582720/vid/avc1/540x972/n8Gxlre2YD-tBlTO.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2022287452279582720/pl/euFy3rOogMFnodUT.m3u8"
+          }
+        ],
+        "width": 540
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2022287508202267072",
+        "created_at": "2026-02-13T12:40:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T13:40:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022289839023157384"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1522094329954652161",
+              "start": 0,
+              "username": "0xo_snow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022289839023157384",
+        "in_reply_to_user_id": "1522094329954652161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022287508202267072",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0xo_snow 我肚肚"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2022287452279582720"
+          ]
+        },
+        "author_id": "1522094329954652161",
+        "conversation_id": "2022287508202267072",
+        "created_at": "2026-02-13T12:31:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T13:31:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022287508202267072"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Sv98loz6Nj",
+              "end": 45,
+              "expanded_url": "https://x.com/0xo_snow/status/2022287508202267072/video/1",
+              "media_key": "13_2022287452279582720",
+              "start": 22,
+              "url": "https://t.co/Sv98loz6Nj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022287508202267072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我他妈不行了啊我这回真被外星人抓走了sos https://t.co/Sv98loz6Nj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2JlN5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2JlN5"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "🚪188（纯绿纯绿（除了口令和门槛别的私信不回",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2016792238060421479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 715,
+          "following_count": 78,
+          "like_count": 7399,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 1425
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-05T06:02:50.000Z",
+        "description": "=恋 🎀 来寻找真实的我吧！一般07话唠装萌姬/美少女全肯定‼️｜点击亮点查看我的日常～喜欢唱歌中日英都会学📍ip#北京 欢迎来找我玩哦~投喂入门可以扫背景赞赏谢谢你;ㅅ;",
+        "id": "1522094329954652161",
+        "location": "🚪88会陪你聊天解锁线下( 𓏼˙ ᴥ ˙𓏼 )",
+        "name": "🐰れん⊹",
+        "pinned_tweet_id": "2019770714757255332",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017787889955098624/u0R2iAGA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18546,
+          "following_count": 0,
+          "like_count": 5,
+          "listed_count": 32,
+          "media_count": 1154,
+          "tweet_count": 12279
+        },
+        "username": "0xo_snow",
+        "verified": true
+      }
+    ]
+  }
+}

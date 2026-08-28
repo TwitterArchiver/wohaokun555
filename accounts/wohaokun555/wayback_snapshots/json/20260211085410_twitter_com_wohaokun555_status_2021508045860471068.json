@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2021190093042491852",
+    "created_at": "2026-02-11T08:54:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-11T09:54:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021508045860471068"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1786890478756990978",
+          "start": 0,
+          "username": "jijiji160968"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021508045860471068",
+    "in_reply_to_user_id": "1786890478756990978",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021507398775750881",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jijiji160968 还可以！没有想象中糟糕"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2021190093042491852",
+        "created_at": "2026-02-11T08:54:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T09:54:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021508045860471068"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1786890478756990978",
+              "start": 0,
+              "username": "jijiji160968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021508045860471068",
+        "in_reply_to_user_id": "1786890478756990978",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021507398775750881",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jijiji160968 还可以！没有想象中糟糕"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786890478756990978",
+        "conversation_id": "2021190093042491852",
+        "created_at": "2026-02-11T08:51:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T09:51:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021507398775750881"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021507398775750881",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021190093042491852",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 吃起来感觉如何"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2JlN5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2JlN5"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "🚪188（绿（别的私信不回",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2009534874970145039",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014313058978406400/yLC08oHO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 671,
+          "following_count": 73,
+          "like_count": 6633,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 1262
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-04T22:47:58.000Z",
+        "description": "我很少看x有事你得私信我先\n不过敲诈勒索的家伙确实多，就是版本没咋更新太落伍了，他们做生意也就只会这点技巧，同行不内卷不良性竞争，然后路径依赖整个地方的人以后都恐怕难成大事，走资派还在走。",
+        "id": "1786890478756990978",
+        "location": "零号大坝",
+        "name": "嘎嘎嘎",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006855775499825152/NmK_lKOu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 27,
+          "like_count": 22,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 866
+        },
+        "username": "jijiji160968",
+        "verified": false
+      }
+    ]
+  }
+}

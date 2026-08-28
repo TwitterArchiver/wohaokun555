@@ -1,0 +1,388 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2008078887461556453",
+    "created_at": "2026-01-05T18:57:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-05T19:57:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008251522422091940"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1633730290295160832",
+          "start": 0,
+          "username": "XTExchangecn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008251522422091940",
+    "in_reply_to_user_id": "1633730290295160832",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008078887461556453",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XTExchangecn 7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2008078804095504384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G94hCHcakAAcvwO.jpg",
+        "width": 1088
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2008078887461556453",
+        "created_at": "2026-01-05T18:57:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T19:57:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008251522422091940"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1633730290295160832",
+              "start": 0,
+              "username": "XTExchangecn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008251522422091940",
+        "in_reply_to_user_id": "1633730290295160832",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008078887461556453",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XTExchangecn 7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2008078804095504384"
+          ]
+        },
+        "author_id": "1633730290295160832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the New Year's day for all years. ",
+              "id": "1457786335108816904",
+              "name": "New Year's day"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the New Year's day for all years. ",
+              "id": "1457786335108816904",
+              "name": "New Year's day"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1296381531510849536",
+              "name": "New Years Eve\t"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the New Year's day for all years. ",
+              "id": "1457786335108816904",
+              "name": "New Year's day"
+            }
+          }
+        ],
+        "conversation_id": "2008078887461556453",
+        "created_at": "2026-01-05T07:31:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T08:31:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008078887461556453"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4HxCWnYBpe",
+              "end": 237,
+              "expanded_url": "https://x.com/XTExchangecn/status/2008078887461556453/photo/1",
+              "media_key": "3_2008078804095504384",
+              "start": 214,
+              "url": "https://t.co/4HxCWnYBpe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008078887461556453",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 231,
+                "start": 228,
+                "tag": "XT"
+              },
+              {
+                "end": 241,
+                "start": 232,
+                "tag": "Airdrops"
+              },
+              {
+                "end": 251,
+                "start": 242,
+                "tag": "Giveaway"
+              },
+              {
+                "end": 269,
+                "start": 252,
+                "tag": "HappyNewYear2026"
+              }
+            ]
+          },
+          "text": "2026 第一個週一\n不摸魚，先摸個好運 😎\n新年紅包，誰拿走？🧧\n\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15\n16\n17\n18\n19\n20\n21\n22\n23\n24\n25\n26\n27\n28\n29\n30\n31\n32\n33\n34\n35\n36\n37\n38\n39\n40\n41\n42\n43\n44\n45\n46\n47\n48\n49\n50\n\n留下你的幸運數字\n我們將抽出 10 位幸運用戶派紅包\n❤️ 記得按讚 + 轉發，讓好運多跑幾圈喔！\n\n#XT #Airdrops #Giveaway #HappyNewYear2026"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 19394,
+          "like_count": 312,
+          "quote_count": 2,
+          "reply_count": 377,
+          "retweet_count": 168
+        },
+        "reply_settings": "everyone",
+        "text": "2026 第一個週一\n不摸魚，先摸個好運 😎\n新年紅包，誰拿走？🧧\n\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15\n16\n17\n18\n19\n20\n21\n22\n23\n24\n25\n26\n27\n28\n29\n30\n31\n32\n33\n34\n35\n36\n37\n38\n39\n40\n41\n42\n43\n44\n45\n46\n47\n48\n49\n50\n\n留下你的幸運數字\n我們將抽出 10 位幸運用戶派紅包\n❤️ 記得按讚 + https://t.co/4HxCWnYBpe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "天天开心o^^o",
+        "id": "2004619896630788096",
+        "location": "三体星球",
+        "name": "鱼虾一整碗",
+        "pinned_tweet_id": "2008218066103238856",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004620653153189888/VWgYLNYv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 39,
+          "like_count": 1178,
+          "listed_count": 1,
+          "media_count": 29,
+          "tweet_count": 427
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-09T07:24:01.000Z",
+        "description": "探索加密，信賴交易🚀 \n穩定安全運營7年，CMC衍生品排名第6\n#BTC #ETH #USDT #XT\n資金證明：https://t.co/kyjDDQMztY\n申請上幣：https://t.co/iQpU4GIZU7",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 36,
+                "start": 32,
+                "tag": "BTC"
+              },
+              {
+                "end": 41,
+                "start": 37,
+                "tag": "ETH"
+              },
+              {
+                "end": 47,
+                "start": 42,
+                "tag": "USDT"
+              },
+              {
+                "end": 51,
+                "start": 48,
+                "tag": "XT"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "coinmarketcap.com/zh-tw/exchange…",
+                "end": 80,
+                "expanded_url": "https://coinmarketcap.com/zh-tw/exchanges/xt/",
+                "start": 57,
+                "url": "https://t.co/kyjDDQMztY"
+              },
+              {
+                "display_url": "xt.com/zh-HK/listing",
+                "end": 109,
+                "expanded_url": "https://www.xt.com/zh-HK/listing",
+                "start": 86,
+                "url": "https://t.co/iQpU4GIZU7"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "XT.COM",
+                "end": 23,
+                "expanded_url": "http://XT.COM",
+                "start": 0,
+                "url": "https://t.co/tb8qj4yn8K"
+              }
+            ]
+          }
+        },
+        "id": "1633730290295160832",
+        "name": "XT中文频道",
+        "pinned_tweet_id": "2001949369806016830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005808869524865024/QHjTtnaU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27131,
+          "following_count": 315,
+          "like_count": 960,
+          "listed_count": 34,
+          "media_count": 6091,
+          "tweet_count": 7188
+        },
+        "url": "https://t.co/tb8qj4yn8K",
+        "username": "XTExchangecn",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2040676334133981411",
+    "created_at": "2026-04-05T08:06:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T09:06:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040702716515893375"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1774626175081709568",
+          "start": 0,
+          "username": "dengziqifensi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040702716515893375",
+    "in_reply_to_user_id": "1774626175081709568",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040702203841880089",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dengziqifensi 扣神"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2040676334133981411",
+        "created_at": "2026-04-05T08:06:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T09:06:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040702716515893375"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1774626175081709568",
+              "start": 0,
+              "username": "dengziqifensi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040702716515893375",
+        "in_reply_to_user_id": "1774626175081709568",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040702203841880089",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dengziqifensi 扣神"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1774626175081709568",
+        "conversation_id": "2040676334133981411",
+        "created_at": "2026-04-05T08:04:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T09:04:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040702203841880089"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040702203841880089",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040676334133981411",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 扣是吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "",
+        "id": "2004619896630788096",
+        "location": "🚪520",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2007765884035813533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1542,
+          "following_count": 98,
+          "like_count": 14189,
+          "listed_count": 1,
+          "media_count": 160,
+          "tweet_count": 2622
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-01T02:33:57.000Z",
+        "description": "评论区对偶专家/资深sps潜水员",
+        "id": "1774626175081709568",
+        "name": "plt.show",
+        "pinned_tweet_id": "1782446276690538753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775440995406209024/ap2nRna9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 401,
+          "like_count": 8888,
+          "listed_count": 2,
+          "media_count": 73,
+          "tweet_count": 2616
+        },
+        "username": "dengziqifensi",
+        "verified": false
+      }
+    ]
+  }
+}

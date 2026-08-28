@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2059281929435025760",
+    "created_at": "2026-05-26T15:35:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T16:35:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059297418789666820"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2046596455071387648",
+          "start": 0,
+          "username": "Nimotge"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059297418789666820",
+    "in_reply_to_user_id": "2046596455071387648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059295686966051299",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nimotge 好的好的谢谢宝宝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2059281929435025760",
+        "created_at": "2026-05-26T15:35:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T16:35:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059297418789666820"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2046596455071387648",
+              "start": 0,
+              "username": "Nimotge"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059297418789666820",
+        "in_reply_to_user_id": "2046596455071387648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059295686966051299",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nimotge 好的好的谢谢宝宝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046596455071387648",
+        "conversation_id": "2059281929435025760",
+        "created_at": "2026-05-26T15:28:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T16:28:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059295686966051299"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059295686966051299",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059281929435025760",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 我都用过我感觉壬二酸无敌有效果 具体的你可以去了解一下用法 我用的是sounder one的壬二酸"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "🚪（纯绿 不入勿扰\n@lei_meng123 随缘过",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 10,
+                "username": "lei_meng123"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2036315164098830372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2076,
+          "following_count": 78,
+          "like_count": 20042,
+          "listed_count": 1,
+          "media_count": 244,
+          "tweet_count": 3305
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-21T14:27:40.000Z",
+        "description": "",
+        "id": "2046596455071387648",
+        "name": "Nimo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058924576273506304/4QgCPCPt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 9,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 23
+        },
+        "username": "Nimotge",
+        "verified": false
+      }
+    ]
+  }
+}

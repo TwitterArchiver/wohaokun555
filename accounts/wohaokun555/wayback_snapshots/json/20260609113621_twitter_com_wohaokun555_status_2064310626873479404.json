@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2064220017424740542",
+    "created_at": "2026-06-09T11:36:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T12:36:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064310626873479404"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1590723406168657920",
+          "start": 0,
+          "username": "FutabaRi0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064310626873479404",
+    "in_reply_to_user_id": "1590723406168657920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064272175931265440",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FutabaRi0 谢谢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2064220017424740542",
+        "created_at": "2026-06-09T11:36:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T12:36:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064310626873479404"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1590723406168657920",
+              "start": 0,
+              "username": "FutabaRi0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064310626873479404",
+        "in_reply_to_user_id": "1590723406168657920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064272175931265440",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FutabaRi0 谢谢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1590723406168657920",
+        "conversation_id": "2064220017424740542",
+        "created_at": "2026-06-09T09:03:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T10:03:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064272175931265440"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064272175931265440",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064220017424740542",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 如果你在X没露过脸，你可以随便玩随便浪，如果你露过脸，建议要克制。因为不知道哪天你就会为此困扰。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "",
+        "id": "2004619896630788096",
+        "location": "私信只回口令过门 其他勿扰…",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2062769965330227585",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2256,
+          "following_count": 76,
+          "like_count": 21572,
+          "listed_count": 2,
+          "media_count": 143,
+          "tweet_count": 3442
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-10T15:10:05.000Z",
+        "description": "愿每一个孤独的灵魂都能被给予掌声，还以身份。",
+        "id": "1590723406168657920",
+        "name": "断点",
+        "pinned_tweet_id": "1795737534124921304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1711683899611664384/eg-ModI0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 26,
+          "like_count": 428,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 478
+        },
+        "username": "FutabaRi0",
+        "verified": false
+      }
+    ]
+  }
+}

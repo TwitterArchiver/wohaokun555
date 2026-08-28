@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2051255156235440515",
+    "created_at": "2026-05-04T11:27:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T12:27:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051262543763837078"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1903500786677739520",
+          "start": 0,
+          "username": "Gauss3133"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051262543763837078",
+    "in_reply_to_user_id": "1903500786677739520",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051262150023491599",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Gauss3133 还有妈咪做的三明治🥪全都吃掉了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2051255156235440515",
+        "created_at": "2026-05-04T11:27:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T12:27:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051262543763837078"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1903500786677739520",
+              "start": 0,
+              "username": "Gauss3133"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051262543763837078",
+        "in_reply_to_user_id": "1903500786677739520",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051262150023491599",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gauss3133 还有妈咪做的三明治🥪全都吃掉了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903500786677739520",
+        "conversation_id": "2051255156235440515",
+        "created_at": "2026-05-04T11:26:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T12:26:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051262150023491599"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051262150023491599",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051255156235440515",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 零食真不少，春游野餐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "",
+        "id": "2004619896630788096",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2007765884035813533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2009,
+          "following_count": 99,
+          "like_count": 18124,
+          "listed_count": 2,
+          "media_count": 212,
+          "tweet_count": 3050
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-22T17:35:36.000Z",
+        "description": "养猫养狗｜吃喝玩乐｜四海踏破｜拍照健身｜偶尔躺平｜汉奸勿扰",
+        "id": "1903500786677739520",
+        "location": "San Francisco, CA",
+        "name": "Bishop",
+        "pinned_tweet_id": "2024175315975856362",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045711979160260608/2zfgHH3-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1396,
+          "following_count": 16,
+          "like_count": 473,
+          "listed_count": 2,
+          "media_count": 66,
+          "tweet_count": 327
+        },
+        "username": "Gauss3133",
+        "verified": false
+      }
+    ]
+  }
+}

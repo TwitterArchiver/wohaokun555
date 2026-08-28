@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2074313020906602610",
+    "created_at": "2026-07-07T12:02:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T13:02:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074464009206804481"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1644736348547342336",
+          "start": 0,
+          "username": "20080103x"
+        },
+        {
+          "end": 20,
+          "id": "2050879455829385216",
+          "start": 11,
+          "username": "EeEeewvl"
+        },
+        {
+          "end": 32,
+          "id": "1632598308056334336",
+          "start": 21,
+          "username": "Alkaid_lll"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074464009206804481",
+    "in_reply_to_user_id": "1644736348547342336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074357340556627985",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@20080103x @EeEeewvl @Alkaid_lll 我一堆认识的都是从这个机构学的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2074313020906602610",
+        "created_at": "2026-07-07T12:02:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T13:02:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074464009206804481"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1644736348547342336",
+              "start": 0,
+              "username": "20080103x"
+            },
+            {
+              "end": 20,
+              "id": "2050879455829385216",
+              "start": 11,
+              "username": "EeEeewvl"
+            },
+            {
+              "end": 32,
+              "id": "1632598308056334336",
+              "start": 21,
+              "username": "Alkaid_lll"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074464009206804481",
+        "in_reply_to_user_id": "1644736348547342336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074357340556627985",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@20080103x @EeEeewvl @Alkaid_lll 我一堆认识的都是从这个机构学的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1644736348547342336",
+        "conversation_id": "2074313020906602610",
+        "created_at": "2026-07-07T04:58:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T05:58:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074357340556627985"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2050879455829385216",
+              "start": 0,
+              "username": "EeEeewvl"
+            },
+            {
+              "end": 21,
+              "id": "1632598308056334336",
+              "start": 10,
+              "username": "Alkaid_lll"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074357340556627985",
+        "in_reply_to_user_id": "2050879455829385216",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074317160944705701",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EeEeewvl @Alkaid_lll 来大象酷口"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "让我成为我，让一座山并存着嶙峋和肥沃",
+        "id": "2004619896630788096",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2073747405099659747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2761,
+          "following_count": 81,
+          "like_count": 24148,
+          "listed_count": 2,
+          "media_count": 147,
+          "tweet_count": 3868
+        },
+        "url": "",
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-08T16:18:18.000Z",
+        "description": "我特别缺觉💤\n😋",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/haosoren",
+                "end": 23,
+                "expanded_url": "https://ngl.link/haosoren",
+                "start": 0,
+                "url": "https://t.co/BGYrd6RqQx"
+              }
+            ]
+          }
+        },
+        "id": "1644736348547342336",
+        "location": "🚪",
+        "name": "💤",
+        "pinned_tweet_id": "2061148156214030450",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065898610818998272/FNwjaFXv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2687,
+          "following_count": 351,
+          "like_count": 2059,
+          "listed_count": 6,
+          "media_count": 32,
+          "tweet_count": 612
+        },
+        "url": "https://t.co/BGYrd6RqQx",
+        "username": "20080103x",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-03T10:06:36.000Z",
+        "description": "不管世界如何，做一个真诚、善良的人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zzwanx_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zzwanx_",
+                "start": 0,
+                "url": "https://t.co/N0UanJKXgZ"
+              }
+            ]
+          }
+        },
+        "id": "2050879455829385216",
+        "location": "🚪",
+        "name": "苹果树",
+        "pinned_tweet_id": "2065346472036733115",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074145415973515264/s5aaYKCs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2435,
+          "following_count": 203,
+          "like_count": 4950,
+          "listed_count": 4,
+          "media_count": 202,
+          "tweet_count": 1977
+        },
+        "url": "https://t.co/N0UanJKXgZ",
+        "username": "EeEeewvl",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-06T04:25:55.000Z",
+        "description": "",
+        "id": "1632598308056334336",
+        "location": "路边草隙",
+        "name": "Coto.",
+        "pinned_tweet_id": "1831619073253503164",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054143211938238464/xMa48E5__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1540,
+          "following_count": 244,
+          "like_count": 5584,
+          "listed_count": 2,
+          "media_count": 152,
+          "tweet_count": 1588
+        },
+        "url": "",
+        "username": "Alkaid_lll",
+        "verified": false
+      }
+    ]
+  }
+}

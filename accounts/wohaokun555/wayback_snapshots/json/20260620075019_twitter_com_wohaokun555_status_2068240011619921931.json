@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2068127836645491061",
+    "created_at": "2026-06-20T07:50:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T08:50:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068240011619921931"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1879799070254096386",
+          "start": 0,
+          "username": "SherryJxpbp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068240011619921931",
+    "in_reply_to_user_id": "1879799070254096386",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068234272276914181",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SherryJxpbp 他跑路了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2068127836645491061",
+        "created_at": "2026-06-20T07:50:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T08:50:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068240011619921931"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1879799070254096386",
+              "start": 0,
+              "username": "SherryJxpbp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068240011619921931",
+        "in_reply_to_user_id": "1879799070254096386",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068234272276914181",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SherryJxpbp 他跑路了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1879799070254096386",
+        "conversation_id": "2068127836645491061",
+        "created_at": "2026-06-20T07:27:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T08:27:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068234272276914181"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068234272276914181",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068127836645491061",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 求解码。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "🌍",
+        "id": "2004619896630788096",
+        "location": "置顶是广告 非本人 请自辨",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2067618656885125585",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2444,
+          "following_count": 79,
+          "like_count": 22623,
+          "listed_count": 2,
+          "media_count": 134,
+          "tweet_count": 3608
+        },
+        "url": "",
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-16T07:53:30.000Z",
+        "description": "变身！小猫惡魔：☆…//★ 06 enfp 金牛 此号发的东西有点乱七八糟请见谅…互关可➕v \n防丢失小号：@Sherrysh2d \n定期回复信箱——匿名信箱📬：https://t.co/09pzHIo5EO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 54,
+                "username": "Sherrysh2d"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/sherryl25621",
+                "end": 104,
+                "expanded_url": "https://ngl.link/sherryl25621",
+                "start": 81,
+                "url": "https://t.co/09pzHIo5EO"
+              }
+            ]
+          }
+        },
+        "id": "1879799070254096386",
+        "location": "🚪纯绿88 🚪半绿188",
+        "name": "Sherry-J",
+        "pinned_tweet_id": "2064687600393466065",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879799374022385664/TVkLtRn5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6059,
+          "following_count": 314,
+          "like_count": 4189,
+          "listed_count": 16,
+          "media_count": 283,
+          "tweet_count": 2844
+        },
+        "url": "",
+        "username": "SherryJxpbp",
+        "verified": false
+      }
+    ]
+  }
+}

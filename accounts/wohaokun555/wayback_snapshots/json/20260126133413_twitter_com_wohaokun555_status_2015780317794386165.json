@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2015780317794386165",
+    "created_at": "2026-01-26T13:34:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T14:34:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015780317794386165"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1887893037365559296",
+          "start": 3,
+          "username": "k4p6mj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015780317794386165",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015725394398466052",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @k4p6mj: 听说腊八收到8.88 18.88 28.88会幸福一辈子"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2015780317794386165",
+        "created_at": "2026-01-26T13:34:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T14:34:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015780317794386165"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1887893037365559296",
+              "start": 3,
+              "username": "k4p6mj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015780317794386165",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015725394398466052",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @k4p6mj: 听说腊八收到8.88 18.88 28.88会幸福一辈子"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887893037365559296",
+        "conversation_id": "2015725394398466052",
+        "created_at": "2026-01-26T09:55:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T10:55:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015725394398466052"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tcxxstoutou/st…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/tcxxstoutou/status/2015724799587402152",
+              "start": 29,
+              "url": "https://t.co/mrfgZIP7to"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015725394398466052",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 687,
+          "like_count": 10,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015724799587402152",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "听说腊八收到8.88 18.88 28.88会幸福一辈子 https://t.co/mrfgZIP7to"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2JlN5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2JlN5"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "🤔",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2007765884035813533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014313058978406400/yLC08oHO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 457,
+          "following_count": 70,
+          "like_count": 3147,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 815
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-07T15:56:06.000Z",
+        "description": "这里是快乐星球。本账号使用者是一个脆弱的小宝宝。https://t.co/QF2Mffktbm",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/user.35056445",
+                "end": 47,
+                "expanded_url": "https://tellonym.me/user.35056445",
+                "start": 24,
+                "url": "https://t.co/QF2Mffktbm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/2781699",
+                "end": 23,
+                "expanded_url": "https://ngl.link/2781699",
+                "start": 0,
+                "url": "https://t.co/sbXp9A6IEM"
+              }
+            ]
+          }
+        },
+        "id": "1887893037365559296",
+        "location": "🚪88纯绿",
+        "name": "化合物",
+        "pinned_tweet_id": "2014729880378998808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010603417576853504/iQNt0v9r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 349,
+          "following_count": 94,
+          "like_count": 5825,
+          "listed_count": 3,
+          "media_count": 45,
+          "tweet_count": 4122
+        },
+        "url": "https://t.co/sbXp9A6IEM",
+        "username": "k4p6mj",
+        "verified": false
+      }
+    ]
+  }
+}

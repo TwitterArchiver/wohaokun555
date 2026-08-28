@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2007786079404056860",
+    "created_at": "2026-01-05T04:00:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-05T05:00:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008025868061556815"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1962893857731084289",
+          "start": 0,
+          "username": "lgnwsmbaw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008025868061556815",
+    "in_reply_to_user_id": "1962893857731084289",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007786079404056860",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lgnwsmbaw 回避型就是世界上最傻逼的 一他妈谈到重点就回避了 做爱的时候几把咋不回避"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2007786079404056860",
+        "created_at": "2026-01-05T04:00:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T05:00:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008025868061556815"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1962893857731084289",
+              "start": 0,
+              "username": "lgnwsmbaw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008025868061556815",
+        "in_reply_to_user_id": "1962893857731084289",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007786079404056860",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lgnwsmbaw 回避型就是世界上最傻逼的 一他妈谈到重点就回避了 做爱的时候几把咋不回避"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962893857731084289",
+        "conversation_id": "2007786079404056860",
+        "created_at": "2026-01-04T12:07:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T13:07:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007786079404056860"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2007786079404056860",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2085,
+          "like_count": 46,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "回避型恋人，亲嘴的时候不回避，牵手的时候不回避，你侬我依的时候不回避。需要情绪价值了回避了，吵架了回避了，生气了回避了，是回避型还是傻叉？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "天天开心o^^o",
+        "id": "2004619896630788096",
+        "location": "三体星球",
+        "name": "鱼虾一整碗",
+        "pinned_tweet_id": "2005582001685012508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004620653153189888/VWgYLNYv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 40,
+          "like_count": 1073,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 408
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-02T15:02:38.000Z",
+        "description": "不是你记忆中那个女人但是致命的程度没两样！",
+        "id": "1962893857731084289",
+        "location": "水泥平地",
+        "name": "降降火气吧",
+        "pinned_tweet_id": "1980326921239175347",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007901573368905728/Y4TDCyu5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9161,
+          "following_count": 72,
+          "like_count": 3683,
+          "listed_count": 21,
+          "media_count": 264,
+          "tweet_count": 3065
+        },
+        "username": "lgnwsmbaw",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2063973736781619523",
+    "created_at": "2026-06-10T10:37:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T11:37:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064658303981142493"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1413042565960503296",
+          "start": 0,
+          "username": "Eyesouo2b"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064658303981142493",
+    "in_reply_to_user_id": "1413042565960503296",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063973736781619523",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Eyesouo2b 老婆你萌呀"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2400,
+        "height": 1280,
+        "media_key": "7_2063973670759096322",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2063973670759096322/pu/img/LLxqkJjSYGij9u0z.jpg",
+        "public_metrics": {
+          "view_count": 279
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2063973670759096322/pu/vid/avc1/320x568/UyBTpwwzm3NQwu1q.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2063973670759096322/pu/vid/avc1/480x852/vlZCUNFde16iqiHn.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2063973670759096322/pu/vid/avc1/720x1280/FpluVzI-nH_EiKRq.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2063973670759096322/pu/pl/lQDI0GpfFtguQkUJ.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2063973736781619523",
+        "created_at": "2026-06-10T10:37:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T11:37:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064658303981142493"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1413042565960503296",
+              "start": 0,
+              "username": "Eyesouo2b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064658303981142493",
+        "in_reply_to_user_id": "1413042565960503296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063973736781619523",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Eyesouo2b 老婆你萌呀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2063973670759096322"
+          ]
+        },
+        "author_id": "1413042565960503296",
+        "conversation_id": "2063973736781619523",
+        "created_at": "2026-06-08T13:17:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T14:17:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063973736781619523"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ArMbbHGWCX",
+              "end": 25,
+              "expanded_url": "https://x.com/Eyesouo2b/status/2063973736781619523/video/1",
+              "media_key": "7_2063973670759096322",
+              "start": 2,
+              "url": "https://t.co/ArMbbHGWCX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063973736781619523",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1746,
+          "like_count": 73,
+          "quote_count": 0,
+          "reply_count": 23,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "嘟 https://t.co/ArMbbHGWCX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "",
+        "id": "2004619896630788096",
+        "location": "私信只回口令过门 其他勿扰…",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2062769965330227585",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2254,
+          "following_count": 76,
+          "like_count": 21662,
+          "listed_count": 2,
+          "media_count": 144,
+          "tweet_count": 3460
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-08T07:49:49.000Z",
+        "description": "接付费委托转推置顶 推广自辨｜ 情绪时常不稳定所以发的内容会有很强的切割感大家别介意 不加好友私信偶尔看",
+        "id": "1413042565960503296",
+        "name": "休克的羔羊",
+        "pinned_tweet_id": "1954600869221347354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900425950724321280/cchWJJby_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10385,
+          "following_count": 182,
+          "like_count": 1964,
+          "listed_count": 22,
+          "media_count": 132,
+          "tweet_count": 870
+        },
+        "username": "Eyesouo2b",
+        "verified": false
+      }
+    ]
+  }
+}

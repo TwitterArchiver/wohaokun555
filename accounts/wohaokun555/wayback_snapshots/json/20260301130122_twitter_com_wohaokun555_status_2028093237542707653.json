@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2028086683779146068",
+    "created_at": "2026-03-01T13:01:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T14:01:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028093237542707653"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1676906068109332481",
+          "start": 0,
+          "username": "wlj69mzc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028093237542707653",
+    "in_reply_to_user_id": "1676906068109332481",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028092903256371558",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wlj69mzc 等吃完饭我旁敲侧击一下～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2028086683779146068",
+        "created_at": "2026-03-01T13:01:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T14:01:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028093237542707653"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1676906068109332481",
+              "start": 0,
+              "username": "wlj69mzc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028093237542707653",
+        "in_reply_to_user_id": "1676906068109332481",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028092903256371558",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wlj69mzc 等吃完饭我旁敲侧击一下～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676906068109332481",
+        "conversation_id": "2028086683779146068",
+        "created_at": "2026-03-01T13:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T14:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028092903256371558"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028092903256371558",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028086683779146068",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 可以提醒一下他，感觉他可能是故意的😨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2JlN5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2JlN5"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "除了口令和正常问题别的私信不回",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2016792238060421479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 947,
+          "following_count": 95,
+          "like_count": 9807,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 1788
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-06T10:49:17.000Z",
+        "description": "橹穆批和有趣的宝宝来找我玩呀",
+        "id": "1676906068109332481",
+        "name": "掖被子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989259783862407169/KnY0Tz45_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 85,
+          "like_count": 518,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 148
+        },
+        "username": "wlj69mzc",
+        "verified": false
+      }
+    ]
+  }
+}

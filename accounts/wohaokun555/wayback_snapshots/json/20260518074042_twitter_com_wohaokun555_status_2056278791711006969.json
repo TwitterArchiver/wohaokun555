@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2056255413805601281",
+    "created_at": "2026-05-18T07:40:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T08:40:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056278791711006969"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1885508195973816322",
+          "start": 0,
+          "username": "zhh_537"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056278791711006969",
+    "in_reply_to_user_id": "1885508195973816322",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056269153443680316",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhh_537 我回你了你看不到吗呜呜呜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2056255413805601281",
+        "created_at": "2026-05-18T07:40:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T08:40:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056278791711006969"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1885508195973816322",
+              "start": 0,
+              "username": "zhh_537"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056278791711006969",
+        "in_reply_to_user_id": "1885508195973816322",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056269153443680316",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhh_537 我回你了你看不到吗呜呜呜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1885508195973816322",
+        "conversation_id": "2056255413805601281",
+        "created_at": "2026-05-18T07:02:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T08:02:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056269153443680316"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056269153443680316",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056255413805601281",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 什么时候可以看下私信忧郁神…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "🚪（纯绿 不入勿扰",
+        "id": "2004619896630788096",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2036315164098830372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2061,
+          "following_count": 100,
+          "like_count": 19304,
+          "listed_count": 1,
+          "media_count": 230,
+          "tweet_count": 3204
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-01T01:59:34.000Z",
+        "description": "疲惫时共享一根烟",
+        "id": "1885508195973816322",
+        "name": "43岁无情后爸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047611912167493632/QnSgpG-G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 11,
+          "like_count": 44,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 24
+        },
+        "username": "zhh_537",
+        "verified": false
+      }
+    ]
+  }
+}

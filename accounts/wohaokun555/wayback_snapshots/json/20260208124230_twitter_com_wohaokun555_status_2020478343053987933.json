@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2020302742057791973",
+    "created_at": "2026-02-08T12:42:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-08T13:42:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020478343053987933"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1623720309533847552",
+          "start": 0,
+          "username": "Violette404x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020478343053987933",
+    "in_reply_to_user_id": "1623720309533847552",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020476598051586050",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Violette404x 笑死我了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2020302742057791973",
+        "created_at": "2026-02-08T12:42:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T13:42:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020478343053987933"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1623720309533847552",
+              "start": 0,
+              "username": "Violette404x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020478343053987933",
+        "in_reply_to_user_id": "1623720309533847552",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020476598051586050",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Violette404x 笑死我了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1623720309533847552",
+        "conversation_id": "2020302742057791973",
+        "created_at": "2026-02-08T12:35:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T13:35:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020476598051586050"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020476598051586050",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020302742057791973",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 188➕地址可代下单飞机杯"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2JlN5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2JlN5"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "🚪188（绿（别的私信不回",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2019333252520321256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014313058978406400/yLC08oHO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 622,
+          "following_count": 72,
+          "like_count": 6196,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 1186
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-09T16:27:53.000Z",
+        "description": "卖多少次才能幸福",
+        "id": "1623720309533847552",
+        "location": "🚪99/188/222有福利看更多",
+        "name": "。",
+        "pinned_tweet_id": "2018934988646105184",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020430102832832512/1ZejMTUv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32072,
+          "following_count": 219,
+          "like_count": 26991,
+          "listed_count": 178,
+          "media_count": 320,
+          "tweet_count": 3440
+        },
+        "username": "Violette404x",
+        "verified": false
+      }
+    ]
+  }
+}

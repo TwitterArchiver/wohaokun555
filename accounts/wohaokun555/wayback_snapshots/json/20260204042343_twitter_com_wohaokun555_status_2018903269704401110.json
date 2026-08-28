@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2018859042752639182",
+    "created_at": "2026-02-04T04:23:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T05:23:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018903269704401110"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1760994638478118912",
+          "start": 0,
+          "username": "3timesdie333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018903269704401110",
+    "in_reply_to_user_id": "1760994638478118912",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018897552033411566",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@3timesdie333 嗯呢…！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2018859042752639182",
+        "created_at": "2026-02-04T04:23:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T05:23:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018903269704401110"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1760994638478118912",
+              "start": 0,
+              "username": "3timesdie333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018903269704401110",
+        "in_reply_to_user_id": "1760994638478118912",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018897552033411566",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3timesdie333 嗯呢…！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1760994638478118912",
+        "conversation_id": "2018859042752639182",
+        "created_at": "2026-02-04T04:01:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T05:01:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018897552033411566"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018897552033411566",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018859042752639182",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 没事的，大家都会和自己爱的人和爱自己的人吵架，只要吵架过后能互相稍微表达一下歉意和爱意，就已经很好了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2JlN5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2JlN5"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "🚪188（别的私信不回",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2008543541979738501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014313058978406400/yLC08oHO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 566,
+          "following_count": 72,
+          "like_count": 5132,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 1009
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-23T11:47:00.000Z",
+        "description": "一江之水夜未央 一江之隔夜思凉",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "baidu.com",
+                "end": 23,
+                "expanded_url": "http://www.baidu.com",
+                "start": 0,
+                "url": "https://t.co/tIWU3jIk6t"
+              }
+            ]
+          }
+        },
+        "id": "1760994638478118912",
+        "location": "🌴",
+        "name": "kkkbzydizzz",
+        "pinned_tweet_id": "1926508761264296426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957250727065317376/Jd_6n6CG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 754,
+          "like_count": 1596,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 461
+        },
+        "url": "https://t.co/tIWU3jIk6t",
+        "username": "3timesdie333",
+        "verified": false
+      }
+    ]
+  }
+}

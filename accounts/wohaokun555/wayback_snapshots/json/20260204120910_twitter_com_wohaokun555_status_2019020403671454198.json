@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2019012900917326126",
+    "created_at": "2026-02-04T12:09:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T13:09:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019020403671454198"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1858928423256944640",
+          "start": 0,
+          "username": "jingjing139174"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019020403671454198",
+    "in_reply_to_user_id": "1858928423256944640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019012900917326126",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jingjing139174 欢天喜地好哥们发出攻击"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1218,
+        "media_key": "3_2019012888195997696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAT5hk3boAAh-FE.jpg",
+        "width": 1170
+      },
+      {
+        "height": 710,
+        "media_key": "3_2019012888112066560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAT5hkja8AA8rYk.jpg",
+        "width": 603
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2019012900917326126",
+        "created_at": "2026-02-04T12:09:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T13:09:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019020403671454198"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1858928423256944640",
+              "start": 0,
+              "username": "jingjing139174"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019020403671454198",
+        "in_reply_to_user_id": "1858928423256944640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019012900917326126",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jingjing139174 欢天喜地好哥们发出攻击"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019012888195997696",
+            "3_2019012888112066560"
+          ]
+        },
+        "author_id": "1858928423256944640",
+        "conversation_id": "2019012900917326126",
+        "created_at": "2026-02-04T11:39:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T12:39:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019012900917326126"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7oTwmzc38o",
+              "end": 64,
+              "expanded_url": "https://x.com/jingjing139174/status/2019012900917326126/photo/1",
+              "media_key": "3_2019012888195997696",
+              "start": 41,
+              "url": "https://t.co/7oTwmzc38o"
+            },
+            {
+              "display_url": "pic.x.com/7oTwmzc38o",
+              "end": 64,
+              "expanded_url": "https://x.com/jingjing139174/status/2019012900917326126/photo/1",
+              "media_key": "3_2019012888112066560",
+              "start": 41,
+              "url": "https://t.co/7oTwmzc38o"
+            },
+            {
+              "display_url": "x.com/jingjing139174…",
+              "end": 88,
+              "expanded_url": "https://twitter.com/jingjing139174/status/2018749989082775761",
+              "start": 65,
+              "url": "https://t.co/BXK9tsObb0"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "c00e5392b3fa46fb"
+        },
+        "id": "2019012900917326126",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1040,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018749989082775761",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "刚刚拉黑完lexpurner\n花少南又来了。\n能不能放过我 我就不耽误你第八年了 https://t.co/7oTwmzc38o https://t.co/BXK9tsObb0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2JlN5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2JlN5"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "🚪188（别的私信不回",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2008543541979738501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014313058978406400/yLC08oHO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 567,
+          "following_count": 72,
+          "like_count": 5288,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 998
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-19T17:40:56.000Z",
+        "description": "丑人不准私我❌不线下不闲聊不搞门槛不是黄推不接转帖不卖号不置顶不接推广❗️❗️❗️普普通通的恋爱人类🧸日常存档🎀",
+        "id": "1858928423256944640",
+        "name": "酱酱",
+        "pinned_tweet_id": "1884998584900448340",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864737285092368384/kqJkE6f5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15120,
+          "following_count": 242,
+          "like_count": 184,
+          "listed_count": 24,
+          "media_count": 356,
+          "tweet_count": 1450
+        },
+        "username": "jingjing139174",
+        "verified": false
+      }
+    ]
+  }
+}

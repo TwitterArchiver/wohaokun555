@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2008447734962081835",
+    "created_at": "2026-01-06T12:14:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-06T13:14:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008512487893934341"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1886257354859315200",
+          "start": 0,
+          "username": "nn142857"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008512487893934341",
+    "in_reply_to_user_id": "1886257354859315200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008447734962081835",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nn142857 不说了 闭眼接"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2008447726783254528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G99wkPjbUAAO2PN.jpg",
+        "width": 920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2008447734962081835",
+        "created_at": "2026-01-06T12:14:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T13:14:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008512487893934341"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1886257354859315200",
+              "start": 0,
+              "username": "nn142857"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008512487893934341",
+        "in_reply_to_user_id": "1886257354859315200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008447734962081835",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nn142857 不说了 闭眼接"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2008447726783254528"
+          ]
+        },
+        "author_id": "1886257354859315200",
+        "conversation_id": "2008447734962081835",
+        "created_at": "2026-01-06T07:57:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T08:57:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008447734962081835"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/28I1jfOmHH",
+              "end": 46,
+              "expanded_url": "https://x.com/nn142857/status/2008447734962081835/photo/1",
+              "media_key": "3_2008447726783254528",
+              "start": 23,
+              "url": "https://t.co/28I1jfOmHH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008447734962081835",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3843,
+          "like_count": 20,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真的要谢谢推特谢谢大家 都是我的衣食父母！ https://t.co/28I1jfOmHH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "天天开心o^^o",
+        "id": "2004619896630788096",
+        "location": "三体星球",
+        "name": "鱼虾一整碗",
+        "pinned_tweet_id": "2008218066103238856",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004620653153189888/VWgYLNYv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 40,
+          "like_count": 1230,
+          "listed_count": 1,
+          "media_count": 27,
+          "tweet_count": 428
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-03T03:36:21.000Z",
+        "description": "4i/1i 相互尊重上推为了看美女和肌肉男  喜欢我的可以给我打钱了",
+        "id": "1886257354859315200",
+        "name": "大石",
+        "pinned_tweet_id": "1989584194532774159",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964072483679850498/VazYwvsS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3767,
+          "following_count": 93,
+          "like_count": 1415,
+          "listed_count": 5,
+          "media_count": 54,
+          "tweet_count": 315
+        },
+        "username": "nn142857",
+        "verified": false
+      }
+    ]
+  }
+}

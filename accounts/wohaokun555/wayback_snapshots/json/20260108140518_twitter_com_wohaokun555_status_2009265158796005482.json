@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2009264362460975247",
+    "created_at": "2026-01-08T14:05:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-08T15:05:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009265158796005482"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1592820644919533569",
+          "start": 0,
+          "username": "huajimeirenr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009265158796005482",
+    "in_reply_to_user_id": "1592820644919533569",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009264362460975247",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huajimeirenr 好漂亮"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 1816,
+        "height": 960,
+        "media_key": "13_2009264344023093249",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2009264344023093249/img/bppEu8Li_hhziB8L.jpg",
+        "public_metrics": {
+          "view_count": 2
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2009264344023093249/vid/avc1/320x564/GGM-ykn5PxEon6V0.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2009264344023093249/vid/avc1/480x846/n_L-bHAdXn_L0_Uq.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2009264344023093249/vid/avc1/544x960/zcDdig0k1SX3Y1yW.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2009264344023093249/pl/G2wc9jKZHbsv704E.m3u8"
+          }
+        ],
+        "width": 544
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2009264362460975247",
+        "created_at": "2026-01-08T14:05:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T15:05:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009265158796005482"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1592820644919533569",
+              "start": 0,
+              "username": "huajimeirenr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009265158796005482",
+        "in_reply_to_user_id": "1592820644919533569",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009264362460975247",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huajimeirenr 好漂亮"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2009264344023093249"
+          ]
+        },
+        "author_id": "1592820644919533569",
+        "conversation_id": "2009264362460975247",
+        "created_at": "2026-01-08T14:02:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T15:02:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009264362460975247"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pM8VDzngud",
+              "end": 34,
+              "expanded_url": "https://x.com/huajimeirenr/status/2009264362460975247/video/1",
+              "media_key": "13_2009264344023093249",
+              "start": 11,
+              "url": "https://t.co/pM8VDzngud"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009264362460975247",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "染了但是懒得化妆.. https://t.co/pM8VDzngud"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "天天开心o^^o",
+        "id": "2004619896630788096",
+        "location": "三体星球",
+        "name": "鱼虾一整碗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004620653153189888/VWgYLNYv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 253,
+          "following_count": 54,
+          "like_count": 1621,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 545
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-16T10:03:44.000Z",
+        "description": "05 180/ infj 当朋友圈发 无🚪",
+        "id": "1592820644919533569",
+        "location": "唉",
+        "name": "一颗蛋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974387290026946560/_5kxDxOl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 652,
+          "following_count": 44,
+          "like_count": 3118,
+          "listed_count": 0,
+          "media_count": 223,
+          "tweet_count": 698
+        },
+        "username": "huajimeirenr",
+        "verified": false
+      }
+    ]
+  }
+}

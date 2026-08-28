@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056804953671553025"
+      ],
+      "media_source_tweet_id": [
+        "2056804962601173442"
+      ]
+    },
+    "author_id": "2004619896630788096",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2056973113037136151",
+    "created_at": "2026-05-20T05:39:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T06:39:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056973113037136151"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1802391614251556864",
+          "start": 3,
+          "username": "chipsinblack"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/S0jMkv4zA6",
+          "end": 121,
+          "expanded_url": "https://x.com/chipsinblack/status/2056804962601173442/photo/1",
+          "media_key": "3_2056804953671553025",
+          "start": 98,
+          "url": "https://t.co/S0jMkv4zA6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056973113037136151",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056804962601173442",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chipsinblack: 今晚看了《美丽人生》。这段台词从意大利男人嘴里说出来竟然特别自然\n“对，我想和你做爱。  \n而且想了很久。”\n没错，以后我表白也这样。可能因为坦荡本身就很性感 https://t.co/S0jMkv4zA6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 965,
+        "media_key": "3_2056804953671553025",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIs9NTvbUAE3yRz.jpg",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056804953671553025"
+          ],
+          "media_source_tweet_id": [
+            "2056804962601173442"
+          ]
+        },
+        "author_id": "2004619896630788096",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2056973113037136151",
+        "created_at": "2026-05-20T05:39:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T06:39:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056973113037136151"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1802391614251556864",
+              "start": 3,
+              "username": "chipsinblack"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/S0jMkv4zA6",
+              "end": 121,
+              "expanded_url": "https://x.com/chipsinblack/status/2056804962601173442/photo/1",
+              "media_key": "3_2056804953671553025",
+              "start": 98,
+              "url": "https://t.co/S0jMkv4zA6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056973113037136151",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056804962601173442",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chipsinblack: 今晚看了《美丽人生》。这段台词从意大利男人嘴里说出来竟然特别自然\n“对，我想和你做爱。  \n而且想了很久。”\n没错，以后我表白也这样。可能因为坦荡本身就很性感 https://t.co/S0jMkv4zA6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056804953671553025"
+          ]
+        },
+        "author_id": "1802391614251556864",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2056804962601173442",
+        "created_at": "2026-05-19T18:31:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T19:31:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056804962601173442"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/S0jMkv4zA6",
+              "end": 103,
+              "expanded_url": "https://x.com/chipsinblack/status/2056804962601173442/photo/1",
+              "media_key": "3_2056804953671553025",
+              "start": 80,
+              "url": "https://t.co/S0jMkv4zA6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056804962601173442",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 45,
+          "impression_count": 18656,
+          "like_count": 212,
+          "quote_count": 9,
+          "reply_count": 7,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "今晚看了《美丽人生》。这段台词从意大利男人嘴里说出来竟然特别自然\n“对，我想和你做爱。  \n而且想了很久。”\n没错，以后我表白也这样。可能因为坦荡本身就很性感 https://t.co/S0jMkv4zA6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "🚪（纯绿 不入勿扰",
+        "id": "2004619896630788096",
+        "location": "没义务陪聊 别问我乱七八糟的",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2036315164098830372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2059,
+          "following_count": 101,
+          "like_count": 19545,
+          "listed_count": 1,
+          "media_count": 235,
+          "tweet_count": 3235
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-16T17:23:49.000Z",
+        "description": "主动淬火的玻璃心//自用🪜 https://t.co/65EAFxckOB",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tw09.chachay.top/#/register?cod…",
+                "end": 37,
+                "expanded_url": "https://tw09.chachay.top/#/register?code=uVEIxFT8",
+                "start": 14,
+                "url": "https://t.co/65EAFxckOB"
+              }
+            ]
+          }
+        },
+        "id": "1802391614251556864",
+        "location": "🚪520口令/usdt",
+        "name": "hihichips",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1802391762222374912/ZC5997aX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13177,
+          "following_count": 358,
+          "like_count": 4869,
+          "listed_count": 76,
+          "media_count": 83,
+          "tweet_count": 522
+        },
+        "username": "chipsinblack",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2060575687279567255",
+    "created_at": "2026-05-30T04:15:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T05:15:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060575687279567255"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2009538345274425344",
+          "start": 0,
+          "username": "lei_meng123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060575687279567255",
+    "in_reply_to_user_id": "2009538345274425344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "@lei_meng123 不嫌我话多的话来申请这个好吗🤲🏻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2060575687279567255",
+        "created_at": "2026-05-30T04:15:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T05:15:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060575687279567255"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2009538345274425344",
+              "start": 0,
+              "username": "lei_meng123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060575687279567255",
+        "in_reply_to_user_id": "2009538345274425344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@lei_meng123 不嫌我话多的话来申请这个好吗🤲🏻"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "🚪不入勿扰",
+        "id": "2004619896630788096",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2036315164098830372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2159,
+          "following_count": 77,
+          "like_count": 20513,
+          "listed_count": 2,
+          "media_count": 241,
+          "tweet_count": 3371
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-09T08:10:58.000Z",
+        "description": "thoughts…",
+        "id": "2009538345274425344",
+        "name": "神",
+        "pinned_tweet_id": "2012395239319691340",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059650467194712064/NIMNPll8_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 11,
+          "like_count": 1396,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 182
+        },
+        "username": "lei_meng123",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2018587960804094446",
+    "created_at": "2026-02-03T07:30:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T08:30:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2018587960804094446"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/zhongjiezhex/s…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/zhongjiezhex/status/2018575525296402547",
+          "start": 19,
+          "url": "https://t.co/lVZAa9eRjW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018587960804094446",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018575525296402547",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我要蹲蹲这个终结者的红包(o^^o) https://t.co/lVZAa9eRjW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 626,
+        "media_key": "3_2018575511673245696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HANru6WWEAAh-VG.jpg",
+        "width": 750
+      },
+      {
+        "height": 1041,
+        "media_key": "3_2018575511765581824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HANru6sXAAAT-4e.jpg",
+        "width": 750
+      },
+      {
+        "height": 714,
+        "media_key": "3_2018575511673245697",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HANru6WWEAEoUDC.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2018587960804094446",
+        "created_at": "2026-02-03T07:30:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T08:30:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018587960804094446"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zhongjiezhex/s…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/zhongjiezhex/status/2018575525296402547",
+              "start": 19,
+              "url": "https://t.co/lVZAa9eRjW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018587960804094446",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018575525296402547",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我要蹲蹲这个终结者的红包(o^^o) https://t.co/lVZAa9eRjW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018575511673245696",
+            "3_2018575511765581824",
+            "3_2018575511673245697"
+          ]
+        },
+        "author_id": "1970592647799558144",
+        "conversation_id": "2018575525296402547",
+        "created_at": "2026-02-03T06:41:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T07:41:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018575525296402547"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 57,
+              "id": "1971898933418070016",
+              "start": 50,
+              "username": "404fyp"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IxGUDgCbm3",
+              "end": 175,
+              "expanded_url": "https://x.com/zhongjiezhex/status/2018575525296402547/photo/1",
+              "media_key": "3_2018575511673245696",
+              "start": 152,
+              "url": "https://t.co/IxGUDgCbm3"
+            },
+            {
+              "display_url": "pic.x.com/IxGUDgCbm3",
+              "end": 175,
+              "expanded_url": "https://x.com/zhongjiezhex/status/2018575525296402547/photo/1",
+              "media_key": "3_2018575511765581824",
+              "start": 152,
+              "url": "https://t.co/IxGUDgCbm3"
+            },
+            {
+              "display_url": "pic.x.com/IxGUDgCbm3",
+              "end": 175,
+              "expanded_url": "https://x.com/zhongjiezhex/status/2018575525296402547/photo/1",
+              "media_key": "3_2018575511673245697",
+              "start": 152,
+              "url": "https://t.co/IxGUDgCbm3"
+            },
+            {
+              "display_url": "x.com/zhongjiezhex/s…",
+              "end": 199,
+              "expanded_url": "https://twitter.com/zhongjiezhex/status/2018153070627033521",
+              "start": 176,
+              "url": "https://t.co/BKdcu2tgIx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018575525296402547",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 57,
+                "id": "1971898933418070016",
+                "start": 50,
+                "username": "404fyp"
+              }
+            ]
+          },
+          "text": "引用转发这条推24小时后抽300口令红包🧧\n今天有两件事值得说一下嘻嘻/\n\n1: 总算收到了豆豆哥 @404fyp 的5台拍立得赞助 之前怪我太贪心了要10台让豆哥生气了 豆哥好人不计较还是赞助我了😭豆豆哥转的钱我会拿出来抽给粉丝的 有黑子黑我说我假抽私吞 去看我前面几条有没有开奖吧眼瞎的🐶东西\n2: 装富哥p图晒转账的骗子Runa @Riily6an 已经在昨天被终结者制裁销号跑路了 骗子是惯犯 很多门姐私聊我让我曝光 骗子p图晒转账钓🚪姐然后让门姐发doi露脸视频 骗子会拿这些视频取威胁门姐或者干其他坏事 有6 7个门姐都私信给我说这个情况 然后终结者动了点手段顺着网线揪出了骗子 把东西甩在他面前 让他接警察叔叔电话 他直接注销跑路了"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1265,
+          "like_count": 3,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018153070627033521",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "引用转发这条推24小时后抽300口令红包🧧\n今天有两件事值得说一下嘻嘻/\n\n1: 总算收到了豆豆哥 @404fyp 的5台拍立得赞助 之前怪我太贪心了要10台让豆哥生气了 豆哥好人不计较还是赞助我了😭豆豆哥转的钱我会拿出来抽给粉丝的 有黑子黑我说我假抽私吞 去看我前面几条有没有开奖吧眼瞎的🐶东西\n2: https://t.co/IxGUDgCbm3 https://t.co/BKdcu2tgIx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2JlN5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2JlN5"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "🚪188（别的私信不回",
+        "name": "中推忧郁神",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014313058978406400/yLC08oHO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 566,
+          "following_count": 72,
+          "like_count": 4950,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 998
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-23T20:55:27.000Z",
+        "description": "所有推文不涉及商业利益主打一个开心/盒武器反制专家/专治欺软怕硬地头蛇/法律咨询：河北取势律师事务所",
+        "id": "1970592647799558144",
+        "name": "中推终结者",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011361104354480128/AEmK5XDO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89382,
+          "following_count": 73,
+          "like_count": 424,
+          "listed_count": 19,
+          "media_count": 31,
+          "tweet_count": 117
+        },
+        "username": "zhongjiezhex",
+        "verified": true
+      }
+    ]
+  }
+}

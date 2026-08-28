@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2021548855075185141",
+    "created_at": "2026-02-12T07:52:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T08:52:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021855004894921111"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2002729807348727808",
+          "start": 0,
+          "username": "UajsN30604"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021855004894921111",
+    "in_reply_to_user_id": "2002729807348727808",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021854522302509349",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@UajsN30604 哈哈哈哈哈哈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2021548855075185141",
+        "created_at": "2026-02-12T07:52:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T08:52:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021855004894921111"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2002729807348727808",
+              "start": 0,
+              "username": "UajsN30604"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021855004894921111",
+        "in_reply_to_user_id": "2002729807348727808",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021854522302509349",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@UajsN30604 哈哈哈哈哈哈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002729807348727808",
+        "conversation_id": "2021548855075185141",
+        "created_at": "2026-02-12T07:50:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T08:50:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021854522302509349"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021854522302509349",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021548855075185141",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 此帖评论区笑死我了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2JlN5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2JlN5"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "🚪188（纯绿纯绿纯绿纯绿（别的私信不回",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2019333252520321256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014313058978406400/yLC08oHO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 681,
+          "following_count": 76,
+          "like_count": 6939,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 1314
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-21T13:16:21.000Z",
+        "description": "",
+        "id": "2002729807348727808",
+        "name": "uajs nwj",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017851988739035137/5wmxvrV4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 11,
+          "like_count": 456,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 35
+        },
+        "username": "UajsN30604",
+        "verified": false
+      }
+    ]
+  }
+}

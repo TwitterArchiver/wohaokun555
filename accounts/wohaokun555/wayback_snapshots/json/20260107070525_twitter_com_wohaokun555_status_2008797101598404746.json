@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2008539047187144929",
+    "created_at": "2026-01-07T07:05:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-07T08:05:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008797101598404746"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1844347975419772928",
+          "start": 0,
+          "username": "Dea_rMen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008797101598404746",
+    "in_reply_to_user_id": "1844347975419772928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008539047187144929",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Dea_rMen 2026许愿"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14024,
+        "height": 906,
+        "media_key": "13_2008181775089188864",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2008181775089188864/img/6zX3ctTutCAtQ02j.jpg",
+        "public_metrics": {
+          "view_count": 50106
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2008181775089188864/vid/avc1/480x490/9bUVX8_BZVFEKWgV.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2008181775089188864/vid/avc1/720x736/xgiaIUYWO6NzLt9a.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2008181775089188864/vid/avc1/320x326/r30WSEyvU59eBwJ4.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2008181775089188864/pl/ovCqA7HhcWv8167R.m3u8?v=6ec"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2008181775089188864/vid/avc1/886x906/aMf0h5zFq3P30o8d.mp4"
+          }
+        ],
+        "width": 886
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2008539047187144929",
+        "created_at": "2026-01-07T07:05:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T08:05:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008797101598404746"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1844347975419772928",
+              "start": 0,
+              "username": "Dea_rMen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008797101598404746",
+        "in_reply_to_user_id": "1844347975419772928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008539047187144929",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dea_rMen 2026许愿"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2008181775089188864"
+          ]
+        },
+        "author_id": "1844347975419772928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2008539047187144929",
+        "created_at": "2026-01-06T14:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T15:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008539047187144929"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UmR6fjTbRq",
+              "end": 69,
+              "expanded_url": "https://x.com/Dea_rMen/status/2008539047187144929/video/1",
+              "media_key": "13_2008181775089188864",
+              "start": 46,
+              "url": "https://t.co/UmR6fjTbRq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008539047187144929",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 315,
+          "impression_count": 159836,
+          "like_count": 7842,
+          "quote_count": 30,
+          "reply_count": 42,
+          "retweet_count": 1074
+        },
+        "reply_settings": "everyone",
+        "text": "The only problem I want to handle nowadays... https://t.co/UmR6fjTbRq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "天天开心o^^o",
+        "id": "2004619896630788096",
+        "location": "三体星球",
+        "name": "鱼虾一整碗",
+        "pinned_tweet_id": "2008218066103238856",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004620653153189888/VWgYLNYv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 186,
+          "following_count": 48,
+          "like_count": 1346,
+          "listed_count": 1,
+          "media_count": 29,
+          "tweet_count": 450
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-10T12:03:26.000Z",
+        "description": "Helping men grow: mentally, financially, and personally.\n\nopen for e-book promotion.\n\nDM for promotion. X growth expert. turn on notification.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "gumroad.com/a/880890067/XF…",
+                "end": 23,
+                "expanded_url": "https://gumroad.com/a/880890067/XFFpt",
+                "start": 0,
+                "url": "https://t.co/kwPGFqm5Yt"
+              }
+            ]
+          }
+        },
+        "id": "1844347975419772928",
+        "location": "Make $200/day on X:",
+        "name": "Dear Men.",
+        "pinned_tweet_id": "2008539047187144929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000866512874430464/RdJXkToW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119292,
+          "following_count": 3507,
+          "like_count": 2553,
+          "listed_count": 178,
+          "media_count": 3753,
+          "tweet_count": 5590
+        },
+        "url": "https://t.co/kwPGFqm5Yt",
+        "username": "Dea_rMen",
+        "verified": true
+      }
+    ]
+  }
+}

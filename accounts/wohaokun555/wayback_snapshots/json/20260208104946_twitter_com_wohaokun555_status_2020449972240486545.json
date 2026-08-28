@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2020404061133054079",
+    "created_at": "2026-02-08T10:49:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-08T11:49:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020449972240486545"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1733355014444187648",
+          "start": 0,
+          "username": "BaeHuAzAi7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020449972240486545",
+    "in_reply_to_user_id": "1733355014444187648",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020404061133054079",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BaeHuAzAi7 好萌"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2020404047010766848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAnqxrTWoAAJI1K.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2020404061133054079",
+        "created_at": "2026-02-08T10:49:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T11:49:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020449972240486545"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1733355014444187648",
+              "start": 0,
+              "username": "BaeHuAzAi7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020449972240486545",
+        "in_reply_to_user_id": "1733355014444187648",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020404061133054079",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BaeHuAzAi7 好萌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020404047010766848"
+          ]
+        },
+        "author_id": "1733355014444187648",
+        "conversation_id": "2020404061133054079",
+        "created_at": "2026-02-08T07:47:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T08:47:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020404061133054079"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2rSauv4SfJ",
+              "end": 30,
+              "expanded_url": "https://x.com/BaeHuAzAi7/status/2020404061133054079/photo/1",
+              "media_key": "3_2020404047010766848",
+              "start": 7,
+              "url": "https://t.co/2rSauv4SfJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020404061133054079",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1544,
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "那種事的話… https://t.co/2rSauv4SfJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2JlN5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2JlN5"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "🚪188（绿（别的私信不回",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2019333252520321256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014313058978406400/yLC08oHO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 617,
+          "following_count": 72,
+          "like_count": 6176,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 1178
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-09T05:17:01.000Z",
+        "description": "別說愛我。",
+        "id": "1733355014444187648",
+        "name": "HuA zAi。",
+        "pinned_tweet_id": "1897175133980442725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791399577125527552/5JbhMa67_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3331,
+          "following_count": 185,
+          "like_count": 675,
+          "listed_count": 5,
+          "media_count": 56,
+          "tweet_count": 382
+        },
+        "username": "BaeHuAzAi7",
+        "verified": false
+      }
+    ]
+  }
+}

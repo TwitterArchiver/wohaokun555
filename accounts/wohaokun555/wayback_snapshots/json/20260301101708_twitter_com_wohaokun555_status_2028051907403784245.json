@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2028020495460012207",
+    "created_at": "2026-03-01T10:17:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T11:17:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028051907403784245"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2165736150",
+          "start": 0,
+          "username": "tiancai312"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028051907403784245",
+    "in_reply_to_user_id": "2165736150",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028020495460012207",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tiancai312 蹲"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 534,
+        "media_key": "3_2028020485855096832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCT54xCbsAABIkq.jpg",
+        "width": 1053
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2028020495460012207",
+        "created_at": "2026-03-01T10:17:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T11:17:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028051907403784245"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2165736150",
+              "start": 0,
+              "username": "tiancai312"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028051907403784245",
+        "in_reply_to_user_id": "2165736150",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028020495460012207",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tiancai312 蹲"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028020485855096832"
+          ]
+        },
+        "author_id": "2165736150",
+        "conversation_id": "2028020495460012207",
+        "created_at": "2026-03-01T08:12:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T09:12:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028020495460012207"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1Kt9LvsBEV",
+              "end": 41,
+              "expanded_url": "https://x.com/tiancai312/status/2028020495460012207/photo/1",
+              "media_key": "3_2028020485855096832",
+              "start": 18,
+              "url": "https://t.co/1Kt9LvsBEV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028020495460012207",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1817,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 54,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "青年音🤤 \n评论区抽3杯30的奶茶 https://t.co/1Kt9LvsBEV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2JlN5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2JlN5"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "除了口令和正常问题别的私信不回",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2016792238060421479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 944,
+          "following_count": 95,
+          "like_count": 9734,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 1781
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2013-10-31T00:49:14.000Z",
+        "description": "碎碎念分享/话题投稿/树洞吐槽/分享日常/情感话题/交友投稿/每日大赛/希望大家将心比心 谢谢你那么优秀 还选择我",
+        "id": "2165736150",
+        "location": "相逢已是上上签",
+        "name": "社恐的元大鹰",
+        "pinned_tweet_id": "2021844137864310812",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013164874285658112/12AHYrdc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14357,
+          "following_count": 44,
+          "like_count": 17741,
+          "listed_count": 20,
+          "media_count": 304,
+          "tweet_count": 1221
+        },
+        "username": "tiancai312",
+        "verified": false
+      }
+    ]
+  }
+}

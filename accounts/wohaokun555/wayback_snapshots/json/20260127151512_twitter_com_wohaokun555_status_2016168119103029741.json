@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2016154718553465003",
+    "created_at": "2026-01-27T15:15:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T16:15:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016168119103029741"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1223407990713114624",
+          "start": 0,
+          "username": "wmtbxsh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016168119103029741",
+    "in_reply_to_user_id": "1223407990713114624",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016154718553465003",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wmtbxsh 接"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 322,
+        "media_key": "3_2016154712215846913",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_rSB1nbAAE01b9.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2016154718553465003",
+        "created_at": "2026-01-27T15:15:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T16:15:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016168119103029741"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1223407990713114624",
+              "start": 0,
+              "username": "wmtbxsh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016168119103029741",
+        "in_reply_to_user_id": "1223407990713114624",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016154718553465003",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wmtbxsh 接"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016154712215846913"
+          ]
+        },
+        "author_id": "1223407990713114624",
+        "conversation_id": "2016154718553465003",
+        "created_at": "2026-01-27T14:21:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T15:21:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016154718553465003"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/90xOI6WxBF",
+              "end": 30,
+              "expanded_url": "https://x.com/wmtbxsh/status/2016154718553465003/photo/1",
+              "media_key": "3_2016154712215846913",
+              "start": 7,
+              "url": "https://t.co/90xOI6WxBF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016154718553465003",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1415,
+          "like_count": 41,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这流量 谁接 https://t.co/90xOI6WxBF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2JlN5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2JlN5"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "天天开心",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2016089174978494744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014313058978406400/yLC08oHO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 462,
+          "following_count": 70,
+          "like_count": 3435,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 851
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-01T00:49:51.000Z",
+        "description": "我只想安静发疯💢｜碎碎念@wjtbxsh｜推广自辨❗️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 12,
+                "username": "wjtbxsh"
+              }
+            ]
+          }
+        },
+        "id": "1223407990713114624",
+        "name": "我明天不想说话（读研发疯版）",
+        "pinned_tweet_id": "1969050003600494820",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012531606020390912/jU4-9qGu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41160,
+          "following_count": 241,
+          "like_count": 5035,
+          "listed_count": 95,
+          "media_count": 315,
+          "tweet_count": 1402
+        },
+        "username": "wmtbxsh",
+        "verified": true
+      }
+    ]
+  }
+}

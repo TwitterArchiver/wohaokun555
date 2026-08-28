@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2004638804163133728",
+    "created_at": "2025-12-27T14:24:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-27T15:24:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004921222572986750"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1977712061452075008",
+          "start": 0,
+          "username": "NN_030_NN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004921222572986750",
+    "in_reply_to_user_id": "1977712061452075008",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004638804163133728",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NN_030_NN 君子之交淡如水～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2004638804163133728",
+        "created_at": "2025-12-27T14:24:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T15:24:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004921222572986750"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1977712061452075008",
+              "start": 0,
+              "username": "NN_030_NN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004921222572986750",
+        "in_reply_to_user_id": "1977712061452075008",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004638804163133728",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NN_030_NN 君子之交淡如水～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1977712061452075008",
+        "conversation_id": "2004638804163133728",
+        "created_at": "2025-12-26T19:41:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T20:41:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004638804163133728"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2004638804163133728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 495,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "早期跟我玩的人好多都不见了🥺🥺🥺🥺🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "🚪66",
+        "id": "2004619896630788096",
+        "location": "Hong Kong",
+        "name": "鱼虾一整碗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004620653153189888/VWgYLNYv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 11,
+          "like_count": 71,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 61
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-13T12:24:48.000Z",
+        "description": "我的宝@twotwoshu🙂‍↕️@Nini1986922 这里只有丑照🤓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 3,
+                "username": "twotwoshu"
+              },
+              {
+                "end": 29,
+                "start": 17,
+                "username": "Nini1986922"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nini6666",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nini6666",
+                "start": 0,
+                "url": "https://t.co/ZiRrMKIdTT"
+              }
+            ]
+          }
+        },
+        "id": "1977712061452075008",
+        "name": "Nini",
+        "pinned_tweet_id": "1998397093715779692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977782025571684352/hY_GodmR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 91,
+          "like_count": 448,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 161
+        },
+        "url": "https://t.co/ZiRrMKIdTT",
+        "username": "NN_030_NN",
+        "verified": false
+      }
+    ]
+  }
+}

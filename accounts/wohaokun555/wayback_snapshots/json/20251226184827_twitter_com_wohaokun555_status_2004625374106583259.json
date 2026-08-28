@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2002759802611728749",
+    "created_at": "2025-12-26T18:48:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-26T19:48:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004625374106583259"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1917979004260560896",
+          "start": 0,
+          "username": "loveurpuppy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004625374106583259",
+    "in_reply_to_user_id": "1917979004260560896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002759802611728749",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@loveurpuppy 感觉脸很丑的话根本做不下去吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2002759802611728749",
+        "created_at": "2025-12-26T18:48:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T19:48:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004625374106583259"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1917979004260560896",
+              "start": 0,
+              "username": "loveurpuppy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004625374106583259",
+        "in_reply_to_user_id": "1917979004260560896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002759802611728749",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@loveurpuppy 感觉脸很丑的话根本做不下去吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917979004260560896",
+        "conversation_id": "2002759802611728749",
+        "created_at": "2025-12-21T15:15:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T16:15:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002759802611728749"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2002759802611728749",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 37,
+          "impression_count": 440750,
+          "like_count": 1599,
+          "quote_count": 8,
+          "reply_count": 149,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "你们真的能只看到身体就约炮吗 脸对我来说是百分百定生死的一部分"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "🚪52",
+        "id": "2004619896630788096",
+        "location": "Hong Kong",
+        "name": "鱼虾一整碗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004620653153189888/VWgYLNYv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 1,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 7
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-01T16:26:59.000Z",
+        "description": "是一只小猫 这里是我的日记本📓（亡夫回忆录/性癖/随爪一发）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/loveurpuppy",
+                "end": 23,
+                "expanded_url": "https://ngl.link/loveurpuppy",
+                "start": 0,
+                "url": "https://t.co/8qVp92jlqJ"
+              }
+            ]
+          }
+        },
+        "id": "1917979004260560896",
+        "location": "🐈‍⬛",
+        "name": "小咪爱吃草",
+        "pinned_tweet_id": "1954170165475864717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928759473981763585/e9CXlMVK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 943,
+          "following_count": 52,
+          "like_count": 2645,
+          "listed_count": 4,
+          "media_count": 106,
+          "tweet_count": 777
+        },
+        "url": "https://t.co/8qVp92jlqJ",
+        "username": "loveurpuppy",
+        "verified": false
+      }
+    ]
+  }
+}

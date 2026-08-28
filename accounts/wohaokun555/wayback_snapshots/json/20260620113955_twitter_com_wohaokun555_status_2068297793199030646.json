@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068297786001698816"
+      ]
+    },
+    "author_id": "2004619896630788096",
+    "conversation_id": "2068297793199030646",
+    "created_at": "2026-06-20T11:39:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T12:39:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068297793199030646"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/e8pLcPnKnQ",
+          "end": 54,
+          "expanded_url": "https://x.com/wohaokun555/status/2068297793199030646/photo/1",
+          "media_key": "3_2068297786001698816",
+          "start": 31,
+          "url": "https://t.co/e8pLcPnKnQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068297793199030646",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "Can you wait don't love nobody https://t.co/e8pLcPnKnQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1560,
+        "media_key": "3_2068297786001698816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLQR4MhbsAAl2Jm.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068297786001698816"
+          ]
+        },
+        "author_id": "2004619896630788096",
+        "conversation_id": "2068297793199030646",
+        "created_at": "2026-06-20T11:39:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T12:39:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068297793199030646"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/e8pLcPnKnQ",
+              "end": 54,
+              "expanded_url": "https://x.com/wohaokun555/status/2068297793199030646/photo/1",
+              "media_key": "3_2068297786001698816",
+              "start": 31,
+              "url": "https://t.co/e8pLcPnKnQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068297793199030646",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Can you wait don't love nobody https://t.co/e8pLcPnKnQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "🌍",
+        "id": "2004619896630788096",
+        "location": "置顶是广告 非本人 请自辨",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2067618656885125585",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2444,
+          "following_count": 79,
+          "like_count": 22631,
+          "listed_count": 2,
+          "media_count": 135,
+          "tweet_count": 3614
+        },
+        "url": "",
+        "username": "wohaokun555",
+        "verified": false
+      }
+    ]
+  }
+}

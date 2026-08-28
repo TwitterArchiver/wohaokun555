@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2028522082641076461",
+    "created_at": "2026-03-03T02:27:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T03:27:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028658423752192207"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1522094329954652161",
+          "start": 0,
+          "username": "0xo_snow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028658423752192207",
+    "in_reply_to_user_id": "1522094329954652161",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028522082641076461",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0xo_snow 💍"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 32116,
+        "height": 1804,
+        "media_key": "13_2028521897298907136",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2028521897298907136/img/8hNowz31H1GmKXbY.jpg",
+        "public_metrics": {
+          "view_count": 136
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2028521897298907136/vid/avc1/812x720/LL0QzoGKb8lR2Cdp.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2028521897298907136/vid/avc1/1220x1080/j0BC6BLy7e7kfOdu.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2028521897298907136/vid/avc1/304x270/FUwN6IYWYNmDd36F.mp4"
+          },
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2028521897298907136/vid/avc1/2038x1804/ZH1DfOzyAmcILce7.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2028521897298907136/pl/W7oQ9iVxCiA6I0L2.m3u8"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2028521897298907136/vid/avc1/406x360/gvBZSPHvZ_4Vsht9.mp4"
+          }
+        ],
+        "width": 2038
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2028522082641076461",
+        "created_at": "2026-03-03T02:27:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T03:27:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028658423752192207"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1522094329954652161",
+              "start": 0,
+              "username": "0xo_snow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028658423752192207",
+        "in_reply_to_user_id": "1522094329954652161",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028522082641076461",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0xo_snow 💍"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2028521897298907136"
+          ]
+        },
+        "author_id": "1522094329954652161",
+        "conversation_id": "2028522082641076461",
+        "created_at": "2026-03-02T17:25:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T18:25:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028522082641076461"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BBg8yKQuzD",
+              "end": 35,
+              "expanded_url": "https://x.com/0xo_snow/status/2028522082641076461/video/1",
+              "media_key": "13_2028521897298907136",
+              "start": 12,
+              "url": "https://t.co/BBg8yKQuzD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028522082641076461",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 373,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "*向你发出一条结婚邀请 https://t.co/BBg8yKQuzD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2JlN5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2JlN5"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "除了口令和正常问题别的私信不回",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2016792238060421479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1018,
+          "following_count": 94,
+          "like_count": 9986,
+          "listed_count": 1,
+          "media_count": 68,
+          "tweet_count": 1821
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-05T06:02:50.000Z",
+        "description": "=恋 🎀 来寻找真实的我吧！美少女全肯定‼️｜点击亮点查看我的日常～喜欢唱歌中日英都会学📍ip#北京 欢迎来找我玩哦~投喂入门可以扫背景赞赏谢谢你;ㅅ;",
+        "id": "1522094329954652161",
+        "location": "🚪88回讯息/解锁线下( 𓏼˙ ᴥ ˙𓏼 )",
+        "name": "🐰れん⊹",
+        "pinned_tweet_id": "2025485886276911449",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017787889955098624/u0R2iAGA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18514,
+          "following_count": 414,
+          "like_count": 14908,
+          "listed_count": 33,
+          "media_count": 1180,
+          "tweet_count": 12577
+        },
+        "username": "0xo_snow",
+        "verified": true
+      }
+    ]
+  }
+}

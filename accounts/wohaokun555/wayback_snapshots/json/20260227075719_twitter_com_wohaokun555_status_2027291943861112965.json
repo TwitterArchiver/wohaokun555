@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2027204367703789756",
+    "created_at": "2026-02-27T07:57:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T08:57:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027291943861112965"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1774702294052884481",
+          "start": 0,
+          "username": "Adam_F_White"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027291943861112965",
+    "in_reply_to_user_id": "1774702294052884481",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027291892308656278",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Adam_F_White 预言家"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2027204367703789756",
+        "created_at": "2026-02-27T07:57:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T08:57:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027291943861112965"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1774702294052884481",
+              "start": 0,
+              "username": "Adam_F_White"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027291943861112965",
+        "in_reply_to_user_id": "1774702294052884481",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027291892308656278",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Adam_F_White 预言家"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1774702294052884481",
+        "conversation_id": "2027204367703789756",
+        "created_at": "2026-02-27T07:57:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T08:57:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027291892308656278"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027291892308656278",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027204367703789756",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 明天就全是考研成績了（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2JlN5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2JlN5"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "除了口令和正常问题别的私信不回",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2016792238060421479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 933,
+          "following_count": 94,
+          "like_count": 9566,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 1747
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-01T07:36:33.000Z",
+        "description": "P(|X-E(X)|≥ε)≤ε⁻²Var(X)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/1818627197?spm…",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/1818627197?spm_id_from=333.1007.0.0",
+                "start": 0,
+                "url": "https://t.co/QseiPp74Xl"
+              }
+            ]
+          }
+        },
+        "id": "1774702294052884481",
+        "location": "平壤特別市   金日成綜合大學",
+        "name": "𝑨𝒅𝒂𝒎 𝑭. 𝑾𝒉𝒊𝒕𝒆",
+        "pinned_tweet_id": "2004587195722874980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024320737968857088/INzLi-fU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 324,
+          "following_count": 680,
+          "like_count": 43187,
+          "listed_count": 5,
+          "media_count": 2595,
+          "tweet_count": 11332
+        },
+        "url": "https://t.co/QseiPp74Xl",
+        "username": "Adam_F_White",
+        "verified": false
+      }
+    ]
+  }
+}

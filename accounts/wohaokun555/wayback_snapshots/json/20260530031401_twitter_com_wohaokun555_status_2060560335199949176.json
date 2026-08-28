@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2060560335199949176",
+    "created_at": "2026-05-30T03:14:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T04:14:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060560335199949176"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2060560335199949176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "开始我真的觉得问我门槛能不能线下的人小脑没发育完全…这么点想什么…☹️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2060560335199949176",
+        "created_at": "2026-05-30T03:14:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T04:14:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060560335199949176"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060560335199949176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "开始我真的觉得问我门槛能不能线下的人小脑没发育完全…这么点想什么…☹️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "🚪不入勿扰",
+        "id": "2004619896630788096",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2036315164098830372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2158,
+          "following_count": 77,
+          "like_count": 20484,
+          "listed_count": 2,
+          "media_count": 241,
+          "tweet_count": 3366
+        },
+        "username": "wohaokun555",
+        "verified": false
+      }
+    ]
+  }
+}

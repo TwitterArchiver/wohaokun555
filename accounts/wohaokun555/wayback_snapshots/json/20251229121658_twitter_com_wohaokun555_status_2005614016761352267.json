@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2005606247672975609",
+    "created_at": "2025-12-29T12:16:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-29T13:16:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005614016761352267"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1978751417100976128",
+          "start": 0,
+          "username": "TDaidai_T"
+        },
+        {
+          "end": 25,
+          "id": "1482213825201901568",
+          "start": 11,
+          "username": "eroxiansheng2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005614016761352267",
+    "in_reply_to_user_id": "1978751417100976128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005608552787009665",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TDaidai_T @eroxiansheng2 我装的！被我骗住了吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2005606247672975609",
+        "created_at": "2025-12-29T12:16:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-29T13:16:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005614016761352267"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1978751417100976128",
+              "start": 0,
+              "username": "TDaidai_T"
+            },
+            {
+              "end": 25,
+              "id": "1482213825201901568",
+              "start": 11,
+              "username": "eroxiansheng2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005614016761352267",
+        "in_reply_to_user_id": "1978751417100976128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005608552787009665",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TDaidai_T @eroxiansheng2 我装的！被我骗住了吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1978751417100976128",
+        "conversation_id": "2005606247672975609",
+        "created_at": "2025-12-29T11:55:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-29T12:55:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005608552787009665"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            },
+            {
+              "end": 27,
+              "id": "1482213825201901568",
+              "start": 13,
+              "username": "eroxiansheng2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005608552787009665",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005607553515098614",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 @eroxiansheng2 宝子你咋这么可爱！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "🚪66",
+        "id": "2004619896630788096",
+        "location": "Hong Kong",
+        "name": "鱼虾一整碗",
+        "pinned_tweet_id": "2005582001685012508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004620653153189888/VWgYLNYv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 26,
+          "like_count": 228,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 148
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-16T09:14:54.000Z",
+        "description": "不是陪聊工具 不聊骚 请保持礼貌。",
+        "id": "1978751417100976128",
+        "name": "代代听",
+        "pinned_tweet_id": "1991862425088590302",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999883763271286784/BKLVUH7M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 33,
+          "like_count": 1081,
+          "listed_count": 2,
+          "media_count": 73,
+          "tweet_count": 504
+        },
+        "username": "TDaidai_T",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-15T04:51:47.000Z",
+        "description": "这里没有简介…祝你天天开心",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/intsecofficer",
+                "end": 23,
+                "expanded_url": "http://ngl.link/intsecofficer",
+                "start": 0,
+                "url": "https://t.co/KoVcarfZDD"
+              }
+            ]
+          }
+        },
+        "id": "1482213825201901568",
+        "location": "深圳，找我聊天👉🏻",
+        "name": "好好先生",
+        "pinned_tweet_id": "1998080419674394913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004252511721738240/rKOHuGt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 468,
+          "like_count": 6463,
+          "listed_count": 7,
+          "media_count": 59,
+          "tweet_count": 1589
+        },
+        "url": "https://t.co/KoVcarfZDD",
+        "username": "eroxiansheng2",
+        "verified": false
+      }
+    ]
+  }
+}

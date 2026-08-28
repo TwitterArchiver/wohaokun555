@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2080280389944541312",
+    "created_at": "2026-07-23T13:14:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T14:14:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080280389944541312"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2041875296618737666",
+          "start": 3,
+          "username": "Yaoguoez0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080280389944541312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 56
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079802986109518143",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Yaoguoez0: 我对烟人彻底失去耐心了，简直是蠢猪一样，在公共场合吸烟，本质上就是素质低下没有同理心，漠视周围人，明知道这个百害无一利还要为了一己私欲害人害己，这群人的自控能力也就是还有社会道德底线的约束，漠视周围人的健康，那我将漠视烟人的人格。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2080280389944541312",
+        "created_at": "2026-07-23T13:14:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T14:14:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080280389944541312"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2041875296618737666",
+              "start": 3,
+              "username": "Yaoguoez0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080280389944541312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 56
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079802986109518143",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Yaoguoez0: 我对烟人彻底失去耐心了，简直是蠢猪一样，在公共场合吸烟，本质上就是素质低下没有同理心，漠视周围人，明知道这个百害无一利还要为了一己私欲害人害己，这群人的自控能力也就是还有社会道德底线的约束，漠视周围人的健康，那我将漠视烟人的人格。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041875296618737666",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2079802986109518143",
+        "created_at": "2026-07-22T05:37:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T06:37:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079802986109518143"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079802986109518143",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 25327,
+          "like_count": 1180,
+          "quote_count": 3,
+          "reply_count": 72,
+          "retweet_count": 56
+        },
+        "reply_settings": "everyone",
+        "text": "我对烟人彻底失去耐心了，简直是蠢猪一样，在公共场合吸烟，本质上就是素质低下没有同理心，漠视周围人，明知道这个百害无一利还要为了一己私欲害人害己，这群人的自控能力也就是还有社会道德底线的约束，漠视周围人的健康，那我将漠视烟人的人格。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "＞𐋣＜",
+        "id": "2004619896630788096",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2073747405099659747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2858,
+          "following_count": 82,
+          "like_count": 24931,
+          "listed_count": 2,
+          "media_count": 150,
+          "tweet_count": 3978
+        },
+        "url": "",
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-08T13:46:49.000Z",
+        "description": "",
+        "id": "2041875296618737666",
+        "name": "秋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059541309598404608/oaDPmpsV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 307,
+          "following_count": 54,
+          "like_count": 354,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 362
+        },
+        "url": "",
+        "username": "Yaoguoez0",
+        "verified": false
+      }
+    ]
+  }
+}

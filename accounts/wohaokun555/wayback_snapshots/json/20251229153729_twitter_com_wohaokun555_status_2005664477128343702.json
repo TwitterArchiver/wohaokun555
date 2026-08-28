@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2005574439501779100",
+    "created_at": "2025-12-29T15:37:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-29T16:37:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005664477128343702"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1752159927077072896",
+          "start": 0,
+          "username": "jie200703"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005664477128343702",
+    "in_reply_to_user_id": "1752159927077072896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005574439501779100",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jie200703 可能因为和家长一块住吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2005574439501779100",
+        "created_at": "2025-12-29T15:37:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-29T16:37:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005664477128343702"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1752159927077072896",
+              "start": 0,
+              "username": "jie200703"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005664477128343702",
+        "in_reply_to_user_id": "1752159927077072896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005574439501779100",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jie200703 可能因为和家长一块住吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752159927077072896",
+        "conversation_id": "2005574439501779100",
+        "created_at": "2025-12-29T09:39:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-29T10:39:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005574439501779100"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2005574439501779100",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13823,
+          "like_count": 42,
+          "quote_count": 0,
+          "reply_count": 83,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为啥有些🚪姐可以发语音但是打不了语音❓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "🚪66",
+        "id": "2004619896630788096",
+        "location": "Hong Kong",
+        "name": "鱼虾一整碗",
+        "pinned_tweet_id": "2005582001685012508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004620653153189888/VWgYLNYv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 27,
+          "like_count": 241,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 150
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-30T02:41:05.000Z",
+        "description": "喜欢聊天",
+        "id": "1752159927077072896",
+        "name": "小杰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005502435041951744/ERFuNv43_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 79,
+          "like_count": 37,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 58
+        },
+        "username": "jie200703",
+        "verified": false
+      }
+    ]
+  }
+}

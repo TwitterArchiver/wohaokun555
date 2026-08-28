@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2019248873668243480",
+    "created_at": "2026-02-05T07:50:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-05T08:50:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019317723961180511"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1682309029698367488",
+          "start": 0,
+          "username": "Zeex_1016"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019317723961180511",
+    "in_reply_to_user_id": "1682309029698367488",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019313742278979777",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zeex_1016 我去忘了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2019248873668243480",
+        "created_at": "2026-02-05T07:50:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T08:50:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019317723961180511"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1682309029698367488",
+              "start": 0,
+              "username": "Zeex_1016"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019317723961180511",
+        "in_reply_to_user_id": "1682309029698367488",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019313742278979777",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zeex_1016 我去忘了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682309029698367488",
+        "conversation_id": "2019248873668243480",
+        "created_at": "2026-02-05T07:34:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T08:34:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019313742278979777"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019313742278979777",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019248873668243480",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 还要抓大鹅呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2JlN5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2JlN5"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "🚪188（别的私信不回",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2008543541979738501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014313058978406400/yLC08oHO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 573,
+          "following_count": 71,
+          "like_count": 5401,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 1017
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-21T08:38:32.000Z",
+        "description": "Les/ 健身中/04上学ing/m1/ 卷毛中/ 喜欢姐姐 / 日常分享 碎碎念 匿名提问欢迎来玩https://t.co/X9AMvehFK7",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zee49956",
+                "end": 73,
+                "expanded_url": "https://ngl.link/zee49956",
+                "start": 50,
+                "url": "https://t.co/X9AMvehFK7"
+              }
+            ]
+          }
+        },
+        "id": "1682309029698367488",
+        "location": "Hangzhou",
+        "name": "Zee",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008077523826221056/oXiimyhz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 18,
+          "like_count": 97,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 176
+        },
+        "username": "Zeex_1016",
+        "verified": false
+      }
+    ]
+  }
+}

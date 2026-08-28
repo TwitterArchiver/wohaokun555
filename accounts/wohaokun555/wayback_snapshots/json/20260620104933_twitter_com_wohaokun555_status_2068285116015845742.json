@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2068127836645491061",
+    "created_at": "2026-06-20T10:49:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T11:49:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068285116015845742"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2036886759011995648",
+          "start": 0,
+          "username": "icewywwdxf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068285116015845742",
+    "in_reply_to_user_id": "2036886759011995648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068284035861012947",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@icewywwdxf 啊啊啊撞id了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2068127836645491061",
+        "created_at": "2026-06-20T10:49:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T11:49:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068285116015845742"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2036886759011995648",
+              "start": 0,
+              "username": "icewywwdxf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068285116015845742",
+        "in_reply_to_user_id": "2036886759011995648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068284035861012947",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@icewywwdxf 啊啊啊撞id了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2036886759011995648",
+        "conversation_id": "2068127836645491061",
+        "created_at": "2026-06-20T10:45:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T11:45:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068284035861012947"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068284035861012947",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068127836645491061",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 吓我一跳啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "🌍",
+        "id": "2004619896630788096",
+        "location": "置顶是广告 非本人 请自辨",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2067618656885125585",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2444,
+          "following_count": 79,
+          "like_count": 22624,
+          "listed_count": 2,
+          "media_count": 134,
+          "tweet_count": 3612
+        },
+        "url": "",
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-25T19:24:02.000Z",
+        "description": "右上角投喂ovo随缘～\n06用来色色的号，esfj-a 暂时没🚪～",
+        "id": "2036886759011995648",
+        "location": "广东",
+        "name": "i ce",
+        "pinned_tweet_id": "2046278641542389954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036887176278138880/npc1CMXr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5906,
+          "following_count": 37,
+          "like_count": 410,
+          "listed_count": 26,
+          "media_count": 50,
+          "tweet_count": 351
+        },
+        "url": "",
+        "username": "icewywwdxf",
+        "verified": false
+      }
+    ]
+  }
+}

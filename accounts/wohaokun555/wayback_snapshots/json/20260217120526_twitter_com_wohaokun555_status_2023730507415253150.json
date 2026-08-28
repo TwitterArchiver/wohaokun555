@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2023662026221076800",
+    "created_at": "2026-02-17T12:05:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T13:05:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023730507415253150"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1926189881723682816",
+          "start": 0,
+          "username": "xx1ovy07"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023730507415253150",
+    "in_reply_to_user_id": "1926189881723682816",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023662026221076800",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xx1ovy07 太夯了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2023662026221076800",
+        "created_at": "2026-02-17T12:05:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T13:05:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023730507415253150"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1926189881723682816",
+              "start": 0,
+              "username": "xx1ovy07"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023730507415253150",
+        "in_reply_to_user_id": "1926189881723682816",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023662026221076800",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xx1ovy07 太夯了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1926189881723682816",
+        "conversation_id": "2023662026221076800",
+        "created_at": "2026-02-17T07:33:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T08:33:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023662026221076800"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2023662026221076800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 805,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "合肥第一次办春晚没轻没重的😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2JlN5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2JlN5"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "🚪188（纯绿纯绿（除了口令和门槛别的私信不回",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2016792238060421479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 859,
+          "following_count": 84,
+          "like_count": 8419,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 1583
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-24T08:15:00.000Z",
+        "description": "想发啥发啥",
+        "id": "1926189881723682816",
+        "name": "xx xx",
+        "pinned_tweet_id": "1996213100840919189",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004771554899484672/fxb6pcV3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 376,
+          "following_count": 172,
+          "like_count": 21573,
+          "listed_count": 0,
+          "media_count": 111,
+          "tweet_count": 5561
+        },
+        "username": "xx1ovy07",
+        "verified": false
+      }
+    ]
+  }
+}

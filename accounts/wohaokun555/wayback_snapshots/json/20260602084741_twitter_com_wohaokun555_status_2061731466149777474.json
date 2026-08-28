@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2061715904141177225",
+    "created_at": "2026-06-02T08:47:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T09:47:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061731466149777474"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1627905232125693952",
+          "start": 0,
+          "username": "DongSpirits"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061731466149777474",
+    "in_reply_to_user_id": "1627905232125693952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061726927799701615",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DongSpirits 我还没拍！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2061715904141177225",
+        "created_at": "2026-06-02T08:47:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T09:47:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061731466149777474"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1627905232125693952",
+              "start": 0,
+              "username": "DongSpirits"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061731466149777474",
+        "in_reply_to_user_id": "1627905232125693952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061726927799701615",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DongSpirits 我还没拍！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1627905232125693952",
+        "conversation_id": "2061715904141177225",
+        "created_at": "2026-06-02T08:29:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T09:29:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061726927799701615"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061726927799701615",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061715904141177225",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 发我看看"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "🚪（520",
+        "id": "2004619896630788096",
+        "location": "口令➕姓",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2060575687279567255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2183,
+          "following_count": 79,
+          "like_count": 21017,
+          "listed_count": 2,
+          "media_count": 247,
+          "tweet_count": 3418
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-21T05:37:26.000Z",
+        "description": "🫐",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "4399.com",
+                "end": 23,
+                "expanded_url": "http://www.4399.com",
+                "start": 0,
+                "url": "https://t.co/O4IDXKtPD2"
+              }
+            ]
+          }
+        },
+        "id": "1627905232125693952",
+        "name": "ice",
+        "pinned_tweet_id": "2040952948482838858",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043284840645328896/Put6AlCG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 17,
+          "like_count": 10006,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 844
+        },
+        "url": "https://t.co/O4IDXKtPD2",
+        "username": "DongSpirits",
+        "verified": false
+      }
+    ]
+  }
+}

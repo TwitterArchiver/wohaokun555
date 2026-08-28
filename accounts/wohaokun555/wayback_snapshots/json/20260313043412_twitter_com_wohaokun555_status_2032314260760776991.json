@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2032308563713147265",
+    "created_at": "2026-03-13T04:34:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T05:34:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032314260760776991"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1512908702831247361",
+          "start": 0,
+          "username": "liqing020716"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032314260760776991",
+    "in_reply_to_user_id": "1512908702831247361",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032309435323007171",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liqing020716 ？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2032308563713147265",
+        "created_at": "2026-03-13T04:34:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T05:34:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032314260760776991"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1512908702831247361",
+              "start": 0,
+              "username": "liqing020716"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032314260760776991",
+        "in_reply_to_user_id": "1512908702831247361",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032309435323007171",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liqing020716 ？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512908702831247361",
+        "conversation_id": "2032308563713147265",
+        "created_at": "2026-03-13T04:15:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T05:15:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032309435323007171"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032309435323007171",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032308563713147265",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 拉爆了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2JlN5\n🚪（勿扰",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2JlN5"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "除了口令别的不回！没有陪聊的义务",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2008543541979738501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1240,
+          "following_count": 97,
+          "like_count": 11189,
+          "listed_count": 1,
+          "media_count": 97,
+          "tweet_count": 2076
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-09T21:42:06.000Z",
+        "description": "你要闲着没事干去就去把你妈拉出来给大家爽一顿",
+        "id": "1512908702831247361",
+        "name": "咕咕嘎嘎",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031605381118701572/fvlgRqmY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 5,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 27
+        },
+        "username": "liqing020716",
+        "verified": false
+      }
+    ]
+  }
+}

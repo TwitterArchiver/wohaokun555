@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2071107583113646366",
+    "created_at": "2026-06-28T13:20:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T14:20:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071222250628641144"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1388202412977147904",
+          "start": 0,
+          "username": "Ai_Auroveil"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071222250628641144",
+    "in_reply_to_user_id": "1388202412977147904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071221828421361754",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ai_Auroveil hhhhh躺在床上开着空调吃西瓜看着电视最舒服了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2071107583113646366",
+        "created_at": "2026-06-28T13:20:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T14:20:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071222250628641144"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1388202412977147904",
+              "start": 0,
+              "username": "Ai_Auroveil"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071222250628641144",
+        "in_reply_to_user_id": "1388202412977147904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071221828421361754",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ai_Auroveil hhhhh躺在床上开着空调吃西瓜看着电视最舒服了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1388202412977147904",
+        "conversation_id": "2071107583113646366",
+        "created_at": "2026-06-28T13:18:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T14:18:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071221828421361754"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071221828421361754",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071107583113646366",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 今天的vlog就是被热到只能窝在床上躺板板\n哪怕只是坐起来都要热疯了 😨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "让我成为我，让一座山并存着嶙峋和肥沃",
+        "id": "2004619896630788096",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2070530833434476867",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2567,
+          "following_count": 81,
+          "like_count": 23219,
+          "listed_count": 2,
+          "media_count": 141,
+          "tweet_count": 3720
+        },
+        "url": "",
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-30T18:43:56.000Z",
+        "description": "Exploring all sorts of art before creating my own (CN/EN/DE)",
+        "id": "1388202412977147904",
+        "name": "Auroveil",
+        "pinned_tweet_id": "2046638262899331379",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962190135371448320/3MVdTr0H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 340,
+          "following_count": 523,
+          "like_count": 26324,
+          "listed_count": 1,
+          "media_count": 2027,
+          "tweet_count": 7583
+        },
+        "url": "",
+        "username": "Ai_Auroveil",
+        "verified": true
+      }
+    ]
+  }
+}

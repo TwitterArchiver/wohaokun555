@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2027258724784721994",
+    "created_at": "2026-02-27T07:54:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T08:54:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027291145089503560"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1266594079644585989",
+          "start": 0,
+          "username": "fzxwhkls"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027291145089503560",
+    "in_reply_to_user_id": "1266594079644585989",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027291051204239796",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fzxwhkls 诶我就是在思考这个～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2027258724784721994",
+        "created_at": "2026-02-27T07:54:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T08:54:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027291145089503560"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1266594079644585989",
+              "start": 0,
+              "username": "fzxwhkls"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027291145089503560",
+        "in_reply_to_user_id": "1266594079644585989",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027291051204239796",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fzxwhkls 诶我就是在思考这个～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1266594079644585989",
+        "conversation_id": "2027258724784721994",
+        "created_at": "2026-02-27T07:53:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T08:53:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027291051204239796"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027291051204239796",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027258724784721994",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 看你研究生毕业以后较于本科毕业的薪资水平，如果高很多可以去考"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2JlN5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2JlN5"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "除了口令和正常问题别的私信不回",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2016792238060421479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 933,
+          "following_count": 94,
+          "like_count": 9565,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 1746
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-30T04:55:46.000Z",
+        "description": "在跑步｜没有人想要了解我的内在",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fzxwhkls",
+                "end": 23,
+                "expanded_url": "https://ngl.link/fzxwhkls",
+                "start": 0,
+                "url": "https://t.co/xSqWJFMGr1"
+              }
+            ]
+          }
+        },
+        "id": "1266594079644585989",
+        "location": "下水道",
+        "name": "整点哥（去车间整点带鱼）",
+        "pinned_tweet_id": "2012780206411669715",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004130135013019648/IGRHxP6J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 80,
+          "like_count": 17972,
+          "listed_count": 0,
+          "media_count": 149,
+          "tweet_count": 3787
+        },
+        "url": "https://t.co/xSqWJFMGr1",
+        "username": "fzxwhkls",
+        "verified": false
+      }
+    ]
+  }
+}

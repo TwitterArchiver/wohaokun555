@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2016532547111673907",
+    "created_at": "2026-01-29T04:19:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T05:19:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "entities": {
+      "annotations": [
+        {
+          "end": 18,
+          "normalized_text": "恭喜",
+          "probability": 0.6438,
+          "start": 17,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1939632627755147264",
+          "start": 0,
+          "username": "xiaoxiongmaoTvT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016727961010131343",
+    "in_reply_to_user_id": "1939632627755147264",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016532547111673907",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoxiongmaoTvT 恭喜"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1136,
+        "media_key": "3_2016532544338976768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_wpqj9W4AAXCK8.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016532544338976768"
+          ]
+        },
+        "author_id": "1939632627755147264",
+        "conversation_id": "2016532547111673907",
+        "created_at": "2026-01-28T15:23:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T16:23:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lCv9q8nmtf",
+              "end": 35,
+              "expanded_url": "https://x.com/xiaoxiongmaoTvT/status/2016532547111673907/photo/1",
+              "media_key": "3_2016532544338976768",
+              "start": 12,
+              "url": "https://t.co/lCv9q8nmtf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016532547111673907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1711,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "5210了！谢谢大家！ https://t.co/lCv9q8nmtf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2JlN5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2JlN5"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "🚪188（绿 发生殖器死妈！",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2016072861732212867",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014313058978406400/yLC08oHO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 479,
+          "following_count": 71,
+          "like_count": 3795,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 889
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-30T10:30:49.000Z",
+        "description": "推是我的日记本/推止于推",
+        "id": "1939632627755147264",
+        "name": "甜甜小熊猫",
+        "pinned_tweet_id": "2009291978085740903",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016425453171703810/0Gbgi-EZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5216,
+          "following_count": 799,
+          "like_count": 5784,
+          "listed_count": 7,
+          "media_count": 313,
+          "tweet_count": 4630
+        },
+        "username": "xiaoxiongmaoTvT",
+        "verified": false
+      }
+    ]
+  }
+}

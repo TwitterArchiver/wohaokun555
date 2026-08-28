@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2043235401704563189",
+    "created_at": "2026-04-13T05:55:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T06:55:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043568635927830747"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1361133977604562946",
+          "start": 0,
+          "username": "neptune73333095"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043568635927830747",
+    "in_reply_to_user_id": "1361133977604562946",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043567901710635050",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@neptune73333095 我要当弱智吧吧主"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2043235401704563189",
+        "created_at": "2026-04-13T05:55:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T06:55:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043568635927830747"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1361133977604562946",
+              "start": 0,
+              "username": "neptune73333095"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043568635927830747",
+        "in_reply_to_user_id": "1361133977604562946",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043567901710635050",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@neptune73333095 我要当弱智吧吧主"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1361133977604562946",
+        "conversation_id": "2043235401704563189",
+        "created_at": "2026-04-13T05:52:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T06:52:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043567901710635050"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043567901710635050",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043235401704563189",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 我们弱智吧需要你 传火吗 兄弟"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "每天发些乱七八糟的碎碎念 和一些自认为很好看的自拍照 分享号主的忧郁极品生活",
+        "id": "2004619896630788096",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2036315164098830372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1549,
+          "following_count": 97,
+          "like_count": 15583,
+          "listed_count": 1,
+          "media_count": 185,
+          "tweet_count": 2849
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-15T02:03:32.000Z",
+        "description": "Have cat",
+        "id": "1361133977604562946",
+        "name": "Neptune",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1361134196954001411/UmQ5syQ0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 1083,
+          "like_count": 20915,
+          "listed_count": 5,
+          "media_count": 65,
+          "tweet_count": 12220
+        },
+        "username": "neptune73333095",
+        "verified": false
+      }
+    ]
+  }
+}

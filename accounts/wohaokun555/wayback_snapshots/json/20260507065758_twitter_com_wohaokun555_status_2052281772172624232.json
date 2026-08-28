@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2052250999801160059",
+    "created_at": "2026-05-07T06:57:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T07:57:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052281772172624232"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "91211654",
+          "start": 0,
+          "username": "Cocoa_0v0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052281772172624232",
+    "in_reply_to_user_id": "91211654",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052250999801160059",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cocoa_0v0 萌死了"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2052250999801160059].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2052250999801160059",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2052250999801160059"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2052250999801160059",
+        "created_at": "2026-05-07T06:57:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T07:57:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052281772172624232"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "91211654",
+              "start": 0,
+              "username": "Cocoa_0v0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052281772172624232",
+        "in_reply_to_user_id": "91211654",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052250999801160059",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cocoa_0v0 萌死了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "",
+        "id": "2004619896630788096",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2007765884035813533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2018,
+          "following_count": 101,
+          "like_count": 18418,
+          "listed_count": 2,
+          "media_count": 214,
+          "tweet_count": 3086
+        },
+        "url": "",
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2009-11-19T22:44:29.000Z",
+        "description": "Bear both love and hate in mind.",
+        "id": "91211654",
+        "name": "Cocoa_beans",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 51,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 19
+        },
+        "url": "",
+        "username": "Cocoa_0v0",
+        "verified": false
+      }
+    ]
+  }
+}

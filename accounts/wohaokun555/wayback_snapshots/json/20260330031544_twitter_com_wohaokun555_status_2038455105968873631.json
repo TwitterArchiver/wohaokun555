@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2038451217052098642",
+    "created_at": "2026-03-30T03:15:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T04:15:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038455105968873631"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1984629468410101764",
+          "start": 0,
+          "username": "twntyfour7svn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038455105968873631",
+    "in_reply_to_user_id": "1984629468410101764",
+    "lang": "tr",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038451217052098642",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@twntyfour7svn Kiyo! !!"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2038451205211660288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEoIkiqboAA9V2z.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2038451217052098642",
+        "created_at": "2026-03-30T03:15:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T04:15:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038455105968873631"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1984629468410101764",
+              "start": 0,
+              "username": "twntyfour7svn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038455105968873631",
+        "in_reply_to_user_id": "1984629468410101764",
+        "lang": "tr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038451217052098642",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@twntyfour7svn Kiyo! !!"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038451205211660288"
+          ]
+        },
+        "author_id": "1984629468410101764",
+        "conversation_id": "2038451217052098642",
+        "created_at": "2026-03-30T03:00:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T04:00:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038451217052098642"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yGZEfS0oD3",
+              "end": 33,
+              "expanded_url": "https://x.com/twntyfour7svn/status/2038451217052098642/photo/1",
+              "media_key": "3_2038451205211660288",
+              "start": 10,
+              "url": "https://t.co/yGZEfS0oD3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038451217052098642",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Hirono～～～ https://t.co/yGZEfS0oD3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "🫶🏻🫰🏻🩶",
+        "id": "2004619896630788096",
+        "location": "三体",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2035966922010087790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1469,
+          "following_count": 100,
+          "like_count": 13461,
+          "listed_count": 1,
+          "media_count": 139,
+          "tweet_count": 2483
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-01T14:32:12.000Z",
+        "description": "我提前说一下 我是文盲 和我家小狗共用一个账号 如果这个账号发了不好的言论 那都是小狗发的对不起 我家小狗没上过学 刚学会上网三个月 请大家谅解 骂人的都是小狗 狗四个爪子比我打字快🫶🏻",
+        "id": "1984629468410101764",
+        "name": "屁屁",
+        "pinned_tweet_id": "2037515606938017989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010030643103838209/nLSjDjZP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 982,
+          "following_count": 57,
+          "like_count": 2072,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 1083
+        },
+        "username": "twntyfour7svn",
+        "verified": false
+      }
+    ]
+  }
+}

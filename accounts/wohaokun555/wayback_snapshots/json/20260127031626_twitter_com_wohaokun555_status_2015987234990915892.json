@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2015898756839887291",
+    "created_at": "2026-01-27T03:16:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T04:16:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015987234990915892"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1456443709201940480",
+          "start": 0,
+          "username": "Mike0_0bb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015987234990915892",
+    "in_reply_to_user_id": "1456443709201940480",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015898756839887291",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mike0_0bb 太美了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1282,
+        "media_key": "3_2015898744764485633",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_npOkjX0AEpM6T.jpg",
+        "width": 960
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2015898744756088833",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_npOkhXsAEyuVR.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1366,
+        "media_key": "3_2015898744751808512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_npOkgWYAAT5iU.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2015898756839887291",
+        "created_at": "2026-01-27T03:16:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T04:16:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015987234990915892"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1456443709201940480",
+              "start": 0,
+              "username": "Mike0_0bb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015987234990915892",
+        "in_reply_to_user_id": "1456443709201940480",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015898756839887291",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mike0_0bb 太美了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015898744764485633",
+            "3_2015898744756088833",
+            "3_2015898744751808512"
+          ]
+        },
+        "author_id": "1456443709201940480",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2015898756839887291",
+        "created_at": "2026-01-26T21:24:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T22:24:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015898756839887291"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ODvcVd22l4",
+              "end": 62,
+              "expanded_url": "https://x.com/Mike0_0bb/status/2015898756839887291/photo/1",
+              "media_key": "3_2015898744764485633",
+              "start": 39,
+              "url": "https://t.co/ODvcVd22l4"
+            },
+            {
+              "display_url": "pic.x.com/ODvcVd22l4",
+              "end": 62,
+              "expanded_url": "https://x.com/Mike0_0bb/status/2015898756839887291/photo/1",
+              "media_key": "3_2015898744756088833",
+              "start": 39,
+              "url": "https://t.co/ODvcVd22l4"
+            },
+            {
+              "display_url": "pic.x.com/ODvcVd22l4",
+              "end": 62,
+              "expanded_url": "https://x.com/Mike0_0bb/status/2015898756839887291/photo/1",
+              "media_key": "3_2015898744751808512",
+              "start": 39,
+              "url": "https://t.co/ODvcVd22l4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015898756839887291",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 14850,
+          "like_count": 152,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "毕业典礼的照片没怎么发 到处是学校的名字🥲 不过那天很开心 所以挑几张合照发 https://t.co/ODvcVd22l4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2JlN5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2JlN5"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "三体",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2007765884035813533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014313058978406400/yLC08oHO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 459,
+          "following_count": 70,
+          "like_count": 3223,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 831
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-05T02:10:24.000Z",
+        "description": "But I don’t care what they say",
+        "id": "1456443709201940480",
+        "location": "地球online",
+        "name": "因为太怕痛就全点防御力了",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1708192489788612608/fqr7KUS3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21378,
+          "following_count": 18,
+          "like_count": 16788,
+          "listed_count": 70,
+          "media_count": 1538,
+          "tweet_count": 8841
+        },
+        "username": "Mike0_0bb",
+        "verified": false
+      }
+    ]
+  }
+}

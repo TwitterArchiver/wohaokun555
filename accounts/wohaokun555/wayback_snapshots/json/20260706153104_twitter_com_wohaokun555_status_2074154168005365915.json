@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2074121896774468086",
+    "created_at": "2026-07-06T15:31:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T16:31:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074154168005365915"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1666038814756990976",
+          "start": 0,
+          "username": "bbyqlghb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074154168005365915",
+    "in_reply_to_user_id": "1666038814756990976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074151342638317623",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bbyqlghb 所以说dy评论区一群傻逼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2074121896774468086",
+        "created_at": "2026-07-06T15:31:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T16:31:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074154168005365915"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1666038814756990976",
+              "start": 0,
+              "username": "bbyqlghb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074154168005365915",
+        "in_reply_to_user_id": "1666038814756990976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074151342638317623",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bbyqlghb 所以说dy评论区一群傻逼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1666038814756990976",
+        "conversation_id": "2074121896774468086",
+        "created_at": "2026-07-06T15:19:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T16:19:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074151342638317623"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074151342638317623",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074121896774468086",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 警察叔叔去扫黄，看见酒店床上的两个人眼神坚毅，遂认定他们没有在搞黄。是这个意思吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "让我成为我，让一座山并存着嶙峋和肥沃",
+        "id": "2004619896630788096",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2073716779147506023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2752,
+          "following_count": 81,
+          "like_count": 24042,
+          "listed_count": 2,
+          "media_count": 148,
+          "tweet_count": 3852
+        },
+        "url": "",
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-06T11:06:34.000Z",
+        "description": "",
+        "id": "1666038814756990976",
+        "name": "qq",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1666039025940176897/IZIMcMqW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 355,
+          "following_count": 16,
+          "like_count": 300,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 147
+        },
+        "url": "",
+        "username": "bbyqlghb",
+        "verified": false
+      }
+    ]
+  }
+}

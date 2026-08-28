@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2071587240481022239",
+    "created_at": "2026-06-30T13:08:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T14:08:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071943951872061533"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1949401818909548544",
+          "start": 0,
+          "username": "birlv477"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071943951872061533",
+    "in_reply_to_user_id": "1949401818909548544",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071587240481022239",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@birlv477 omg"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 1933,
+        "height": 1280,
+        "media_key": "13_2071587208277221376",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2071587208277221376/img/IOrhI1JzMtbiY66X.jpg",
+        "public_metrics": {
+          "view_count": 501
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2071587208277221376/vid/avc1/320x568/lt2xwKZgaWcx0NdP.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2071587208277221376/vid/avc1/480x852/1XviediktdQBwkU0.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2071587208277221376/vid/avc1/720x1280/sXj2HaSK2W_KSBeB.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2071587208277221376/pl/gT3ZqbZJgjHI7oa9.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2071587240481022239",
+        "created_at": "2026-06-30T13:08:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T14:08:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071943951872061533"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1949401818909548544",
+              "start": 0,
+              "username": "birlv477"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071943951872061533",
+        "in_reply_to_user_id": "1949401818909548544",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071587240481022239",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@birlv477 omg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2071587208277221376"
+          ]
+        },
+        "author_id": "1949401818909548544",
+        "conversation_id": "2071587240481022239",
+        "created_at": "2026-06-29T13:31:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T14:31:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071587240481022239"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "纸包鸡"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/u6l2BdExR3",
+              "end": 28,
+              "expanded_url": "https://x.com/birlv477/status/2071587240481022239/video/1",
+              "media_key": "13_2071587208277221376",
+              "start": 5,
+              "url": "https://t.co/u6l2BdExR3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071587240481022239",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 4179,
+          "like_count": 129,
+          "quote_count": 1,
+          "reply_count": 13,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "#纸包鸡 https://t.co/u6l2BdExR3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "让我成为我，让一座山并存着嶙峋和肥沃",
+        "id": "2004619896630788096",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2070530833434476867",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2658,
+          "following_count": 81,
+          "like_count": 23471,
+          "listed_count": 2,
+          "media_count": 144,
+          "tweet_count": 3752
+        },
+        "url": "",
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-27T09:29:57.000Z",
+        "description": "🏐/不想认识你/说要看牛的你给我打钱不/straight/🫐梦男",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%A9%9F%E5%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%A9%9F%E5%AF%861",
+                "start": 0,
+                "url": "https://t.co/fTaMKwfkpf"
+              }
+            ]
+          }
+        },
+        "id": "1949401818909548544",
+        "location": "Chengdu",
+        "name": "翘臀排在奈子前面",
+        "pinned_tweet_id": "2031011736531407044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038268713779224576/O2kJzlZ4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1481,
+          "following_count": 69,
+          "like_count": 8014,
+          "listed_count": 5,
+          "media_count": 194,
+          "tweet_count": 1436
+        },
+        "url": "https://t.co/fTaMKwfkpf",
+        "username": "birlv477",
+        "verified": false
+      }
+    ]
+  }
+}

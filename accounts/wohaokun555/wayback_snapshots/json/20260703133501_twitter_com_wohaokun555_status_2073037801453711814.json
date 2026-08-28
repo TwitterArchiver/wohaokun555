@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2073023596956672429",
+    "created_at": "2026-07-03T13:35:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T14:35:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073037801453711814"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2050887139865300992",
+          "start": 0,
+          "username": "kkkkkirito12138"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073037801453711814",
+    "in_reply_to_user_id": "2050887139865300992",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073023596956672429",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kkkkkirito12138 我想剩一半 自己玩"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2073023553239502849",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMTb8DXb0AEy4ED.jpg",
+        "width": 576
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2073023552031444992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMTb7-3aUAAZGBv.jpg",
+        "width": 576
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2073023553470103552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMTb8EOagAAogsr.jpg",
+        "width": 768
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2073023553503727616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMTb8EWbkAA3a5T.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2073023596956672429",
+        "created_at": "2026-07-03T13:35:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T14:35:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073037801453711814"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2050887139865300992",
+              "start": 0,
+              "username": "kkkkkirito12138"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073037801453711814",
+        "in_reply_to_user_id": "2050887139865300992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073023596956672429",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kkkkkirito12138 我想剩一半 自己玩"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073023553239502849",
+            "3_2073023552031444992",
+            "3_2073023553470103552",
+            "3_2073023553503727616"
+          ]
+        },
+        "author_id": "2050887139865300992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2073023596956672429",
+        "created_at": "2026-07-03T12:38:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T13:38:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073023596956672429"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IL8dHY616J",
+              "end": 31,
+              "expanded_url": "https://x.com/kkkkkirito12138/status/2073023596956672429/photo/1",
+              "media_key": "3_2073023553239502849",
+              "start": 8,
+              "url": "https://t.co/IL8dHY616J"
+            },
+            {
+              "display_url": "pic.x.com/IL8dHY616J",
+              "end": 31,
+              "expanded_url": "https://x.com/kkkkkirito12138/status/2073023596956672429/photo/1",
+              "media_key": "3_2073023552031444992",
+              "start": 8,
+              "url": "https://t.co/IL8dHY616J"
+            },
+            {
+              "display_url": "pic.x.com/IL8dHY616J",
+              "end": 31,
+              "expanded_url": "https://x.com/kkkkkirito12138/status/2073023596956672429/photo/1",
+              "media_key": "3_2073023553470103552",
+              "start": 8,
+              "url": "https://t.co/IL8dHY616J"
+            },
+            {
+              "display_url": "pic.x.com/IL8dHY616J",
+              "end": 31,
+              "expanded_url": "https://x.com/kkkkkirito12138/status/2073023596956672429/photo/1",
+              "media_key": "3_2073023553503727616",
+              "start": 8,
+              "url": "https://t.co/IL8dHY616J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073023596956672429",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 250,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "爱一半 留一半 https://t.co/IL8dHY616J"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "让我成为我，让一座山并存着嶙峋和肥沃",
+        "id": "2004619896630788096",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2070530833434476867",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2715,
+          "following_count": 82,
+          "like_count": 23819,
+          "listed_count": 2,
+          "media_count": 144,
+          "tweet_count": 3813
+        },
+        "url": "",
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-03T10:40:35.000Z",
+        "description": "08白羊 直男不4i 勿骚扰礼貌私信会回 \n🚪🫧88 匿名提问在下面👇",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/k407510",
+                "end": 23,
+                "expanded_url": "https://ngl.link/k407510",
+                "start": 0,
+                "url": "https://t.co/17y3x4clkb"
+              }
+            ]
+          }
+        },
+        "id": "2050887139865300992",
+        "location": "21km",
+        "name": "薄荷味的雪",
+        "pinned_tweet_id": "2052628256864538760",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057457738737999872/auHCR0Cy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1419,
+          "following_count": 42,
+          "like_count": 2028,
+          "listed_count": 2,
+          "media_count": 83,
+          "tweet_count": 631
+        },
+        "url": "https://t.co/17y3x4clkb",
+        "username": "kkkkkirito12138",
+        "verified": false
+      }
+    ]
+  }
+}

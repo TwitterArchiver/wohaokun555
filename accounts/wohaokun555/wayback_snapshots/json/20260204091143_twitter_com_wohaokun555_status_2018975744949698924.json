@@ -1,0 +1,381 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596161376261",
+          "name": "Dining"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597017083904",
+          "name": "QSR - Dining"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026414829",
+          "name": "KFC"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Food",
+          "id": "825047692124442624",
+          "name": "Food"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026414829",
+          "name": "KFC"
+        }
+      },
+      {
+        "domain": {
+          "description": "Topics about food, like Donuts or Brunch",
+          "id": "152",
+          "name": "Food"
+        },
+        "entity": {
+          "description": "Fast food",
+          "id": "847865239886417922",
+          "name": "Fast food Restaurants"
+        }
+      }
+    ],
+    "conversation_id": "2018714633339588997",
+    "created_at": "2026-02-04T09:11:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T10:11:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018975744949698924"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2165736150",
+          "start": 0,
+          "username": "tiancai312"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018975744949698924",
+    "in_reply_to_user_id": "2165736150",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018714633339588997",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tiancai312 蹲kfc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 514,
+        "media_key": "3_2018714614637498368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAPqPxRbkAAUsX6.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596161376261",
+              "name": "Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597017083904",
+              "name": "QSR - Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026414829",
+              "name": "KFC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026414829",
+              "name": "KFC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "description": "Fast food",
+              "id": "847865239886417922",
+              "name": "Fast food Restaurants"
+            }
+          }
+        ],
+        "conversation_id": "2018714633339588997",
+        "created_at": "2026-02-04T09:11:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T10:11:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018975744949698924"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2165736150",
+              "start": 0,
+              "username": "tiancai312"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018975744949698924",
+        "in_reply_to_user_id": "2165736150",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018714633339588997",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tiancai312 蹲kfc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018714614637498368"
+          ]
+        },
+        "author_id": "2165736150",
+        "conversation_id": "2018714633339588997",
+        "created_at": "2026-02-03T15:54:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T16:54:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018714633339588997"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pAa7acjJd9",
+              "end": 30,
+              "expanded_url": "https://x.com/tiancai312/status/2018714633339588997/photo/1",
+              "media_key": "3_2018714614637498368",
+              "start": 7,
+              "url": "https://t.co/pAa7acjJd9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018714633339588997",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 5364,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 84,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "这个没人滴嘛 https://t.co/pAa7acjJd9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2JlN5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2JlN5"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "🚪188（别的私信不回",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2008543541979738501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014313058978406400/yLC08oHO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 568,
+          "following_count": 72,
+          "like_count": 5210,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 991
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2013-10-31T00:49:14.000Z",
+        "description": "碎碎念分享/话题投稿/树洞吐槽/分享日常/情感话题/交友投稿/每日大赛/希望大家将心比心 谢谢你那么优秀 还选择我",
+        "id": "2165736150",
+        "location": "Central & Western District",
+        "name": "社恐的元大鹰",
+        "pinned_tweet_id": "2014189862459470297",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013164874285658112/12AHYrdc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3881,
+          "following_count": 11,
+          "like_count": 17702,
+          "listed_count": 5,
+          "media_count": 192,
+          "tweet_count": 829
+        },
+        "username": "tiancai312",
+        "verified": false
+      }
+    ]
+  }
+}

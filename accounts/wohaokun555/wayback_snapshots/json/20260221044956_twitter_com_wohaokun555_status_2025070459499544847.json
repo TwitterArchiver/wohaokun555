@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2024555598441066953",
+    "created_at": "2026-02-21T04:49:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T05:49:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025070459499544847"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1814014190539149312",
+          "start": 0,
+          "username": "quan_ai10965"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025070459499544847",
+    "in_reply_to_user_id": "1814014190539149312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025067462929318370",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@quan_ai10965 天呢卧槽-。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2024555598441066953",
+        "created_at": "2026-02-21T04:49:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T05:49:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025070459499544847"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1814014190539149312",
+              "start": 0,
+              "username": "quan_ai10965"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025070459499544847",
+        "in_reply_to_user_id": "1814014190539149312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025067462929318370",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@quan_ai10965 天呢卧槽-。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1814014190539149312",
+        "conversation_id": "2024555598441066953",
+        "created_at": "2026-02-21T04:38:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T05:38:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025067462929318370"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025067462929318370",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024778554924531922",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 各种买买买 然后谈了一个月给我删了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2JlN5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2JlN5"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "除了口令和正常问题别的私信不回",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2016792238060421479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 897,
+          "following_count": 95,
+          "like_count": 8978,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 1671
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-18T19:07:47.000Z",
+        "description": "什么时候才能解脱",
+        "id": "1814014190539149312",
+        "location": "山东",
+        "name": "今晚不下雨",
+        "pinned_tweet_id": "1956229219777962472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1814332730580324352/nW3TRiTs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 16,
+          "like_count": 98,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 49
+        },
+        "username": "quan_ai10965",
+        "verified": false
+      }
+    ]
+  }
+}

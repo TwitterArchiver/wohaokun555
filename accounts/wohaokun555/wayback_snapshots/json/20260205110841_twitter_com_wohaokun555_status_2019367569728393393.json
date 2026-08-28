@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2019070427721580931",
+    "created_at": "2026-02-05T11:08:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-05T12:08:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019367569728393393"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1828780381107298304",
+          "start": 0,
+          "username": "wasabits013"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019367569728393393",
+    "in_reply_to_user_id": "1828780381107298304",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019070427721580931",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wasabits013 啥神人都有"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2019070420545339392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAUt2ZkagAAUu3d.jpg",
+        "width": 1101
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2019070427721580931",
+        "created_at": "2026-02-05T11:08:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T12:08:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019367569728393393"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1828780381107298304",
+              "start": 0,
+              "username": "wasabits013"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019367569728393393",
+        "in_reply_to_user_id": "1828780381107298304",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019070427721580931",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wasabits013 啥神人都有"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019070420545339392"
+          ]
+        },
+        "author_id": "1828780381107298304",
+        "conversation_id": "2019070427721580931",
+        "created_at": "2026-02-04T15:27:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T16:27:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019070427721580931"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "私信大赏"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/d1VuMV0ojD",
+              "end": 37,
+              "expanded_url": "https://x.com/wasabits013/status/2019070427721580931/photo/1",
+              "media_key": "3_2019070420545339392",
+              "start": 14,
+              "url": "https://t.co/d1VuMV0ojD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019070427721580931",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 672,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#私信大赏\n我没招了🚬。。 https://t.co/d1VuMV0ojD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2JlN5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2JlN5"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "🚪188（别的私信不回",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2019333252520321256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014313058978406400/yLC08oHO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 579,
+          "following_count": 72,
+          "like_count": 5478,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 1025
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-28T13:03:23.000Z",
+        "description": "05/金融狗/在活/勉强正常/不太主动 等你来找我/ 找我玩｜别发几把照/骂我先转钱 不骂我就回😶 call me if u can （欢迎找我玩）^ ^",
+        "id": "1828780381107298304",
+        "location": "in ur eyes",
+        "name": "芥末糖蒜",
+        "pinned_tweet_id": "2013981141116596421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016765406867038208/LQ_zaQzv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 196,
+          "like_count": 6579,
+          "listed_count": 0,
+          "media_count": 251,
+          "tweet_count": 2575
+        },
+        "username": "wasabits013",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2024330086762377431",
+    "created_at": "2026-02-19T05:10:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T06:10:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024350956444631081"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1978751417100976128",
+          "start": 0,
+          "username": "TDaidai_T"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024350956444631081",
+    "in_reply_to_user_id": "1978751417100976128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024340082787045743",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TDaidai_T 卧槽说的对"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2024330086762377431",
+        "created_at": "2026-02-19T05:10:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T06:10:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024350956444631081"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1978751417100976128",
+              "start": 0,
+              "username": "TDaidai_T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024350956444631081",
+        "in_reply_to_user_id": "1978751417100976128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024340082787045743",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TDaidai_T 卧槽说的对"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1978751417100976128",
+        "conversation_id": "2024330086762377431",
+        "created_at": "2026-02-19T04:27:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T05:27:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024340082787045743"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024340082787045743",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024330086762377431",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 14，18，21，25都是男爱豆很关键的时期。\n14要开智了，但对于男的来说不是开智，是要被y染色体控制大脑了，18要开荤了，渐渐小脸微黄眼中有一种淫感，21要发腮了，鼎盛期过去老人味直男味爹味随之而来，而25岁以上男爱豆没有活着的必要"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2INXx",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2INXx"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "🚪（纯绿纯绿（除了口令和门槛别的私信不回",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2016792238060421479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 882,
+          "following_count": 85,
+          "like_count": 8585,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 1602
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-16T09:14:54.000Z",
+        "description": "养只猫叫十三丨可以叫我小听",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tdaidai_t",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tdaidai_t",
+                "start": 0,
+                "url": "https://t.co/7KPx9btu2y"
+              }
+            ]
+          }
+        },
+        "id": "1978751417100976128",
+        "location": "跟我玩匿名问答！",
+        "name": "我只有一个听",
+        "pinned_tweet_id": "2009810447864869162",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021438527788167168/haHES9WG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 211,
+          "following_count": 43,
+          "like_count": 2052,
+          "listed_count": 1,
+          "media_count": 93,
+          "tweet_count": 1093
+        },
+        "url": "https://t.co/7KPx9btu2y",
+        "username": "TDaidai_T",
+        "verified": false
+      }
+    ]
+  }
+}

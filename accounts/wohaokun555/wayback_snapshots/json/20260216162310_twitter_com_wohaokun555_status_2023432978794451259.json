@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2023413525763530907",
+    "created_at": "2026-02-16T16:23:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T17:23:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023432978794451259"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1379415239469494273",
+          "start": 0,
+          "username": "sandy37685877"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023432978794451259",
+    "in_reply_to_user_id": "1379415239469494273",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023413525763530907",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sandy37685877 接吧。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 604,
+        "media_key": "3_2023413518717087744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBSb3_Da8AApsLH.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1007,
+        "media_key": "3_2023413518725500928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBSb3_FbUAAoTaF.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2023413525763530907",
+        "created_at": "2026-02-16T16:23:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T17:23:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023432978794451259"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1379415239469494273",
+              "start": 0,
+              "username": "sandy37685877"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023432978794451259",
+        "in_reply_to_user_id": "1379415239469494273",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023413525763530907",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sandy37685877 接吧。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023413518717087744",
+            "3_2023413518725500928"
+          ]
+        },
+        "author_id": "1379415239469494273",
+        "conversation_id": "2023413525763530907",
+        "created_at": "2026-02-16T15:05:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T16:05:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023413525763530907"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KCIedZPZ4E",
+              "end": 30,
+              "expanded_url": "https://x.com/sandy37685877/status/2023413525763530907/photo/1",
+              "media_key": "3_2023413518717087744",
+              "start": 7,
+              "url": "https://t.co/KCIedZPZ4E"
+            },
+            {
+              "display_url": "pic.x.com/KCIedZPZ4E",
+              "end": 30,
+              "expanded_url": "https://x.com/sandy37685877/status/2023413525763530907/photo/1",
+              "media_key": "3_2023413518725500928",
+              "start": 7,
+              "url": "https://t.co/KCIedZPZ4E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023413525763530907",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 683,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不得不晒，🙈 https://t.co/KCIedZPZ4E"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2JlN5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2JlN5"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "🚪188（纯绿纯绿（除了口令和门槛别的私信不回",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2016792238060421479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 812,
+          "following_count": 84,
+          "like_count": 8305,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 1574
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-06T12:47:12.000Z",
+        "description": "别来烦我，谢谢",
+        "id": "1379415239469494273",
+        "location": "勿扰",
+        "name": "糖果超辣",
+        "pinned_tweet_id": "1970333431134593434",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753107102875435008/zQedG4No_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3873,
+          "following_count": 34,
+          "like_count": 4480,
+          "listed_count": 8,
+          "media_count": 15,
+          "tweet_count": 3301
+        },
+        "username": "sandy37685877",
+        "verified": false
+      }
+    ]
+  }
+}

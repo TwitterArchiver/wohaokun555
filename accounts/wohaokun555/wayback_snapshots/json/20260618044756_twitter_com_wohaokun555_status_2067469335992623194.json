@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2067267190844530874",
+    "created_at": "2026-06-18T04:47:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T05:47:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067469335992623194"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1979913872233652224",
+          "start": 0,
+          "username": "Setforlife23"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067469335992623194",
+    "in_reply_to_user_id": "1979913872233652224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067460522325459053",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Setforlife23 这条路我记得有人走过卧槽 被扒了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2067267190844530874",
+        "created_at": "2026-06-18T04:47:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T05:47:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067469335992623194"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1979913872233652224",
+              "start": 0,
+              "username": "Setforlife23"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067469335992623194",
+        "in_reply_to_user_id": "1979913872233652224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067460522325459053",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Setforlife23 这条路我记得有人走过卧槽 被扒了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979913872233652224",
+        "conversation_id": "2067267190844530874",
+        "created_at": "2026-06-18T04:12:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T05:12:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067460522325459053"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067460522325459053",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067267190844530874",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 ai融几个日本美少女型的脸 再配上古早背景和滤镜 盗几个卖萌文案 被识别为ai就装死不承认"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "@lei_meng123（随缘过\n这是一个女孩的内心世界🌍",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 0,
+                "username": "lei_meng123"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "私信只回口令过门 其他勿扰…",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2062769965330227585",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2406,
+          "following_count": 78,
+          "like_count": 22524,
+          "listed_count": 2,
+          "media_count": 134,
+          "tweet_count": 3570
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-19T14:13:57.000Z",
+        "description": "我乱发的",
+        "id": "1979913872233652224",
+        "location": "上海",
+        "name": "loml",
+        "pinned_tweet_id": "2054963886378635505",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979915595710664704/xxRU3bHI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 914,
+          "following_count": 74,
+          "like_count": 2729,
+          "listed_count": 1,
+          "media_count": 70,
+          "tweet_count": 590
+        },
+        "username": "Setforlife23",
+        "verified": false
+      }
+    ]
+  }
+}

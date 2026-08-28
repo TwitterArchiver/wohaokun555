@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2052391197390565497",
+    "created_at": "2026-05-07T16:29:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T17:29:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052425669641203942"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1888980783509192704",
+          "start": 0,
+          "username": "94264983364z"
+        },
+        {
+          "end": 25,
+          "id": "1999695376044163074",
+          "start": 14,
+          "username": "lfmirr0096"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052425669641203942",
+    "in_reply_to_user_id": "1888980783509192704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052423838831665472",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@94264983364z @lfmirr0096 我打车去的话是15 一来一回三十 我平常都是骑单车去的 不是说报不报销 就是感觉临时这样我很委屈 没忍住就哭了…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2052391197390565497",
+        "created_at": "2026-05-07T16:29:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T17:29:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052425669641203942"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1888980783509192704",
+              "start": 0,
+              "username": "94264983364z"
+            },
+            {
+              "end": 25,
+              "id": "1999695376044163074",
+              "start": 14,
+              "username": "lfmirr0096"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052425669641203942",
+        "in_reply_to_user_id": "1888980783509192704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052423838831665472",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@94264983364z @lfmirr0096 我打车去的话是15 一来一回三十 我平常都是骑单车去的 不是说报不报销 就是感觉临时这样我很委屈 没忍住就哭了…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888980783509192704",
+        "conversation_id": "2052391197390565497",
+        "created_at": "2026-05-07T16:22:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T17:22:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052423838831665472"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1999695376044163074",
+              "start": 0,
+              "username": "lfmirr0096"
+            },
+            {
+              "end": 24,
+              "id": "2004619896630788096",
+              "start": 12,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052423838831665472",
+        "in_reply_to_user_id": "1999695376044163074",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052422735188709480",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lfmirr0096 @wohaokun555 没多少吧，市内通勤就10块以内吧，我干的时候是这样，没见报销。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "",
+        "id": "2004619896630788096",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2052293259586924701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2022,
+          "following_count": 101,
+          "like_count": 18535,
+          "listed_count": 2,
+          "media_count": 218,
+          "tweet_count": 3109
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-10T15:58:41.000Z",
+        "description": "",
+        "id": "1888980783509192704",
+        "name": "waterdrinker",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928023959783755777/hPPcHe6f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 20,
+          "like_count": 1237,
+          "listed_count": 1,
+          "media_count": 1,
+          "tweet_count": 75
+        },
+        "username": "94264983364z",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-13T04:18:43.000Z",
+        "description": "我一个人的世界",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/miningvii_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/miningvii_",
+                "start": 0,
+                "url": "https://t.co/MaY4uFKoCj"
+              }
+            ]
+          }
+        },
+        "id": "1999695376044163074",
+        "name": "lairrula",
+        "pinned_tweet_id": "2022741360877388019",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012480267882049537/MGCZ0xOJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 955,
+          "following_count": 24,
+          "like_count": 34,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 111
+        },
+        "url": "https://t.co/MaY4uFKoCj",
+        "username": "lfmirr0096",
+        "verified": false
+      }
+    ]
+  }
+}

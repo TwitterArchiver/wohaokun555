@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2037359919905857536",
+        "3_2037359919972913152"
+      ]
+    },
+    "author_id": "2004619896630788096",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2037359967557329321",
+    "created_at": "2026-03-27T02:44:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T03:44:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037359967557329321"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/0u7Qz9WmIt",
+          "end": 31,
+          "expanded_url": "https://x.com/wohaokun555/status/2037359967557329321/photo/1",
+          "media_key": "3_2037359919905857536",
+          "start": 8,
+          "url": "https://t.co/0u7Qz9WmIt"
+        },
+        {
+          "display_url": "pic.x.com/0u7Qz9WmIt",
+          "end": 31,
+          "expanded_url": "https://x.com/wohaokun555/status/2037359967557329321/photo/1",
+          "media_key": "3_2037359919972913152",
+          "start": 8,
+          "url": "https://t.co/0u7Qz9WmIt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037359967557329321",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "女孩子切水果中 https://t.co/0u7Qz9WmIt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2037359919905857536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEYoDYGbYAAMVlR.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2037359919972913152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEYoDYWakAAtr26.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037359919905857536",
+            "3_2037359919972913152"
+          ]
+        },
+        "author_id": "2004619896630788096",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2037359967557329321",
+        "created_at": "2026-03-27T02:44:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T03:44:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037359967557329321"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0u7Qz9WmIt",
+              "end": 31,
+              "expanded_url": "https://x.com/wohaokun555/status/2037359967557329321/photo/1",
+              "media_key": "3_2037359919905857536",
+              "start": 8,
+              "url": "https://t.co/0u7Qz9WmIt"
+            },
+            {
+              "display_url": "pic.x.com/0u7Qz9WmIt",
+              "end": 31,
+              "expanded_url": "https://x.com/wohaokun555/status/2037359967557329321/photo/1",
+              "media_key": "3_2037359919972913152",
+              "start": 8,
+              "url": "https://t.co/0u7Qz9WmIt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037359967557329321",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "女孩子切水果中 https://t.co/0u7Qz9WmIt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "🚪🫶🏻🫰🏻🩶",
+        "id": "2004619896630788096",
+        "location": "三体（私信只回复口令和🚪",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2035966922010087790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1444,
+          "following_count": 99,
+          "like_count": 13138,
+          "listed_count": 1,
+          "media_count": 132,
+          "tweet_count": 2428
+        },
+        "username": "wohaokun555",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2066458908659536141",
+    "created_at": "2026-06-15T11:11:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T12:11:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066478658907521260"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2050887139865300992",
+          "start": 0,
+          "username": "kkkkkirito12138"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066478658907521260",
+    "in_reply_to_user_id": "2050887139865300992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066458908659536141",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kkkkkirito12138 这期还是个纯音乐"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2066458759388364802",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK2JSwhWgAIF_Ti.jpg",
+        "width": 1920
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2066458759375806464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK2JSweW4AAsoid.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2066458759363248128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK2JSwbXQAAFZwe.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2066458759392636928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK2JSwiXsAA-7EP.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2066458908659536141",
+        "created_at": "2026-06-15T11:11:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T12:11:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066478658907521260"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2050887139865300992",
+              "start": 0,
+              "username": "kkkkkirito12138"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066478658907521260",
+        "in_reply_to_user_id": "2050887139865300992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066458908659536141",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kkkkkirito12138 这期还是个纯音乐"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066458759388364802",
+            "3_2066458759375806464",
+            "3_2066458759363248128",
+            "3_2066458759392636928"
+          ]
+        },
+        "author_id": "2050887139865300992",
+        "conversation_id": "2066458908659536141",
+        "created_at": "2026-06-15T09:52:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T10:52:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066458908659536141"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OOtCFv96uu",
+              "end": 48,
+              "expanded_url": "https://x.com/kkkkkirito12138/status/2066458908659536141/photo/1",
+              "media_key": "3_2066458759388364802",
+              "start": 25,
+              "url": "https://t.co/OOtCFv96uu"
+            },
+            {
+              "display_url": "pic.x.com/OOtCFv96uu",
+              "end": 48,
+              "expanded_url": "https://x.com/kkkkkirito12138/status/2066458908659536141/photo/1",
+              "media_key": "3_2066458759375806464",
+              "start": 25,
+              "url": "https://t.co/OOtCFv96uu"
+            },
+            {
+              "display_url": "pic.x.com/OOtCFv96uu",
+              "end": 48,
+              "expanded_url": "https://x.com/kkkkkirito12138/status/2066458908659536141/photo/1",
+              "media_key": "3_2066458759363248128",
+              "start": 25,
+              "url": "https://t.co/OOtCFv96uu"
+            },
+            {
+              "display_url": "pic.x.com/OOtCFv96uu",
+              "end": 48,
+              "expanded_url": "https://x.com/kkkkkirito12138/status/2066458908659536141/photo/1",
+              "media_key": "3_2066458759392636928",
+              "start": 25,
+              "url": "https://t.co/OOtCFv96uu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066458908659536141",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1243,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "The truth that you leave https://t.co/OOtCFv96uu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "@lei_meng123（随缘过\n这是一个女孩的内心世界🌍",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 0,
+                "username": "lei_meng123"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "私信只回口令过门 其他勿扰…",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2062769965330227585",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2382,
+          "following_count": 78,
+          "like_count": 22207,
+          "listed_count": 2,
+          "media_count": 143,
+          "tweet_count": 3546
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-03T10:40:35.000Z",
+        "description": "08白羊 直男不4i 勿骚扰礼貌私信会回 \n🫧88 匿名提问在下面👇",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/k407510",
+                "end": 23,
+                "expanded_url": "https://ngl.link/k407510",
+                "start": 0,
+                "url": "https://t.co/17y3x4clkb"
+              }
+            ]
+          }
+        },
+        "id": "2050887139865300992",
+        "location": "21km",
+        "name": "薄荷味的雪",
+        "pinned_tweet_id": "2052628256864538760",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057457738737999872/auHCR0Cy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1176,
+          "following_count": 32,
+          "like_count": 2060,
+          "listed_count": 2,
+          "media_count": 74,
+          "tweet_count": 546
+        },
+        "url": "https://t.co/17y3x4clkb",
+        "username": "kkkkkirito12138",
+        "verified": false
+      }
+    ]
+  }
+}

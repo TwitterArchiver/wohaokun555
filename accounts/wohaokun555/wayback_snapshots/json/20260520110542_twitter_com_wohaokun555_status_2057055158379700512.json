@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2057042272592822289",
+    "created_at": "2026-05-20T11:05:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T12:05:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057055158379700512"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1918664114186096640",
+          "start": 0,
+          "username": "be6b1143"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057055158379700512",
+    "in_reply_to_user_id": "1918664114186096640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057042272592822289",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@be6b1143 妈妈咪呀我一口亲上去"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2057042250031669248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIwVBxkboAAUPvP.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2057042272592822289",
+        "created_at": "2026-05-20T11:05:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T12:05:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057055158379700512"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1918664114186096640",
+              "start": 0,
+              "username": "be6b1143"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057055158379700512",
+        "in_reply_to_user_id": "1918664114186096640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057042272592822289",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@be6b1143 妈妈咪呀我一口亲上去"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057042250031669248"
+          ]
+        },
+        "author_id": "1918664114186096640",
+        "conversation_id": "2057042272592822289",
+        "created_at": "2026-05-20T10:14:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T11:14:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057042272592822289"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cJ65Fy8Dkj",
+              "end": 23,
+              "expanded_url": "https://x.com/be6b1143/status/2057042272592822289/photo/1",
+              "media_key": "3_2057042250031669248",
+              "start": 0,
+              "url": "https://t.co/cJ65Fy8Dkj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057042272592822289",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 801,
+          "like_count": 74,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/cJ65Fy8Dkj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "🚪（纯绿 不入勿扰",
+        "id": "2004619896630788096",
+        "location": "没义务陪聊 别问我乱七八糟的",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2036315164098830372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2059,
+          "following_count": 101,
+          "like_count": 19573,
+          "listed_count": 1,
+          "media_count": 237,
+          "tweet_count": 3238
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-03T13:49:19.000Z",
+        "description": "爱是世界上最伟大的魔法@aumileude",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 11,
+                "username": "aumileude"
+              }
+            ]
+          }
+        },
+        "id": "1918664114186096640",
+        "name": "马奎斯",
+        "pinned_tweet_id": "2005142406526874072",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918665181972082688/met7_bU9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6094,
+          "following_count": 129,
+          "like_count": 7827,
+          "listed_count": 25,
+          "media_count": 55,
+          "tweet_count": 2912
+        },
+        "username": "be6b1143",
+        "verified": false
+      }
+    ]
+  }
+}

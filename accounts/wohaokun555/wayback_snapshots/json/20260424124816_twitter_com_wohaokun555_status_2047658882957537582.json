@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2047658882957537582",
+    "created_at": "2026-04-24T12:48:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T13:48:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047658882957537582"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2047658882957537582",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天是一个很丰富的一天早上起来化妆然后和朋友去穿孔 然后中午去吃饭 吃完饭她陪我逛街看衣服和化妆品 然后晚上回来之后又去做了个美甲 吃了好吃的 现在终于躺下来了～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2047658882957537582",
+        "created_at": "2026-04-24T12:48:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T13:48:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047658882957537582"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047658882957537582",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天是一个很丰富的一天早上起来化妆然后和朋友去穿孔 然后中午去吃饭 吃完饭她陪我逛街看衣服和化妆品 然后晚上回来之后又去做了个美甲 吃了好吃的 现在终于躺下来了～"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "",
+        "id": "2004619896630788096",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2036315164098830372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1909,
+          "following_count": 98,
+          "like_count": 16448,
+          "listed_count": 1,
+          "media_count": 198,
+          "tweet_count": 2943
+        },
+        "username": "wohaokun555",
+        "verified": false
+      }
+    ]
+  }
+}

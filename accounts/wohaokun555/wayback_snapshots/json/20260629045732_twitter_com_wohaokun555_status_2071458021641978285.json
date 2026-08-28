@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2071276076488151268",
+    "created_at": "2026-06-29T04:57:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T05:57:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071458021641978285"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1734890898310504448",
+          "start": 0,
+          "username": "k0taka_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071458021641978285",
+    "in_reply_to_user_id": "1734890898310504448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071276076488151268",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@k0taka_ 直播间刷礼物真的会上瘾…我每次看女主播都忍不住刷点 付款的时候那个对勾还有莫名快感"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1206,
+        "media_key": "3_2071276066040147968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL6mm6QXcAAqVOb.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2071276076488151268",
+        "created_at": "2026-06-29T04:57:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T05:57:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071458021641978285"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1734890898310504448",
+              "start": 0,
+              "username": "k0taka_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071458021641978285",
+        "in_reply_to_user_id": "1734890898310504448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071276076488151268",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@k0taka_ 直播间刷礼物真的会上瘾…我每次看女主播都忍不住刷点 付款的时候那个对勾还有莫名快感"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071276066040147968"
+          ]
+        },
+        "author_id": "1734890898310504448",
+        "conversation_id": "2071276076488151268",
+        "created_at": "2026-06-28T16:54:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T17:54:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071276076488151268"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2ds5AkiiJz",
+              "end": 79,
+              "expanded_url": "https://x.com/k0taka_/status/2071276076488151268/photo/1",
+              "media_key": "3_2071276066040147968",
+              "start": 56,
+              "url": "https://t.co/2ds5AkiiJz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071276076488151268",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1581,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "我不行了，最近沉迷抖音直播间小游戏，两周莫名其妙刷了两千多块钱🫪…\n\n我再也不打了，从今天开始分币不刷主打陪伴 https://t.co/2ds5AkiiJz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "让我成为我，让一座山并存着嶙峋和肥沃",
+        "id": "2004619896630788096",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2070530833434476867",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2619,
+          "following_count": 81,
+          "like_count": 23380,
+          "listed_count": 2,
+          "media_count": 142,
+          "tweet_count": 3736
+        },
+        "url": "",
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-13T11:00:04.000Z",
+        "description": "我只是一个按快门的",
+        "id": "1734890898310504448",
+        "name": "𝙺𝚘𝚝𝚊𝚔𝚊",
+        "pinned_tweet_id": "1987359999816049076",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988753402545745920/Xi9CPddJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1885,
+          "following_count": 385,
+          "like_count": 31168,
+          "listed_count": 4,
+          "media_count": 686,
+          "tweet_count": 3658
+        },
+        "url": "",
+        "username": "k0taka_",
+        "verified": false
+      }
+    ]
+  }
+}

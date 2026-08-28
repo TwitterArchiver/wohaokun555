@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2007095028733366370",
+    "created_at": "2026-01-02T14:21:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-02T15:21:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2007095028733366370"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/only4_aeri/sta…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/only4_aeri/status/2006790861988966887",
+          "start": 8,
+          "url": "https://t.co/5RE9M3ykrq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007095028733366370",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006790861988966887",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "吉赛尔咋这么美 https://t.co/5RE9M3ykrq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 981,
+        "media_key": "3_2006790857928687616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9mNpyFXQAAiRd_.jpg",
+        "width": 736
+      },
+      {
+        "height": 920,
+        "media_key": "3_2006790858083897344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9mNpyqXkAAUI1c.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2007095028733366370",
+        "created_at": "2026-01-02T14:21:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T15:21:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007095028733366370"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/only4_aeri/sta…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/only4_aeri/status/2006790861988966887",
+              "start": 8,
+              "url": "https://t.co/5RE9M3ykrq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007095028733366370",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006790861988966887",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "吉赛尔咋这么美 https://t.co/5RE9M3ykrq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006790857928687616",
+            "3_2006790858083897344"
+          ]
+        },
+        "author_id": "1938573355042664448",
+        "conversation_id": "2006790861988966887",
+        "created_at": "2026-01-01T18:13:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T19:13:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006790861988966887"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aikDFEUPq5",
+              "end": 23,
+              "expanded_url": "https://x.com/only4_Aeri/status/2006790861988966887/photo/1",
+              "media_key": "3_2006790857928687616",
+              "start": 0,
+              "url": "https://t.co/aikDFEUPq5"
+            },
+            {
+              "display_url": "pic.x.com/aikDFEUPq5",
+              "end": 23,
+              "expanded_url": "https://x.com/only4_Aeri/status/2006790861988966887/photo/1",
+              "media_key": "3_2006790858083897344",
+              "start": 0,
+              "url": "https://t.co/aikDFEUPq5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006790861988966887",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 248,
+          "impression_count": 63356,
+          "like_count": 5764,
+          "quote_count": 13,
+          "reply_count": 0,
+          "retweet_count": 1354
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "https://t.co/aikDFEUPq5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "天天开心o^^o",
+        "id": "2004619896630788096",
+        "location": "三体星球",
+        "name": "鱼虾一整碗",
+        "pinned_tweet_id": "2005582001685012508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004620653153189888/VWgYLNYv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 32,
+          "like_count": 689,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 331
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-27T12:21:40.000Z",
+        "description": "#GISELLE ᴀʀᴄʜɪᴠᴇ ꜰᴏʀ ʏᴏᴜ ᯓᡣ𐭩",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 8,
+                "start": 0,
+                "tag": "GISELLE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/aerichandesu",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/aerichandesu",
+                "start": 0,
+                "url": "https://t.co/DHtwjWTkV5"
+              }
+            ]
+          }
+        },
+        "id": "1938573355042664448",
+        "location": "𝟶𝟶𝟷𝟶𝟹𝟶 ࣪ ִֶָ☾. ",
+        "name": "𝑑𝑎𝑖𝑙𝑦 𝐺𝑖𝑠𝑒𝑙𝑙𝑒 •",
+        "pinned_tweet_id": "1960359503586570361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005302231344500736/UFg4polb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3533,
+          "following_count": 24,
+          "like_count": 2576,
+          "listed_count": 14,
+          "media_count": 991,
+          "tweet_count": 1205
+        },
+        "url": "https://t.co/DHtwjWTkV5",
+        "username": "only4_Aeri",
+        "verified": false
+      }
+    ]
+  }
+}

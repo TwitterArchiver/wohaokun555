@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2004941523113373884",
+    "created_at": "2025-12-28T09:24:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-28T10:24:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005208317942215056"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1947628495896477696",
+          "start": 0,
+          "username": "Resfeber0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005208317942215056",
+    "in_reply_to_user_id": "1947628495896477696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004941523113373884",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Resfeber0 别哭了宝宝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2004941523113373884",
+        "created_at": "2025-12-28T09:24:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T10:24:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005208317942215056"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1947628495896477696",
+              "start": 0,
+              "username": "Resfeber0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005208317942215056",
+        "in_reply_to_user_id": "1947628495896477696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004941523113373884",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Resfeber0 别哭了宝宝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1947628495896477696",
+        "conversation_id": "2004941523113373884",
+        "created_at": "2025-12-27T15:44:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T16:44:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004941523113373884"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2004941523113373884",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41482,
+          "like_count": 58,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好崩溃啊。我真的一直哭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "🚪66",
+        "id": "2004619896630788096",
+        "location": "Hong Kong",
+        "name": "鱼虾一整碗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004620653153189888/VWgYLNYv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 13,
+          "like_count": 108,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 79
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-22T12:03:21.000Z",
+        "description": "人好 我是屁",
+        "id": "1947628495896477696",
+        "location": "🚪520",
+        "name": "Utopia",
+        "pinned_tweet_id": "1999120291189129282",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999895349843156992/NBFF0ep4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13747,
+          "following_count": 142,
+          "like_count": 279,
+          "listed_count": 26,
+          "media_count": 98,
+          "tweet_count": 984
+        },
+        "username": "Resfeber0",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2048411618942636456",
+    "created_at": "2026-04-26T15:03:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T16:03:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048417771432849650"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1728602295565418496",
+          "start": 0,
+          "username": "logcabinlog"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048417771432849650",
+    "in_reply_to_user_id": "1728602295565418496",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048413891223339231",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@logcabinlog 滚aaaq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2048411618942636456",
+        "created_at": "2026-04-26T15:03:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T16:03:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048417771432849650"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1728602295565418496",
+              "start": 0,
+              "username": "logcabinlog"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048417771432849650",
+        "in_reply_to_user_id": "1728602295565418496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048413891223339231",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@logcabinlog 滚aaaq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1728602295565418496",
+        "conversation_id": "2048411618942636456",
+        "created_at": "2026-04-26T14:48:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T15:48:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048413891223339231"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048413891223339231",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048411618942636456",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 我不行了 我看图片的光晕 我以为是你的大肚子。因为你怀孕了 对不起🧎"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "",
+        "id": "2004619896630788096",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2036315164098830372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1918,
+          "following_count": 99,
+          "like_count": 16934,
+          "listed_count": 1,
+          "media_count": 203,
+          "tweet_count": 2975
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-26T02:31:25.000Z",
+        "description": "#摄影 #露营 #胶片 #温州",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 3,
+                "start": 0,
+                "tag": "摄影"
+              },
+              {
+                "end": 7,
+                "start": 4,
+                "tag": "露营"
+              },
+              {
+                "end": 11,
+                "start": 8,
+                "tag": "胶片"
+              },
+              {
+                "end": 15,
+                "start": 12,
+                "tag": "温州"
+              }
+            ]
+          }
+        },
+        "id": "1728602295565418496",
+        "location": "温州",
+        "name": "Blues",
+        "pinned_tweet_id": "2016571911736881167",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034951181181886465/lOfUgy27_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9799,
+          "following_count": 214,
+          "like_count": 2489,
+          "listed_count": 32,
+          "media_count": 271,
+          "tweet_count": 1671
+        },
+        "username": "logcabinlog",
+        "verified": false
+      }
+    ]
+  }
+}

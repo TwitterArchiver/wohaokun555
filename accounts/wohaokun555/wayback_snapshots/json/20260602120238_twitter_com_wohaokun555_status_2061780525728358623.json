@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061780517377417216",
+        "3_2061780517348089856"
+      ]
+    },
+    "author_id": "2004619896630788096",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2061780525728358623",
+    "created_at": "2026-06-02T12:02:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T13:02:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061780525728358623"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/IN0P18TJvh",
+          "end": 35,
+          "expanded_url": "https://x.com/wohaokun555/status/2061780525728358623/photo/1",
+          "media_key": "3_2061780517377417216",
+          "start": 12,
+          "url": "https://t.co/IN0P18TJvh"
+        },
+        {
+          "display_url": "pic.x.com/IN0P18TJvh",
+          "end": 35,
+          "expanded_url": "https://x.com/wohaokun555/status/2061780525728358623/photo/1",
+          "media_key": "3_2061780517348089856",
+          "start": 12,
+          "url": "https://t.co/IN0P18TJvh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061780525728358623",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "压死骆驼的最后一个稻草 https://t.co/IN0P18TJvh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1706,
+        "media_key": "3_2061780517377417216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJzqdO8aIAAUNA8.jpg",
+        "width": 1022
+      },
+      {
+        "height": 2039,
+        "media_key": "3_2061780517348089856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJzqdO1aoAA0FMw.jpg",
+        "width": 1027
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061780517377417216",
+            "3_2061780517348089856"
+          ]
+        },
+        "author_id": "2004619896630788096",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2061780525728358623",
+        "created_at": "2026-06-02T12:02:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T13:02:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061780525728358623"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IN0P18TJvh",
+              "end": 35,
+              "expanded_url": "https://x.com/wohaokun555/status/2061780525728358623/photo/1",
+              "media_key": "3_2061780517377417216",
+              "start": 12,
+              "url": "https://t.co/IN0P18TJvh"
+            },
+            {
+              "display_url": "pic.x.com/IN0P18TJvh",
+              "end": 35,
+              "expanded_url": "https://x.com/wohaokun555/status/2061780525728358623/photo/1",
+              "media_key": "3_2061780517348089856",
+              "start": 12,
+              "url": "https://t.co/IN0P18TJvh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061780525728358623",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "压死骆驼的最后一个稻草 https://t.co/IN0P18TJvh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "🚪（520",
+        "id": "2004619896630788096",
+        "location": "口令➕姓",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2060575687279567255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2182,
+          "following_count": 79,
+          "like_count": 20934,
+          "listed_count": 2,
+          "media_count": 135,
+          "tweet_count": 3312
+        },
+        "username": "wohaokun555",
+        "verified": false
+      }
+    ]
+  }
+}

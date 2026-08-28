@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2024654332361408957",
+    "created_at": "2026-02-20T02:21:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T03:21:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024670686418260194"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1687988648627834880",
+          "start": 0,
+          "username": "kawcpx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024670686418260194",
+    "in_reply_to_user_id": "1687988648627834880",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024654332361408957",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kawcpx 好莫名其妙的人。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2024654325537181696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBkEYcqaEAAZ9Xk.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2024654325541457921",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBkEYcrbUAEvzoH.jpg",
+        "width": 942
+      },
+      {
+        "height": 692,
+        "media_key": "3_2024654325533016064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBkEYcpagAAe9-f.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2024654332361408957",
+        "created_at": "2026-02-20T02:21:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T03:21:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024670686418260194"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1687988648627834880",
+              "start": 0,
+              "username": "kawcpx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024670686418260194",
+        "in_reply_to_user_id": "1687988648627834880",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024654332361408957",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kawcpx 好莫名其妙的人。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024654325537181696",
+            "3_2024654325541457921",
+            "3_2024654325533016064"
+          ]
+        },
+        "author_id": "1687988648627834880",
+        "conversation_id": "2024654332361408957",
+        "created_at": "2026-02-20T01:16:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T02:16:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024654332361408957"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7vELNjtVTD",
+              "end": 91,
+              "expanded_url": "https://x.com/kawcpx/status/2024654332361408957/photo/1",
+              "media_key": "3_2024654325537181696",
+              "start": 68,
+              "url": "https://t.co/7vELNjtVTD"
+            },
+            {
+              "display_url": "pic.x.com/7vELNjtVTD",
+              "end": 91,
+              "expanded_url": "https://x.com/kawcpx/status/2024654332361408957/photo/1",
+              "media_key": "3_2024654325541457921",
+              "start": 68,
+              "url": "https://t.co/7vELNjtVTD"
+            },
+            {
+              "display_url": "pic.x.com/7vELNjtVTD",
+              "end": 91,
+              "expanded_url": "https://x.com/kawcpx/status/2024654332361408957/photo/1",
+              "media_key": "3_2024654325533016064",
+              "start": 68,
+              "url": "https://t.co/7vELNjtVTD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024654332361408957",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 333,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你看你要不到又急了，我寻思抽奖以为中了小号来领，要不到还急了哈哈哈被我拉黑还开小号来评论，看来你真的被我说痛了，你得整宿整宿睡不着昨晚 https://t.co/7vELNjtVTD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2INXx",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2INXx"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "🚪（纯绿纯绿（除了口令和门槛别的私信不回",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2016792238060421479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 892,
+          "following_count": 91,
+          "like_count": 8766,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 1625
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-06T00:47:19.000Z",
+        "description": "随便",
+        "id": "1687988648627834880",
+        "name": "kaw",
+        "pinned_tweet_id": "2020492015830778166",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1730203704920596480/5fxr_IIu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2941,
+          "following_count": 21,
+          "like_count": 657,
+          "listed_count": 1,
+          "media_count": 56,
+          "tweet_count": 239
+        },
+        "username": "kawcpx",
+        "verified": true
+      }
+    ]
+  }
+}

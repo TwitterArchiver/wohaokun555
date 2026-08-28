@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2032833306555981990",
+    "created_at": "2026-03-14T23:59:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T00:59:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032969821361680757"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1886452072591298560",
+          "start": 0,
+          "username": "zhubibi166213"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032969821361680757",
+    "in_reply_to_user_id": "1886452072591298560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032833306555981990",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhubibi166213 妈妈"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2032833292484096002",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDYTG-4aMAIquFN.jpg",
+        "width": 1472
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2032833306555981990",
+        "created_at": "2026-03-14T23:59:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T00:59:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032969821361680757"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1886452072591298560",
+              "start": 0,
+              "username": "zhubibi166213"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032969821361680757",
+        "in_reply_to_user_id": "1886452072591298560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032833306555981990",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhubibi166213 妈妈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032833292484096002"
+          ]
+        },
+        "author_id": "1886452072591298560",
+        "conversation_id": "2032833306555981990",
+        "created_at": "2026-03-14T14:56:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T15:56:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032833306555981990"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cJyNqYghN8",
+              "end": 23,
+              "expanded_url": "https://x.com/zhubibi166213/status/2032833306555981990/photo/1",
+              "media_key": "3_2032833292484096002",
+              "start": 0,
+              "url": "https://t.co/cJyNqYghN8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032833306555981990",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 4200,
+          "like_count": 299,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/cJyNqYghN8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2JlN5\n🚪（勿扰",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2JlN5"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "除了口令别的不回！没有陪聊的义务",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2008543541979738501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1238,
+          "following_count": 98,
+          "like_count": 11415,
+          "listed_count": 1,
+          "media_count": 100,
+          "tweet_count": 2118
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-03T16:30:44.000Z",
+        "description": "4i不1i｜最爱小猫小狗和淡奶油猪yushi｜超级超级颜控",
+        "id": "1886452072591298560",
+        "location": "成都",
+        "name": "周日见",
+        "pinned_tweet_id": "2025561901384786250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020510600636612609/lhnR_V7H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3529,
+          "following_count": 166,
+          "like_count": 1667,
+          "listed_count": 8,
+          "media_count": 159,
+          "tweet_count": 1731
+        },
+        "username": "zhubibi166213",
+        "verified": false
+      }
+    ]
+  }
+}

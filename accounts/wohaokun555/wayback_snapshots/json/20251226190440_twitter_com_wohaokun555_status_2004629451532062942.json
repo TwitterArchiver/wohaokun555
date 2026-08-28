@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2004609657785241744",
+    "created_at": "2025-12-26T19:04:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-26T20:04:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004629451532062942"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2004574270916268033",
+          "start": 0,
+          "username": "Nssymwhsg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004629451532062942",
+    "in_reply_to_user_id": "2004574270916268033",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004609657785241744",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nssymwhsg 我好喜欢伦敦…去了一次回来后戒断反应好重…感觉是很浪漫的城市"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1512,
+        "media_key": "3_2004609641788141568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9HN2Swa8AAzvJq.jpg",
+        "width": 1169
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2004609657785241744",
+        "created_at": "2025-12-26T19:04:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T20:04:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004629451532062942"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2004574270916268033",
+              "start": 0,
+              "username": "Nssymwhsg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004629451532062942",
+        "in_reply_to_user_id": "2004574270916268033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004609657785241744",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nssymwhsg 我好喜欢伦敦…去了一次回来后戒断反应好重…感觉是很浪漫的城市"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2004609641788141568"
+          ]
+        },
+        "author_id": "2004574270916268033",
+        "conversation_id": "2004609657785241744",
+        "created_at": "2025-12-26T17:46:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T18:46:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004609657785241744"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yxS0rou3Yq",
+              "end": 67,
+              "expanded_url": "https://x.com/Nssymwhsg/status/2004609657785241744/photo/1",
+              "media_key": "3_2004609641788141568",
+              "start": 44,
+              "url": "https://t.co/yxS0rou3Yq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004609657785241744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真的好想去伦敦 我喜欢下雨 喜欢雨天在城市漫步 我看到这种照片就想立刻闪现到伦敦。。 https://t.co/yxS0rou3Yq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "🚪52",
+        "id": "2004619896630788096",
+        "location": "Hong Kong",
+        "name": "鱼虾一整碗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004620653153189888/VWgYLNYv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 3,
+          "like_count": 22,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 21
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-26T15:26:29.000Z",
+        "description": "你身上有猫味。发一些碎碎念。",
+        "id": "2004574270916268033",
+        "name": "Nssymw",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004574891719507968/kUdZI6nb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 19,
+          "like_count": 14,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 24
+        },
+        "username": "Nssymwhsg",
+        "verified": false
+      }
+    ]
+  }
+}

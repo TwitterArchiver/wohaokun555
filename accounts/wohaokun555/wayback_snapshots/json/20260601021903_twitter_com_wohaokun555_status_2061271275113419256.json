@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061271267567869952"
+      ]
+    },
+    "author_id": "2004619896630788096",
+    "conversation_id": "2061271275113419256",
+    "created_at": "2026-06-01T02:19:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T03:19:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061271275113419256"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/63ZDzLj0hx",
+          "end": 28,
+          "expanded_url": "https://x.com/wohaokun555/status/2061271275113419256/photo/1",
+          "media_key": "3_2061271267567869952",
+          "start": 5,
+          "url": "https://t.co/63ZDzLj0hx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061271275113419256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好恶心… https://t.co/63ZDzLj0hx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2061271267567869952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJsbS_kaIAAuhXW.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061271267567869952"
+          ]
+        },
+        "author_id": "2004619896630788096",
+        "conversation_id": "2061271275113419256",
+        "created_at": "2026-06-01T02:19:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T03:19:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061271275113419256"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/63ZDzLj0hx",
+              "end": 28,
+              "expanded_url": "https://x.com/wohaokun555/status/2061271275113419256/photo/1",
+              "media_key": "3_2061271267567869952",
+              "start": 5,
+              "url": "https://t.co/63ZDzLj0hx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061271275113419256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好恶心… https://t.co/63ZDzLj0hx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "🚪（520",
+        "id": "2004619896630788096",
+        "location": "口令➕姓",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2060575687279567255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2178,
+          "following_count": 78,
+          "like_count": 20768,
+          "listed_count": 2,
+          "media_count": 246,
+          "tweet_count": 3390
+        },
+        "username": "wohaokun555",
+        "verified": false
+      }
+    ]
+  }
+}

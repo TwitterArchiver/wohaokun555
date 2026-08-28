@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2024807757799702595",
+    "created_at": "2026-02-20T11:34:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T12:34:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024809866725109923"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1976383726855839744",
+          "start": 0,
+          "username": "MmeTuT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024809866725109923",
+    "in_reply_to_user_id": "1976383726855839744",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024809228251312365",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MmeTuT 来～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2024807757799702595",
+        "created_at": "2026-02-20T11:34:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T12:34:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024809866725109923"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1976383726855839744",
+              "start": 0,
+              "username": "MmeTuT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024809866725109923",
+        "in_reply_to_user_id": "1976383726855839744",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024809228251312365",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MmeTuT 来～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976383726855839744",
+        "conversation_id": "2024807757799702595",
+        "created_at": "2026-02-20T11:31:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T12:31:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024809228251312365"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024809228251312365",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024807757799702595",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 这种感觉看到照片的时候香味已经飘过来了..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2JlN5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2JlN5"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "除了口令和正常问题别的私信不回",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2016792238060421479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 891,
+          "following_count": 93,
+          "like_count": 8842,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 1645
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-09T20:26:15.000Z",
+        "description": "希望每个人都幸福｜brat｜哥哥控｜没有🚪不加v不闲聊（互关可以）不礼貌的会被我屏蔽 不要给我发牛子",
+        "id": "1976383726855839744",
+        "name": "风铃",
+        "pinned_tweet_id": "2024089047778353276",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024281684741705728/aIMam9uw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 926,
+          "following_count": 37,
+          "like_count": 2608,
+          "listed_count": 2,
+          "media_count": 21,
+          "tweet_count": 449
+        },
+        "username": "MmeTuT",
+        "verified": false
+      }
+    ]
+  }
+}

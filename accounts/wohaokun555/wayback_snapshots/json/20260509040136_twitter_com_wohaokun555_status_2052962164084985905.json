@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2052617337959047558",
+    "created_at": "2026-05-09T04:01:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T05:01:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052962164084985905"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2023707894462771201",
+          "start": 0,
+          "username": "VietNam1136"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052962164084985905",
+    "in_reply_to_user_id": "2023707894462771201",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052956822605328802",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@VietNam1136 有毛病？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2052617337959047558",
+        "created_at": "2026-05-09T04:01:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T05:01:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052962164084985905"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2023707894462771201",
+              "start": 0,
+              "username": "VietNam1136"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052962164084985905",
+        "in_reply_to_user_id": "2023707894462771201",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052956822605328802",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VietNam1136 有毛病？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2023707894462771201",
+        "conversation_id": "2052617337959047558",
+        "created_at": "2026-05-09T03:40:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T04:40:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052956822605328802"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052956822605328802",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052617337959047558",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 善恶有报，中共所做的恶行已经引起天地的愤怒，凡是跟随它作恶的人都会遭到恶报，下地狱，甚至失去永远的未来。\n\n因此，希望您们能够远离中共，退出它，站在正义和良知的一边，做一个善良的人，拥有美好的未来。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "没义务陪聊 都是礼貌回复",
+        "id": "2004619896630788096",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2052293259586924701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2061,
+          "following_count": 98,
+          "like_count": 18603,
+          "listed_count": 2,
+          "media_count": 217,
+          "tweet_count": 3126
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-17T10:35:50.000Z",
+        "description": "Là người tu luyện Pháp Luân Đại Pháp ở Việt Nam 是在越南的法轮大法修炼者",
+        "id": "2023707894462771201",
+        "name": "Việt Nguyễn",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028143337065299968/BWdRlUVX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 779,
+          "like_count": 4884,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 2406
+        },
+        "username": "VietNam1136",
+        "verified": false
+      }
+    ]
+  }
+}

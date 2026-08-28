@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2020049147479638336",
+    "created_at": "2026-02-08T10:12:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-08T11:12:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020440586696679457"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1465673664083419149",
+          "start": 0,
+          "username": "2232bb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020440586696679457",
+    "in_reply_to_user_id": "1465673664083419149",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020439170184028184",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2232bb 好恐怖"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2020439163687063552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAoKtvHa0AAp_aZ.jpg",
+        "width": 470
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2020049147479638336",
+        "created_at": "2026-02-08T10:12:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T11:12:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020440586696679457"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1465673664083419149",
+              "start": 0,
+              "username": "2232bb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020440586696679457",
+        "in_reply_to_user_id": "1465673664083419149",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020439170184028184",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2232bb 好恐怖"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020439163687063552"
+          ]
+        },
+        "author_id": "1465673664083419149",
+        "conversation_id": "2020049147479638336",
+        "created_at": "2026-02-08T10:06:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T11:06:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020439170184028184"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xphQLHQeaP",
+              "end": 43,
+              "expanded_url": "https://x.com/2232bb/status/2020439170184028184/photo/1",
+              "media_key": "3_2020439163687063552",
+              "start": 20,
+              "url": "https://t.co/xphQLHQeaP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020439170184028184",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020049147479638336",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 这不遇上了吗 https://t.co/xphQLHQeaP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2JlN5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2JlN5"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "🚪188（绿（别的私信不回",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2019333252520321256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014313058978406400/yLC08oHO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 616,
+          "following_count": 72,
+          "like_count": 6163,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 1176
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-30T13:26:56.000Z",
+        "description": "🚪：300 介意别私",
+        "id": "1465673664083419149",
+        "name": "可可",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798878625904918528/A3oRLPYI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 298,
+          "following_count": 3,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 88
+        },
+        "username": "2232bb",
+        "verified": false
+      }
+    ]
+  }
+}

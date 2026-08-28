@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2022151063932227584"
+      ]
+    },
+    "author_id": "2004619896630788096",
+    "conversation_id": "2022151071821705676",
+    "created_at": "2026-02-13T03:29:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T04:29:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2022151071821705676"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/cR43K8R1mi",
+          "end": 49,
+          "expanded_url": "https://x.com/wohaokun555/status/2022151071821705676/photo/1",
+          "media_key": "3_2022151063932227584",
+          "start": 26,
+          "url": "https://t.co/cR43K8R1mi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022151071821705676",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你睡醒必须找我讲话 这是规定这是命令 这是世界准则 https://t.co/cR43K8R1mi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2022151063932227584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBAfrcfb0AAThmE.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022151063932227584"
+          ]
+        },
+        "author_id": "2004619896630788096",
+        "conversation_id": "2022151071821705676",
+        "created_at": "2026-02-13T03:29:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T04:29:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022151071821705676"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cR43K8R1mi",
+              "end": 49,
+              "expanded_url": "https://x.com/wohaokun555/status/2022151071821705676/photo/1",
+              "media_key": "3_2022151063932227584",
+              "start": 26,
+              "url": "https://t.co/cR43K8R1mi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022151071821705676",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你睡醒必须找我讲话 这是规定这是命令 这是世界准则 https://t.co/cR43K8R1mi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2JlN5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2JlN5"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "🚪188（纯绿纯绿（除了口令和门槛别的私信不回",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2019333252520321256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 716,
+          "following_count": 79,
+          "like_count": 7215,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 1377
+        },
+        "username": "wohaokun555",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2059281929435025760",
+    "created_at": "2026-05-27T01:24:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T02:24:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059445509933400362"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1511773148814856196",
+          "start": 0,
+          "username": "paocaichizsj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059445509933400362",
+    "in_reply_to_user_id": "1511773148814856196",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059320844795416901",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@paocaichizsj 有点敏感我的皮肤🥹谢谢你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2059281929435025760",
+        "created_at": "2026-05-27T01:24:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T02:24:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059445509933400362"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1511773148814856196",
+              "start": 0,
+              "username": "paocaichizsj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059445509933400362",
+        "in_reply_to_user_id": "1511773148814856196",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059320844795416901",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@paocaichizsj 有点敏感我的皮肤🥹谢谢你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511773148814856196",
+        "conversation_id": "2059281929435025760",
+        "created_at": "2026-05-26T17:08:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T18:08:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059320844795416901"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059320844795416901",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 505,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059281929435025760",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 你的皮肤是敏皮吗，如果经常泛红，比较脆弱还是不要刷，我之前用过理肤泉的三酸，直接屏障受损，但是用完我的鼻头特别光滑，鼻翼的小疙瘩也没有了，过程十分痛苦，建立耐受期间我的脸都反黑，爆痘，还有屏障受损，遭不住"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "🚪（纯绿 不入勿扰\n@lei_meng123 随缘过",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 10,
+                "username": "lei_meng123"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2036315164098830372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2082,
+          "following_count": 78,
+          "like_count": 20146,
+          "listed_count": 1,
+          "media_count": 244,
+          "tweet_count": 3317
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-06T18:29:48.000Z",
+        "description": "就是这样嘿嘿哈哈把日子过了",
+        "id": "1511773148814856196",
+        "name": "把火草了",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055699049139916800/9bmtL5s6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 306,
+          "like_count": 1955,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 608
+        },
+        "username": "paocaichizsj",
+        "verified": false
+      }
+    ]
+  }
+}

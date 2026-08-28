@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2027289894083830048",
+    "created_at": "2026-02-27T10:20:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T11:20:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027328052167123144"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1985748200129773570",
+          "start": 0,
+          "username": "pi20317"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027328052167123144",
+    "in_reply_to_user_id": "1985748200129773570",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027326028428030360",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pi20317 我当时就想买…但是一直在犹豫。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2027289894083830048",
+        "created_at": "2026-02-27T10:20:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T11:20:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027328052167123144"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1985748200129773570",
+              "start": 0,
+              "username": "pi20317"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027328052167123144",
+        "in_reply_to_user_id": "1985748200129773570",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027326028428030360",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pi20317 我当时就想买…但是一直在犹豫。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1985748200129773570",
+        "conversation_id": "2027289894083830048",
+        "created_at": "2026-02-27T10:12:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T11:12:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027326028428030360"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027326028428030360",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027289894083830048",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 上海站票估计早就没了。。。下次可以提前关注或者说认识车队里的人就行😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2JlN5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2JlN5"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "除了口令和正常问题别的私信不回",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2016792238060421479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 936,
+          "following_count": 94,
+          "like_count": 9597,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 1754
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-04T16:38:03.000Z",
+        "description": "我觉得应该尽量早睡...",
+        "id": "1985748200129773570",
+        "location": "Heart",
+        "name": "十四时",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003137521799340032/JRYTwkyl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 78,
+          "like_count": 995,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 96
+        },
+        "username": "pi20317",
+        "verified": false
+      }
+    ]
+  }
+}

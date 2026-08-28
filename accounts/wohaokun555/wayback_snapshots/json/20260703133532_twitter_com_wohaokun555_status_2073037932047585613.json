@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2072940053190562242",
+    "created_at": "2026-07-03T13:35:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T14:35:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073037932047585613"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1949401818909548544",
+          "start": 0,
+          "username": "birlv477"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073037932047585613",
+    "in_reply_to_user_id": "1949401818909548544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073016670499791023",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@birlv477 可是老师你很帅气"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2072940053190562242",
+        "created_at": "2026-07-03T13:35:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T14:35:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073037932047585613"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1949401818909548544",
+              "start": 0,
+              "username": "birlv477"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073037932047585613",
+        "in_reply_to_user_id": "1949401818909548544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073016670499791023",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@birlv477 可是老师你很帅气"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1949401818909548544",
+        "conversation_id": "2072940053190562242",
+        "created_at": "2026-07-03T12:11:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T13:11:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073016670499791023"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073016670499791023",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072950673931661514",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 谢谢☺️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "让我成为我，让一座山并存着嶙峋和肥沃",
+        "id": "2004619896630788096",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2070530833434476867",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2715,
+          "following_count": 82,
+          "like_count": 23820,
+          "listed_count": 2,
+          "media_count": 144,
+          "tweet_count": 3815
+        },
+        "url": "",
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-27T09:29:57.000Z",
+        "description": "🏐/id不是自我介绍/说要看牛的你给我打钱不/straight/🫐梦男",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%A9%9F%E5%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%A9%9F%E5%AF%861",
+                "start": 0,
+                "url": "https://t.co/fTaMKwfkpf"
+              }
+            ]
+          }
+        },
+        "id": "1949401818909548544",
+        "location": "Chengdu",
+        "name": "翘臀排在奈子前面",
+        "pinned_tweet_id": "2031011736531407044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038268713779224576/O2kJzlZ4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1488,
+          "following_count": 70,
+          "like_count": 8261,
+          "listed_count": 6,
+          "media_count": 197,
+          "tweet_count": 1474
+        },
+        "url": "https://t.co/fTaMKwfkpf",
+        "username": "birlv477",
+        "verified": false
+      }
+    ]
+  }
+}

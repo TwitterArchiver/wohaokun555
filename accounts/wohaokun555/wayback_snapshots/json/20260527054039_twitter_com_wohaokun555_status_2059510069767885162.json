@@ -1,0 +1,104 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2059510069767885162",
+    "created_at": "2026-05-27T05:40:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T06:40:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059510069767885162"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2059510069767885162",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我直到现在一想到人死后是什么样子 家人去世这种问题我就会忍不住一直一直哭 好像陷入了黑洞一样 我小时候经常在睡不着的时候想这些 想着想着就哭湿了枕头 我惧怕死亡 同时更惧怕陪伴在我身边的人离开我 我真的无法想象家人离开会怎样 这感觉就像是心脏疯狂刺痛一样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2059510069767885162",
+        "created_at": "2026-05-27T05:40:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T06:40:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059510069767885162"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059510069767885162",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我直到现在一想到人死后是什么样子 家人去世这种问题我就会忍不住一直一直哭 好像陷入了黑洞一样 我小时候经常在睡不着的时候想这些 想着想着就哭湿了枕头 我惧怕死亡 同时更惧怕陪伴在我身边的人离开我 我真的无法想象家人离开会怎样 这感觉就像是心脏疯狂刺痛一样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "🚪（纯绿 不入勿扰\n@lei_meng123 随缘过",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 10,
+                "username": "lei_meng123"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2036315164098830372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2084,
+          "following_count": 78,
+          "like_count": 20191,
+          "listed_count": 1,
+          "media_count": 244,
+          "tweet_count": 3321
+        },
+        "username": "wohaokun555",
+        "verified": false
+      }
+    ]
+  }
+}

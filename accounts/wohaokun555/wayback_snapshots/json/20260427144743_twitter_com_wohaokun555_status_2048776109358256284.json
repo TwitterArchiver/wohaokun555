@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2048776109358256284",
+    "created_at": "2026-04-27T14:47:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T15:47:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048776109358256284"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2048776109358256284",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "following",
+    "text": "我也不太喜欢pupu的视频风格 因为我真的觉得翻白眼伸舌头什么的不美观（我个人感觉 但是她后置原相机脸型还那么流畅现实生活中肯定也挺可爱挺好看的 我觉得攻击她长相的人纯属挑刺。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2048776109358256284",
+        "created_at": "2026-04-27T14:47:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T15:47:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048776109358256284"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048776109358256284",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "我也不太喜欢pupu的视频风格 因为我真的觉得翻白眼伸舌头什么的不美观（我个人感觉 但是她后置原相机脸型还那么流畅现实生活中肯定也挺可爱挺好看的 我觉得攻击她长相的人纯属挑刺。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "",
+        "id": "2004619896630788096",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2036315164098830372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1921,
+          "following_count": 99,
+          "like_count": 17135,
+          "listed_count": 1,
+          "media_count": 203,
+          "tweet_count": 2989
+        },
+        "username": "wohaokun555",
+        "verified": false
+      }
+    ]
+  }
+}

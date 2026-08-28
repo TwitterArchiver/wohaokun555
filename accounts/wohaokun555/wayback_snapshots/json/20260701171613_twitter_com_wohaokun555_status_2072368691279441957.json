@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2072142848380572151",
+    "created_at": "2026-07-01T17:16:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T18:16:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072368691279441957"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2004922498975236105",
+          "start": 0,
+          "username": "paetteumaeddu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072368691279441957",
+    "in_reply_to_user_id": "2004922498975236105",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072361268732702880",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@paetteumaeddu 🫰🏻🤓"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2072142848380572151",
+        "created_at": "2026-07-01T17:16:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T18:16:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072368691279441957"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2004922498975236105",
+              "start": 0,
+              "username": "paetteumaeddu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072368691279441957",
+        "in_reply_to_user_id": "2004922498975236105",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072361268732702880",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@paetteumaeddu 🫰🏻🤓"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004922498975236105",
+        "conversation_id": "2072142848380572151",
+        "created_at": "2026-07-01T16:46:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T17:46:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072361268732702880"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072361268732702880",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072195932121432164",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 嘿嘿,, 谢谢 你的 鼓励！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "让我成为我，让一座山并存着嶙峋和肥沃",
+        "id": "2004619896630788096",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2070530833434476867",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2665,
+          "following_count": 82,
+          "like_count": 23659,
+          "listed_count": 2,
+          "media_count": 141,
+          "tweet_count": 3782
+        },
+        "url": "",
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-27T14:29:27.000Z",
+        "description": "부러움 속에서 피어나는 동경을 안고서 날아갈래요 아주 높이",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "spin-spin.com/paetteumaeddu",
+                "end": 23,
+                "expanded_url": "https://spin-spin.com/paetteumaeddu",
+                "start": 0,
+                "url": "https://t.co/RZceyzJ6i5"
+              }
+            ]
+          }
+        },
+        "id": "2004922498975236105",
+        "name": "내일",
+        "pinned_tweet_id": "2046910894903595203",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 185,
+          "like_count": 2069,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 516
+        },
+        "url": "https://t.co/RZceyzJ6i5",
+        "username": "paetteumaeddu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2004903668165083623",
+    "created_at": "2025-12-27T14:30:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-27T15:30:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004922915138269590"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1961727243887296512",
+          "start": 0,
+          "username": "yiyi_02014"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004922915138269590",
+    "in_reply_to_user_id": "1961727243887296512",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004903668165083623",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yiyi_02014 真是…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2004903668165083623",
+        "created_at": "2025-12-27T14:30:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T15:30:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004922915138269590"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1961727243887296512",
+              "start": 0,
+              "username": "yiyi_02014"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004922915138269590",
+        "in_reply_to_user_id": "1961727243887296512",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004903668165083623",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yiyi_02014 真是…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1961727243887296512",
+        "conversation_id": "2004903668165083623",
+        "created_at": "2025-12-27T13:14:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T14:14:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004903668165083623"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2004903668165083623",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1877,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "你们这些截图发抖音不打码的人都是傻逼。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "🚪66",
+        "id": "2004619896630788096",
+        "location": "Hong Kong",
+        "name": "鱼虾一整碗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004620653153189888/VWgYLNYv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 12,
+          "like_count": 79,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 65
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-30T09:47:21.000Z",
+        "description": "梦到啥发啥｜可以叫我小猫｜不谈不线下｜谢谢喜欢｜废话很多｜纯绿🚪88 不收口令｜没有陪你聊天的义务｜骂我的你全家升天啦｜置顶推广自辩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yiyi_02014",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yiyi_02014",
+                "start": 0,
+                "url": "https://t.co/YL2kayjyDK"
+              }
+            ]
+          }
+        },
+        "id": "1961727243887296512",
+        "location": "猫窝",
+        "name": "cat",
+        "pinned_tweet_id": "2004190998755508485",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004437969520787456/NT0tlVqr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2293,
+          "following_count": 234,
+          "like_count": 23619,
+          "listed_count": 5,
+          "media_count": 225,
+          "tweet_count": 3090
+        },
+        "url": "https://t.co/YL2kayjyDK",
+        "username": "yiyi_02014",
+        "verified": false
+      }
+    ]
+  }
+}

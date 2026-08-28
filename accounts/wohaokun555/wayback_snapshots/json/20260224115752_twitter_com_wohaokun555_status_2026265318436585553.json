@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2026259108387844430",
+    "created_at": "2026-02-24T11:57:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T12:57:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026265318436585553"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1803841235624562692",
+          "start": 0,
+          "username": "Nt3W473306"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026265318436585553",
+    "in_reply_to_user_id": "1803841235624562692",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026265222173118529",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nt3W473306 好吧😞"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2026259108387844430",
+        "created_at": "2026-02-24T11:57:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T12:57:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026265318436585553"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1803841235624562692",
+              "start": 0,
+              "username": "Nt3W473306"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026265318436585553",
+        "in_reply_to_user_id": "1803841235624562692",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026265222173118529",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nt3W473306 好吧😞"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1803841235624562692",
+        "conversation_id": "2026259108387844430",
+        "created_at": "2026-02-24T11:57:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T12:57:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026265222173118529"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026265222173118529",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026259108387844430",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 beats都不是很推荐用 这个价格感觉还是买个airpods4好一些"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2JlN5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2JlN5"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "除了口令和正常问题别的私信不回",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2016792238060421479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 923,
+          "following_count": 95,
+          "like_count": 9385,
+          "listed_count": 0,
+          "media_count": 92,
+          "tweet_count": 1731
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-20T17:24:15.000Z",
+        "description": "another world",
+        "id": "1803841235624562692",
+        "name": "theW4NT3D",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806354488418324480/ApQIbqOo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 55,
+          "like_count": 71,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 107
+        },
+        "username": "Nt3W473306",
+        "verified": false
+      }
+    ]
+  }
+}

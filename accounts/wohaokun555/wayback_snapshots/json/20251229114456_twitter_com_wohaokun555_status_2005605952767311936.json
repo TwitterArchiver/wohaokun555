@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2005253831962374435",
+    "created_at": "2025-12-29T11:44:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-29T12:44:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005605952767311936"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1897575604960256000",
+          "start": 0,
+          "username": "catchhsmg"
+        },
+        {
+          "end": 24,
+          "id": "1592820644919533569",
+          "start": 11,
+          "username": "huajimeirenr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005605952767311936",
+    "in_reply_to_user_id": "1897575604960256000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005604008187273730",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@catchhsmg @huajimeirenr 我哭了。好痛苦。期末"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2005253831962374435",
+        "created_at": "2025-12-29T11:44:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-29T12:44:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005605952767311936"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1897575604960256000",
+              "start": 0,
+              "username": "catchhsmg"
+            },
+            {
+              "end": 24,
+              "id": "1592820644919533569",
+              "start": 11,
+              "username": "huajimeirenr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005605952767311936",
+        "in_reply_to_user_id": "1897575604960256000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005604008187273730",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@catchhsmg @huajimeirenr 我哭了。好痛苦。期末"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897575604960256000",
+        "conversation_id": "2005253831962374435",
+        "created_at": "2025-12-29T11:37:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-29T12:37:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005604008187273730"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            },
+            {
+              "end": 26,
+              "id": "1592820644919533569",
+              "start": 13,
+              "username": "huajimeirenr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005604008187273730",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005596849248551307",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 @huajimeirenr 工科而已，何至于此"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "🚪66",
+        "id": "2004619896630788096",
+        "location": "Hong Kong",
+        "name": "鱼虾一整碗",
+        "pinned_tweet_id": "2005582001685012508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004620653153189888/VWgYLNYv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 26,
+          "like_count": 223,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 141
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-06T09:11:25.000Z",
+        "description": "击碎虚伪的外壳，揭示真实的本性",
+        "id": "1897575604960256000",
+        "name": "湮灭",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993673993304338432/ZwTFvtDr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 111,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 109
+        },
+        "username": "catchhsmg",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-16T10:03:44.000Z",
+        "description": "05 180/ infj 当朋友圈发",
+        "id": "1592820644919533569",
+        "location": "唉",
+        "name": "一颗蛋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974387290026946560/_5kxDxOl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 616,
+          "following_count": 46,
+          "like_count": 3069,
+          "listed_count": 0,
+          "media_count": 221,
+          "tweet_count": 682
+        },
+        "username": "huajimeirenr",
+        "verified": false
+      }
+    ]
+  }
+}

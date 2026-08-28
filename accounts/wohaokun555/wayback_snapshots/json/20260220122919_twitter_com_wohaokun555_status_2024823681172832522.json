@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2024775678395326528",
+    "created_at": "2026-02-20T12:29:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T13:29:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024823681172832522"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1682023562553749505",
+          "start": 0,
+          "username": "wizsharonxyuu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024823681172832522",
+    "in_reply_to_user_id": "1682023562553749505",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024823629507420397",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wizsharonxyuu 嘿嘿😈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2024775678395326528",
+        "created_at": "2026-02-20T12:29:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T13:29:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024823681172832522"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1682023562553749505",
+              "start": 0,
+              "username": "wizsharonxyuu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024823681172832522",
+        "in_reply_to_user_id": "1682023562553749505",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024823629507420397",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wizsharonxyuu 嘿嘿😈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682023562553749505",
+        "conversation_id": "2024775678395326528",
+        "created_at": "2026-02-20T12:29:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T13:29:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024823629507420397"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 16,
+              "normalized_text": "美甲好美",
+              "probability": 0.386,
+              "start": 13,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024823629507420397",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024775678395326528",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 美甲好美！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2JlN5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2JlN5"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "除了口令和正常问题别的私信不回",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2016792238060421479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 893,
+          "following_count": 92,
+          "like_count": 8889,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 1651
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-20T13:44:16.000Z",
+        "description": "爱吃软糖和果冻｜我很萌｜碎碎念｜提问箱https://t.co/JFprdIey9J",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wizsharonxyuu1",
+                "end": 42,
+                "expanded_url": "https://ngl.link/wizsharonxyuu1",
+                "start": 19,
+                "url": "https://t.co/JFprdIey9J"
+              }
+            ]
+          }
+        },
+        "id": "1682023562553749505",
+        "name": "不甜几几",
+        "pinned_tweet_id": "2022690492673331372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014680574418690048/CClq-Nh-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2296,
+          "following_count": 87,
+          "like_count": 7665,
+          "listed_count": 14,
+          "media_count": 156,
+          "tweet_count": 3286
+        },
+        "username": "wizsharonxyuu",
+        "verified": false
+      }
+    ]
+  }
+}

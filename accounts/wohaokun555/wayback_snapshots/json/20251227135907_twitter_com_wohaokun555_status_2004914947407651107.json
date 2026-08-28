@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2004808699265909074",
+    "created_at": "2025-12-27T13:59:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-27T14:59:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004914947407651107"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1929487286414331904",
+          "start": 0,
+          "username": "H8vinegar4eva"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004914947407651107",
+    "in_reply_to_user_id": "1929487286414331904",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004808699265909074",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@H8vinegar4eva 我懂！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2004808690353012736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9KC4ccbgAAhk2s.jpg",
+        "width": 1526
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2004808699265909074",
+        "created_at": "2025-12-27T13:59:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T14:59:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004914947407651107"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1929487286414331904",
+              "start": 0,
+              "username": "H8vinegar4eva"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004914947407651107",
+        "in_reply_to_user_id": "1929487286414331904",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004808699265909074",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@H8vinegar4eva 我懂！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2004808690353012736"
+          ]
+        },
+        "author_id": "1929487286414331904",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2004808699265909074",
+        "created_at": "2025-12-27T06:56:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T07:56:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004808699265909074"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nHbknFNmjd",
+              "end": 32,
+              "expanded_url": "https://x.com/H8vinegar4eva/status/2004808699265909074/photo/1",
+              "media_key": "3_2004808690353012736",
+              "start": 9,
+              "url": "https://t.co/nHbknFNmjd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004808699265909074",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 573,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "爽死了谁来懂一下 https://t.co/nHbknFNmjd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "🚪66",
+        "id": "2004619896630788096",
+        "location": "Hong Kong",
+        "name": "鱼虾一整碗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004620653153189888/VWgYLNYv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 10,
+          "like_count": 70,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 57
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-02T10:37:10.000Z",
+        "description": "进深山老林没网了 | 另一个朋友圈@likiu333",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 17,
+                "username": "likiu333"
+              }
+            ]
+          }
+        },
+        "id": "1929487286414331904",
+        "name": "不吃酸的酸辣粉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004415294811656192/_SiAFhKa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1035,
+          "following_count": 192,
+          "like_count": 16075,
+          "listed_count": 2,
+          "media_count": 169,
+          "tweet_count": 3671
+        },
+        "username": "H8vinegar4eva",
+        "verified": false
+      }
+    ]
+  }
+}

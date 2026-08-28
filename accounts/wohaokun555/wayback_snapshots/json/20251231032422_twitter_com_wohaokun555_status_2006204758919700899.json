@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2006029488270848269",
+    "created_at": "2025-12-31T03:24:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-31T04:24:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006204758919700899"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2004577568738164736",
+          "start": 0,
+          "username": "fushishanxiaa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006204758919700899",
+    "in_reply_to_user_id": "2004577568738164736",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006204653713907773",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fushishanxiaa 射射你！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2006029488270848269",
+        "created_at": "2025-12-31T03:24:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T04:24:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006204758919700899"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2004577568738164736",
+              "start": 0,
+              "username": "fushishanxiaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006204758919700899",
+        "in_reply_to_user_id": "2004577568738164736",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006204653713907773",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fushishanxiaa 射射你！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004577568738164736",
+        "conversation_id": "2006029488270848269",
+        "created_at": "2025-12-31T03:23:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T04:23:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006204653713907773"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006204653713907773",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006029488270848269",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 鼻子好优秀！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "天天开心o^^o",
+        "id": "2004619896630788096",
+        "location": "三体星球",
+        "name": "鱼虾一整碗",
+        "pinned_tweet_id": "2005582001685012508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004620653153189888/VWgYLNYv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 30,
+          "like_count": 460,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 236
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-26T15:38:43.000Z",
+        "description": "这里是昕昕🚪288好友位基本是现实生活分享多，还有拍的最新照片也是最快更新。純绿！希望有哥哥姐姐们喜欢我～",
+        "id": "2004577568738164736",
+        "name": "小昕",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006027802186002432/RXpZ8TYt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 6,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 7
+        },
+        "username": "fushishanxiaa",
+        "verified": false
+      }
+    ]
+  }
+}

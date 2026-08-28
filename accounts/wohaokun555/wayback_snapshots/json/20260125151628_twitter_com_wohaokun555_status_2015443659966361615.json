@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2015387788435407225",
+    "created_at": "2026-01-25T15:16:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-25T16:16:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015443659966361615"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "587962478",
+          "start": 0,
+          "username": "bigbingking"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015443659966361615",
+    "in_reply_to_user_id": "587962478",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015387788435407225",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bigbingking 节哀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2015387788435407225",
+        "created_at": "2026-01-25T15:16:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T16:16:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015443659966361615"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "587962478",
+              "start": 0,
+              "username": "bigbingking"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015443659966361615",
+        "in_reply_to_user_id": "587962478",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015387788435407225",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bigbingking 节哀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "587962478",
+        "conversation_id": "2015387788435407225",
+        "created_at": "2026-01-25T11:34:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T12:34:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015387788435407225"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2015387788435407225",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 8062,
+          "like_count": 136,
+          "quote_count": 0,
+          "reply_count": 30,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天是我妈妈头七，早上睡醒后我就一直晕晕的，胸口闷得厉害。也不知道晚上能不能梦到我妈。真的很想她。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "",
+        "id": "2004619896630788096",
+        "location": "🤔",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2007765884035813533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014313058978406400/yLC08oHO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 452,
+          "following_count": 69,
+          "like_count": 2999,
+          "listed_count": 1,
+          "media_count": 50,
+          "tweet_count": 831
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2012-05-23T03:13:24.000Z",
+        "description": "生活推主☕️ ｜铲屎官一枚🐱 ｜佛系女菩萨😏 ｜每年一次大抽奖等我哟🥳 ｜推广不接❌｜无聊私信不回❌｜刷存在感的直接拖黑🙂",
+        "id": "587962478",
+        "location": "中国·浙江",
+        "name": "是大饼饼饼饼饼呀🧡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1704275698293321728/fvoUvprS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37899,
+          "following_count": 69,
+          "like_count": 501,
+          "listed_count": 160,
+          "media_count": 4188,
+          "tweet_count": 11756
+        },
+        "username": "bigbingking",
+        "verified": false
+      }
+    ]
+  }
+}

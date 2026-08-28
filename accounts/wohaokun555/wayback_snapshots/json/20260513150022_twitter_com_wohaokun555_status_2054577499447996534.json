@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054577452429746177"
+      ]
+    },
+    "author_id": "2004619896630788096",
+    "conversation_id": "2054577499447996534",
+    "created_at": "2026-05-13T15:00:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T16:00:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054577499447996534"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/AtehkGUoFI",
+          "end": 32,
+          "expanded_url": "https://x.com/wohaokun555/status/2054577499447996534/photo/1",
+          "media_key": "3_2054577452429746177",
+          "start": 9,
+          "url": "https://t.co/AtehkGUoFI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054577499447996534",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "所有人 比心报备 https://t.co/AtehkGUoFI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2054577452429746177",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HINTTq-aIAE0p66.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054577452429746177"
+          ]
+        },
+        "author_id": "2004619896630788096",
+        "conversation_id": "2054577499447996534",
+        "created_at": "2026-05-13T15:00:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T16:00:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054577499447996534"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AtehkGUoFI",
+              "end": 32,
+              "expanded_url": "https://x.com/wohaokun555/status/2054577499447996534/photo/1",
+              "media_key": "3_2054577452429746177",
+              "start": 9,
+              "url": "https://t.co/AtehkGUoFI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054577499447996534",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "所有人 比心报备 https://t.co/AtehkGUoFI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "没义务陪聊 都是礼貌回复",
+        "id": "2004619896630788096",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2052293259586924701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2066,
+          "following_count": 100,
+          "like_count": 19096,
+          "listed_count": 1,
+          "media_count": 225,
+          "tweet_count": 3173
+        },
+        "username": "wohaokun555",
+        "verified": false
+      }
+    ]
+  }
+}

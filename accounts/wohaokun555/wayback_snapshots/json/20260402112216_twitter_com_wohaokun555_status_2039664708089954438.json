@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2039662683910553868",
+    "created_at": "2026-04-02T11:22:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T12:22:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039664708089954438"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1970515784762859520",
+          "start": 0,
+          "username": "Semp1trnal_2345"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039664708089954438",
+    "in_reply_to_user_id": "1970515784762859520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039662683910553868",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Semp1trnal_2345 好厉害呀宝宝"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2039662675970621440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE5WZa7aAAAXm21.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2039662683910553868",
+        "created_at": "2026-04-02T11:22:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T12:22:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039664708089954438"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1970515784762859520",
+              "start": 0,
+              "username": "Semp1trnal_2345"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039664708089954438",
+        "in_reply_to_user_id": "1970515784762859520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039662683910553868",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Semp1trnal_2345 好厉害呀宝宝"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039662675970621440"
+          ]
+        },
+        "author_id": "1970515784762859520",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2039662683910553868",
+        "created_at": "2026-04-02T11:14:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T12:14:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039662683910553868"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bqQztHDdTg",
+              "end": 114,
+              "expanded_url": "https://x.com/Semp1trnal_2345/status/2039662683910553868/photo/1",
+              "media_key": "3_2039662675970621440",
+              "start": 91,
+              "url": "https://t.co/bqQztHDdTg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039662683910553868",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "分享好消息 我早上还在说昨天做梦梦到我考了第九名 上午上课突然把我们喊出去说出分了 看到这个成绩我一下就哭出来了。。我真的好开心 从初试八千人到最后三千人拿第十 这次真的是我应得的 https://t.co/bqQztHDdTg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "",
+        "id": "2004619896630788096",
+        "location": "🚪520",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2007765884035813533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1498,
+          "following_count": 98,
+          "like_count": 13937,
+          "listed_count": 1,
+          "media_count": 150,
+          "tweet_count": 2559
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜07 ｜一些唠唠叨叨😋 欢迎小宝宝们找我玩！敢给我发吊你就死了。匿名👉🏻 https://t.co/tJ7j3dfnPE或者https://t.co/BHZo1YhpuV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 62,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 39,
+                "url": "https://t.co/tJ7j3dfnPE"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania",
+                "end": 87,
+                "expanded_url": "https://ngl.link/mooo1ania",
+                "start": 64,
+                "url": "https://t.co/BHZo1YhpuV"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "name": "我真的不会画画QwQ",
+        "pinned_tweet_id": "2037029023604498685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034491183356059648/QYnwDQiJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1020,
+          "following_count": 101,
+          "like_count": 9841,
+          "listed_count": 0,
+          "media_count": 284,
+          "tweet_count": 3161
+        },
+        "username": "Semp1trnal_2345",
+        "verified": false
+      }
+    ]
+  }
+}

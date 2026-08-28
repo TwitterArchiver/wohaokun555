@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2058912286908293380",
+    "created_at": "2026-05-25T15:27:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T16:27:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058932903678197972"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1632079685436727299",
+          "start": 0,
+          "username": "xxNANAml"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058932903678197972",
+    "in_reply_to_user_id": "1632079685436727299",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058912286908293380",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xxNANAml 大哥哥我要饿死了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 36003,
+        "height": 1280,
+        "media_key": "13_2058912087846559744",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2058912087846559744/img/ZZiRldnGRYGF89P7.jpg",
+        "public_metrics": {
+          "view_count": 357
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2058912087846559744/vid/avc1/320x568/B1XgtNuGknptaIQy.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2058912087846559744/vid/avc1/480x852/b7qS_1k9G3Mxsrt-.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2058912087846559744/vid/avc1/720x1280/upVkXyujbVR7UORr.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2058912087846559744/pl/gleN_k0N0sua6XXd.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2058912286908293380",
+        "created_at": "2026-05-25T15:27:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T16:27:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058932903678197972"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1632079685436727299",
+              "start": 0,
+              "username": "xxNANAml"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058932903678197972",
+        "in_reply_to_user_id": "1632079685436727299",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058912286908293380",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xxNANAml 大哥哥我要饿死了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2058912087846559744"
+          ]
+        },
+        "author_id": "1632079685436727299",
+        "conversation_id": "2058912286908293380",
+        "created_at": "2026-05-25T14:05:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T15:05:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058912286908293380"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/C3toCwyL43",
+              "end": 39,
+              "expanded_url": "https://x.com/xxNANAml/status/2058912286908293380/video/1",
+              "media_key": "13_2058912087846559744",
+              "start": 16,
+              "url": "https://t.co/C3toCwyL43"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058912286908293380",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 973,
+          "like_count": 41,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我一口搂了一包泡面有没有懂的。 https://t.co/C3toCwyL43"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "🚪（纯绿 不入勿扰\n@lei_meng123 随缘过",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 10,
+                "username": "lei_meng123"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2036315164098830372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2060,
+          "following_count": 78,
+          "like_count": 19944,
+          "listed_count": 1,
+          "media_count": 244,
+          "tweet_count": 3293
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-04T18:05:03.000Z",
+        "description": "自是人生长恨水长东",
+        "id": "1632079685436727299",
+        "name": "王锦",
+        "pinned_tweet_id": "2057869302800548284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054584040343416832/pHgwrnWy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3081,
+          "following_count": 197,
+          "like_count": 29462,
+          "listed_count": 6,
+          "media_count": 452,
+          "tweet_count": 5972
+        },
+        "username": "xxNANAml",
+        "verified": false
+      }
+    ]
+  }
+}

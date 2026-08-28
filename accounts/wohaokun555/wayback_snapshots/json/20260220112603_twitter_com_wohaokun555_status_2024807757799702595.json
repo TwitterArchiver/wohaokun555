@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2024807694205616128"
+      ]
+    },
+    "author_id": "2004619896630788096",
+    "conversation_id": "2024807757799702595",
+    "created_at": "2026-02-20T11:26:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T12:26:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2024807757799702595"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/gMp4btlqIx",
+          "end": 26,
+          "expanded_url": "https://x.com/wohaokun555/status/2024807757799702595/video/1",
+          "media_key": "13_2024807694205616128",
+          "start": 3,
+          "url": "https://t.co/gMp4btlqIx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024807757799702595",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "嘿嘿 https://t.co/gMp4btlqIx"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13333,
+        "height": 1280,
+        "media_key": "13_2024807694205616128",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2024807694205616128/img/7i3ENza5KXhwTtwu.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2024807694205616128/vid/avc1/320x568/VWj1R567srdqGdj2.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2024807694205616128/vid/avc1/480x852/qV8Oh9CwHU4VneEp.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2024807694205616128/vid/avc1/720x1280/Pjw9LWGPu0eDX_He.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2024807694205616128/pl/LXavfuvkhddBliIt.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2024807694205616128"
+          ]
+        },
+        "author_id": "2004619896630788096",
+        "conversation_id": "2024807757799702595",
+        "created_at": "2026-02-20T11:26:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T12:26:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024807757799702595"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gMp4btlqIx",
+              "end": 26,
+              "expanded_url": "https://x.com/wohaokun555/status/2024807757799702595/video/1",
+              "media_key": "13_2024807694205616128",
+              "start": 3,
+              "url": "https://t.co/gMp4btlqIx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024807757799702595",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "嘿嘿 https://t.co/gMp4btlqIx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2JlN5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2JlN5"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "除了口令和正常问题别的私信不回",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2016792238060421479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 890,
+          "following_count": 93,
+          "like_count": 8838,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 1641
+        },
+        "username": "wohaokun555",
+        "verified": false
+      }
+    ]
+  }
+}

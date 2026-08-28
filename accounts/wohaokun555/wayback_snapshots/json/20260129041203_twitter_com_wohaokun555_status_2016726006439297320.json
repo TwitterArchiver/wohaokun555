@@ -1,0 +1,150 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2016167040118075670",
+    "created_at": "2026-01-29T04:12:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T05:12:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1758097435019431936",
+          "start": 0,
+          "username": "cryptotaka0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016726006439297320",
+    "in_reply_to_user_id": "1758097435019431936",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016167040118075670",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cryptotaka0 我来了星期四"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758097435019431936",
+        "conversation_id": "2016167040118075670",
+        "created_at": "2026-01-27T15:10:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T16:10:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "entities": {},
+        "geo": {},
+        "id": "2016167040118075670",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1904,
+          "like_count": 41,
+          "quote_count": 1,
+          "reply_count": 61,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "打算抽个奖涨点粉 抽五个疯狂星期四 请大家吃吃炸鸡 从评论区中抽 谢谢大家"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2JlN5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2JlN5"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "🚪188（绿 发生殖器死妈！",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2016072861732212867",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014313058978406400/yLC08oHO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 479,
+          "following_count": 71,
+          "like_count": 3777,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 888
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-15T11:54:38.000Z",
+        "description": "｜波浪理论 \n｜做多是种信仰\n｜Tv观点：https://t.co/0AlbyS9uRq",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "cn.tradingview.com/u/Crypto-Taka/",
+                "end": 44,
+                "expanded_url": "https://cn.tradingview.com/u/Crypto-Taka/",
+                "start": 21,
+                "url": "https://t.co/0AlbyS9uRq"
+              }
+            ]
+          }
+        },
+        "id": "1758097435019431936",
+        "location": "New York, USA",
+        "name": "Taka",
+        "pinned_tweet_id": "2009789953283371032",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936443813914165248/BurJBcSL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 519,
+          "following_count": 262,
+          "like_count": 678,
+          "listed_count": 4,
+          "media_count": 231,
+          "tweet_count": 921
+        },
+        "username": "cryptotaka0",
+        "verified": true
+      }
+    ]
+  }
+}

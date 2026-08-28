@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2007121646377951232"
+      ],
+      "media_source_tweet_id": [
+        "2007121715714007084"
+      ]
+    },
+    "author_id": "2004619896630788096",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2007389938422325357",
+    "created_at": "2026-01-03T09:53:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-03T10:53:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007389938422325357"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1693450364341948416",
+          "start": 3,
+          "username": "igeekbb"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DYzSGdacaN",
+          "end": 49,
+          "expanded_url": "https://x.com/igeekbb/status/2007121715714007084/photo/1",
+          "media_key": "3_2007121646377951232",
+          "start": 26,
+          "url": "https://t.co/DYzSGdacaN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007389938422325357",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 25
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007121715714007084",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @igeekbb: 现在的主题酒店也太™夯了 https://t.co/DYzSGdacaN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1860,
+        "media_key": "3_2007121646377951232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9q6gNFa4AAruEJ.jpg",
+        "width": 2090
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007121646377951232"
+          ],
+          "media_source_tweet_id": [
+            "2007121715714007084"
+          ]
+        },
+        "author_id": "2004619896630788096",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2007389938422325357",
+        "created_at": "2026-01-03T09:53:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T10:53:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007389938422325357"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1693450364341948416",
+              "start": 3,
+              "username": "igeekbb"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DYzSGdacaN",
+              "end": 49,
+              "expanded_url": "https://x.com/igeekbb/status/2007121715714007084/photo/1",
+              "media_key": "3_2007121646377951232",
+              "start": 26,
+              "url": "https://t.co/DYzSGdacaN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007389938422325357",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 25
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007121715714007084",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @igeekbb: 现在的主题酒店也太™夯了 https://t.co/DYzSGdacaN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007121646377951232"
+          ]
+        },
+        "author_id": "1693450364341948416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2007121715714007084",
+        "created_at": "2026-01-02T16:08:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T17:08:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007121715714007084"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DYzSGdacaN",
+              "end": 36,
+              "expanded_url": "https://x.com/igeekbb/status/2007121715714007084/photo/1",
+              "media_key": "3_2007121646377951232",
+              "start": 13,
+              "url": "https://t.co/DYzSGdacaN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007121715714007084",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 95,
+          "impression_count": 220376,
+          "like_count": 631,
+          "quote_count": 2,
+          "reply_count": 47,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "现在的主题酒店也太™夯了 https://t.co/DYzSGdacaN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "天天开心o^^o",
+        "id": "2004619896630788096",
+        "location": "三体星球",
+        "name": "鱼虾一整碗",
+        "pinned_tweet_id": "2005582001685012508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004620653153189888/VWgYLNYv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 34,
+          "like_count": 773,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 357
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-21T02:30:22.000Z",
+        "description": "🕹️发一些碎碎念和有趣的东东，主打一个快分享。-私信开放欢迎投稿-",
+        "id": "1693450364341948416",
+        "name": "iGeekbb",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799328738871750657/9Shu8NrP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62177,
+          "following_count": 1,
+          "like_count": 9504,
+          "listed_count": 260,
+          "media_count": 6002,
+          "tweet_count": 9115
+        },
+        "username": "igeekbb",
+        "verified": true
+      }
+    ]
+  }
+}

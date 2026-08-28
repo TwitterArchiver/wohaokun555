@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2024472376612901311",
+    "created_at": "2026-02-19T14:21:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T15:21:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024489507408769402"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1191884444598030336",
+          "start": 0,
+          "username": "yooohere111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024489507408769402",
+    "in_reply_to_user_id": "1191884444598030336",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024472376612901311",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yooohere111 好棒^ ^"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2024472360418758657",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBhe4rxbUAE9obZ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2024472376612901311",
+        "created_at": "2026-02-19T14:21:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T15:21:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024489507408769402"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1191884444598030336",
+              "start": 0,
+              "username": "yooohere111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024489507408769402",
+        "in_reply_to_user_id": "1191884444598030336",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024472376612901311",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yooohere111 好棒^ ^"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024472360418758657"
+          ]
+        },
+        "author_id": "1191884444598030336",
+        "conversation_id": "2024472376612901311",
+        "created_at": "2026-02-19T13:13:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T14:13:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024472376612901311"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2hU4oXDewt",
+              "end": 36,
+              "expanded_url": "https://x.com/yooohere111/status/2024472376612901311/photo/1",
+              "media_key": "3_2024472360418758657",
+              "start": 13,
+              "url": "https://t.co/2hU4oXDewt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024472376612901311",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4272,
+          "like_count": 50,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "压岁钱给爸妈买了情侣机📱 https://t.co/2hU4oXDewt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2INXx",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2INXx"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "🚪（纯绿纯绿（除了口令和门槛别的私信不回",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2016792238060421479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 886,
+          "following_count": 89,
+          "like_count": 8772,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 1618
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2019-11-06T01:06:17.000Z",
+        "description": "🍸🏋️‍♀️🐈：@saki220214 好用🪜 https://t.co/U3zyRUAGSb👫升温小果冻@Tang281555",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "saki220214"
+              },
+              {
+                "end": 64,
+                "start": 53,
+                "username": "Tang281555"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "b1.达蒙.com/#/register?cod…",
+                "end": 47,
+                "expanded_url": "https://b1.xn--hv1a41u.com/#/register?code=twF0ScMb",
+                "start": 24,
+                "url": "https://t.co/U3zyRUAGSb"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/mmh_0111?igsh=…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/mmh_0111?igsh=MXcya3prcGN3bmhxNg%3D%3D&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/mvdU3TmlLs"
+              }
+            ]
+          }
+        },
+        "id": "1191884444598030336",
+        "location": "🚪 ",
+        "name": "有猫饭",
+        "pinned_tweet_id": "1950148373090095177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978449861361225728/ud_CgEXf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175481,
+          "following_count": 214,
+          "like_count": 2550,
+          "listed_count": 393,
+          "media_count": 183,
+          "tweet_count": 1148
+        },
+        "url": "https://t.co/mvdU3TmlLs",
+        "username": "yooohere111",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2007405048113049602"
+      ]
+    },
+    "author_id": "2004619896630788096",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2007405055197299031",
+    "created_at": "2026-01-03T10:53:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-03T11:53:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2007405055197299031"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/3psIQQtHdx",
+          "end": 27,
+          "expanded_url": "https://x.com/wohaokun555/status/2007405055197299031/photo/1",
+          "media_key": "3_2007405048113049602",
+          "start": 4,
+          "url": "https://t.co/3psIQQtHdx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007405055197299031",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我哥哥 https://t.co/3psIQQtHdx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 906,
+        "media_key": "3_2007405048113049602",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9u8QW0asAIjjem.jpg",
+        "width": 1025
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007405048113049602"
+          ]
+        },
+        "author_id": "2004619896630788096",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2007405055197299031",
+        "created_at": "2026-01-03T10:53:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T11:53:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007405055197299031"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3psIQQtHdx",
+              "end": 27,
+              "expanded_url": "https://x.com/wohaokun555/status/2007405055197299031/photo/1",
+              "media_key": "3_2007405048113049602",
+              "start": 4,
+              "url": "https://t.co/3psIQQtHdx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007405055197299031",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我哥哥 https://t.co/3psIQQtHdx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "天天开心o^^o",
+        "id": "2004619896630788096",
+        "location": "三体星球",
+        "name": "鱼虾一整碗",
+        "pinned_tweet_id": "2005582001685012508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004620653153189888/VWgYLNYv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 35,
+          "like_count": 781,
+          "listed_count": 1,
+          "media_count": 26,
+          "tweet_count": 360
+        },
+        "username": "wohaokun555",
+        "verified": false
+      }
+    ]
+  }
+}

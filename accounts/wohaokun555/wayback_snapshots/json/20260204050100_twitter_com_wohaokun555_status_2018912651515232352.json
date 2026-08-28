@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2018892522698006880",
+    "created_at": "2026-02-04T05:01:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T06:01:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018912651515232352"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1659121034535276548",
+          "start": 0,
+          "username": "yucow404"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018912651515232352",
+    "in_reply_to_user_id": "1659121034535276548",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018892522698006880",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yucow404 你好美老婆"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2018892505409101824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HASMCYCboAAdci7.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2018892522698006880",
+        "created_at": "2026-02-04T05:01:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T06:01:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018912651515232352"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1659121034535276548",
+              "start": 0,
+              "username": "yucow404"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018912651515232352",
+        "in_reply_to_user_id": "1659121034535276548",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018892522698006880",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yucow404 你好美老婆"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018892505409101824"
+          ]
+        },
+        "author_id": "1659121034535276548",
+        "conversation_id": "2018892522698006880",
+        "created_at": "2026-02-04T03:41:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T04:41:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018892522698006880"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EtzRwUElVd",
+              "end": 92,
+              "expanded_url": "https://x.com/yucow404/status/2018892522698006880/photo/1",
+              "media_key": "3_2018892505409101824",
+              "start": 69,
+              "url": "https://t.co/EtzRwUElVd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018892522698006880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 78,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "老公，你的仇家力气实在是太大了，我根本不是对手，暂时没办法报仇了，不过别担心，他有人质在我肚子里，等这个孩子出生，我天天带他来给你磕头。 https://t.co/EtzRwUElVd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2JlN5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2JlN5"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "🚪188（别的私信不回",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2008543541979738501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014313058978406400/yLC08oHO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 566,
+          "following_count": 72,
+          "like_count": 5144,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 1011
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-18T08:57:49.000Z",
+        "description": "158/40  纯绿  投喂请私信 看到喜欢的私信会聊天 脑子转的慢 说的话听不懂请谅解",
+        "id": "1659121034535276548",
+        "location": "Tokyo-to, Japan",
+        "name": "fish🐟",
+        "pinned_tweet_id": "2018165980590129393",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018896078217879553/KZrvI8au_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4887,
+          "following_count": 234,
+          "like_count": 3981,
+          "listed_count": 21,
+          "media_count": 21,
+          "tweet_count": 951
+        },
+        "username": "yucow404",
+        "verified": false
+      }
+    ]
+  }
+}

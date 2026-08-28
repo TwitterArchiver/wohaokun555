@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2022250139117863401",
+    "created_at": "2026-02-13T11:22:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T12:22:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022270065333403771"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1959599329980895232",
+          "start": 0,
+          "username": "paopao7015"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022270065333403771",
+    "in_reply_to_user_id": "1959599329980895232",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022250139117863401",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@paopao7015 接"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 742,
+        "media_key": "3_2022250128787271680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBB5xx1acAA3j8x.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2022250139117863401",
+        "created_at": "2026-02-13T11:22:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T12:22:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022270065333403771"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1959599329980895232",
+              "start": 0,
+              "username": "paopao7015"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022270065333403771",
+        "in_reply_to_user_id": "1959599329980895232",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022250139117863401",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@paopao7015 接"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022250128787271680"
+          ]
+        },
+        "author_id": "1959599329980895232",
+        "conversation_id": "2022250139117863401",
+        "created_at": "2026-02-13T10:02:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T11:02:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022250139117863401"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pE1qblvneG",
+              "end": 36,
+              "expanded_url": "https://x.com/paopao7015/status/2022250139117863401/photo/1",
+              "media_key": "3_2022250128787271680",
+              "start": 13,
+              "url": "https://t.co/pE1qblvneG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022250139117863401",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 353,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是我痛经一天的奖励吗😭 https://t.co/pE1qblvneG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2JlN5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2JlN5"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "🚪188（纯绿纯绿（除了口令和门槛别的私信不回",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2016792238060421479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 714,
+          "following_count": 80,
+          "like_count": 7323,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 1410
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-24T12:51:13.000Z",
+        "description": "欢迎找我聊天｜女｜ENFP ˶╹ꇴ╹˶ ｜（👇是匿名消息 ）｜私信只回粉丝｜防走丢@paopao70159",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 41,
+                "username": "paopao70159"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/paopao93498",
+                "end": 23,
+                "expanded_url": "https://ngl.link/paopao93498",
+                "start": 0,
+                "url": "https://t.co/ad8LophPjG"
+              }
+            ]
+          }
+        },
+        "id": "1959599329980895232",
+        "location": "૮´͈ᗜ`͈ა",
+        "name": "假人",
+        "pinned_tweet_id": "1986475493332603069",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959600043532644352/eDmZLFx__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2606,
+          "following_count": 66,
+          "like_count": 2961,
+          "listed_count": 5,
+          "media_count": 205,
+          "tweet_count": 2272
+        },
+        "url": "https://t.co/ad8LophPjG",
+        "username": "paopao7015",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2045006863935398315",
+    "created_at": "2026-04-17T05:10:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T06:10:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045006863935398315"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2045006863935398315",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "其实我有时候真的还是很敏感 我以为我改变了 但是好像并没有 我害怕我的朋友和我的关系不对等 害怕我在她眼里没那么好了 为什么会这样子唉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2045006863935398315",
+        "created_at": "2026-04-17T05:10:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T06:10:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045006863935398315"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045006863935398315",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实我有时候真的还是很敏感 我以为我改变了 但是好像并没有 我害怕我的朋友和我的关系不对等 害怕我在她眼里没那么好了 为什么会这样子唉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "每天发些乱七八糟的碎碎念 和一些自认为很好看的自拍照 分享号主的忧郁极品生活",
+        "id": "2004619896630788096",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2036315164098830372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1906,
+          "following_count": 98,
+          "like_count": 15753,
+          "listed_count": 1,
+          "media_count": 189,
+          "tweet_count": 2884
+        },
+        "username": "wohaokun555",
+        "verified": false
+      }
+    ]
+  }
+}

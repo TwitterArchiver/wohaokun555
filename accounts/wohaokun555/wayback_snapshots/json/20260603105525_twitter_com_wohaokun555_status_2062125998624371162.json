@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2061806016334107031",
+    "created_at": "2026-06-03T10:55:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T11:55:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062125998624371162"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1823767829465980931",
+          "start": 0,
+          "username": "CaoYu61579"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062125998624371162",
+    "in_reply_to_user_id": "1823767829465980931",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062121253625102800",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CaoYu61579 亲亲小烤箱"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2062121253625102800].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2062121253625102800",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2062121253625102800"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2061806016334107031",
+        "created_at": "2026-06-03T10:55:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T11:55:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062125998624371162"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1823767829465980931",
+              "start": 0,
+              "username": "CaoYu61579"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062125998624371162",
+        "in_reply_to_user_id": "1823767829465980931",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062121253625102800",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CaoYu61579 亲亲小烤箱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "🚪（520",
+        "id": "2004619896630788096",
+        "location": "口令➕姓",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2036315164098830372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2198,
+          "following_count": 79,
+          "like_count": 21104,
+          "listed_count": 2,
+          "media_count": 136,
+          "tweet_count": 3332
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-14T17:05:21.000Z",
+        "description": "哪条帖子不懂的问我哥哥。",
+        "id": "1823767829465980931",
+        "location": "讨厌你 每个小猫你都想摸˃ ˄ ˂",
+        "name": "我烤箱咋滴",
+        "pinned_tweet_id": "2057130733106581943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007159379410464768/ObpktCDK_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 3281,
+          "following_count": 195,
+          "like_count": 9479,
+          "listed_count": 9,
+          "media_count": 290,
+          "tweet_count": 5437
+        },
+        "username": "CaoYu61579",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2032686204878205060",
+    "created_at": "2026-03-14T10:57:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T11:57:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032773146085134690"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1159019887639109632",
+          "start": 0,
+          "username": "tebiedaren"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032773146085134690",
+    "in_reply_to_user_id": "1159019887639109632",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032686204878205060",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tebiedaren 接"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2032686204878205060",
+        "created_at": "2026-03-14T10:57:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T11:57:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032773146085134690"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1159019887639109632",
+              "start": 0,
+              "username": "tebiedaren"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032773146085134690",
+        "in_reply_to_user_id": "1159019887639109632",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032686204878205060",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tebiedaren 接"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1159019887639109632",
+        "conversation_id": "2032686204878205060",
+        "created_at": "2026-03-14T05:12:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T06:12:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032686204878205060"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2032686204878205060",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1453,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我朋友的网恋对象对她好到有点离谱了。。\n把赚到的所有钱都给她花 天天转账 点外卖 不跟其他女的说话 每次吵架无条件顺着她 怕她嫌弃身材天天健身打扮自己 为了养她努力学习找工作\n几乎付出了他的全部\n我朋友25了第一次谈恋爱 还是网恋 竟然就谈到了如此恋爱脑的男生\n这桃花运比我强多了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2JlN5\n🚪（勿扰",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2JlN5"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "除了口令别的不回！没有陪聊的义务",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2008543541979738501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1237,
+          "following_count": 97,
+          "like_count": 11348,
+          "listed_count": 1,
+          "media_count": 99,
+          "tweet_count": 2107
+        },
+        "username": "wohaokun555",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-07T08:34:09.000Z",
+        "description": "找个没人认识的地方发点牢骚",
+        "id": "1159019887639109632",
+        "name": "羊村第一深情",
+        "pinned_tweet_id": "1772648307426226481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1576826533334773761/UEvu_eBX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5340,
+          "following_count": 145,
+          "like_count": 728,
+          "listed_count": 9,
+          "media_count": 594,
+          "tweet_count": 3596
+        },
+        "username": "tebiedaren",
+        "verified": false
+      }
+    ]
+  }
+}
