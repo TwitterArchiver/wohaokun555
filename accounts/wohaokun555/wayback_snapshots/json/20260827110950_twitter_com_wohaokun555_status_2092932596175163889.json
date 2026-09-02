@@ -1,0 +1,155 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2092932596175163889",
+    "created_at": "2026-08-27T11:09:50.000Z",
+    "display_text_range": [
+      0,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T12:09:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092932596175163889"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2089319216205942784",
+          "start": 0,
+          "username": "Blue68mx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092932596175163889",
+    "in_reply_to_user_id": "2089319216205942784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "@Blue68mx 以后在这个号发(&gt;﹏&lt;"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2092932596175163889",
+        "created_at": "2026-08-27T11:09:50.000Z",
+        "display_text_range": [
+          0,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T12:09:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092932596175163889"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2089319216205942784",
+              "start": 0,
+              "username": "Blue68mx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092932596175163889",
+        "in_reply_to_user_id": "2089319216205942784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@Blue68mx 以后在这个号发(&gt;﹏&lt;"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "我想要幸福幸福幸福",
+        "id": "2004619896630788096",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092932596175163889",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2036315164098830372",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2004619896630788096/1773480034",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2774,
+          "following_count": 71,
+          "like_count": 25551,
+          "listed_count": 3,
+          "media_count": 140,
+          "tweet_count": 4056
+        },
+        "url": "",
+        "username": "wohaokun555",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-17T11:53:34.000Z",
+        "description": "不闲聊 过门私信",
+        "id": "2089319216205942784",
+        "is_identity_verified": false,
+        "location": "赫尔辛根.莫斯肯",
+        "most_recent_tweet_id": "2092927672963965281",
+        "name": "Blue",
+        "pinned_tweet_id": "2092195544286576826",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2089319216205942784/1787198474",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089319897750970369/Me2x88RN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 405,
+          "following_count": 0,
+          "like_count": 994,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 227
+        },
+        "url": "",
+        "username": "Blue68mx",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
