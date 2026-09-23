@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2100919639341780992"
+      ]
+    },
+    "author_id": "2004619896630788096",
+    "conversation_id": "2100919649559044332",
+    "created_at": "2026-09-18T12:07:32.000Z",
+    "display_text_range": [
+      0,
+      10
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T13:07:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2100919649559044332"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/LCGaeA0hNP",
+          "end": 34,
+          "expanded_url": "https://x.com/wohaokun555/status/2100919649559044332/photo/1",
+          "media_key": "3_2100919639341780992",
+          "start": 11,
+          "url": "https://t.co/LCGaeA0hNP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100919649559044332",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2100919639341780992"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "对方发出了一个嫌弃脸 https://t.co/LCGaeA0hNP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2100919639341780992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSf3R-Sb0AA77OH.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100919639341780992"
+          ]
+        },
+        "author_id": "2004619896630788096",
+        "conversation_id": "2100919649559044332",
+        "created_at": "2026-09-18T12:07:32.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T13:07:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100919649559044332"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LCGaeA0hNP",
+              "end": 34,
+              "expanded_url": "https://x.com/wohaokun555/status/2100919649559044332/photo/1",
+              "media_key": "3_2100919639341780992",
+              "start": 11,
+              "url": "https://t.co/LCGaeA0hNP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100919649559044332",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100919639341780992"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "对方发出了一个嫌弃脸 https://t.co/LCGaeA0hNP"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "私信请直接发口令🧧\n日常废话⬇️\n@blue68mx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 17,
+                "username": "blue68mx"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100919649559044332",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2100853554668061018",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2004619896630788096/1773480034",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2924,
+          "following_count": 68,
+          "like_count": 25765,
+          "listed_count": 3,
+          "media_count": 152,
+          "tweet_count": 4087
+        },
+        "url": "",
+        "username": "wohaokun555",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

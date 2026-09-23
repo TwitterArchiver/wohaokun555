@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2100919649559044332",
+    "created_at": "2026-09-18T12:54:18.000Z",
+    "display_text_range": [
+      8,
+      9
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T13:54:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100931421129097699"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1856689219764203520",
+          "start": 0,
+          "username": "cmrn_v"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100931421129097699",
+    "in_reply_to_user_id": "1856689219764203520",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100925057094811916",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cmrn_v ？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2100919649559044332",
+        "created_at": "2026-09-18T12:54:18.000Z",
+        "display_text_range": [
+          8,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T13:54:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100931421129097699"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1856689219764203520",
+              "start": 0,
+              "username": "cmrn_v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100931421129097699",
+        "in_reply_to_user_id": "1856689219764203520",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100925057094811916",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cmrn_v ？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1856689219764203520",
+        "conversation_id": "2100919649559044332",
+        "created_at": "2026-09-18T12:29:01.000Z",
+        "display_text_range": [
+          13,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T13:29:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100925057094811916"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100925057094811916",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100919649559044332",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 嫌弃在哪"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "私信请直接发口令🧧\n日常废话⬇️\n@blue68mx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 17,
+                "username": "blue68mx"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100931421129097699",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2100853554668061018",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2004619896630788096/1773480034",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2929,
+          "following_count": 68,
+          "like_count": 25769,
+          "listed_count": 3,
+          "media_count": 152,
+          "tweet_count": 4088
+        },
+        "url": "",
+        "username": "wohaokun555",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-11-13T13:23:08.000Z",
+        "description": "06 持续学习者",
+        "id": "1856689219764203520",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2100925435739787594",
+        "name": "Cameron",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1856689219764203520/1773471452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1856964711750774784/J_TxoPNu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1870,
+          "following_count": 624,
+          "like_count": 7034,
+          "listed_count": 14,
+          "media_count": 410,
+          "tweet_count": 5904
+        },
+        "url": "",
+        "username": "cmrn_v",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

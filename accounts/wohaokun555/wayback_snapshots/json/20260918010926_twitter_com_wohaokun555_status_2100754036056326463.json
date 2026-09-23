@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2100620042283200714",
+    "created_at": "2026-09-18T01:09:26.000Z",
+    "display_text_range": [
+      9,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T02:09:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100754036056326463"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "181642108",
+          "start": 0,
+          "username": "j_filey"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100754036056326463",
+    "in_reply_to_user_id": "181642108",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100620042283200714",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@j_filey 俺来了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2100620042283200714",
+        "created_at": "2026-09-18T01:09:26.000Z",
+        "display_text_range": [
+          9,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T02:09:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100754036056326463"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "181642108",
+              "start": 0,
+              "username": "j_filey"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100754036056326463",
+        "in_reply_to_user_id": "181642108",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100620042283200714",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@j_filey 俺来了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "181642108",
+        "conversation_id": "2100620042283200714",
+        "created_at": "2026-09-17T16:17:00.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T17:17:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100620042283200714"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2100620042283200714",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 588,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "omg这号发东西完全没有人鸟我"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "私信请直接发口令🧧\n更新低质量自拍\n日常废话⬇️\n@blue68mx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 25,
+                "username": "blue68mx"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100754036056326463",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2036315164098830372",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2004619896630788096/1773480034",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2908,
+          "following_count": 66,
+          "like_count": 25737,
+          "listed_count": 3,
+          "media_count": 149,
+          "tweet_count": 4083
+        },
+        "url": "",
+        "username": "wohaokun555",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2010-08-22T18:25:04.000Z",
+        "description": "匿名https://t.co/XTdDFmt0nc",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/Kakou0026",
+                "end": 25,
+                "expanded_url": "https://tellonym.me/Kakou0026",
+                "start": 2,
+                "url": "https://t.co/XTdDFmt0nc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kakou36409",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kakou36409",
+                "start": 0,
+                "url": "https://t.co/DAb744Z0j1"
+              }
+            ]
+          }
+        },
+        "id": "181642108",
+        "is_identity_verified": false,
+        "location": "这是暂时还是Kakou！欢迎你来＞_＜",
+        "most_recent_tweet_id": "2100620042283200714",
+        "name": "Kakou（重生版",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/181642108/1788852829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097226326914785280/Gc44tRaY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 12,
+          "like_count": 15,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 27
+        },
+        "url": "https://t.co/DAb744Z0j1",
+        "username": "j_filey",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2100915373491269632"
+      ]
+    },
+    "author_id": "2004619896630788096",
+    "conversation_id": "2100915452650356863",
+    "created_at": "2026-09-18T11:50:51.000Z",
+    "display_text_range": [
+      0,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T12:50:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2100915452650356863"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/5KoYBlfIFw",
+          "end": 38,
+          "expanded_url": "https://x.com/wohaokun555/status/2100915452650356863/video/1",
+          "media_key": "13_2100915373491269632",
+          "start": 15,
+          "url": "https://t.co/5KoYBlfIFw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100915452650356863",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2100915373491269632"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "全世界最喜欢拍对口型视频的人 https://t.co/5KoYBlfIFw"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 30235,
+        "height": 1280,
+        "media_key": "13_2100915373491269632",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2100915373491269632/img/rb2yfB6TwVxBGkLx.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100915373491269632/vid/avc1/320x568/3ZWXW0KcCCaSa7Q5.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100915373491269632/vid/avc1/480x852/ejhjwEOas_NRCQZI.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100915373491269632/vid/avc1/720x1280/nP_z4qKoIAwGQrqP.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2100915373491269632/pl/KM5DXEJNyWKxiNHN.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2100915373491269632"
+          ]
+        },
+        "author_id": "2004619896630788096",
+        "conversation_id": "2100915452650356863",
+        "created_at": "2026-09-18T11:50:51.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T12:50:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100915452650356863"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5KoYBlfIFw",
+              "end": 38,
+              "expanded_url": "https://x.com/wohaokun555/status/2100915452650356863/video/1",
+              "media_key": "13_2100915373491269632",
+              "start": 15,
+              "url": "https://t.co/5KoYBlfIFw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100915452650356863",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2100915373491269632"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "全世界最喜欢拍对口型视频的人 https://t.co/5KoYBlfIFw"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "私信请直接发口令🧧\n日常废话⬇️\n@blue68mx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 17,
+                "username": "blue68mx"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100915452650356863",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2100853554668061018",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2004619896630788096/1773480034",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2924,
+          "following_count": 68,
+          "like_count": 25758,
+          "listed_count": 3,
+          "media_count": 151,
+          "tweet_count": 4086
+        },
+        "url": "",
+        "username": "wohaokun555",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
