@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2109216311037616328",
+    "created_at": "2026-10-11T09:35:30.000Z",
+    "display_text_range": [
+      0,
+      4
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-11T10:35:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2109216311037616328"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xingqierdpri/s…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/xingqierdpri/status/2108902111132221747",
+          "start": 5,
+          "url": "https://t.co/oKDAxJyQdw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2109216311037616328",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2108902111132221747",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我每天： https://t.co/oKDAxJyQdw"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2109216311037616328",
+        "created_at": "2026-10-11T09:35:30.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-11T10:35:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2109216311037616328"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xingqierdpri/s…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/xingqierdpri/status/2108902111132221747",
+              "start": 5,
+              "url": "https://t.co/oKDAxJyQdw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109216311037616328",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108902111132221747",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我每天： https://t.co/oKDAxJyQdw"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2096845409763377152",
+        "conversation_id": "2108902111132221747",
+        "created_at": "2026-10-10T12:46:59.000Z",
+        "display_text_range": [
+          0,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-10T13:46:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2108902111132221747"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2108902111132221747",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2240,
+          "like_count": 24,
+          "quote_count": 2,
+          "reply_count": 29,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "每天都抱着有个有钱人能给我突然赞赏码匿名打一个5200米米 我瞬间退网"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "小号\n@blue68mx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 3,
+                "username": "blue68mx"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2109216311037616328",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2104880618396115337",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2004619896630788096/1773480034",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3074,
+          "following_count": 67,
+          "like_count": 26635,
+          "listed_count": 5,
+          "media_count": 160,
+          "tweet_count": 4158
+        },
+        "url": "",
+        "username": "wohaokun555",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-07T06:18:47.000Z",
+        "description": "低精力随回/不喜欢被过多打扰\n负面多/半休学状态/放养/人穷事多\n希望遇到我的天使们一起走出炼狱迎接天堂洗礼\n小号防炸@Xueqinggsif",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 59,
+                "username": "Xueqinggsif"
+              }
+            ]
+          }
+        },
+        "id": "2096845409763377152",
+        "is_identity_verified": false,
+        "location": "地狱",
+        "most_recent_tweet_id": "2109213975879860254",
+        "name": "血清（4.0）",
+        "pinned_tweet_id": "2102674264281485347",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2096845409763377152/1791144350",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106839158610374656/YT1Jan-q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 228,
+          "following_count": 183,
+          "like_count": 1195,
+          "listed_count": 0,
+          "media_count": 106,
+          "tweet_count": 928
+        },
+        "url": "",
+        "username": "Xingqierdpri",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

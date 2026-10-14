@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2106547110518857728"
+      ],
+      "media_source_tweet_id": [
+        "2106547133201715592"
+      ]
+    },
+    "author_id": "2004619896630788096",
+    "conversation_id": "2106959707407802464",
+    "created_at": "2026-10-05T04:08:34.000Z",
+    "display_text_range": [
+      0,
+      40
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-05T05:08:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106959707407802464"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1846603429600546818",
+          "start": 3,
+          "username": "photoclickx"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/O7FAHNSRbm",
+          "end": 40,
+          "expanded_url": "https://x.com/photoclickx/status/2106547133201715592/video/1",
+          "media_key": "13_2106547110518857728",
+          "start": 17,
+          "url": "https://t.co/O7FAHNSRbm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106959707407802464",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "13_2106547110518857728"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2906
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106547133201715592",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @photoclickx: https://t.co/O7FAHNSRbm"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9566,
+        "height": 1280,
+        "media_key": "13_2106547110518857728",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2106547110518857728/img/qYeuiPSuXw-AlC1s.jpg",
+        "public_metrics": {
+          "view_count": 258280
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2106547110518857728/vid/avc1/320x568/VawrWDNluSUlTo1_.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2106547110518857728/vid/avc1/480x852/CSSvoO6yJuqEsiHk.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2106547110518857728/vid/avc1/720x1280/2g4m3MzPK-uJutUA.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2106547110518857728/pl/3Ya8un6zgLt3R1w8.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2106547110518857728"
+          ],
+          "media_source_tweet_id": [
+            "2106547133201715592"
+          ]
+        },
+        "author_id": "2004619896630788096",
+        "conversation_id": "2106959707407802464",
+        "created_at": "2026-10-05T04:08:34.000Z",
+        "display_text_range": [
+          0,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T05:08:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106959707407802464"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1846603429600546818",
+              "start": 3,
+              "username": "photoclickx"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/O7FAHNSRbm",
+              "end": 40,
+              "expanded_url": "https://x.com/photoclickx/status/2106547133201715592/video/1",
+              "media_key": "13_2106547110518857728",
+              "start": 17,
+              "url": "https://t.co/O7FAHNSRbm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106959707407802464",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2106547110518857728"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2906
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106547133201715592",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @photoclickx: https://t.co/O7FAHNSRbm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2106547110518857728"
+          ]
+        },
+        "author_id": "1846603429600546818",
+        "conversation_id": "2106547133201715592",
+        "created_at": "2026-10-04T00:49:08.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T01:49:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106547133201715592"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/O7FAHNSRbm",
+              "end": 23,
+              "expanded_url": "https://x.com/photoclickx/status/2106547133201715592/video/1",
+              "media_key": "13_2106547110518857728",
+              "start": 0,
+              "url": "https://t.co/O7FAHNSRbm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106547133201715592",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2106547110518857728"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1517,
+          "impression_count": 982232,
+          "like_count": 25647,
+          "quote_count": 103,
+          "reply_count": 110,
+          "retweet_count": 2906
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/O7FAHNSRbm"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "私信请直接发口令🧧\n日常废话⬇️\n@blue68mx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 17,
+                "username": "blue68mx"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106959707407802464",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2104880618396115337",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2004619896630788096/1773480034",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3060,
+          "following_count": 68,
+          "like_count": 26192,
+          "listed_count": 5,
+          "media_count": 157,
+          "tweet_count": 4127
+        },
+        "url": "",
+        "username": "wohaokun555",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-16T17:26:12.000Z",
+        "description": "🐈‍⬛",
+        "id": "1846603429600546818",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106953050346901644",
+        "name": "Cat CLICKs",
+        "pinned_tweet_id": "2106353052940910651",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1846603429600546818/1729260504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996106932932018180/QEPdODyi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8120,
+          "following_count": 4901,
+          "like_count": 95,
+          "listed_count": 14,
+          "media_count": 523,
+          "tweet_count": 13771
+        },
+        "url": "",
+        "username": "photoclickx",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

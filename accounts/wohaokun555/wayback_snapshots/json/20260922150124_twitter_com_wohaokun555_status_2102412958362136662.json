@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2102386754766713066",
+    "created_at": "2026-09-22T15:01:24.000Z",
+    "display_text_range": [
+      16,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-22T16:01:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102412958362136662"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1618878387820576768",
+          "start": 0,
+          "username": "ARC_Cherry0305"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102412958362136662",
+    "in_reply_to_user_id": "1618878387820576768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102386754766713066",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ARC_Cherry0305 为什么不和我面基"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2102386711292739585",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS0tkzMbAAETbrN.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2102386724278317056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS0tljkbMAA4l3B.jpg",
+        "width": 4096
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2102386738320789505",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS0tmX4aUAEKu69.jpg",
+        "width": 3072
+      },
+      {
+        "height": 447,
+        "media_key": "3_2102386749645406208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS0tnCEaQAAPOyv.jpg",
+        "width": 785
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2102386754766713066",
+        "created_at": "2026-09-22T15:01:24.000Z",
+        "display_text_range": [
+          16,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T16:01:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102412958362136662"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1618878387820576768",
+              "start": 0,
+              "username": "ARC_Cherry0305"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102412958362136662",
+        "in_reply_to_user_id": "1618878387820576768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102386754766713066",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ARC_Cherry0305 为什么不和我面基"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102386711292739585",
+            "3_2102386724278317056",
+            "3_2102386738320789505",
+            "3_2102386749645406208"
+          ]
+        },
+        "author_id": "1618878387820576768",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2102386754766713066",
+        "created_at": "2026-09-22T13:17:17.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T14:17:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102386754766713066"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/h4R9KZQnuk",
+              "end": 39,
+              "expanded_url": "https://x.com/ARC_Cherry0305/status/2102386754766713066/photo/1",
+              "media_key": "3_2102386711292739585",
+              "start": 16,
+              "url": "https://t.co/h4R9KZQnuk"
+            },
+            {
+              "display_url": "pic.x.com/h4R9KZQnuk",
+              "end": 39,
+              "expanded_url": "https://x.com/ARC_Cherry0305/status/2102386754766713066/photo/1",
+              "media_key": "3_2102386724278317056",
+              "start": 16,
+              "url": "https://t.co/h4R9KZQnuk"
+            },
+            {
+              "display_url": "pic.x.com/h4R9KZQnuk",
+              "end": 39,
+              "expanded_url": "https://x.com/ARC_Cherry0305/status/2102386754766713066/photo/1",
+              "media_key": "3_2102386738320789505",
+              "start": 16,
+              "url": "https://t.co/h4R9KZQnuk"
+            },
+            {
+              "display_url": "pic.x.com/h4R9KZQnuk",
+              "end": 39,
+              "expanded_url": "https://x.com/ARC_Cherry0305/status/2102386754766713066/photo/1",
+              "media_key": "3_2102386749645406208",
+              "start": 16,
+              "url": "https://t.co/h4R9KZQnuk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102386754766713066",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2102386711292739585"
+          },
+          {
+            "media_key": "3_2102386724278317056"
+          },
+          {
+            "media_key": "3_2102386738320789505"
+          },
+          {
+            "media_key": "3_2102386749645406208"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1008,
+          "like_count": 23,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "和美女面基被夸我就这样得瑟^^ https://t.co/h4R9KZQnuk"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "私信请直接发口令🧧\n日常废话⬇️\n@blue68mx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 17,
+                "username": "blue68mx"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102412958362136662",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2077764547218375031",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2004619896630788096/1773480034",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2971,
+          "following_count": 70,
+          "like_count": 25951,
+          "listed_count": 3,
+          "media_count": 159,
+          "tweet_count": 4104
+        },
+        "url": "",
+        "username": "wohaokun555",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-01-27T07:47:47.000Z",
+        "description": "Don't want to be part of the world.\n\n男同和锁推请不要关注我。",
+        "id": "1618878387820576768",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102403827655995743",
+        "name": "双层吉士汉堡",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1618878387820576768/1739770167",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891359283658588160/Ckt9ChId_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 522,
+          "following_count": 384,
+          "like_count": 6750,
+          "listed_count": 4,
+          "media_count": 98,
+          "tweet_count": 2634
+        },
+        "url": "",
+        "username": "ARC_Cherry0305",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2103571644715274582",
+    "created_at": "2026-09-26T08:29:23.000Z",
+    "display_text_range": [
+      9,
+      11
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T09:29:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103763853289160879"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1734890898310504448",
+          "start": 0,
+          "username": "k0taka_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103763853289160879",
+    "in_reply_to_user_id": "1734890898310504448",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103571644715274582",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@k0taka_ 想住"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2103571637652090880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTFjQl3W8AAYojf.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2103571644715274582",
+        "created_at": "2026-09-26T08:29:23.000Z",
+        "display_text_range": [
+          9,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T09:29:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103763853289160879"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1734890898310504448",
+              "start": 0,
+              "username": "k0taka_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103763853289160879",
+        "in_reply_to_user_id": "1734890898310504448",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103571644715274582",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@k0taka_ 想住"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103571637652090880"
+          ]
+        },
+        "author_id": "1734890898310504448",
+        "conversation_id": "2103571644715274582",
+        "created_at": "2026-09-25T19:45:37.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T20:45:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103571644715274582"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JzN74Irbh8",
+              "end": 37,
+              "expanded_url": "https://x.com/k0taka_/status/2103571644715274582/photo/1",
+              "media_key": "3_2103571637652090880",
+              "start": 14,
+              "url": "https://t.co/JzN74Irbh8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103571644715274582",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2103571637652090880"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 4101,
+          "like_count": 138,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "这下真是办公和游戏分离了🫪 https://t.co/JzN74Irbh8"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "私信请直接发口令🧧\n日常废话⬇️\n@blue68mx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 17,
+                "username": "blue68mx"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103763853289160879",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2077764547218375031",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2004619896630788096/1773480034",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3007,
+          "following_count": 68,
+          "like_count": 26089,
+          "listed_count": 5,
+          "media_count": 163,
+          "tweet_count": 4116
+        },
+        "url": "",
+        "username": "wohaokun555",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-12-13T11:00:04.000Z",
+        "description": "我只是一个按快门的",
+        "id": "1734890898310504448",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103719454999711808",
+        "name": "𝙺𝚘𝚝𝚊𝚔𝚊",
+        "pinned_tweet_id": "1987359999816049076",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1734890898310504448/1702465388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988753402545745920/Xi9CPddJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2060,
+          "following_count": 456,
+          "like_count": 36418,
+          "listed_count": 7,
+          "media_count": 823,
+          "tweet_count": 4740
+        },
+        "url": "",
+        "username": "k0taka_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

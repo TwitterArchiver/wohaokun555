@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2004619896630788096",
+    "conversation_id": "2107152837184823648",
+    "created_at": "2026-10-05T16:56:00.000Z",
+    "display_text_range": [
+      0,
+      8
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-05T17:56:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2107152837184823648"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nora14525742/s…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/nora14525742/status/2107049265629712448",
+          "start": 9,
+          "url": "https://t.co/UbK20KaGko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107152837184823648",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107049265629712448",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好幸福好幸福🥹😭 https://t.co/UbK20KaGko"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1049,
+        "media_key": "3_2107049257262055424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT2-IsdbAAAi6Na.jpg",
+        "width": 1082
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2107152837184823648",
+        "created_at": "2026-10-05T16:56:00.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T17:56:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107152837184823648"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nora14525742/s…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/nora14525742/status/2107049265629712448",
+              "start": 9,
+              "url": "https://t.co/UbK20KaGko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107152837184823648",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107049265629712448",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好幸福好幸福🥹😭 https://t.co/UbK20KaGko"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2107049257262055424"
+          ]
+        },
+        "author_id": "1491064050985291776",
+        "conversation_id": "2107049265629712448",
+        "created_at": "2026-10-05T10:04:26.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T11:04:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107049265629712448"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kjjwYVYv4k",
+              "end": 29,
+              "expanded_url": "https://x.com/nora14525742/status/2107049265629712448/photo/1",
+              "media_key": "3_2107049257262055424",
+              "start": 6,
+              "url": "https://t.co/kjjwYVYv4k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107049265629712448",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2107049257262055424"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 20518,
+          "like_count": 557,
+          "quote_count": 7,
+          "reply_count": 137,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "钻戒生成中 https://t.co/kjjwYVYv4k"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "私信请直接发口令🧧\n日常废话⬇️\n@blue68mx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 17,
+                "username": "blue68mx"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2107152837184823648",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2104880618396115337",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2004619896630788096/1773480034",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3062,
+          "following_count": 68,
+          "like_count": 26220,
+          "listed_count": 5,
+          "media_count": 158,
+          "tweet_count": 4130
+        },
+        "url": "",
+        "username": "wohaokun555",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-02-08T15:00:06.000Z",
+        "description": "💌匿名信箱 基本都会回复 https://t.co/hNVKA7I0gW\n🥞防走丢小号 @iovoxi\n🪽本人只有这个和小号！！\n🩵广告自辨 ⚠️注意辨认谢谢你们(⁎⁍̴̛ᴗ⁍̴̛⁎)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 44,
+                "username": "iovoxi"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/keirahridesu",
+                "end": 36,
+                "expanded_url": "https://ngl.link/keirahridesu",
+                "start": 13,
+                "url": "https://t.co/hNVKA7I0gW"
+              }
+            ]
+          }
+        },
+        "id": "1491064050985291776",
+        "is_identity_verified": false,
+        "location": "London, England",
+        "most_recent_tweet_id": "2107152811234590852",
+        "name": "小尾狐",
+        "pinned_tweet_id": "2095547237078352263",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1491064050985291776/1774727226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036466043896692736/X-2GDs8Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18648,
+          "following_count": 281,
+          "like_count": 3587,
+          "listed_count": 7,
+          "media_count": 245,
+          "tweet_count": 881
+        },
+        "url": "",
+        "username": "nora14525742",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
